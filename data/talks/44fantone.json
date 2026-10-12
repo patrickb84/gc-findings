@@ -1,0 +1,533 @@
+{
+  "id": "44fantone",
+  "kind": "talk",
+  "speaker": "James G. O. Fantone",
+  "role": "Of the Seventy",
+  "title": "Take Upon Us His Name",
+  "session": "Sunday Morning Session",
+  "order": 22,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/44fantone?lang=eng",
+  "pronouns": {
+    "i": 57,
+    "we": 40,
+    "you": 6
+  },
+  "summary": "Elder Fantone teaches that taking upon us the name of Jesus Christ is not adding His name to ours like a badge, but covenanting to serve Him by serving others. He tells of mistakenly signing his own name on his daughter's school form, of parents who gave up their children's bedrooms to a student and a struggling family, and of homesick missionaries who were changed by serving. He asks members to take Christ's name by covenant and lose themselves in serving others, promising that they will find Him and find themselves.",
+  "audience": {
+    "who": "All members",
+    "quote": "My dear brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "scripture",
+    "principle",
+    "scripture",
+    "story",
+    "quote",
+    "story",
+    "principle",
+    "scripture",
+    "invitation",
+    "testimony",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.45,
+    "present": 0.45,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mosiah 3:17",
+      "basis": "exact",
+      "ref": "Mosiah 3:17",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Joseph Smith—History 1:19",
+      "basis": "exact",
+      "ref": "Joseph Smith—History 1:19",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "3 Nephi 27:5",
+      "basis": "exact",
+      "ref": "3 Nephi 27:5",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Mosiah 5:8",
+      "basis": "exact",
+      "ref": "Mosiah 5:8",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "6:2",
+      "basis": "exact",
+      "ref": "Mosiah 6:2",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Moroni 6:3",
+      "basis": "exact",
+      "ref": "Moroni 6:3",
+      "spoken": true
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Mosiah 18:13",
+      "basis": "exact",
+      "ref": "Mosiah 18:13",
+      "spoken": true
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Mosiah 2:17",
+      "basis": "exact",
+      "ref": "Mosiah 2:17",
+      "spoken": true
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Alma 5:14",
+      "basis": "exact",
+      "ref": "Alma 5:14",
+      "spoken": true
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Mosiah 5:13",
+      "basis": "exact",
+      "ref": "Mosiah 5:13",
+      "spoken": true
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "His invitation is for us to take upon us His name by covenant and to serve Him with all our heart, might, mind, and strength—by lifting, loving, and serving our fellow men.",
+      "basis": "interpreted",
+      "note": "Framed as the Savior's invitation, restated as the talk's closing ask: take His name by covenant and serve others",
+      "detail": {
+        "action": "take Christ's name by covenant and serve others"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Taking upon us His name requires a lifelong determination to serve Him.",
+      "basis": "interpreted",
+      "note": "Principle that works as a call to a lifelong resolve to serve",
+      "detail": {
+        "action": "resolve to serve Christ for life"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "as we lose our lives in His service, we will find Him and we will find ourselves",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "finding Christ and finding ourselves"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "When we genuinely take upon ourselves the name of Jesus Christ by losing ourselves in the service of others, something miraculous happens.",
+      "basis": "interpreted",
+      "note": "The miracle is the mighty change of heart that leads to true conversion",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "a mighty change of heart and true conversion"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "testimony",
+      "quote": "I stand before you today as a witness of His living reality.",
+      "basis": "exact",
+      "detail": {
+        "of": "the living reality of Jesus Christ"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "testimony",
+      "quote": "I have made a sacred covenant to take upon myself the name of Jesus Christ, and I am determined to strive to serve Him faithfully to the end.",
+      "basis": "interpreted",
+      "note": "A personal witness of his own covenant, echoing Moroni 6:3",
+      "detail": {
+        "of": "his own covenant to take Christ's name and serve to the end"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "testimony",
+      "quote": "I testify that He lives, that this is His restored Church",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Christ and His restored Church"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "list",
+      "quote": "one room for me and my brother, one for our two older sisters, and one for our parents",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "boys' room",
+          "girls' room",
+          "parents' room"
+        ],
+        "purpose": "the three bedrooms of his childhood home, setting up the rooms his parents gave away"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "list",
+      "quote": "got on their knees, put on their name tags, and went out to serve anyway",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "got on their knees",
+          "put on their name tags",
+          "went out to serve"
+        ],
+        "purpose": "what homesick missionaries did despite their feelings"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "with all our heart, might, mind, and strength",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "heart",
+          "might",
+          "mind",
+          "strength"
+        ],
+        "purpose": "how fully to serve Christ"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "by lifting, loving, and serving our fellow men",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "lifting",
+          "loving",
+          "serving"
+        ],
+        "purpose": "how we serve Christ through others"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "story",
+      "quote": "I mistakenly thought she had instructed me to write my name.",
+      "basis": "interpreted",
+      "note": "He signs his own name on his daughter's enrollment form, then fixes it by adding her first name",
+      "detail": {
+        "story_type": "family",
+        "about": "signing the wrong name on his daughter's school form"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "story",
+      "quote": "my parents opened our home and offered him the boys’ room",
+      "basis": "interpreted",
+      "note": "His parents house a former student of his mother who could not afford housing near his school",
+      "detail": {
+        "story_type": "family",
+        "about": "parents give the boys' room to a student in need"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "my parents, without hesitation, opened our doors, and some of the children indefinitely moved into our sisters’ room",
+      "basis": "interpreted",
+      "note": "At the Relief Society president's word, his parents take in children of a vulnerable family",
+      "detail": {
+        "story_type": "family",
+        "about": "parents give the girls' room to children needing a safe place"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "story",
+      "quote": "A year later those exact same missionaries would sit in my office with glowing faces",
+      "basis": "interpreted",
+      "note": "Homesick new missionaries serve anyway and a year later do not want their missions to end",
+      "detail": {
+        "story_type": "missionary",
+        "about": "homesick missionaries transformed by serving"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "relationship",
+      "quote": "after my wife and I completed our service as mission leaders",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "relationship",
+      "quote": "our youngest daughter’s name is Amanda James Fantone",
+      "basis": "exact",
+      "detail": {
+        "who": "youngest daughter, Amanda",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "one room for me and my brother",
+      "basis": "exact",
+      "detail": {
+        "who": "brother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "one for our two older sisters",
+      "basis": "exact",
+      "detail": {
+        "who": "two older sisters",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "My mother, a public school teacher",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "my parents would have gladly offered their room",
+      "basis": "exact",
+      "detail": {
+        "who": "parents",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "like a badge of religious affiliation",
+      "basis": "interpreted",
+      "note": "An outward label set against an inward covenant",
+      "detail": {
+        "image": "badge",
+        "family": "other",
+        "carries": "Christ's name is not a label worn for show"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "So I simply added “Amanda” right before my own name, and the error was quickly fixed.",
+      "basis": "interpreted",
+      "note": "The administrative quick fix contrasted with truly taking Christ's name",
+      "detail": {
+        "image": "a name added to a form",
+        "family": "other",
+        "carries": "taking Christ's name is more than adding it to ours"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "put on their name tags",
+      "basis": "interpreted",
+      "note": "Missionaries literally wear the Savior's name as they go out to serve",
+      "detail": {
+        "image": "name tag",
+        "family": "other",
+        "carries": "bearing Christ's name in service"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "if by chance they knocked on our door, and if the boys’ and girls’ rooms were occupied, my parents would have gladly offered their room",
+      "basis": "interpreted",
+      "note": "His parents imagined at the Bethlehem inn, making room for Mary and Joseph",
+      "detail": {
+        "image": "door and room",
+        "family": "building",
+        "carries": "true service makes room for Christ"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "Service is the very fiber of which an exalted life in the celestial kingdom is made",
+      "basis": "interpreted",
+      "note": "Service as the thread an exalted life is woven from",
+      "detail": {
+        "image": "fiber",
+        "family": "other",
+        "carries": "service is the substance of exaltation, not its price"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "King Benjamin provided the divine key",
+      "basis": "interpreted",
+      "note": "Mosiah 2:17 as the key that unlocks how to serve God",
+      "detail": {
+        "image": "key",
+        "family": "other",
+        "carries": "serving others is serving God"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "a “mighty change” in our hearts",
+      "basis": "interpreted",
+      "note": "The changed heart of missionaries who lost themselves in service",
+      "detail": {
+        "image": "heart",
+        "family": "body",
+        "carries": "service changes us, not our circumstances"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "place",
+      "quote": "the Philippines Antipolo Mission",
+      "basis": "exact",
+      "detail": {
+        "place": "Antipolo",
+        "country": "Philippines"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "place",
+      "quote": "if my parents had lived in Bethlehem when Joseph was searching for a place for Mary to give birth",
+      "basis": "exact",
+      "detail": {
+        "place": "Bethlehem",
+        "country": "ancient Judea"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "name_of_christ",
+      "quote": "the Lord Omnipotent",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord Omnipotent"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "name_of_christ",
+      "quote": "The resurrected Lord",
+      "basis": "exact",
+      "detail": {
+        "name": "the resurrected Lord"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "name_of_christ",
+      "quote": "how knoweth a man the master whom he has not served",
+      "basis": "interpreted",
+      "note": "In King Benjamin's question the master is Christ, whose name we take",
+      "detail": {
+        "name": "the master"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "christ",
+      "quote": "[Some] draw near to me with their lips, but their hearts are far from me",
+      "basis": "exact",
+      "detail": {
+        "where": "Joseph Smith—History 1:19"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "christ",
+      "quote": "Have they not read the scriptures, which say ye must take upon you the name of Christ, which is my name?",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 27:5"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "source",
+      "quote": "Service is not something we endure on this earth so we can earn the right to live in the celestial kingdom.",
+      "basis": "exact",
+      "detail": {
+        "who": "President Marion G. Romney"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "source",
+      "quote": "President, I am so sad, lonely, and homesick.",
+      "basis": "exact",
+      "detail": {
+        "who": "new missionaries (composite voices)"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "source",
+      "quote": "President, I am so happy! I love the people, and I love this work.",
+      "basis": "exact",
+      "detail": {
+        "who": "the same missionaries a year later (composite voices)"
+      }
+    }
+  ]
+}

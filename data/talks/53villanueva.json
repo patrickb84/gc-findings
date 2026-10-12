@@ -1,0 +1,494 @@
+{
+  "id": "53villanueva",
+  "kind": "talk",
+  "speaker": "Moisés Villanueva",
+  "role": "Of the Seventy",
+  "title": "“Prove Me Now Herewith”",
+  "session": "Sunday Afternoon Session",
+  "order": 30,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/53villanueva?lang=eng",
+  "pronouns": {
+    "i": 47,
+    "we": 22,
+    "you": 10
+  },
+  "summary": "Elder Villanueva teaches that the Lord keeps His promise to open the windows of heaven for those who pay a full tithe, though often through subtle blessings that are easy to overlook. He tells how his mother, separated and raising eight children, chose to pay tithing after the family was baptized, and he sets her faith beside the widow of Zarephath, who fed Elijah first. He asks listeners to make their own list of the quiet blessings tithing has brought, as he did.",
+  "audience": {
+    "who": "All members, especially faithful tithe payers who feel their expected blessings have not come"
+  },
+  "arc": [
+    "story",
+    "scripture",
+    "scripture",
+    "testimony",
+    "scripture",
+    "principle",
+    "story",
+    "quote",
+    "list",
+    "invitation",
+    "story",
+    "scripture",
+    "invitation",
+    "story",
+    "principle",
+    "testimony",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.4,
+    "present": 0.5,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Malachi 3:10",
+      "basis": "exact",
+      "ref": "Malachi 3:10",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 130:20–21",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 130:20–21",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 58:31",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 58:31",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Deuteronomy 29:5",
+      "basis": "exact",
+      "ref": "Deuteronomy 29:5",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "1 Kings 17:9",
+      "basis": "exact",
+      "ref": "1 Kings 17:9",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "1 Kings 17:13",
+      "basis": "exact",
+      "ref": "1 Kings 17:13",
+      "spoken": true
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "1 Kings 17:15",
+      "basis": "exact",
+      "ref": "1 Kings 17:15",
+      "spoken": true
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Mark 12:41–44",
+      "basis": "exact",
+      "ref": "Mark 12:41–44",
+      "spoken": true
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "1 Kings 17:16",
+      "basis": "exact",
+      "ref": "1 Kings 17:16",
+      "spoken": true
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Matthew 6:8",
+      "basis": "exact",
+      "ref": "Matthew 6:8",
+      "spoken": true
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Malachi 3:10",
+      "basis": "exact",
+      "ref": "Malachi 3:10",
+      "spoken": true
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "prove me now herewith, saith the Lord of hosts",
+      "basis": "interpreted",
+      "note": "The title's invitation: the Lord's call to test His promise by paying a full tithe",
+      "detail": {
+        "action": "pay a full tithe and prove the Lord"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "I invited that sister to write her own list of the significant yet subtle blessings the Lord had given her",
+      "basis": "interpreted",
+      "note": "He says the counsel he gave her is the same counsel he gives the listener",
+      "detail": {
+        "action": "write a list of the subtle blessings tithing has brought"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Have you ever asked yourselves whether the Lord has caused your personal possessions to last longer because you have faithfully lived the law of tithing?",
+      "basis": "interpreted",
+      "note": "A question that invites self-reflection on overlooked temporal blessings",
+      "detail": {
+        "action": "notice whether your possessions have lasted longer"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "When we live the law of tithing, the Lord indeed opens the windows of heaven and pours out His promised blessings",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the windows of heaven opened and blessings poured out"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "Elijah understood that blessings will come after the trial of our faith.",
+      "basis": "interpreted",
+      "note": "Drawn from the widow's story as a general promise: blessings follow the trial of faith",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "blessings after the trial of faith"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "These blessings, both temporal and spiritual—and many others—are evidence that the Lord has indeed opened the windows of heaven",
+      "basis": "interpreted",
+      "note": "His own list offered as proof that the promise is kept; answers the invitation to list blessings",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "recognizing temporal and spiritual blessings already received"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "testimony",
+      "quote": "I bear witness to this great truth.",
+      "basis": "exact",
+      "detail": {
+        "of": "all blessings are predicated on obedience to a law"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "testimony",
+      "quote": "I bear my testimony that God is our loving Heavenly Father. He knows each of us and is aware of our needs even before we ask",
+      "basis": "exact",
+      "detail": {
+        "of": "a loving Heavenly Father who knows our needs"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "testimony",
+      "quote": "I testify that Jesus Christ is the Son of the living God and that He directs His Church today.",
+      "basis": "exact",
+      "detail": {
+        "of": "Jesus Christ as Son of God who directs His Church"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "testimony",
+      "quote": "I so testify in the sacred name of Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Lord opens the windows of heaven to those who live the law of tithing"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "The Holy Ghost helped me recognize many blessings:",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "steady employment",
+          "good health for his wife, children, and himself",
+          "home and possessions preserved in hard times",
+          "ability to manage time and resources to get an education",
+          "the gift of gratitude",
+          "recognizing the Holy Ghost in important decisions"
+        ],
+        "purpose": "blessings he received through paying tithing"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "revelation",
+      "quote": "Sometimes we expect the Lord’s blessings to come the way we would wish, rather than in His own way and timing.",
+      "basis": "interpreted",
+      "note": "Reads as a caution against expecting blessings on our own terms",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "story",
+      "quote": "When I was 10 years old, my family and I were baptized as members of The Church of Jesus Christ of Latter-day Saints.",
+      "basis": "interpreted",
+      "note": "His family's conversion and his mother's choice to pay tithing in hard years",
+      "detail": {
+        "story_type": "family",
+        "about": "a separated mother of eight chooses to pay a full tithe after baptism"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "After a sacrament meeting, a faithful sister shared that her testimony of the law of tithing had begun to weaken.",
+      "basis": "interpreted",
+      "note": "A tithe payer without the promotion or raise she hoped for",
+      "detail": {
+        "story_type": "personal",
+        "about": "a sister whose testimony of tithing weakened when no promotion came"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "story",
+      "quote": "the 20-liter (5-gallon) propane tank in her home had lasted far longer than she had expected",
+      "basis": "interpreted",
+      "note": "A sister's propane tank that seemed never to run out",
+      "detail": {
+        "story_type": "personal",
+        "about": "a propane tank that lasted longer than expected"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "Elijah found the widow gathering sticks. He asked her for some water and for a morsel of bread.",
+      "basis": "interpreted",
+      "note": "The widow of Zarephath feeds Elijah first and her meal and oil do not fail",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the widow of Zarephath and Elijah"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "relationship",
+      "quote": "My mother had separated from my father and worked tirelessly to provide for our family.",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "My mother had separated from my father",
+      "basis": "exact",
+      "detail": {
+        "who": "father, separated from his mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "Supporting eight children—most of us still very young—was no easy task.",
+      "basis": "interpreted",
+      "note": "He was one of eight children",
+      "detail": {
+        "who": "siblings",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "My wife, my children, and I have been blessed with good health.",
+      "basis": "exact",
+      "detail": {
+        "who": "wife and children",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "image",
+      "quote": "the Lord has indeed opened the windows of heaven and poured out His promised blessings in abundance",
+      "basis": "interpreted",
+      "note": "Malachi's image, carried through the whole talk",
+      "detail": {
+        "image": "windows of heaven",
+        "family": "building",
+        "carries": "God pours blessings out on tithe payers"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "Bring ye all the tithes into the storehouse",
+      "basis": "interpreted",
+      "note": "The Lord's storehouse receives the tithe",
+      "detail": {
+        "image": "storehouse",
+        "family": "building",
+        "carries": "tithing is brought in to the Lord's house"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "Entering the covenant path brought some profound changes to our lives.",
+      "basis": "interpreted",
+      "note": "Baptism as stepping onto a path",
+      "detail": {
+        "image": "covenant path",
+        "family": "path",
+        "carries": "conversion as a path that changes how you live"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot",
+      "basis": "interpreted",
+      "note": "Israel's clothes and shoes that did not wear out, set beside the propane tank",
+      "detail": {
+        "image": "clothes and shoes",
+        "family": "other",
+        "carries": "the Lord makes possessions last"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "the barrel of meal wasted not, neither did the cruse of oil fail",
+      "basis": "interpreted",
+      "note": "Provision that does not run out after giving first",
+      "detail": {
+        "image": "barrel of meal and cruse of oil",
+        "family": "other",
+        "carries": "giving first to the Lord brings unfailing provision"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "make me thereof a little cake first",
+      "basis": "interpreted",
+      "note": "The widow gives to the Lord's servant before feeding herself",
+      "detail": {
+        "image": "little cake",
+        "family": "other",
+        "carries": "put the Lord first even when little remains"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "place",
+      "quote": "When I think of my mother’s faith during those difficult years, I also think of the widow of Zarephath.",
+      "basis": "exact",
+      "detail": {
+        "place": "Zarephath",
+        "country": "Lebanon (ancient Phoenicia)"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "christ",
+      "quote": "Who am I, saith the Lord, that have promised and have not fulfilled?",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 58:31"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "christ",
+      "quote": "prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven",
+      "basis": "interpreted",
+      "note": "The Lord of hosts (Jehovah) speaking through Malachi",
+      "detail": {
+        "where": "Malachi 3:10"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "christ",
+      "quote": "And I have led you forty years in the wilderness",
+      "basis": "interpreted",
+      "note": "He calls these the Lord's words to Israel (Jehovah)",
+      "detail": {
+        "where": "Deuteronomy 29:5"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "christ",
+      "quote": "Arise, get thee to Zarephath … : behold, I have commanded a widow woman there to sustain thee",
+      "basis": "interpreted",
+      "note": "The Lord (Jehovah) speaking to Elijah",
+      "detail": {
+        "where": "1 Kings 17:9"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "name_of_christ",
+      "quote": "saith the Lord of hosts",
+      "basis": "interpreted",
+      "note": "Lord of hosts read as a title of Jehovah, the premortal Christ",
+      "detail": {
+        "name": "the Lord of hosts"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "name_of_christ",
+      "quote": "the Son of the living God",
+      "basis": "exact",
+      "detail": {
+        "name": "the Son of the living God"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "source",
+      "quote": "“As we live the law of tithing, we often receive significant but subtle blessings that are not always what we expect and easily can be overlooked”",
+      "basis": "exact",
+      "detail": {
+        "who": "Elder David A. Bednar, “The Windows of Heaven,” Oct. 2013"
+      }
+    }
+  ]
+}

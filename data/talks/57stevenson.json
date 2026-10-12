@@ -1,0 +1,709 @@
+{
+  "id": "57stevenson",
+  "kind": "talk",
+  "speaker": "Gary E. Stevenson",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Fruit to Make One Happy",
+  "session": "Sunday Afternoon Session",
+  "order": 34,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/57stevenson?lang=eng",
+  "pronouns": {
+    "i": 54,
+    "we": 43,
+    "you": 47
+  },
+  "summary": "Elder Stevenson, speaking especially to Primary children, uses Lehi's vision of the tree whose fruit is desirable to make one happy to teach that gospel truths become sweet as we live them. He shares three gospel fruits he loves: we are children of a loving Heavenly Father, the great plan of happiness through Jesus Christ, and the gift of the Holy Ghost, told through a small boy singing \"I Am a Child of God\" after an earthquake and a grieving Buddhist priest in Japan comforted to learn where his wife was. He invites children to love, share, and invite so family and friends can taste the fruit too, and promises even greater joy as they do.",
+  "audience": {
+    "who": "Everyone, with much of the message aimed at Primary-age children",
+    "quote": "some of my message today will be more directly to you, children of Primary age"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "story",
+    "scripture",
+    "principle",
+    "list",
+    "principle",
+    "story",
+    "scripture",
+    "story",
+    "principle",
+    "quote",
+    "principle",
+    "quote",
+    "list",
+    "scripture",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.55,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "1 Nephi 8:10",
+      "basis": "exact",
+      "ref": "1 Nephi 8:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Nephi 8:11",
+      "basis": "exact",
+      "ref": "1 Nephi 8:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "1 Nephi 8:12",
+      "basis": "exact",
+      "ref": "1 Nephi 8:12",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "John 3:16",
+      "basis": "exact",
+      "ref": "John 3:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "1 Nephi 11:21–36",
+      "basis": "exact",
+      "ref": "1 Nephi 11:21–36",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 14:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 14:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Romans 8:16",
+      "basis": "exact",
+      "ref": "Romans 8:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Alma 40:11",
+      "basis": "exact",
+      "ref": "Alma 40:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Alma 40:12",
+      "basis": "exact",
+      "ref": "Alma 40:12",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Alma 42:8",
+      "basis": "exact",
+      "ref": "Alma 42:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 130:22",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 130:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "John 15:26",
+      "basis": "exact",
+      "ref": "John 15:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "2 Nephi 32:5",
+      "basis": "exact",
+      "ref": "2 Nephi 32:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Moroni 8:26",
+      "basis": "exact",
+      "ref": "Moroni 8:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "10:5",
+      "basis": "exact",
+      "ref": "Moroni 10:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 8:2–3",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 8:2–3",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "“You Have a Purpose,” in Personal Development: Children’s Guidebook (2019), 1.",
+      "basis": "exact",
+      "ref": "You Have a Purpose",
+      "note": "Quoted: you have a purpose and are known and loved",
+      "detail": {
+        "who": "Personal Development: Children’s Guidebook"
+      }
+    },
+    {
+      "id": "x-n2",
+      "type": "source",
+      "quote": "“You Have a Purpose,” in Children’s Guidebook, 1.",
+      "basis": "exact",
+      "ref": "You Have a Purpose",
+      "note": "Quoted: you are an important part of Their work",
+      "detail": {
+        "who": "Personal Development: Children’s Guidebook"
+      }
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "See John 3:16; 1 Nephi 11:21–36; Doctrine and Covenants 14:7; David A. Bednar, “Lehi’s Dream: Holding Fast to the Rod,” Liahona, Oct. 2011, 33–34.",
+      "basis": "exact",
+      "ref": "Lehi’s Dream: Holding Fast to the Rod",
+      "note": "Cited, not quoted, for what the tree and fruit stand for",
+      "detail": {
+        "who": "David A. Bednar"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "“You Are a Precious Child of God,” in Children’s Guidebook, 2.",
+      "basis": "exact",
+      "ref": "You Are a Precious Child of God",
+      "note": "Quoted: we once lived with Heavenly Father",
+      "detail": {
+        "who": "Personal Development: Children’s Guidebook"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "“You Are a Precious Child of God,” in Children’s Guidebook, 2.",
+      "basis": "exact",
+      "ref": "You Are a Precious Child of God",
+      "note": "Quoted: He wants you to be like Him and gave you gifts",
+      "detail": {
+        "who": "Personal Development: Children’s Guidebook"
+      }
+    },
+    {
+      "id": "x-n15",
+      "type": "source",
+      "quote": "“Jesus Christ Will Help You,” in For the Strength of Youth: A Guide for Making Choices (2025), 19.",
+      "basis": "exact",
+      "ref": "Jesus Christ Will Help You",
+      "note": "Quoted: Christ has done everything necessary for you to have joy",
+      "detail": {
+        "who": "For the Strength of Youth: A Guide for Making Choices"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "I invite you to do something that is as simple as gospel fruit is delicious: love, share, and invite. Do this with words and actions.",
+      "basis": "exact",
+      "detail": {
+        "action": "love, share, and invite, in words and actions"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Similarly, consider how your family, friends, and loved ones will be blessed to partake of the fruit that blesses you.",
+      "basis": "exact",
+      "detail": {
+        "action": "think how loved ones would be blessed by the gospel"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Think for a moment about your favorite fruits.",
+      "basis": "interpreted",
+      "note": "An in-talk prompt to the children that sets up the tasting image",
+      "detail": {
+        "action": "think of your favorite fruits"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "As you do so, I promise that you will not only feel joy and happiness that comes as you partake of fruit of the gospel but even greater joy as loved ones around you partake as well.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "joy now, and greater joy as loved ones partake too"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "They become sweet to us as we live them, bringing us happiness and joy.",
+      "basis": "interpreted",
+      "note": "Living gospel truths makes them sweet and brings joy",
+      "detail": {
+        "blessing": "happiness and joy from living gospel truths"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "Having this knowledge makes us stronger. This knowledge also makes us kinder to others",
+      "basis": "interpreted",
+      "note": "Knowing we are God's children makes us stronger and kinder",
+      "detail": {
+        "blessing": "strength and kindness from knowing we are God's children"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "list",
+      "quote": "Let me share three fruits of the gospel that I love.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "we are children of a loving Heavenly Father",
+          "the great plan of happiness through Jesus Christ",
+          "the gift of the Holy Ghost"
+        ],
+        "purpose": "three fruits of the gospel; the frame of the talk, recapped near the end"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "list",
+      "quote": "love, share, and invite",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "love",
+          "share",
+          "invite"
+        ],
+        "purpose": "how to help others taste gospel fruit (footnote: show love, share the fruits, invite others to partake)"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "list",
+      "quote": "His very important roles include to warn, to comfort, and to testify.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "to warn",
+          "to comfort",
+          "to testify"
+        ],
+        "purpose": "roles of the Holy Ghost"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "including ordinances, covenants, and truths of the restored gospel and ultimately eternal life",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "ordinances",
+          "covenants",
+          "truths of the restored gospel",
+          "eternal life"
+        ],
+        "purpose": "blessings the fruit stands for"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "We witnessed a miraculous transformation: peace for despair, joy for sadness, hope for ashes.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "peace for despair",
+          "joy for sadness",
+          "hope for ashes"
+        ],
+        "purpose": "the exchange the grieving priest received"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "testimony",
+      "quote": "I close with my testimony of God the Father, Jesus Christ, and the Holy Ghost and of Jesus Christ as our Savior and Redeemer.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Godhead, and Jesus Christ as Savior and Redeemer"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "testimony",
+      "quote": "I know you have a purpose.",
+      "basis": "interpreted",
+      "note": "An apostle's witness addressed to children",
+      "detail": {
+        "of": "children's divine purpose"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "When I was young like you, I loved fruit—and our family tradition of buying fresh fruit from farm stands during harvest.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "boyhood trips to farm stands for peaches, apples, cherries, and apricots"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "story",
+      "quote": "I remember, when I was your age, my mother saying, many times, “Gary, pay attention and listen. Just one more talk.”",
+      "basis": "interpreted",
+      "note": "Humor: his mother urging him through conference as a boy",
+      "detail": {
+        "story_type": "family",
+        "about": "his mother keeping him listening in conference"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "Do you remember the prophet Lehi’s vision? He was drawn to a magnificent tree and its fruit.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Lehi tastes the fruit of the tree of life"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "story",
+      "quote": "out of the congregation, an incredibly young Primary boy got away from his parents and ran right up to the stand next to me. As I swooped him up, he sang every word of the Primary song",
+      "basis": "interpreted",
+      "note": "After an earthquake, a small boy runs to the stand and sings every word",
+      "detail": {
+        "story_type": "personal",
+        "about": "a young boy sings \"I Am a Child of God\" at a devotional for earthquake-stricken members"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "story",
+      "quote": "When I lived in Japan, I became friends with a Buddhist temple priest.",
+      "basis": "interpreted",
+      "note": "A widowed priest's countenance changes on learning his wife's spirit lives in the spirit world",
+      "detail": {
+        "story_type": "personal",
+        "about": "comforting a grieving Buddhist priest with the plan of salvation"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "He invited his family to eat the delicious fruit with him.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Lehi invites his family to the fruit, the model for the closing invitation"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "my mother saying, many times",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "Here I am with my dad next to a fruit display.",
+      "basis": "exact",
+      "detail": {
+        "who": "father",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "relationship",
+      "quote": "I became friends with a Buddhist temple priest.",
+      "basis": "exact",
+      "detail": {
+        "who": "friend, a Buddhist temple priest",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "relationship",
+      "quote": "But when his wife died, leaving him alone, he became incredibly sad, even depressed.",
+      "basis": "exact",
+      "detail": {
+        "who": "the priest's wife",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "The tree stands for the love of God, including the greatest manifestations of that love: the birth, life, and atoning sacrifice of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "image": "tree",
+        "family": "growth",
+        "carries": "God's love, shown most in Christ's life and Atonement"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "The fruit symbolizes blessings received through the Atonement of Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "image": "fruit",
+        "family": "growth",
+        "carries": "blessings of the Atonement, up to eternal life"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "But once we have tasted it, we know how much we like it. Gospel truths are the same.",
+      "basis": "interpreted",
+      "note": "You only know a fruit by tasting it; gospel truths by living them",
+      "detail": {
+        "image": "tasting fruit",
+        "family": "growth",
+        "carries": "gospel truths are known by living them, not just studying them"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "It was as if we watched him partake of the fruit of the tree of life",
+      "basis": "interpreted",
+      "note": "Lehi's image laid over the priest's change of countenance",
+      "detail": {
+        "image": "fruit of the tree of life",
+        "family": "growth",
+        "carries": "learning the plan of salvation fills the grieving with joy"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "Finally, a most delicious fruit for Latter-day Saints is the gift of the Holy Ghost, His constant companionship.",
+      "basis": "interpreted",
+      "note": "Each doctrine is named as a fruit to taste",
+      "detail": {
+        "image": "delicious fruit",
+        "family": "growth",
+        "carries": "the gift of the Holy Ghost is sweet to experience"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "place",
+      "quote": "most recently in Australia",
+      "basis": "exact",
+      "detail": {
+        "place": "Australia",
+        "country": "Australia"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "place",
+      "quote": "New Caledonia",
+      "basis": "exact",
+      "detail": {
+        "place": "New Caledonia",
+        "country": "France"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "place",
+      "quote": "Samoa",
+      "basis": "exact",
+      "detail": {
+        "place": "Samoa",
+        "country": "Samoa"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "place",
+      "quote": "Colombia",
+      "basis": "exact",
+      "detail": {
+        "place": "Colombia",
+        "country": "Colombia"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "place",
+      "quote": "and Peru",
+      "basis": "exact",
+      "detail": {
+        "place": "Peru",
+        "country": "Peru"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "place",
+      "quote": "I conducted a devotional with members in South America",
+      "basis": "exact",
+      "detail": {
+        "place": "South America",
+        "country": "not named"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "place",
+      "quote": "When I lived in Japan",
+      "basis": "exact",
+      "detail": {
+        "place": "Japan",
+        "country": "Japan"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "name_of_christ",
+      "quote": "our Savior and Redeemer",
+      "basis": "exact",
+      "detail": {
+        "name": "Redeemer"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "name_of_christ",
+      "quote": "This is why Jesus Christ is the strength of youth.",
+      "basis": "interpreted",
+      "note": "Uses the guide's title as a name for Christ",
+      "detail": {
+        "name": "the strength of youth"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "name_of_christ",
+      "quote": "Your Heavenly Father and His Son, Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "His Son"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "source",
+      "quote": "“Gary, pay attention and listen. Just one more talk.”",
+      "basis": "exact",
+      "detail": {
+        "who": "his mother"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "source",
+      "quote": "“What do you mean?”",
+      "basis": "exact",
+      "detail": {
+        "who": "the Buddhist temple priest in Japan"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "source",
+      "quote": "our beloved song found in the Children’s Songbook “I Am a Child of God.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Children’s Songbook, \"I Am a Child of God\""
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "source",
+      "quote": "“Gethsemane! Jesus loves me,”",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn \"Gethsemane\", Hymns for Home and Church"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "source",
+      "quote": "“I know my Father lives and loves me too. The Spirit whispers this to me and tells me it is true, and tells me it is true.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Children’s Songbook, \"I Know My Father Lives\""
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "place",
+      "quote": "Gethsemane",
+      "basis": "exact",
+      "detail": {
+        "place": "Gethsemane",
+        "country": "Jerusalem"
+      }
+    }
+  ]
+}

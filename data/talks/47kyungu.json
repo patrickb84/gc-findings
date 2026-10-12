@@ -1,0 +1,570 @@
+{
+  "id": "47kyungu",
+  "kind": "talk",
+  "speaker": "Alfred Kyungu",
+  "role": "Of the Seventy",
+  "title": "Using the Language of Peacemakers",
+  "session": "Sunday Morning Session",
+  "order": 25,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng",
+  "pronouns": {
+    "i": 25,
+    "we": 48,
+    "you": 23
+  },
+  "summary": "Elder Kyungu takes up President Oaks’s April 2026 invitation to forgo contention and use the language of peacemakers, and calls it a call to discipleship, not a simple suggestion. He sets fourteen wounding phrases, from “You are useless” to “I am tired of you,” beside twenty peaceful ones, from “Please” to “I don’t want this to divide us,” and compares giving up harsh words to the converted Lamanites burying their weapons. He asks members to fill their hearts with Christ’s doctrine, repent of harsh words, pray for peaceful communication, and speak words that uplift and bring people together.",
+  "audience": {
+    "who": "All members, in their families, workplaces, friendships, and Church callings"
+  },
+  "arc": [
+    "quote",
+    "quote",
+    "principle",
+    "scripture",
+    "principle",
+    "list",
+    "invitation",
+    "list",
+    "scripture",
+    "quote",
+    "invitation",
+    "promise",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.2,
+    "present": 0.7,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Proverbs 6:16, 17, 19",
+      "basis": "exact",
+      "ref": "Proverbs 6:16, 17, 19",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Matthew 12:36–37",
+      "basis": "exact",
+      "ref": "Matthew 12:36–37",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Ephesians 4:29",
+      "basis": "exact",
+      "ref": "Ephesians 4:29",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Colossians 4:6",
+      "basis": "exact",
+      "ref": "Colossians 4:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Alma 24:19",
+      "basis": "exact",
+      "ref": "Alma 24:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Matthew 12:34",
+      "basis": "exact",
+      "ref": "Matthew 12:34",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "John 14:27",
+      "basis": "exact",
+      "ref": "John 14:27",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 87.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "President Oaks: forgo contention and use the language and methods of peacemakers",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
+    },
+    {
+      "id": "x-n2",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Closing Remarks,” Liahona, May 2026, 114.",
+      "basis": "exact",
+      "ref": "Closing Remarks",
+      "note": "President Oaks’s closing invitation to study, ponder, and act on the conference messages",
+      "detail": {
+        "source": "Closing Remarks, Apr. 2026"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "past_prophet",
+      "quote": "Thomas S. Monson, “School Thy Feelings, O My Brother,” Liahona, Nov. 2009, 69.",
+      "basis": "exact",
+      "ref": "School Thy Feelings, O My Brother",
+      "note": "President Monson: leave unsaid the harsh and hurtful things we may be tempted to say",
+      "detail": {
+        "who": "Thomas S. Monson"
+      }
+    },
+    {
+      "id": "x-n11",
+      "type": "source",
+      "quote": "Ulisses Soares, “Followers of the Prince of Peace,” Liahona, May 2023, 87.",
+      "basis": "exact",
+      "ref": "Followers of the Prince of Peace",
+      "note": "Elder Soares: we can become instruments of His peace in the world",
+      "detail": {
+        "who": "Elder Ulisses Soares"
+      }
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "Gerrit W. Gong, “Love Is Spoken Here,” Liahona, Nov. 2023, 111.",
+      "basis": "exact",
+      "ref": "Love Is Spoken Here",
+      "note": "Elder Gong: speak with warm respect to each other",
+      "detail": {
+        "who": "Elder Gerrit W. Gong"
+      }
+    },
+    {
+      "id": "x-n13",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Following Christ,” Liahona, Nov. 2024, 25.",
+      "basis": "exact",
+      "ref": "Following Christ",
+      "note": "President Oaks: qualify for His blessings by using the language of peacemakers",
+      "detail": {
+        "source": "Following Christ, Oct. 2024"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "It is not a simple suggestion; it is a call to discipleship as we follow Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Relays the prophet's invitation as a command to act on",
+      "detail": {
+        "action": "forgo contention and use the language of peacemakers"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "let us use words that encourage understanding and peace",
+      "basis": "exact",
+      "detail": {
+        "action": "use words that encourage understanding and peace"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "We must choose language that strengthens confidence and preserves relationships.",
+      "basis": "exact",
+      "detail": {
+        "action": "choose language that strengthens and preserves relationships"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "we too can bury the language of contention for peace",
+      "basis": "interpreted",
+      "note": "Soft invitation phrased as possibility, drawn from the Lamanites burying their weapons",
+      "detail": {
+        "action": "bury the language of contention"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "Therefore, let us fill our hearts with the true doctrine of Christ",
+      "basis": "exact",
+      "detail": {
+        "action": "fill your heart with the doctrine of Christ"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Let us repent for the harsh language and expressions that have offended our friends, leaders, family members, or colleagues.",
+      "basis": "exact",
+      "detail": {
+        "action": "repent of harsh language"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "Let us pray for peaceful communication among us, regardless of the difference in our opinions.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray for peaceful communication despite differing opinions"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "invitation",
+      "quote": "Let us use the language that uplifts, edifies, comforts, and brings people together.",
+      "basis": "exact",
+      "detail": {
+        "action": "use language that uplifts and unites"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "which has the power to change our language and help us speak more as peacemakers today, tomorrow, and always",
+      "basis": "interpreted",
+      "note": "The doctrine of Christ, once in the heart, changes how we speak",
+      "detail": {
+        "blessing": "changed language; speaking as peacemakers always"
+      },
+      "paired_with": "c-5"
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "As we follow Jesus Christ, we will not only feel His peace",
+      "basis": "exact",
+      "detail": {
+        "blessing": "feel Christ’s peace and become instruments of His peace"
+      },
+      "paired_with": "c-1"
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "This peace is real. It is powerful, and it begins with us—with our hearts, our choices, and our words.",
+      "basis": "interpreted",
+      "note": "Assures that Christ's promised peace is real and starts in our own words",
+      "detail": {
+        "blessing": "real, powerful peace that begins in our hearts and words"
+      },
+      "paired_with": "c-8"
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "There are expressions and words that can damage relationships and therefore need to be forgone in our communication.",
+      "basis": "exact",
+      "detail": {
+        "count": "14",
+        "items": [
+          "You are useless.",
+          "You are stupid.",
+          "You never do anything right.",
+          "What is wrong with you?",
+          "This is all your fault.",
+          "You always mess things up.",
+          "You never listen.",
+          "You caused this problem.",
+          "Leave me alone.",
+          "I do not care.",
+          "I do not need you in my life.",
+          "I do not care about you.",
+          "Just stop talking.",
+          "I am tired of you."
+        ],
+        "purpose": "phrases to forgo because they damage relationships"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "We must choose language that strengthens confidence and preserves relationships. Words such as:",
+      "basis": "exact",
+      "detail": {
+        "count": "20",
+        "items": [
+          "Please.",
+          "Thank you.",
+          "I appreciate that.",
+          "I respect your view.",
+          "This is a good point.",
+          "Let us slow down and talk.",
+          "We can work this out.",
+          "It is OK.",
+          "Let us stay calm.",
+          "We don’t have to rush.",
+          "I care about you.",
+          "I am here for you.",
+          "You are not alone.",
+          "How are you feeling?",
+          "That matters to me.",
+          "I’m sorry.",
+          "Please forgive me.",
+          "I forgive you.",
+          "Let us start again.",
+          "I don’t want this to divide us."
+        ],
+        "purpose": "peacemaker phrases to use in their place"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "These six things doth the Lord hate: yea, seven are an abomination unto him.",
+      "basis": "interpreted",
+      "note": "Proverbs names seven; the talk quotes the three about speech",
+      "detail": {
+        "count": "7",
+        "items": [
+          "a lying tongue",
+          "a false witness that speaketh lies",
+          "he that soweth discord among brethren"
+        ],
+        "purpose": "what the Lord hates, as quoted for the sins of speech"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "from a family member, a colleague at work, a friend, or even a fellow member of the Church",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "a family member",
+          "a colleague at work",
+          "a friend",
+          "a fellow member of the Church"
+        ],
+        "purpose": "people from whom we have all been hurt by words"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "Such words never edify. They weaken love, diminish respect, and damage relationships.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "weaken love",
+          "diminish respect",
+          "damage relationships"
+        ],
+        "purpose": "what harsh words do"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "testimony",
+      "quote": "I bear my witness that our Heavenly Father loves us and desires us to live in peace and harmony.",
+      "basis": "exact",
+      "detail": {
+        "of": "Heavenly Father’s love and desire for us to live in peace"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "testimony",
+      "quote": "Jesus Christ is the Prince of Peace.",
+      "basis": "exact",
+      "detail": {
+        "of": "Jesus Christ as the Prince of Peace"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "testimony",
+      "quote": "President Dallin H. Oaks is the prophet of God on the earth today, inviting us to communicate as peacemakers.",
+      "basis": "exact",
+      "detail": {
+        "of": "President Oaks as the living prophet"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "prophet",
+      "quote": "This invitation to forgo contention by using the language of peacemakers comes from the living prophet.",
+      "basis": "exact",
+      "detail": {
+        "source": "April 2026 general conference"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "christ",
+      "quote": "That every idle word that men shall speak, they shall give account thereof in the day of judgment.",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 12:36"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "christ",
+      "quote": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 12:37"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "christ",
+      "quote": "out of the abundance of the heart the mouth speaketh",
+      "basis": "interpreted",
+      "note": "The talk credits “the New Testament”; these are Jesus’s words in Matthew 12:34",
+      "detail": {
+        "where": "Matthew 12:34"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "christ",
+      "quote": "The Savior promised, “Peace I leave with you, my peace I give unto you.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 14:27"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "source",
+      "quote": "In hymn number 224, we sing, “I must speak the loving word, ere the sun goes down.”",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn “I Have Work Enough to Do” (Hymns, no. 224)"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "As the converted Lamanites “buried the weapons of war, for peace,”",
+      "basis": "interpreted",
+      "note": "Brief retelling of the Anti-Nephi-Lehies burying their weapons",
+      "detail": {
+        "story_type": "scripture",
+        "about": "converted Lamanites bury their weapons of war for peace"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "I began pondering on President Oaks’s invitation and how I could act with faith accordingly.",
+      "basis": "interpreted",
+      "note": "The talk's only personal thread: he pondered the invitation and turned it into a spiritual exercise",
+      "detail": {
+        "story_type": "personal",
+        "about": "pondering how to act on the prophet's invitation"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "we too can bury the language of contention for peace",
+      "basis": "interpreted",
+      "note": "Harsh words as weapons to bury, like the Lamanites’ swords",
+      "detail": {
+        "image": "buried weapons",
+        "family": "other",
+        "carries": "harsh language is a weapon we can bury for good"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "let us fill our hearts with the true doctrine of Christ",
+      "basis": "interpreted",
+      "note": "The heart as a vessel whose contents spill out as speech (paired with Matthew 12:34)",
+      "detail": {
+        "image": "full heart",
+        "family": "body",
+        "carries": "what fills the heart comes out of the mouth"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "“We can become instruments of His peace in the world.”",
+      "basis": "interpreted",
+      "note": "People as instruments Christ plays peace through",
+      "detail": {
+        "image": "instrument",
+        "family": "other",
+        "carries": "we can carry Christ’s peace to others"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "It is a spiritual exercise to identify the language and expressions we need to forgo",
+      "basis": "interpreted",
+      "note": "Changing speech as deliberate practice, like training",
+      "detail": {
+        "image": "exercise",
+        "family": "body",
+        "carries": "peaceful speech is built by repeated effort"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "image",
+      "quote": "all of us in this mortal journey have been hurt",
+      "basis": "interpreted",
+      "note": "Life as a journey on which everyone gets hurt by words",
+      "detail": {
+        "image": "journey",
+        "family": "path",
+        "carries": "everyone has been wounded by words along the way"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "“I must speak the loving word, ere the sun goes down.”",
+      "basis": "interpreted",
+      "note": "Sunset as the deadline for kind words",
+      "detail": {
+        "image": "sunset",
+        "family": "light",
+        "carries": "speak the loving word now, before the day ends"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is the Prince of Peace.",
+      "basis": "exact",
+      "detail": {
+        "name": "Prince of Peace"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "name_of_christ",
+      "quote": "the Lord Jesus Christ taught",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    }
+  ]
+}

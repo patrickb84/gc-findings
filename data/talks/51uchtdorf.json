@@ -1,0 +1,962 @@
+{
+  "id": "51uchtdorf",
+  "kind": "talk",
+  "speaker": "Dieter F. Uchtdorf",
+  "role": "Acting President of the Quorum of the Twelve Apostles",
+  "title": "Christ-Centered Unity",
+  "session": "Sunday Afternoon Session",
+  "order": 28,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/51uchtdorf?lang=eng",
+  "pronouns": {
+    "i": 14,
+    "we": 83,
+    "you": 7
+  },
+  "summary": "President Uchtdorf teaches that baptism makes us both covenant individuals and part of a covenant people, and that Jesus Christ unites people across every worldly boundary while Satan works to divide them. He opens with his great-grandchildren's baptisms and his own baptism in a deep swimming pool, then points to the Nephites and Lamanites, who became one when Christ came, and to the sacrament, where no one is addressed by name. He asks everyone, wherever they are, to start unifying now, to use the sacrament as a weekly fresh start, and to come and see, help, and belong.",
+  "audience": {
+    "who": "Church members everywhere, with an open invitation to anyone who would join them",
+    "quote": "Wherever you are, I invite you to join the Christ-centered unity we are trying to build."
+  },
+  "arc": [
+    "story",
+    "story",
+    "principle",
+    "list",
+    "scripture",
+    "principle",
+    "story",
+    "list",
+    "principle",
+    "list",
+    "story",
+    "principle",
+    "promise",
+    "invitation",
+    "quote",
+    "invitation",
+    "promise",
+    "invitation",
+    "quote",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.55,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "2 Nephi 31:18",
+      "basis": "exact",
+      "ref": "2 Nephi 31:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Matthew 7:13–14",
+      "basis": "exact",
+      "ref": "Matthew 7:13–14",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Jacob 6:11",
+      "basis": "exact",
+      "ref": "Jacob 6:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Mosiah 18:8",
+      "basis": "exact",
+      "ref": "Mosiah 18:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mosiah 18:8–9",
+      "basis": "exact",
+      "ref": "Mosiah 18:8–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:37",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:37",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Ephesians 2:14",
+      "basis": "exact",
+      "ref": "Ephesians 2:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Matthew 8:2–3",
+      "basis": "exact",
+      "ref": "Matthew 8:2–3",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Matthew 8:5–10",
+      "basis": "exact",
+      "ref": "Matthew 8:5–10",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "15:21–28",
+      "basis": "exact",
+      "ref": "Matthew 15:21–28",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Luke 10:30–37",
+      "basis": "exact",
+      "ref": "Luke 10:30–37",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "2 Nephi 26:24–28",
+      "basis": "exact",
+      "ref": "2 Nephi 26:24–28",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Ephesians 2:19",
+      "basis": "exact",
+      "ref": "Ephesians 2:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Galatians 3:28",
+      "basis": "exact",
+      "ref": "Galatians 3:28",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "4 Nephi 1:15, 17",
+      "basis": "exact",
+      "ref": "4 Nephi 1:15, 17",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Moses 7:18–19",
+      "basis": "exact",
+      "ref": "Moses 7:18–19",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Moses 7:16",
+      "basis": "exact",
+      "ref": "Moses 7:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Moses 7:53",
+      "basis": "exact",
+      "ref": "Moses 7:53",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 38:27",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 38:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "1 Samuel 16:7",
+      "basis": "exact",
+      "ref": "1 Samuel 16:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 88:67",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:67",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "John 17:11, 21–22",
+      "basis": "exact",
+      "ref": "John 17:11, 21–22",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "Matthew 19:26",
+      "basis": "exact",
+      "ref": "Matthew 19:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "Alma 34:34",
+      "basis": "exact",
+      "ref": "Alma 34:34",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 130:2",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 130:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "Moroni 4:3",
+      "basis": "exact",
+      "ref": "Moroni 4:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "1 Corinthians 10:16–17",
+      "basis": "exact",
+      "ref": "1 Corinthians 10:16–17",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "Matthew 18:20",
+      "basis": "exact",
+      "ref": "Matthew 18:20",
+      "spoken": false
+    },
+    {
+      "id": "x-n11",
+      "type": "past_prophet",
+      "quote": "President Henry B. Eyring once shared his “hope … that a great day of unity is coming” (“Our Hearts Knit as One,” Liahona, Nov. 2008, 68). It comes in part as we participate in the gathering of Israel, what President Russell M. Nelson called “the greatest challenge, the greatest cause, and the greatest work on earth today” (“Hope of Israel” [worldwide youth devotional, June 3, 2018], Gospel Library).",
+      "basis": "exact",
+      "ref": "Our Hearts Knit as One",
+      "note": "Cites President Russell M. Nelson calling the gathering of Israel the greatest work on earth, beside President Henry B. Eyring's hope for a great day of unity",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n20",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “The Power of Spiritual Momentum,” Liahona, May 2022, 97–100.",
+      "basis": "exact",
+      "ref": "The Power of Spiritual Momentum",
+      "note": "Cites President Nelson's \"spiritual momentum\", which the talk quotes in its body",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "On this path to more unity, let us not miss the unifying power of the sacrament.",
+      "basis": "exact",
+      "detail": {
+        "action": "draw on the unifying power of the sacrament"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Wherever you are, I invite you to join the Christ-centered unity we are trying to build.",
+      "basis": "exact",
+      "detail": {
+        "action": "join the Christ-centered unity"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Please, come and see, come and help, and come and belong.",
+      "basis": "exact",
+      "detail": {
+        "action": "come and see, help, and belong"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "In other words, now is the time to unify.",
+      "basis": "interpreted",
+      "note": "A call to start building unity in this life rather than waiting for the next",
+      "detail": {
+        "action": "work at unity now"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "When we try to be a little more patient, a little kinder, more forgiving, more helpful, more neighborly",
+      "basis": "interpreted",
+      "note": "Soft invitation framed as a condition: small gains in patience and kindness",
+      "detail": {
+        "action": "be a little more patient, kind, forgiving, helpful, neighborly"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "May God bless us to unite in the Savior’s name and center our minds, hearts, and lives on Him.",
+      "basis": "interpreted",
+      "note": "Closing blessing that doubles as the talk's final ask",
+      "detail": {
+        "action": "unite in Christ's name and center life on Him"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "Every step we take toward unity matters, however small it may seem.",
+      "basis": "interpreted",
+      "note": "Encouragement to take small steps toward unity",
+      "detail": {
+        "action": "take small steps toward unity"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "the more our individual lives, our families, our communities, and our nations will experience God’s presence and supernal blessings",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "God's presence and supernal blessings on individuals, families, communities, nations"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "the sacrament can become a fresh starting point for our personal relationship with God and for a greater Christ-centered unity in our lives",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "a weekly fresh start with God and with each other"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "there will be less room for pride or judgmental attitudes or contention",
+      "basis": "exact",
+      "paired_with": "c-5",
+      "detail": {
+        "blessing": "less pride, judgment, and contention"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "The closer we come to Him, the closer we will come to each other—and the closer we will come to the unity He wants for us.",
+      "basis": "exact",
+      "paired_with": "c-6",
+      "detail": {
+        "blessing": "closeness to each other and the unity Christ wants"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "the “spiritual momentum” we build here will carry us into eternity",
+      "basis": "exact",
+      "paired_with": "c-4",
+      "detail": {
+        "blessing": "unity built now carries into eternity"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "promise",
+      "quote": "Jesus Christ has the power to change us—you and me—purify us, and unite us.",
+      "basis": "interpreted",
+      "note": "Assurance of what Christ can do for those who come to Him",
+      "detail": {
+        "blessing": "change, purification, and unity through Christ"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "promise",
+      "quote": "The sacrament is a weekly reminder, a sacred reminder, that we are not alone. We have the Savior, and we have each other.",
+      "basis": "interpreted",
+      "note": "Assurance of company: no one partakes alone",
+      "detail": {
+        "blessing": "we are not alone"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "testimony",
+      "quote": "I testify that the more united in Christ we are and the more we desire to build bridges instead of walls, the more our individual lives, our families, our communities, and our nations will experience God’s presence and supernal blessings.",
+      "basis": "exact",
+      "detail": {
+        "of": "unity in Christ bringing God's presence and blessings"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "revelation",
+      "quote": "If we are not one, we are not His.",
+      "basis": "interpreted",
+      "note": "Reads as a stark warning: disunity separates us from Christ",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "revelation",
+      "quote": "Unity won’t magically happen in the next life if we haven’t earnestly tried to learn it here.",
+      "basis": "interpreted",
+      "note": "Reads as a warning against postponing unity to the next life",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "revelation",
+      "quote": "And yet the Savior’s work of gathering continues, undaunted. In fact, it is accelerating.",
+      "basis": "interpreted",
+      "note": "Reads as a declaration that the gathering is speeding up",
+      "detail": {
+        "kind": "prophecy"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "revelation",
+      "quote": "Satan is seeking to divide us. He aims to weaken God’s children by isolating us from each other.",
+      "basis": "interpreted",
+      "note": "Reads as a warning about the adversary's strategy of isolation",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "revelation",
+      "quote": "Ironically, these tools are often used to reinforce boundaries rather than overcome them.",
+      "basis": "interpreted",
+      "note": "Reads as a warning (footnote 10) that God-given communication technology is being used to divide",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "take upon themselves the Savior’s name, keep God’s commandments, and serve Him",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "take upon them the Savior's name",
+          "keep God's commandments",
+          "serve Him"
+        ],
+        "purpose": "the baptismal covenants"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "list",
+      "quote": "The temple endowment, missionary service, celestial marriage in the house of the Lord, ongoing service in God’s kingdom",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "temple endowment",
+          "missionary service",
+          "celestial marriage in the temple",
+          "ongoing service in God's kingdom"
+        ],
+        "purpose": "experiences that multiply discipleship after baptism"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "list",
+      "quote": "We desire to be part of a people who “bear one another’s burdens,” “mourn with those that mourn,” and “comfort those that stand in need of comfort.”",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "bear one another's burdens",
+          "mourn with those that mourn",
+          "comfort those that need comfort"
+        ],
+        "purpose": "what a covenant people does for each other"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "list",
+      "quote": "He touched lepers. He praised Gentiles for their faith. He used a Samaritan as an example of compassion.",
+      "basis": "interpreted",
+      "note": "Five sentences in a row naming how Christ reached outsiders; items include the two that follow",
+      "detail": {
+        "count": "5",
+        "items": [
+          "touched lepers",
+          "praised Gentiles for their faith",
+          "used a Samaritan as an example of compassion",
+          "gathered people from different walks of life to serve together",
+          "ministered to poor and rich alike"
+        ],
+        "purpose": "how the Savior crossed worldly boundaries"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "The people were divided in a dozen different ways—culturally, politically, religiously.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "culturally",
+          "politically",
+          "religiously"
+        ],
+        "purpose": "divisions in the world Christ was born into"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "list",
+      "quote": "Others unite around hobbies, professional interests, or even love for a favorite soccer team or brand of soft drink.",
+      "basis": "interpreted",
+      "note": "Closes a run of worldly reasons people unite: causes, politics, heritage, hatred, hobbies, work, sports, brands",
+      "detail": {
+        "count": "8",
+        "items": [
+          "social causes",
+          "political ideas",
+          "cultural heritage",
+          "hatred for another group",
+          "hobbies",
+          "professional interests",
+          "a favorite soccer team",
+          "a brand of soft drink"
+        ],
+        "purpose": "worldly grounds for unity, set against what unites the Church"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "list",
+      "quote": "It is our love for God and neighbor, God’s children. It is our commitment to our covenants with Jesus Christ and to His restored gospel.",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "love for God and neighbor",
+          "commitment to covenants with Christ and His restored gospel"
+        ],
+        "purpose": "what unites the Savior's Church"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "list",
+      "quote": "a little more patient, a little kinder, more forgiving, more helpful, more neighborly",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "patient",
+          "kinder",
+          "forgiving",
+          "helpful",
+          "neighborly"
+        ],
+        "purpose": "small changes that crowd out pride and contention"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "list",
+      "quote": "We can see the fruits of his efforts in the contention, mistrust, and hatred all around us.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "contention",
+          "mistrust",
+          "hatred"
+        ],
+        "purpose": "the fruits of Satan's dividing work"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "list",
+      "quote": "The Savior called fishermen like Peter and Andrew, a tax collector like Matthew, and a Pharisee like Paul to lead His Church.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "fishermen (Peter and Andrew)",
+          "a tax collector (Matthew)",
+          "a Pharisee (Paul)"
+        ],
+        "purpose": "people from different walks of life called to lead together"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "Recently, Sister Uchtdorf and I attended the baptisms of two of our great-grandchildren.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "two great-grandchildren baptized, following family and friends into the water"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "story",
+      "quote": "I was baptized at age eight in an impressive indoor public swimming pool.",
+      "basis": "interpreted",
+      "note": "A boy who could not swim, worried as the pool got deeper",
+      "detail": {
+        "story_type": "personal",
+        "about": "his own baptism in a deep public pool"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "story",
+      "quote": "At that time and place, Jews and Samaritans avoided each other. Gentiles were considered unclean.",
+      "basis": "interpreted",
+      "note": "The divided world Christ was born into, compared with today",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the divided society of Jesus's day"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "story",
+      "quote": "For the next 200 years, the love of God replaced contention, and bitter enemies became “one”—they became “the children of Christ.”",
+      "basis": "interpreted",
+      "note": "Nephites and Lamanites, long-time rivals, united after Christ's visit",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Nephites and Lamanites become one after Christ appears"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "story",
+      "quote": "Elsewhere in the scriptures we read of an ancient “City of Holiness” called Zion.",
+      "basis": "interpreted",
+      "note": "Footnote 14: Enoch's Zion found unity in a time of war by looking to Christ",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the people of Zion become one heart and one mind"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "relationship",
+      "quote": "Sister Uchtdorf and I",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "relationship",
+      "quote": "two of our great-grandchildren",
+      "basis": "exact",
+      "detail": {
+        "who": "great-grandchildren",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "Like an exponential curve, it often starts gradually—with loving parents, simple prayers, and small acts of faith.",
+      "basis": "exact",
+      "detail": {
+        "image": "exponential curve",
+        "family": "growth",
+        "carries": "spiritual growth starts slow, then multiplies"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "Baptism is the gate through which we enter this “strait and narrow path.” We must enter that gate one by one.",
+      "basis": "exact",
+      "detail": {
+        "image": "gate and path",
+        "family": "path",
+        "carries": "baptism is an individual entry onto the covenant path"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "“The pool is getting deeper and deeper, and I can’t swim!”",
+      "basis": "interpreted",
+      "note": "Deepening water as the deepening of discipleship that follows baptism",
+      "detail": {
+        "image": "deepening pool",
+        "family": "water",
+        "carries": "the covenant path gets deeper as we go"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "The arc of discipleship helps us to grow closer to our role model, Jesus Christ, and it continues eternally.",
+      "basis": "exact",
+      "detail": {
+        "image": "arc",
+        "family": "growth",
+        "carries": "discipleship keeps rising forever"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "He “[broke] down the middle wall of partition between us.”",
+      "basis": "exact",
+      "detail": {
+        "image": "wall of partition",
+        "family": "building",
+        "carries": "Christ tears down what divides people"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "build bridges instead of walls",
+      "basis": "exact",
+      "detail": {
+        "image": "bridges and walls",
+        "family": "building",
+        "carries": "choosing connection over separation"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "image",
+      "quote": "He emphasizes our differences, making them feel like impassable barriers.",
+      "basis": "exact",
+      "detail": {
+        "image": "impassable barriers",
+        "family": "path",
+        "carries": "Satan makes differences feel uncrossable"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "image",
+      "quote": "we “are desirous to come into the fold of God.”",
+      "basis": "exact",
+      "detail": {
+        "image": "fold",
+        "family": "other",
+        "carries": "baptism brings us into one flock"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "image",
+      "quote": "When our “eye [is] single to [His] glory,” we are “filled with [His] light.”",
+      "basis": "exact",
+      "detail": {
+        "image": "eye filled with light",
+        "family": "light",
+        "carries": "focus on Christ fills us and dims superficial differences"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "image",
+      "quote": "engaged in one of the longest-running sibling rivalries in the world",
+      "basis": "exact",
+      "detail": {
+        "image": "sibling rivalry",
+        "family": "other",
+        "carries": "Nephites and Lamanites as quarreling family"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "image",
+      "quote": "For we being many are one bread, and one body",
+      "basis": "exact",
+      "detail": {
+        "image": "one bread, one body",
+        "family": "body",
+        "carries": "partaking of the sacrament makes many into one"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "image",
+      "quote": "Have you ever noticed that the sacrament is the only ordinance we receive during which we are not addressed by name?",
+      "basis": "interpreted",
+      "note": "The nameless sacrament prayer as a picture of partaking together, not alone",
+      "detail": {
+        "image": "the sacrament prayer without names",
+        "family": "other",
+        "carries": "we partake individually but as one people"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "image",
+      "quote": "the Lord is inviting us to enter into a sacred community—a communion—both with Him and with each other",
+      "basis": "exact",
+      "detail": {
+        "image": "communion",
+        "family": "other",
+        "carries": "the sacrament as community with Christ and one another"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "place",
+      "quote": "an ancient “City of Holiness” called Zion",
+      "basis": "exact",
+      "detail": {
+        "place": "Zion, the City of Holiness",
+        "country": "ancient (Enoch's city)"
+      }
+    },
+    {
+      "id": "c-52",
+      "type": "name_of_christ",
+      "quote": "the Savior of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "the Savior of the world"
+      }
+    },
+    {
+      "id": "c-53",
+      "type": "name_of_christ",
+      "quote": "the Son of God",
+      "basis": "exact",
+      "detail": {
+        "name": "the Son of God"
+      }
+    },
+    {
+      "id": "c-54",
+      "type": "name_of_christ",
+      "quote": "our role model, Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "our role model"
+      }
+    },
+    {
+      "id": "c-55",
+      "type": "name_of_christ",
+      "quote": "“Messiah, the King of Zion, the Rock of Heaven, which is broad as eternity”",
+      "basis": "exact",
+      "detail": {
+        "name": "Messiah"
+      }
+    },
+    {
+      "id": "c-56",
+      "type": "name_of_christ",
+      "quote": "the King of Zion",
+      "basis": "exact",
+      "detail": {
+        "name": "the King of Zion"
+      }
+    },
+    {
+      "id": "c-57",
+      "type": "name_of_christ",
+      "quote": "the Rock of Heaven",
+      "basis": "exact",
+      "detail": {
+        "name": "the Rock of Heaven"
+      }
+    },
+    {
+      "id": "c-58",
+      "type": "christ",
+      "quote": "Jesus promised, “Where two or three are gathered … in my name, there am I in the midst of them.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 18:20"
+      }
+    },
+    {
+      "id": "c-59",
+      "type": "christ",
+      "quote": "“with God all things are possible.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 19:26"
+      }
+    },
+    {
+      "id": "c-60",
+      "type": "source",
+      "quote": "my mind and heart were preoccupied with this thought: “The pool is getting deeper and deeper, and I can’t swim!”",
+      "basis": "exact",
+      "detail": {
+        "who": "President Uchtdorf as an eight-year-old"
+      }
+    }
+  ]
+}

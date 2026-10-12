@@ -1,0 +1,982 @@
+{
+  "id": "56sinclair",
+  "kind": "talk",
+  "speaker": "Paul H. Sinclair",
+  "role": "Of the Seventy",
+  "title": "Quick to Help, Slow to Judge",
+  "session": "Sunday Afternoon Session",
+  "order": 33,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/56sinclair?lang=eng",
+  "pronouns": {
+    "i": 25,
+    "we": 19,
+    "you": 2
+  },
+  "summary": "Elder Sinclair teaches that a true disciple of Jesus Christ is quick to help and slow to judge. He tells of a Primary boy who buttoned his sleeve to his lapel, and of the little girl who freed him while Elder Sinclair only felt annoyed; then he shows the Savior offering the woman at the well living water instead of judgment. He asks members to help friends and new members the same way, so the people at today's wells feel they have come home.",
+  "audience": {
+    "who": "All members, especially those who meet and fellowship friends and new converts"
+  },
+  "arc": [
+    "scripture",
+    "story",
+    "principle",
+    "scripture",
+    "story",
+    "list",
+    "principle",
+    "invitation",
+    "quote",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.55,
+    "present": 0.35,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Isaiah 11:6",
+      "basis": "exact",
+      "ref": "Isaiah 11:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Matthew 7:1–5",
+      "basis": "exact",
+      "ref": "Matthew 7:1–5",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Luke 6:37–42",
+      "basis": "exact",
+      "ref": "Luke 6:37–42",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "3 Nephi 14:1–12",
+      "basis": "exact",
+      "ref": "3 Nephi 14:1–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mormon 8:20",
+      "basis": "exact",
+      "ref": "Mormon 8:20",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Matthew 5:38–47",
+      "basis": "exact",
+      "ref": "Matthew 5:38–47",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Mark 10:45",
+      "basis": "exact",
+      "ref": "Mark 10:45",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Luke 10:30–37",
+      "basis": "exact",
+      "ref": "Luke 10:30–37",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Mosiah 18:8–11",
+      "basis": "exact",
+      "ref": "Mosiah 18:8–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Jacob 2:17–19",
+      "basis": "exact",
+      "ref": "Jacob 2:17–19",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Alma 1:26–27",
+      "basis": "exact",
+      "ref": "Alma 1:26–27",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "3 Nephi 13:1–4",
+      "basis": "exact",
+      "ref": "3 Nephi 13:1–4",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "3 Nephi 17:5",
+      "basis": "exact",
+      "ref": "3 Nephi 17:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "3 Nephi 17:6, 7",
+      "basis": "exact",
+      "ref": "3 Nephi 17:6, 7",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "John 4:4–42",
+      "basis": "exact",
+      "ref": "John 4:4–42",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Matthew 19:16–22",
+      "basis": "exact",
+      "ref": "Matthew 19:16–22",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Luke 23:39–43",
+      "basis": "exact",
+      "ref": "Luke 23:39–43",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "John 3:1–21",
+      "basis": "exact",
+      "ref": "John 3:1–21",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "John 5:2–15",
+      "basis": "exact",
+      "ref": "John 5:2–15",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "John 18:33–38",
+      "basis": "exact",
+      "ref": "John 18:33–38",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "John 20:11–18",
+      "basis": "exact",
+      "ref": "John 20:11–18",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "John 21:15–19",
+      "basis": "exact",
+      "ref": "John 21:15–19",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "3 Nephi 18:36",
+      "basis": "exact",
+      "ref": "3 Nephi 18:36",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "28:1–3",
+      "basis": "exact",
+      "ref": "3 Nephi 28:1–3",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "John 4:4",
+      "basis": "exact",
+      "ref": "John 4:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "John 4:7",
+      "basis": "exact",
+      "ref": "John 4:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "John 19:28",
+      "basis": "exact",
+      "ref": "John 19:28",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "John 19:30",
+      "basis": "exact",
+      "ref": "John 19:30",
+      "spoken": false
+    },
+    {
+      "id": "x-s29",
+      "type": "scripture",
+      "quote": "Mosiah 26:30",
+      "basis": "exact",
+      "ref": "Mosiah 26:30",
+      "spoken": false
+    },
+    {
+      "id": "x-s30",
+      "type": "scripture",
+      "quote": "John 4:10",
+      "basis": "exact",
+      "ref": "John 4:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s31",
+      "type": "scripture",
+      "quote": "Mosiah 5:2",
+      "basis": "exact",
+      "ref": "Mosiah 5:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s32",
+      "type": "scripture",
+      "quote": "Psalm 85:10",
+      "basis": "exact",
+      "ref": "Psalm 85:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s33",
+      "type": "scripture",
+      "quote": "John 4:29",
+      "basis": "exact",
+      "ref": "John 4:29",
+      "spoken": false
+    },
+    {
+      "id": "x-s34",
+      "type": "scripture",
+      "quote": "Genesis 16",
+      "basis": "exact",
+      "ref": "Genesis 16",
+      "spoken": false
+    },
+    {
+      "id": "x-s35",
+      "type": "scripture",
+      "quote": "verse 13",
+      "basis": "exact",
+      "ref": "Genesis 16:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s36",
+      "type": "scripture",
+      "quote": "Genesis 16:14",
+      "basis": "exact",
+      "ref": "Genesis 16:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s37",
+      "type": "scripture",
+      "quote": "Exodus 3:14",
+      "basis": "exact",
+      "ref": "Exodus 3:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s38",
+      "type": "scripture",
+      "quote": "John 4:26",
+      "basis": "exact",
+      "ref": "John 4:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s39",
+      "type": "scripture",
+      "quote": "Luke 5:11",
+      "basis": "exact",
+      "ref": "Luke 5:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s40",
+      "type": "scripture",
+      "quote": "John 4:28",
+      "basis": "exact",
+      "ref": "John 4:28",
+      "spoken": false
+    },
+    {
+      "id": "x-s41",
+      "type": "scripture",
+      "quote": "John 13:34–35",
+      "basis": "exact",
+      "ref": "John 13:34–35",
+      "spoken": false
+    },
+    {
+      "id": "x-s42",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 46:8–10, 26",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 46:8–10, 26",
+      "spoken": false
+    },
+    {
+      "id": "x-n4",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “The Lord Jesus Christ Will Come Again,” Liahona, Nov. 2024, 121; see also Ronald A. Rasband, “Right Before Our Eyes,” Liahona, May 2025, 13–14, 17.",
+      "basis": "exact",
+      "ref": "The Lord Jesus Christ Will Come Again",
+      "note": "Cites President Russell M. Nelson on the Second Coming, with Elder Rasband",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "Patrick Kearon, “God’s Intent Is to Bring You Home,” Liahona, May 2024, 88.",
+      "basis": "exact",
+      "ref": "God’s Intent Is to Bring You Home",
+      "note": "Source of the spoken phrase “a radical reorientation”",
+      "detail": {
+        "who": "Patrick Kearon"
+      }
+    },
+    {
+      "id": "x-n6",
+      "type": "prophet",
+      "quote": "President Dallin H. Oaks taught the following about being slow to judge others: “We must refrain from making final judgments on people because we lack the knowledge and the wisdom to do so. … The Lord’s way of final judgment will be to apply His perfect knowledge of the law a person has received and to judge on the basis of that person’s circumstances, motives, and actions throughout his or her entire life” (“‘Judge Not’ and Judging,” Ensign, Aug. 1999, 8; see also Matthew 7:1–5; Luke 6:37–42; 3 Nephi 14:1–12; Mormon 8:20). Likewise, Jesus consistently taught that helping others should be a hallmark of our discipleship (see Matthew 5:38–47; Mark 10:45; Luke 10:30–37). In the Book of Mormon, this characteristic of discipleship is taught in many passages, including the beautiful descriptions of the ways we can live the covenant we make at baptism. These passages illustrate many ways in which we help and serve others (see Mosiah 18:8–11; see also Jacob 2:17–19; Alma 1:26–27; 3 Nephi 13:1–4). Jesus Christ showed us the perfect example of helping without judging when He appeared to the Nephites and “tarr[ied] a little longer with them” (3 Nephi 17:5). Sparing any judgment, He ministered to every need and healed each wound simply because He was “filled with compassion” and “mercy” (3 Nephi 17:6, 7).",
+      "basis": "exact",
+      "ref": "‘Judge Not’ and Judging",
+      "note": "Quotes President Oaks on refraining from final judgments",
+      "detail": {
+        "source": "‘Judge Not’ and Judging, Ensign, Aug. 1999"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "prophet",
+      "quote": "By the time the Savior met the woman at the well, the cultural and religious animosity between Jews and Samaritans was entrenched. As President Dallin H. Oaks summarized it, Samaritans “belonged to a group the Jews isolated and held in contempt” (“Alive in Christ,” Liahona, May 2026, 85). Thus, it was revealing that Jesus determined that He “had to go through Samaria” (John 4:4, New International Version; emphasis added). His decision to go intentionally to Samaria and speak to a Samaritan woman was socially radical and spiritually profound. President Oaks further taught in the April 2026 general conference that being alive in Christ includes being peacemakers (see “Alive in Christ,” 85–87). How remarkable, yet completely unsurprising, that one of the early acts of the Savior’s earthly ministry was to be a peacemaker with the woman at the well.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Quotes President Oaks on Jews and Samaritans, and on being peacemakers",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
+    },
+    {
+      "id": "x-n10",
+      "type": "source",
+      "quote": "There is an idiom in English and in many European languages that one should not “go to the well one too many times.” The idiom attempts to teach the principle that a person who goes too frequently to the same source of help risks depleting the value of the source until it ultimately fails (see The Free Dictionary, “go to the well too many times,” idioms.thefreedictionary.com). While the idiom is useful for describing worldly resources, it does not apply when speaking of Jesus Christ. We can never go to our own well to meet Him too many times (see Mosiah 26:30). Our effort to access Jesus Christ’s Atonement does not deplete its effectiveness, because it is infinite. Describing the glorious connection between the Atonement of Jesus Christ and the nonjudgmental help received by his brother who was dying of cancer, Bishop W. Christopher Waddell said: “Thanks to wonderful men and women who saw a need, did not judge, and ministered like the Savior, it wasn’t too late for Mike. … We must remember that it is never too late and no one has ever wandered so far from the path that he or she is beyond the reach of the infinite Atonement of Jesus Christ, which is limitless in its duration and scope” (“Just as He Did,” Liahona, May 2019, 21; emphasis added).",
+      "basis": "exact",
+      "ref": "Just as He Did",
+      "note": "The well idiom, then Bishop Waddell on his brother Mike and the limitless Atonement",
+      "detail": {
+        "who": "W. Christopher Waddell"
+      }
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "As part of His offer of help, the Savior was unafraid to invite this new disciple to accept a responsibility (see John 4:7). Though the woman did not immediately respond positively to Jesus’s request, over time and with one-on-one nurturing, the woman eventually, and joyfully, accepted the most significant of assignments: to tell the world that Jesus is the Messiah. As true followers of Jesus Christ and His example, we should be unafraid to invite people, especially new members, to serve and help others as part of their journey on the covenant path (see Mosiah 5:2; see also Dale G. Renlund, “Preserving the Heart’s Mighty Change,” Liahona, Nov. 2009, 99).",
+      "basis": "exact",
+      "ref": "Preserving the Heart’s Mighty Change"
+    },
+    {
+      "id": "x-n14",
+      "type": "source",
+      "quote": "Heavenly Father and Jesus Christ recognize our potential to grow into the best possible version of ourselves (see Dale G. Renlund, “Personal Preparation to Meet the Savior,” Liahona, May 2025, 44).",
+      "basis": "exact",
+      "ref": "Personal Preparation to Meet the Savior"
+    },
+    {
+      "id": "x-n17",
+      "type": "source",
+      "quote": "Unsurprisingly, as He interacts with the woman at the well, the Savior exemplifies what has become known as “the missionary purpose.” Chapter 1 of Preach My Gospel teaches that the missionary purpose is to “invite others to come unto Christ by helping them receive the restored gospel through faith in Jesus Christ and His Atonement, repentance, baptism, receiving the gift of the Holy Ghost, and enduring to the end” (Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ [2023], 1; emphasis added). Jesus invites the woman at the well to come unto Him and then helps her to do so.",
+      "basis": "exact",
+      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ"
+    },
+    {
+      "id": "x-n19",
+      "type": "source",
+      "quote": "Elder Quentin L. Cook reported that over a period of three years, nearly 900,000 people came into covenant as converts to The Church of Jesus Christ of Latter-day Saints (see “The Lord Is Hastening His Work,” Liahona, Nov. 2025, 48). At some point, each of those new members was, in his or her own way, a man or woman at the well.",
+      "basis": "exact",
+      "ref": "The Lord Is Hastening His Work"
+    },
+    {
+      "id": "x-n20",
+      "type": "source",
+      "quote": "President Dieter F. Uchtdorf testified that encounters with Jesus Christ change us forever. He also taught that encounters with disciples of Jesus Christ should likewise transform lives (see “Encounter at the Empty Tomb,” Liahona, May 2026, 58–61).",
+      "basis": "exact",
+      "ref": "Encounter at the Empty Tomb"
+    },
+    {
+      "id": "x-n21",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” 87.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Source of the spoken invitation “seek to be holy, like our Savior”",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
+    },
+    {
+      "id": "x-n23",
+      "type": "source",
+      "quote": "See Clark G. Gilbert, “Come Home,” Liahona, May 2026, 15–17.",
+      "basis": "exact",
+      "ref": "Come Home",
+      "note": "Source of the closing phrase “come home”",
+      "detail": {
+        "who": "Clark G. Gilbert"
+      }
+    },
+    {
+      "id": "x-n24",
+      "type": "source",
+      "quote": "President Dieter F. Uchtdorf reminded us: “‘Love one another,’ Jesus said. ‘By this all will know that you are My disciples’ [John 13:34–35, New King James Version]. Very often, a person’s first testimony of Jesus Christ comes when he or she feels love among disciples of Jesus Christ” (“By This All Will Know That You Are My Disciples,” Liahona, May 2025, 51).",
+      "basis": "exact",
+      "ref": "By This All Will Know That You Are My Disciples"
+    },
+    {
+      "id": "x-n25",
+      "type": "source",
+      "quote": "President Dieter F. Uchtdorf summarized how our small, sometimes unnoticed gifts allow us to do simple things that represent the kind of help needed to change lives: “May I share with you some spiritual gifts that I have noticed in so many members across the world? Contemplate whether you have been blessed with one or more gifts like: Showing compassion. Noticing people who are overlooked. … Giving sincere compliments. … Explaining things simply. … Helping others know that they belong. … I hope you can see how precious [these gifts] are to the Lord’s work and how you might have touched, blessed, or even saved one of God’s children by your gifts” (“Do Your Part with All Your Heart,” Liahona, Nov. 2025, 23; see also Gerrit W. Gong, “No One Sits Alone,” Liahona, Nov. 2025, 40–43). In section 46 of the Doctrine and Covenants, the Lord emphasizes that the real purpose for our spiritual gifts, be they large or small, is to help Heavenly Father’s children (see Doctrine and Covenants 46:8–10, 26).",
+      "basis": "exact",
+      "ref": "Do Your Part with All Your Heart"
+    },
+    {
+      "id": "x-n26",
+      "type": "source",
+      "quote": "President D. Todd Christofferson taught: “Adopting the character of Christ is not only a question of our personal preparation but a primary element of preparing the world for the Lord’s return and His glorious millennial reign. We tend to underestimate the influence of Christlike individuals in the world, but working one by one has always been Jesus’s approach to changing society and establishing His kingdom” (“The Character of Christ,” Liahona, May 2026, 91).",
+      "basis": "exact",
+      "ref": "The Character of Christ"
+    },
+    {
+      "id": "c-1",
+      "type": "story",
+      "quote": "That Sabbath morning, my young friend James was wearing a new suit.",
+      "basis": "interpreted",
+      "note": "A Primary boy buttons his sleeve to his lapel and gets stuck; a little girl frees him while the speaker only feels annoyed",
+      "detail": {
+        "story_type": "personal",
+        "about": "James's one-arm straitjacket at a Primary program"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "relationship",
+      "quote": "my young friend James",
+      "basis": "exact",
+      "detail": {
+        "who": "young friend (a Primary child)",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "image",
+      "quote": "James had unintentionally, but quite successfully, created a one-arm straitjacket.",
+      "basis": "interpreted",
+      "note": "Getting stuck in a mess of our own making, needing help rather than disapproval",
+      "detail": {
+        "image": "straitjacket",
+        "family": "body",
+        "carries": "people trapped by their own choices need help, not judgment"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "image",
+      "quote": "she reached up with her tiny, nonjudgmental fingers and popped the button out of the buttonhole",
+      "basis": "interpreted",
+      "note": "The child's small hands model help given simply, without judging",
+      "detail": {
+        "image": "tiny fingers and a button",
+        "family": "body",
+        "carries": "Christlike help is quick, small and nonjudgmental"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "source",
+      "quote": "I should be trying to be more like Jesus",
+      "basis": "interpreted",
+      "note": "Echoes the Primary song cited in footnote 3",
+      "detail": {
+        "who": "“I’m Trying to Be like Jesus,” Children’s Songbook"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "story",
+      "quote": "In the Gospel of John, He ministers to a Samaritan woman.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus offers the woman at the well living water instead of judgment"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "name_of_christ",
+      "quote": "Her interaction with the Lord Jesus Christ teaches many lessons.",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "image",
+      "quote": "she may have endured many judging eyes but few helping hands",
+      "basis": "interpreted",
+      "note": "Eyes that judge set against hands that help",
+      "detail": {
+        "image": "judging eyes, helping hands",
+        "family": "body",
+        "carries": "the world judges much and helps little"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "relationship",
+      "quote": "living with a man who was not her husband",
+      "basis": "exact",
+      "detail": {
+        "who": "the woman at the well's companion, not her husband",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "Was she widowed? divorced? abandoned?",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "widowed",
+          "divorced",
+          "abandoned"
+        ],
+        "purpose": "what we cannot know about her circumstances, so we should not judge"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "christ",
+      "quote": "The offer of “living water.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 4:10"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "name_of_christ",
+      "quote": "The Great Redeemer of all",
+      "basis": "exact",
+      "detail": {
+        "name": "the Great Redeemer of all"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "He came to her to be a living witness of living water.",
+      "basis": "interpreted",
+      "note": "Christ himself is the living water he offers",
+      "detail": {
+        "image": "living water",
+        "family": "water",
+        "carries": "Christ's grace and transformative help"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "He spoke to the woman with dignity, not shame.",
+      "basis": "interpreted",
+      "note": "Opens four contrasts in how Christ treated her",
+      "detail": {
+        "count": "4",
+        "items": [
+          "dignity, not shame",
+          "teaching, not ridicule",
+          "not held hostage to her history",
+          "trusted with truth"
+        ],
+        "purpose": "how the Savior helped instead of judged"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "image",
+      "quote": "He did not hold her hostage to her history.",
+      "basis": "interpreted",
+      "note": "The past as a captor Christ refuses to be",
+      "detail": {
+        "image": "hostage",
+        "family": "other",
+        "carries": "a person's past does not have to define them"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "invitation",
+      "quote": "we must look not only to their past—we must look to their possible.",
+      "basis": "exact",
+      "detail": {
+        "action": "see people for who they can become, not only their past"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "image",
+      "quote": "She walked to the well that day as a pariah. She walked away from the well with a purpose.",
+      "basis": "interpreted",
+      "note": "The same well, before and after meeting Christ",
+      "detail": {
+        "image": "the well",
+        "family": "water",
+        "carries": "one encounter with Christ turns an outcast into a witness"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "image",
+      "quote": "Every day, missionaries meet people at modern-day wells all around the world.",
+      "basis": "interpreted",
+      "note": "The woman at the well becomes every seeker and new convert today",
+      "detail": {
+        "image": "modern-day wells",
+        "family": "water",
+        "carries": "everyday places where seekers meet disciples"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "name_of_christ",
+      "quote": "They declare that Jesus is the Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "the Christ"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "name_of_christ",
+      "quote": "the great “I Am.”",
+      "basis": "exact",
+      "detail": {
+        "name": "the great I Am"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "They find, teach, baptize, and confirm people who may be in fear of judgment but in need of help.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "find",
+          "teach",
+          "baptize",
+          "confirm"
+        ],
+        "purpose": "what missionaries do for people at modern-day wells"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "invitation",
+      "quote": "we are invited to reorient our souls so we may help friends and new members in more Christlike ways",
+      "basis": "exact",
+      "detail": {
+        "action": "reorient your soul to help friends and new members"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "invitation",
+      "quote": "President Dallin H. Oaks has plainly and directly invited us to “seek to be holy, like our Savior.”",
+      "basis": "exact",
+      "detail": {
+        "action": "seek to be holy, like the Savior"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "invitation",
+      "quote": "Being quick to help and slow to judge is a simple and deeply encouraging way for each of us to be more holy",
+      "basis": "interpreted",
+      "note": "The talk's central ask: be quick to help and slow to judge",
+      "detail": {
+        "action": "be quick to help and slow to judge"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "to be more holy, to be more like our Savior, to be His true disciples",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "more holy",
+          "more like our Savior",
+          "His true disciples"
+        ],
+        "purpose": "what helping without judging makes of us"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "invitation",
+      "quote": "I pray that when these modern-day men and women at the well meet you and me, they will know they have “come home.”",
+      "basis": "interpreted",
+      "note": "A prayer that works as an ask: welcome converts so they feel at home",
+      "detail": {
+        "action": "make new members feel they have come home"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "ready to fill them with living and loving water",
+      "basis": "interpreted",
+      "note": "Members become the ones who carry Christ's water to others",
+      "detail": {
+        "image": "living and loving water",
+        "family": "water",
+        "carries": "disciples share Christ's love with newcomers"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "promise",
+      "quote": "when we help people, one by one, in our own small and simple ways, rather than judge them, we are preparing the world for the Second Coming of Jesus Christ",
+      "basis": "exact",
+      "paired_with": "c-24",
+      "detail": {
+        "blessing": "small one-by-one help prepares the world for the Second Coming"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "testimony",
+      "quote": "I so witness and testify in the name of Jesus Christ, amen.",
+      "basis": "interpreted",
+      "note": "Closes the witness that one-by-one help prepares the world for Christ's coming",
+      "detail": {
+        "of": "helping rather than judging prepares the world for the Second Coming"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "list",
+      "quote": "Others who had one-by-one ministering conversations with the Savior in the New Testament include the rich young ruler",
+      "basis": "exact",
+      "detail": {
+        "count": "7",
+        "items": [
+          "the rich young ruler",
+          "the thief on the cross",
+          "Nicodemus",
+          "the man at the pool of Bethesda",
+          "Pontius Pilate",
+          "Mary Magdalene",
+          "Simon Peter"
+        ],
+        "purpose": "the Savior's one-by-one ministering conversations"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "place",
+      "quote": "“had to go through Samaria”",
+      "basis": "exact",
+      "detail": {
+        "place": "Samaria",
+        "country": "ancient Israel (today the West Bank)"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "story",
+      "quote": "At the end of His mortal ministry, exhausted by His suffering and hanging from the cross, Jesus again asked for a drink",
+      "basis": "interpreted",
+      "note": "Footnote links the weary Jesus at the well to the thirsty Jesus on the cross",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus thirsts on the cross as He did at the well"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "invitation",
+      "quote": "let us also consider the coming moment when He would once again be weary and thirsty",
+      "basis": "exact",
+      "detail": {
+        "action": "ponder the Savior's thirst on the cross"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "name_of_christ",
+      "quote": "The crucified Savior of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "the crucified Savior of the world"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "We can never go to our own well to meet Him too many times",
+      "basis": "interpreted",
+      "note": "Reverses the idiom: Christ's well never runs dry",
+      "detail": {
+        "image": "a well that never runs dry",
+        "family": "water",
+        "carries": "the Atonement is infinite and never depleted"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "relationship",
+      "quote": "his brother who was dying of cancer",
+      "basis": "exact",
+      "detail": {
+        "who": "Bishop Waddell's brother, Mike",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "source",
+      "quote": "we will pray and seek for strength to change our circumstances rather than praying for our circumstances to be changed",
+      "basis": "exact",
+      "detail": {
+        "who": "David A. Bednar"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "place",
+      "quote": "Brigham Young University–Idaho",
+      "basis": "exact",
+      "detail": {
+        "place": "Brigham Young University–Idaho",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "story",
+      "quote": "Hagar fled from Abram and Sarai and was alone in the wilderness.",
+      "basis": "interpreted",
+      "note": "A second woman at a well, met with help rather than judgment",
+      "detail": {
+        "story_type": "scripture",
+        "about": "an angel finds Hagar at a wellspring; she names the God who sees her"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "place",
+      "quote": "Beer-lahai-roi",
+      "basis": "exact",
+      "detail": {
+        "place": "Beer-lahai-roi",
+        "country": "ancient Near East (not named)"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "invitation",
+      "quote": "perhaps we can emulate Hagar’s ministering angel",
+      "basis": "interpreted",
+      "note": "Soft ask: be the one who helps someone know God sees them",
+      "detail": {
+        "action": "be a ministering angel to someone in their wilderness"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "the woman at the well had the confidence to leave behind her waterpot",
+      "basis": "interpreted",
+      "note": "Paired with Peter leaving his fish: help gives the confidence to leave the old life",
+      "detail": {
+        "image": "waterpot",
+        "family": "water",
+        "carries": "Christlike help builds confident discipleship"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "name_of_christ",
+      "quote": "to tell everyone of the Messiah",
+      "basis": "exact",
+      "detail": {
+        "name": "the Messiah"
+      }
+    }
+  ]
+}

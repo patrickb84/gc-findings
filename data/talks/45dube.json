@@ -1,0 +1,518 @@
+{
+  "id": "45dube",
+  "kind": "talk",
+  "speaker": "Edward Dube",
+  "role": "Of the Presidency of the Seventy",
+  "title": "Come unto Christ",
+  "session": "Sunday Morning Session",
+  "order": 23,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/45dube?lang=eng",
+  "pronouns": {
+    "i": 42,
+    "we": 22,
+    "you": 16
+  },
+  "summary": "Elder Dube teaches that we do not have to perfect ourselves before coming to Christ; we come to Christ to be perfected. He tells how President Oaks had a “Trespassers will be prosecuted” sign taken off a mission gate in 1987, and how a ministering visit led a man trying to quit smoking and his wife to be sealed, after she was told in prayer that he only needed to do his best. He invites everyone, including those whose faith has grown uncertain, to come unto Christ and to help one other person come too.",
+  "audience": {
+    "who": "All members, with an aside to anyone whose testimony feels less certain than it once was",
+    "quote": "Brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "testimony",
+    "quote",
+    "scripture",
+    "list",
+    "principle",
+    "quote",
+    "story",
+    "principle",
+    "list",
+    "scripture",
+    "story",
+    "invitation",
+    "promise",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.5,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Luke 22:44",
+      "basis": "exact",
+      "ref": "Luke 22:44",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Moroni 10:32",
+      "basis": "exact",
+      "ref": "Moroni 10:32",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Ezekiel 36:26",
+      "basis": "exact",
+      "ref": "Ezekiel 36:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Moroni 10:33",
+      "basis": "exact",
+      "ref": "Moroni 10:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "John 15:11",
+      "basis": "exact",
+      "ref": "John 15:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Matthew 16:25",
+      "basis": "exact",
+      "ref": "Matthew 16:25",
+      "spoken": false
+    },
+    {
+      "id": "x-n2",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “What Has Our Savior Done for Us?” Liahona, May 2021, 77.",
+      "basis": "exact",
+      "ref": "What Has Our Savior Done for Us?",
+      "note": "Cites President Oaks: Christ did all this because He loves all of God's children",
+      "detail": {
+        "source": "What Has Our Savior Done for Us?, Apr. 2021"
+      }
+    },
+    {
+      "id": "x-n5",
+      "type": "past_prophet",
+      "quote": "Russell M. Nelson, “Perfection Pending,” Ensign, Nov. 1995, 88.",
+      "basis": "exact",
+      "ref": "Perfection Pending",
+      "note": "Cites President Nelson: perfection is pending",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Brothers and sisters, let us consider Laurin’s answer to her prayer.",
+      "basis": "exact",
+      "detail": {
+        "action": "remember the Lord asks only our very best"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "You too can live it.",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: come to Christ as Randall did, without first perfecting yourself",
+      "detail": {
+        "action": "come to Christ as you are"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "If you will “deny not his power, then are ye sanctified in Christ by the grace of God",
+      "basis": "interpreted",
+      "note": "Moroni's conditional promise, turned to the listener with “If you will”",
+      "detail": {
+        "blessing": "sanctified in Christ by His grace"
+      },
+      "paired_with": "c-2"
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "I invite you, please come unto Christ and embrace His promise",
+      "basis": "exact",
+      "detail": {
+        "action": "come unto Christ, especially when faith feels uncertain"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "“that [His] joy might remain in you, and that your joy might be full.”",
+      "basis": "interpreted",
+      "note": "Christ's promise of full joy, offered to those whose testimony has weakened",
+      "detail": {
+        "blessing": "Christ's joy remaining in you and full joy"
+      },
+      "paired_with": "c-4"
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Will you find one person and invite him or her to come unto Christ by exercising faith to follow His teachings, or invite a friend to meet with the missionaries?",
+      "basis": "exact",
+      "detail": {
+        "action": "find one person to invite to Christ or to meet the missionaries"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "As you lose yourself in helping him or her come unto Christ, you will find solutions to your current problems.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "solutions to your current problems"
+      },
+      "paired_with": "c-6"
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "He will give us a new heart.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "a new heart"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "testimony",
+      "quote": "I love Him. I know He lives.",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Christ, and his love for Him"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "testimony",
+      "quote": "I cannot comprehend that suffering, but I testify of His divinity.",
+      "basis": "exact",
+      "detail": {
+        "of": "Christ's divinity and His suffering in Gethsemane and on the cross"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "testimony",
+      "quote": "I testify of His divinity in the name of Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "Christ's divinity"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "Three key truths to note:",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "Come: an action, moving from our current place to a better place",
+          "Deny yourselves: surrender, let go of what holds us back",
+          "Be perfected in Him: come as we are with a willing heart"
+        ],
+        "purpose": "what Moroni's invitation to come unto Christ asks"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "Addiction, doubt, pride, pain, grief, guilt, materialism—or whatever is holding us back",
+      "basis": "exact",
+      "detail": {
+        "count": "7",
+        "items": [
+          "addiction",
+          "doubt",
+          "pride",
+          "pain",
+          "grief",
+          "guilt",
+          "materialism"
+        ],
+        "purpose": "what the adversary says makes us unworthy to come unto Christ"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "He came to Christ—with prayer, with trust, and with a willing heart.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "prayer",
+          "trust",
+          "a willing heart"
+        ],
+        "purpose": "how Randall came to Christ"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "But Moroni taught it. Laurin heard it. Randall lived it. You too can live it.",
+      "basis": "interpreted",
+      "note": "A four-beat cadence passing the truth from scripture to Laurin to Randall to the listener",
+      "detail": {
+        "count": "4",
+        "items": [
+          "Moroni taught it",
+          "Laurin heard it",
+          "Randall lived it",
+          "you can live it"
+        ],
+        "purpose": "the chain from scripture to the listener"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "revelation",
+      "quote": "The adversary wants to hang that sign on the gate of our heart.",
+      "basis": "interpreted",
+      "note": "Reads as a warning: the adversary tells us our struggles make us unworthy to come to Christ",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "prophet",
+      "quote": "President Oaks asked that it be removed to avoid any impression of exclusion.",
+      "basis": "exact",
+      "detail": {
+        "source": "Dube's 1987 mission memory of President Oaks"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "story",
+      "quote": "In 1987, I was a young missionary with only two years in the Church. At the mission office, a sign on the gate read, “Trespassers will be prosecuted.”",
+      "basis": "interpreted",
+      "note": "President Oaks has a “Trespassers will be prosecuted” sign removed from a mission office gate",
+      "detail": {
+        "story_type": "missionary",
+        "about": "President Oaks removes an excluding sign from a mission gate"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "Last June on the way to the airport, President Brian Pace from the Wilmington North Carolina Stake asked, “Can we make one more ministering visit?”",
+      "basis": "interpreted",
+      "note": "A last-minute ministering visit leads a man trying to quit smoking and his wife to choose a sealing date",
+      "detail": {
+        "story_type": "personal",
+        "about": "Randall and Laurin Child sealed two months after a ministering visit"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "story",
+      "quote": "So all night I cried and pleaded with the Lord to help him.",
+      "basis": "interpreted",
+      "note": "Laurin prays all night and is told Randall only needs to do his best",
+      "detail": {
+        "story_type": "other",
+        "about": "a wife's all-night prayer for her husband"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "how much do you love your wife, Laurin?",
+      "basis": "exact",
+      "detail": {
+        "who": "Randall Child's wife, Laurin",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "relationship",
+      "quote": "One of our former missionaries wrote me recently",
+      "basis": "exact",
+      "detail": {
+        "who": "a former missionary",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "a sign on the gate read, “Trespassers will be prosecuted.”",
+      "basis": "interpreted",
+      "note": "The sign returns later on the gate of our heart",
+      "detail": {
+        "image": "sign on a gate",
+        "family": "building",
+        "carries": "no one is shut out from coming to Christ"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "We choose to move from our current place to a better place.",
+      "basis": "interpreted",
+      "note": "Coming to Christ as a move from one place to another",
+      "detail": {
+        "image": "moving to a better place",
+        "family": "path",
+        "carries": "coming to Christ is a chosen action"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "Let go of the things that are holding us back.",
+      "basis": "interpreted",
+      "note": "Sins and struggles as things gripping us that we release",
+      "detail": {
+        "image": "letting go",
+        "family": "body",
+        "carries": "surrender what keeps us from Christ"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "Come as we are with a willing heart. He will give us a new heart.",
+      "basis": "interpreted",
+      "note": "We bring a willing heart; He gives a new one",
+      "detail": {
+        "image": "heart",
+        "family": "body",
+        "carries": "Christ changes us after we come, not before"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "place",
+      "quote": "He suffered for me in Gethsemane",
+      "basis": "exact",
+      "detail": {
+        "place": "Garden of Gethsemane",
+        "country": "ancient Judea (Jerusalem)"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "place",
+      "quote": "He suffered for me on the cross at Golgotha.",
+      "basis": "exact",
+      "detail": {
+        "place": "Golgotha",
+        "country": "ancient Judea (Jerusalem)"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "place",
+      "quote": "the Wilmington North Carolina Stake",
+      "basis": "exact",
+      "detail": {
+        "place": "Wilmington, North Carolina",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "name_of_christ",
+      "quote": "only through the Lord",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "christ",
+      "quote": "“that [His] joy might remain in you, and that your joy might be full.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 15:11"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "christ",
+      "quote": "“For whosever will save his life shall lose it: and whosever will lose his life for my sake shall find it.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 16:25"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "source",
+      "quote": "“Brother Randall Child is a good man. He is trying very hard to stop smoking.”",
+      "basis": "exact",
+      "detail": {
+        "who": "President Brian Pace, stake president"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "source",
+      "quote": "“Heavenly Father,” I pleaded, “please put words in my mouth.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Elder Dube's own prayer before the visit"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "source",
+      "quote": "I stayed awake all night because I couldn’t bear watching Randall suffer—wanting to be perfect in every way possible.",
+      "basis": "exact",
+      "detail": {
+        "who": "Laurin Child"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "source",
+      "quote": "‘Randall doesn’t need to be perfect. He needs to do the very best he can.’",
+      "basis": "exact",
+      "detail": {
+        "who": "the Lord's answer to Laurin Child's prayer"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "source",
+      "quote": "I knew then that she was an answer to my prayers.",
+      "basis": "exact",
+      "detail": {
+        "who": "Randall Child"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "source",
+      "quote": "“As for my faith, my testimony is not as certain as it once was.”",
+      "basis": "exact",
+      "detail": {
+        "who": "a former missionary"
+      }
+    }
+  ]
+}

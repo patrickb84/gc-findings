@@ -1,0 +1,664 @@
+{
+  "id": "42chibota",
+  "kind": "talk",
+  "speaker": "Rosemary K. Chibota",
+  "role": "Primary General President",
+  "title": "A Child of God",
+  "session": "Sunday Morning Session",
+  "order": 20,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/42chibota?lang=eng",
+  "pronouns": {
+    "i": 27,
+    "we": 44,
+    "you": 29
+  },
+  "summary": "Sister Chibota teaches that every person is a beloved child of God, and that seeing people that way, as the Savior did, changes how we treat them and how we see ourselves. She builds the talk on the southern African greeting sawubona, “I see you,” and on stories of Jesus at the pool of Bethesda, a school janitor her daughter greeted by name, and President Oaks telling her she was called for who she is. She asks us this week to learn the name of someone who feels unseen, pray to see others as Heavenly Father sees them, and replace worldly labels with eternal truths.",
+  "audience": {
+    "who": "All members, especially anyone weighed down by labels or feeling unseen",
+    "quote": "My dear friends"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "scripture",
+    "story",
+    "story",
+    "story",
+    "quote",
+    "invitation",
+    "quote",
+    "scripture",
+    "principle",
+    "story",
+    "promise",
+    "testimony",
+    "quote",
+    "promise",
+    "story",
+    "invitation",
+    "list",
+    "testimony",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.25,
+    "present": 0.6,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mark 10:21",
+      "basis": "exact",
+      "ref": "Mark 10:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "verses 22–23",
+      "basis": "exact",
+      "ref": "Mark 10:22–23",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "John 5:2–9",
+      "basis": "exact",
+      "ref": "John 5:2–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Luke 10:30–35",
+      "basis": "exact",
+      "ref": "Luke 10:30–35",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Romans 4:17",
+      "basis": "exact",
+      "ref": "Romans 4:17",
+      "spoken": false
+    },
+    {
+      "id": "x-n4",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 85.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Cites President Oaks that all mortals are beloved children of God",
+      "detail": {
+        "source": "Alive in Christ, Liahona, May 2026"
+      }
+    },
+    {
+      "id": "x-n6",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Spencer W. Kimball (2006), 82.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Spencer W. Kimball",
+      "note": "Quotes President Spencer W. Kimball: God meets our needs through another person",
+      "detail": {
+        "who": "Spencer W. Kimball"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Choices for Eternity” (worldwide devotional for young adults, May 15, 2022), Gospel Library.",
+      "basis": "exact",
+      "ref": "Choices for Eternity",
+      "note": "Cites President Nelson: embracing divine identity shapes every major decision",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n9",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Choices for Eternity.”",
+      "basis": "exact",
+      "ref": "Choices for Eternity",
+      "note": "Second citation of President Nelson's devotional on divine identity",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "I plead with you as disciples of Jesus Christ to pray to see others as He sees them and to treat them accordingly.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray to see others as Christ sees them and treat them that way"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Remember, “Jesus said love ev’ryone; treat them kindly too.”",
+      "basis": "exact",
+      "detail": {
+        "action": "love everyone and treat them kindly"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Remember that every person has divine worth.",
+      "basis": "exact",
+      "detail": {
+        "action": "remember every person's divine worth"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "You too can make a difference in someone’s life today simply by seeing them and acknowledging them.",
+      "basis": "interpreted",
+      "note": "Soft invitation phrased as possibility: see and acknowledge someone today",
+      "detail": {
+        "action": "see and acknowledge someone today"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "Learn the name of someone who may feel unseen.",
+      "basis": "exact",
+      "detail": {
+        "action": "learn the name of someone who feels unseen"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Pray to see others as Heavenly Father sees them.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray to see others as Heavenly Father sees them"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "Replace worldly labels with these eternal truths: Child of God. Child of the covenant. Disciple of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "action": "replace worldly labels with eternal truths"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "When we see others through the Savior’s eyes, love and service naturally follow.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "love and service follow naturally"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "Whatever labels may weigh heavily upon you today, Jesus Christ can raise you above them.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "Christ raises you above heavy labels"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "His grace is sufficient to lift you above every label and limitation.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "grace lifts you above every label and limitation"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "As we seek the Savior’s perspective, He will often guide us to those who need to be seen.",
+      "basis": "exact",
+      "paired_with": "c-6",
+      "detail": {
+        "blessing": "guidance to people who need to be seen"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "I learned that when we ask Heavenly Father to help us see others, He guides us to those who feel unseen.",
+      "basis": "exact",
+      "paired_with": "c-6",
+      "detail": {
+        "blessing": "Heavenly Father guides us to the unseen"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "promise",
+      "quote": "When we see one another through the Savior’s eyes, hearts change, relationships deepen, and faith grows.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "changed hearts, deeper relationships, growing faith"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "promise",
+      "quote": "As we learn to see ourselves and one another as They do, our homes, wards, schools, and communities will become places of belonging, healing, and love.",
+      "basis": "exact",
+      "paired_with": "c-7",
+      "detail": {
+        "blessing": "homes, wards, schools and communities become places of belonging, healing, and love"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "promise",
+      "quote": "Through His atoning sacrifice, He makes that divine potential possible for all of us.",
+      "basis": "interpreted",
+      "note": "Doctrinal assurance that Christ's Atonement makes our divine potential possible",
+      "detail": {
+        "blessing": "divine potential made possible through the Atonement"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "testimony",
+      "quote": "He loves you. He knows you. He sees you as you are now and sees who you will become. He has a plan for your life, and Jesus Christ is at the center of that plan!",
+      "basis": "interpreted",
+      "note": "A direct witness to the listener of Heavenly Father's love and plan, without the word testify",
+      "detail": {
+        "of": "Heavenly Father loves, knows, and sees you, and has a plan centered on Jesus Christ"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "testimony",
+      "quote": "My dear friends, I leave you a final sawubona. I see you. More important, your Heavenly Father sees you. Your Savior, Jesus Christ, sees you.",
+      "basis": "interpreted",
+      "note": "Closing witness framed as a greeting: the Father and the Son see you",
+      "detail": {
+        "of": "Heavenly Father and Jesus Christ see and know each person"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "list",
+      "quote": "This week, I invite you to:",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "learn the name of someone who may feel unseen",
+          "pray to see others as Heavenly Father sees them",
+          "replace worldly labels with eternal truths"
+        ],
+        "purpose": "invitations for this week"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "list",
+      "quote": "Child of God. Child of the covenant. Disciple of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "Child of God",
+          "Child of the covenant",
+          "Disciple of Jesus Christ"
+        ],
+        "purpose": "eternal truths to replace worldly labels"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "list",
+      "quote": "He saw the woman at the well, the leper, the blind man, and the child.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "the woman at the well",
+          "the leper",
+          "the blind man",
+          "the child"
+        ],
+        "purpose": "people the Savior truly saw"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "Before we were students, athletes, employees, parents, citizens, or leaders, we were spirit children of our Heavenly Father.",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "students",
+          "athletes",
+          "employees",
+          "parents",
+          "citizens",
+          "leaders"
+        ],
+        "purpose": "worldly labels that come after our identity as spirit children"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "list",
+      "quote": "greetings in my culture communicate love, concern, respect, and belonging",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "love",
+          "concern",
+          "respect",
+          "belonging"
+        ],
+        "purpose": "what greetings communicate in her culture"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "list",
+      "quote": "That eternal identity does not change when circumstances change, when we make mistakes, or when others misunderstand us.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "circumstances change",
+          "we make mistakes",
+          "others misunderstand us"
+        ],
+        "purpose": "things that do not change our eternal identity"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "list",
+      "quote": "They know your name, your circumstances, your gifts, and your divine potential.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "your name",
+          "your circumstances",
+          "your gifts",
+          "your divine potential"
+        ],
+        "purpose": "what the Father and the Son know about you"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "It communicates, “I recognize you. I respect you. You matter.”",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "I recognize you",
+          "I respect you",
+          "You matter"
+        ],
+        "purpose": "what the greeting sawubona communicates"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "My daughter recently reminded me of the significance of the southern African greeting sawubona, which means, “I see you.”",
+      "basis": "interpreted",
+      "note": "Opening frame: the greeting sawubona, which carries the whole talk",
+      "detail": {
+        "story_type": "family",
+        "about": "her daughter recalls the meaning of the greeting sawubona"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "Even of the rich young man who later walked away from Him sorrowing, the scriptures say, “[And] Jesus beholding him loved him.”",
+      "basis": "interpreted",
+      "note": "Christ loved even the one who walked away",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus loves the rich young man who walks away"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "There Jesus saw a man who had suffered with an infirmity for 38 years. Where others had walked past him for years, the Savior saw him, ministered to him, and healed him.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus sees and heals the man at the pool of Bethesda"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "Rather than allowing labels or differences to distract him, he saw a child of God in need and acted.",
+      "basis": "interpreted",
+      "note": "The good Samaritan retold as choosing to see past labels",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the good Samaritan sees a child of God in need"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "story",
+      "quote": "During our daughter’s final parent-teacher conference, a school janitor approached my husband and me. With tears in his eyes, he thanked us for our daughter.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "a school janitor thanks them because their daughter knew his name"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "As mission leaders, we found that missionaries who understood and taught this truth were more effective in helping others come unto Christ.",
+      "basis": "interpreted",
+      "note": "Brief observation from her years as a mission leader",
+      "detail": {
+        "story_type": "missionary",
+        "about": "missionaries who taught that all are children of God were more effective"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "story",
+      "quote": "When President Oaks extended my new calling, he told me, “You’ve been called for who you are. The Lord knows you.”",
+      "basis": "exact",
+      "detail": {
+        "story_type": "personal",
+        "about": "President Oaks eases her feelings of inadequacy when calling her"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "story",
+      "quote": "Years ago I prayed to know how I could help a coworker who seemed isolated. As I acted on simple promptings to include him, our friendship grew.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "personal",
+        "about": "she prays for and befriends an isolated coworker"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "My daughter recently reminded me",
+      "basis": "exact",
+      "detail": {
+        "who": "daughter",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "relationship",
+      "quote": "a school janitor approached my husband and me",
+      "basis": "exact",
+      "detail": {
+        "who": "husband",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "relationship",
+      "quote": "help a coworker who seemed isolated",
+      "basis": "exact",
+      "detail": {
+        "who": "coworker",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "prophet",
+      "quote": "“You’ve been called for who you are. The Lord knows you.”",
+      "basis": "exact",
+      "detail": {
+        "source": "words spoken to Sister Chibota when extending her calling"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "source",
+      "quote": "“Very few students know my name. Your daughter sees me.”",
+      "basis": "exact",
+      "detail": {
+        "who": "a school janitor at her daughter's school"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "source",
+      "quote": "“Jesus said love ev’ryone; treat them kindly too.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Children’s Songbook, “Jesus Said Love Everyone”"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "source",
+      "quote": "the southern African greeting sawubona, which means, “I see you.”",
+      "basis": "exact",
+      "detail": {
+        "who": "a southern African greeting"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "the southern African greeting sawubona, which means, “I see you.”",
+      "basis": "interpreted",
+      "note": "Bookend: the greeting opens the talk and she closes with a final sawubona",
+      "detail": {
+        "image": "greeting",
+        "family": "other",
+        "carries": "truly seeing a person acknowledges their divine worth"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "I have sometimes viewed myself through the lens of such labels.",
+      "basis": "interpreted",
+      "note": "Labels as a lens that distorts how we see ourselves",
+      "detail": {
+        "image": "lens",
+        "family": "light",
+        "carries": "worldly labels distort self-perception"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "When we see others through the Savior’s eyes, love and service naturally follow.",
+      "basis": "interpreted",
+      "note": "Seeing through Christ's eyes, repeated twice in the talk",
+      "detail": {
+        "image": "the Savior's eyes",
+        "family": "body",
+        "carries": "seeing others as Christ does produces love"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "image",
+      "quote": "Whatever labels may weigh heavily upon you today, Jesus Christ can raise you above them.",
+      "basis": "interpreted",
+      "note": "Labels as a weight, grace as a lift",
+      "detail": {
+        "image": "weight / lifting",
+        "family": "other",
+        "carries": "Christ lifts us above the burden of labels"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "image",
+      "quote": "Where others saw labels, He saw beloved sons and daughters of God.",
+      "basis": "interpreted",
+      "note": "Labels as the recurring image of the talk, set against eternal identity",
+      "detail": {
+        "image": "labels",
+        "family": "other",
+        "carries": "worldly identifiers hide our identity as children of God"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "place",
+      "quote": "One of my favorite sawubona moments in the Savior’s ministry occurred at the pool of Bethesda.",
+      "basis": "exact",
+      "detail": {
+        "place": "pool of Bethesda, Jerusalem",
+        "country": "ancient Judea"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "place",
+      "quote": "the southern African greeting sawubona",
+      "basis": "exact",
+      "detail": {
+        "place": "southern Africa",
+        "country": "southern African region"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "image",
+      "quote": "The good Samaritan also chose to see.",
+      "basis": "interpreted",
+      "note": "Sight as choice: seeing is something we decide to do",
+      "detail": {
+        "image": "sight",
+        "family": "light",
+        "carries": "seeing others is a deliberate choice"
+      }
+    }
+  ]
+}

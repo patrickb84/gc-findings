@@ -1,0 +1,915 @@
+{
+  "id": "58reid",
+  "kind": "talk",
+  "speaker": "Gabriel W. Reid",
+  "role": "Second Counselor in the Sunday School General Presidency",
+  "title": "You Are Good Enough to Teach",
+  "session": "Sunday Afternoon Session",
+  "order": 35,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/58reid?lang=eng",
+  "pronouns": {
+    "i": 36,
+    "we": 32,
+    "you": 25
+  },
+  "summary": "Brother Reid teaches that anyone can teach the gospel, because the Master Teacher promises to make His teachers into who He needs, and the heart of His teaching is love. He draws on Christ calling ordinary fishermen, the sons of Mosiah, his childhood in Leone, American Samoa, where his parents and Primary teachers under a mango tree taught him by loving him, and the resurrected Savior ministering one by one in the Americas. He asks teachers to use the new 25-minute lessons to help class members connect to the Savior, and to come unto, learn of, and love the Master Teacher so they can love those they teach.",
+  "audience": {
+    "who": "Gospel teachers of every kind, in classrooms, missions and homes, especially those who feel they are not good enough",
+    "quote": "Brothers and sisters, if you are wondering whether you are good enough to teach the gospel of Jesus Christ"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "scripture",
+    "scripture",
+    "promise",
+    "principle",
+    "scripture",
+    "invitation",
+    "story",
+    "principle",
+    "story",
+    "scripture",
+    "principle",
+    "quote",
+    "invitation",
+    "promise",
+    "list",
+    "promise",
+    "invitation",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.55,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mark 1:17",
+      "basis": "exact",
+      "ref": "Mark 1:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Matthew 4:19",
+      "basis": "exact",
+      "ref": "Matthew 4:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Mosiah 27:8–37",
+      "basis": "exact",
+      "ref": "Mosiah 27:8–37",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Mosiah 28:1–3",
+      "basis": "exact",
+      "ref": "Mosiah 28:1–3",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Alma 17:11",
+      "basis": "exact",
+      "ref": "Alma 17:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Exodus 3:11–12",
+      "basis": "exact",
+      "ref": "Exodus 3:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "4:10–12",
+      "basis": "exact",
+      "ref": "Exodus 4:10–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Alma 17:10–11",
+      "basis": "exact",
+      "ref": "Alma 17:10–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Helaman 10:1–5",
+      "basis": "exact",
+      "ref": "Helaman 10:1–5",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 11:21",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 11:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Moses 6:31–34",
+      "basis": "exact",
+      "ref": "Moses 6:31–34",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "John 13:34–35",
+      "basis": "exact",
+      "ref": "John 13:34–35",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "21:15–17",
+      "basis": "exact",
+      "ref": "John 21:15–17",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Matthew 22:36–40",
+      "basis": "exact",
+      "ref": "Matthew 22:36–40",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Mark 12:28–31",
+      "basis": "exact",
+      "ref": "Mark 12:28–31",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Luke 10:25–28",
+      "basis": "exact",
+      "ref": "Luke 10:25–28",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "3 Nephi 11:13–15",
+      "basis": "exact",
+      "ref": "3 Nephi 11:13–15",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "3 Nephi 11:16–41",
+      "basis": "exact",
+      "ref": "3 Nephi 11:16–41",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "3 Nephi 17:1–21",
+      "basis": "exact",
+      "ref": "3 Nephi 17:1–21",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "John 14:26",
+      "basis": "exact",
+      "ref": "John 14:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 84:85",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:85",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "Isaiah 41:10",
+      "basis": "exact",
+      "ref": "Isaiah 41:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 84:88",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:88",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "Ether 12:27",
+      "basis": "exact",
+      "ref": "Ether 12:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "Matthew 11:28–30",
+      "basis": "exact",
+      "ref": "Matthew 11:28–30",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "Moroni 10:32",
+      "basis": "exact",
+      "ref": "Moroni 10:32",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "Matthew 11:29",
+      "basis": "exact",
+      "ref": "Matthew 11:29",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 19:23",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 19:23",
+      "spoken": false
+    },
+    {
+      "id": "x-s29",
+      "type": "scripture",
+      "quote": "88:118",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:118",
+      "spoken": false
+    },
+    {
+      "id": "x-s30",
+      "type": "scripture",
+      "quote": "Matthew 22:37",
+      "basis": "exact",
+      "ref": "Matthew 22:37",
+      "spoken": false
+    },
+    {
+      "id": "x-s31",
+      "type": "scripture",
+      "quote": "John 14:15",
+      "basis": "exact",
+      "ref": "John 14:15",
+      "spoken": false
+    },
+    {
+      "id": "x-s32",
+      "type": "scripture",
+      "quote": "1 John 4:19",
+      "basis": "exact",
+      "ref": "1 John 4:19",
+      "spoken": false
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "See Teaching in the Savior’s Way: For All Who Teach in the Home and in the Church (2024), 1.",
+      "basis": "exact",
+      "ref": "Teaching in the Savior’s Way: For All Who Teach in the Home and in the Church"
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "See John 13:34–35; 21:15–17; Teaching in the Savior’s Way, 12–15.",
+      "basis": "exact",
+      "ref": "Teaching in the Savior’s Way"
+    },
+    {
+      "id": "x-n10",
+      "type": "source",
+      "quote": "See David A. Bednar, “Seek Learning by Faith,” Liahona, Sept. 2007, 16–24.",
+      "basis": "exact",
+      "ref": "Seek Learning by Faith",
+      "note": "Elder Bednar on learning by faith",
+      "detail": {
+        "who": "David A. Bednar"
+      }
+    },
+    {
+      "id": "x-n11",
+      "type": "prophet",
+      "quote": "See Teaching in the Savior’s Way, 14–15; see also Rachel Sterzer Gibson, “What President Oaks Remembers Best About His Seminary Teachers 70 Years Ago—and How It Can Help Teachers Today,” June 4, 2021, newsroom.ChurchofJesusChrist.org.",
+      "basis": "exact",
+      "ref": "Teaching in the Savior’s Way",
+      "note": "Cites a Newsroom article on what President Oaks remembers about his seminary teachers, alongside Teaching in the Savior's Way",
+      "detail": {
+        "source": "Newsroom article on President Oaks's seminary teachers, June 2021"
+      }
+    },
+    {
+      "id": "x-n15",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Gospel Teaching,” Liahona, Jan. 2000, 94.",
+      "basis": "exact",
+      "ref": "Gospel Teaching",
+      "note": "President Oaks quoted: a gospel teacher never blocks the learner's view of the Master",
+      "detail": {
+        "source": "Gospel Teaching, Liahona, Jan. 2000"
+      }
+    },
+    {
+      "id": "x-n16",
+      "type": "source",
+      "quote": "See Teaching in the Savior’s Way, 6–7.",
+      "basis": "exact",
+      "ref": "Teaching in the Savior’s Way"
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "The Lord invites all of us to teach His gospel.",
+      "basis": "interpreted",
+      "note": "The Lord's invitation, passed on by the speaker to everyone",
+      "detail": {
+        "action": "teach His gospel wherever we are"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "Wherever we teach—in classrooms, in the mission field, in our homes, or one by one—His promise remains the same: He will help us do His work.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the Lord helps every teacher do His work"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "these two great commandments become one simple invitation: Love the Lord and love those you teach.",
+      "basis": "exact",
+      "detail": {
+        "action": "love the Lord and love those you teach"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Perhaps the better question is “How can I help those I teach connect to the Savior sooner?”",
+      "basis": "interpreted",
+      "note": "Asks teachers to swap covering everything for connecting learners to the Savior",
+      "detail": {
+        "action": "help those you teach connect to the Savior sooner"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "Twenty-five-minute lessons are not a limitation; they are an invitation: to focus, more clearly than ever, on helping others come to the Savior.",
+      "basis": "exact",
+      "detail": {
+        "action": "use short lessons to focus on bringing others to the Savior"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "If class members leave the lesson feeling closer to the Savior than when they came, we have taught enough.",
+      "basis": "interpreted",
+      "note": "Assurance to teachers worried about a 25-minute lesson",
+      "paired_with": "c-5",
+      "detail": {
+        "blessing": "a lesson that brings people closer to the Savior is enough"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "Brothers and sisters, if you are wondering whether you are good enough to teach the gospel of Jesus Christ, the answer is yes!",
+      "basis": "interpreted",
+      "note": "Direct assurance answering the title question",
+      "detail": {
+        "blessing": "you are good enough to teach"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "And as you deepen your love for the One you teach about, He will teach you, walk beside you, and gradually make you into the teacher He knows you can become.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "Christ teaches you, walks beside you, and makes you the teacher you can become"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "invitation",
+      "quote": "Come unto the Master Teacher. Learn of Him. Love Him.",
+      "basis": "exact",
+      "detail": {
+        "action": "come unto, learn of, and love the Master Teacher"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "As you do, He will help you love those you teach—and that love will make your teaching more like His.",
+      "basis": "exact",
+      "paired_with": "c-9",
+      "detail": {
+        "blessing": "love for those you teach and teaching more like His"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "invitation",
+      "quote": "To teach like the Savior, we must love like the Savior!",
+      "basis": "interpreted",
+      "note": "Closing charge phrased as a principle: love like the Savior",
+      "detail": {
+        "action": "love like the Savior in order to teach like Him"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "Not because you have every teaching skill.",
+      "basis": "interpreted",
+      "note": "Three 'not because' lines and one 'because' line, each its own paragraph",
+      "detail": {
+        "count": "4",
+        "items": [
+          "not because you know everything",
+          "not because you have every teaching skill",
+          "not because you always feel capable or confident",
+          "because you can love the Master Teacher"
+        ],
+        "purpose": "why you are good enough to teach"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "the Savior taught, first, to love the Lord our God with all our heart, soul, and mind and, second, to love our neighbor as ourselves.",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "love the Lord our God",
+          "love our neighbor as ourselves"
+        ],
+        "purpose": "the two great commandments, made into one invitation for teachers"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "Wherever we teach—in classrooms, in the mission field, in our homes, or one by one",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "classrooms",
+          "the mission field",
+          "our homes",
+          "one by one"
+        ],
+        "purpose": "where the Lord's promise to teachers holds"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "Whether you see yourself as a scholar, an athlete, a lifelong disciple, or someone who has recently started—or started again—to follow Christ, the invitation is the same.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "a scholar",
+          "an athlete",
+          "a lifelong disciple",
+          "someone who has recently started or started again"
+        ],
+        "purpose": "every kind of teacher gets the same invitation; echoes the headline"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "He healed their sick, blessed their children, and prayed for them one by one.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "healed their sick",
+          "blessed their children",
+          "prayed for them one by one"
+        ],
+        "purpose": "the Savior's love after the lesson ended in 3 Nephi 17"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "Am I good enough to teach the gospel of Jesus Christ?",
+      "basis": "interpreted",
+      "note": "Two self-doubting questions, each its own paragraph",
+      "detail": {
+        "count": "2",
+        "items": [
+          "Do I know enough?",
+          "Am I good enough to teach the gospel of Jesus Christ?"
+        ],
+        "purpose": "the doubts teachers carry"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "revelation",
+      "quote": "The inspired new Sunday schedule offers weekly opportunities to know and love those we teach, helping them come closer to the Savior and helping them deepen their conversion.",
+      "basis": "interpreted",
+      "note": "Reads as direction on how teachers should use the new Sunday schedule and its 25-minute lessons",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "Shortly after I was sustained as a member of the Sunday School General Presidency, I felt inadequate, overwhelmed, and completely out of place.",
+      "basis": "interpreted",
+      "note": "A news headline grouped him with Church educators and an NFL player; he jokes he hopes people think he is one of the scholars",
+      "detail": {
+        "story_type": "personal",
+        "about": "feeling inadequate after his call and the headline about the new Sunday School leaders"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "source",
+      "quote": "“New Sunday School Leaders Include Men Involved in Church Education and an NFL Player.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Emily Ashcraft, KSL news headline"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "story",
+      "quote": "To a small group of ordinary fishermen on the shores of Galilee, men with willing hearts but little experience, He said, “Come ye after me, and I will make you to become fishers of men.”",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Christ calls fishermen and promises to make them fishers of men"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "christ",
+      "quote": "“Come ye after me, and I will make you to become fishers of men.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Mark 1:17"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "story",
+      "quote": "the sons of Mosiah were still young when they went to teach the gospel to the Lamanites. Their past was marked by rebellion, yet their hearts had been changed through the Savior’s redeeming power.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the once-rebellious sons of Mosiah go to teach the Lamanites"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "christ",
+      "quote": "the Lord promised, “I will make an instrument of thee in my hands.”",
+      "basis": "interpreted",
+      "note": "The Lord's words in Alma 17:11, read as Christ's",
+      "detail": {
+        "where": "Alma 17:11"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "story",
+      "quote": "Our home in the village of Leone, American Samoa, became my first classroom of gospel learning. Under one roof, 13 children, two faithful parents, and often extended family learned and lived the gospel together.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "a home of 13 children where faithful parents taught the gospel by example"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "Many of my earliest Primary classes were held beneath the shade of a mango tree.",
+      "basis": "interpreted",
+      "note": "Village Primary teachers who knew each child by name; their love let him feel the Savior's love",
+      "detail": {
+        "story_type": "personal",
+        "about": "Primary under a mango tree with teachers who loved him"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "My wife and I will always cherish our time in the Australia Sydney Mission.",
+      "basis": "interpreted",
+      "note": "Leading 500+ missionaries from 30+ countries, loving the Savior more taught them to love the missionaries",
+      "detail": {
+        "story_type": "missionary",
+        "about": "presiding over the Australia Sydney Mission"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "When the resurrected Savior appeared to the people in the Americas, He did not begin by delivering a sermon to the multitude. He began by focusing on the individuals.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the risen Christ ministers one by one before and after teaching in 3 Nephi"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "relationship",
+      "quote": "My first gospel teachers were my parents.",
+      "basis": "exact",
+      "detail": {
+        "who": "parents",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "My father joined the Church as a young man.",
+      "basis": "exact",
+      "detail": {
+        "who": "father, a convert",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "relationship",
+      "quote": "My mother had limited formal education.",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "Under one roof, 13 children, two faithful parents, and often extended family",
+      "basis": "interpreted",
+      "note": "He grew up as one of 13 children",
+      "detail": {
+        "who": "siblings (13 children) and extended family",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "relationship",
+      "quote": "My wife and I will always cherish our time",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "Our teachers faithfully prepared each lesson, but what I remember most is how they loved us.",
+      "basis": "exact",
+      "detail": {
+        "who": "childhood Primary teachers",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "I will make you to become fishers of men",
+      "basis": "interpreted",
+      "note": "Fishermen's trade turned into the work of gathering people",
+      "detail": {
+        "image": "fishers of men",
+        "family": "water",
+        "carries": "Christ makes ordinary people into teachers"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "I will make an instrument of thee in my hands.",
+      "basis": "interpreted",
+      "note": "The teacher as a tool held by the Lord",
+      "detail": {
+        "image": "instrument in His hands",
+        "family": "body",
+        "carries": "the Lord works through willing teachers"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "became my first classroom of gospel learning",
+      "basis": "interpreted",
+      "note": "The home as the first classroom",
+      "detail": {
+        "image": "home as classroom",
+        "family": "building",
+        "carries": "parents are the first gospel teachers"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "beneath the shade of a mango tree",
+      "basis": "interpreted",
+      "note": "A humble outdoor classroom where love mattered more than setting",
+      "detail": {
+        "image": "mango tree",
+        "family": "growth",
+        "carries": "gospel teaching needs love, not a fine classroom"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "The impact of a gospel teacher is not just the message—it is the love of the messenger.",
+      "basis": "interpreted",
+      "note": "Message versus messenger",
+      "detail": {
+        "image": "messenger",
+        "family": "other",
+        "carries": "love carries the lesson"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "Christ-centered teaching is rooted in relationships.",
+      "basis": "interpreted",
+      "note": "Teaching grows from roots of relationship",
+      "detail": {
+        "image": "roots",
+        "family": "growth",
+        "carries": "teaching grows out of knowing and loving people"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "will never obscure [a learner’s] view of the Master by standing in the way",
+      "basis": "interpreted",
+      "note": "President Oaks's picture of a teacher blocking the view",
+      "detail": {
+        "image": "blocked view",
+        "family": "light",
+        "carries": "the teacher must not stand between the learner and Christ"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "He will teach you, walk beside you",
+      "basis": "interpreted",
+      "note": "Christ as a companion on the road",
+      "detail": {
+        "image": "walking beside",
+        "family": "path",
+        "carries": "Christ accompanies the teacher"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "place",
+      "quote": "on the shores of Galilee",
+      "basis": "exact",
+      "detail": {
+        "place": "Galilee",
+        "country": "Israel"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "place",
+      "quote": "the village of Leone, American Samoa",
+      "basis": "exact",
+      "detail": {
+        "place": "Leone",
+        "country": "American Samoa"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "place",
+      "quote": "the Australia Sydney Mission",
+      "basis": "exact",
+      "detail": {
+        "place": "Sydney",
+        "country": "Australia"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "place",
+      "quote": "appeared to the people in the Americas",
+      "basis": "exact",
+      "detail": {
+        "place": "the Americas",
+        "country": "the Americas"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "name_of_christ",
+      "quote": "the Savior, the Master Teacher",
+      "basis": "exact",
+      "detail": {
+        "name": "the Master Teacher"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "name_of_christ",
+      "quote": "the Lord promised",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "name_of_christ",
+      "quote": "view of the Master",
+      "basis": "exact",
+      "detail": {
+        "name": "the Master"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "name_of_christ",
+      "quote": "the One you teach about",
+      "basis": "interpreted",
+      "note": "Christ named by His role as the subject of every lesson",
+      "detail": {
+        "name": "the One you teach about"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "source",
+      "quote": "Some may ask, “How can I teach everything in 25 minutes?”",
+      "basis": "interpreted",
+      "note": "A hypothetical teacher's worry about the shorter lessons",
+      "detail": {
+        "who": "teachers (hypothetical)"
+      }
+    }
+  ]
+}

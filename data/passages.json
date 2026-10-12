@@ -18,6 +18,90 @@
     ]
   },
   {
+    "label": "Genesis 16",
+    "book": "Genesis",
+    "volume": "Old Testament",
+    "refs": [
+      "Genesis 16",
+      "Genesis 16:13",
+      "Genesis 16:14"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s34",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s35",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s36",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Exodus 3:11–12",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "refs": [
+      "Exodus 3:11–12"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
+    "label": "Exodus 3:14",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "refs": [
+      "Exodus 3:14"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s37",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Exodus 4:10–12",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "refs": [
+      "Exodus 4:10–12"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
     "label": "Exodus 14:11–12",
     "book": "Exodus",
     "volume": "Old Testament",
@@ -162,6 +246,24 @@
     ]
   },
   {
+    "label": "Deuteronomy 29:5",
+    "book": "Deuteronomy",
+    "volume": "Old Testament",
+    "refs": [
+      "Deuteronomy 29:5"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
     "label": "Deuteronomy 31:6",
     "book": "Deuteronomy",
     "volume": "Old Testament",
@@ -195,6 +297,96 @@
     ],
     "talks": [
       "21renlund"
+    ]
+  },
+  {
+    "label": "1 Samuel 16:7",
+    "book": "1 Samuel",
+    "volume": "Old Testament",
+    "refs": [
+      "1 Samuel 16:7"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "1 Kings 17:9",
+    "book": "1 Kings",
+    "volume": "Old Testament",
+    "refs": [
+      "1 Kings 17:9"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
+    "label": "1 Kings 17:13",
+    "book": "1 Kings",
+    "volume": "Old Testament",
+    "refs": [
+      "1 Kings 17:13"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
+    "label": "1 Kings 17:15",
+    "book": "1 Kings",
+    "volume": "Old Testament",
+    "refs": [
+      "1 Kings 17:15"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
+    "label": "1 Kings 17:16",
+    "book": "1 Kings",
+    "volume": "Old Testament",
+    "refs": [
+      "1 Kings 17:16"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s9",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
     ]
   },
   {
@@ -252,6 +444,24 @@
     ]
   },
   {
+    "label": "Psalms 26:11",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "refs": [
+      "Psalm 26:11"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "Psalms 50:15",
     "book": "Psalms",
     "volume": "Old Testament",
@@ -294,6 +504,24 @@
     ]
   },
   {
+    "label": "Psalms 85:10",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "refs": [
+      "Psalm 85:10"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s32",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
     "label": "Psalms 116:2",
     "book": "Psalms",
     "volume": "Old Testament",
@@ -312,6 +540,24 @@
     ]
   },
   {
+    "label": "Psalms 119:105",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "refs": [
+      "Psalm 119:105"
+    ],
+    "citations": [
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa"
+    ]
+  },
+  {
     "label": "Proverbs 3:5–6",
     "book": "Proverbs",
     "volume": "Old Testament",
@@ -327,6 +573,42 @@
     ],
     "talks": [
       "210rasband"
+    ]
+  },
+  {
+    "label": "Proverbs 6:16–17, 19",
+    "book": "Proverbs",
+    "volume": "Old Testament",
+    "refs": [
+      "Proverbs 6:16, 17, 19"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
+    ]
+  },
+  {
+    "label": "Isaiah 11:6",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "refs": [
+      "Isaiah 11:6"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
     ]
   },
   {
@@ -366,6 +648,61 @@
     ]
   },
   {
+    "label": "Isaiah 41",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "refs": [
+      "41st chapter of Isaiah,",
+      "Isaiah 41:10",
+      "Isaiah 41:13"
+    ],
+    "citations": [
+      {
+        "talk": "41eyring",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "41eyring",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s22",
+        "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "41eyring",
+      "52munoz-spannaus",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Isaiah 48:17",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "refs": [
+      "Isaiah 48:17"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
+    ]
+  },
+  {
     "label": "Isaiah 53:4",
     "book": "Isaiah",
     "volume": "Old Testament",
@@ -377,10 +714,16 @@
         "talk": "28dunn",
         "finding": "x-s3",
         "spoken": false
+      },
+      {
+        "talk": "41eyring",
+        "finding": "x-s3",
+        "spoken": false
       }
     ],
     "talks": [
-      "28dunn"
+      "28dunn",
+      "41eyring"
     ]
   },
   {
@@ -453,6 +796,24 @@
     ],
     "talks": [
       "16hathaway"
+    ]
+  },
+  {
+    "label": "Ezekiel 36:26",
+    "book": "Ezekiel",
+    "volume": "Old Testament",
+    "refs": [
+      "Ezekiel 36:26"
+    ],
+    "citations": [
+      {
+        "talk": "45dube",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "45dube"
     ]
   },
   {
@@ -573,17 +934,29 @@
     "book": "Malachi",
     "volume": "Old Testament",
     "refs": [
-      "Malachi 3:8, 10"
+      "Malachi 3:8, 10",
+      "Malachi 3:10"
     ],
     "citations": [
       {
         "talk": "24giuffra",
         "finding": "x-s2",
         "spoken": false
+      },
+      {
+        "talk": "53villanueva",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "53villanueva",
+        "finding": "x-s11",
+        "spoken": true
       }
     ],
     "talks": [
-      "24giuffra"
+      "24giuffra",
+      "53villanueva"
     ]
   },
   {
@@ -605,13 +978,37 @@
     ]
   },
   {
-    "label": "Matthew 5:6",
+    "label": "Matthew 4:19",
     "book": "Matthew",
     "volume": "New Testament",
     "refs": [
+      "Matthew 4:19"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
+    "label": "Matthew 5:3–11",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 5:3–11",
       "Matthew 5:6"
     ],
     "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s4",
+        "spoken": false
+      },
       {
         "talk": "19christofferson",
         "finding": "x-s7",
@@ -619,7 +1016,26 @@
       }
     ],
     "talks": [
-      "19christofferson"
+      "19christofferson",
+      "46cook"
+    ]
+  },
+  {
+    "label": "Matthew 5:38–47",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 5:38–47"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
     ]
   },
   {
@@ -641,6 +1057,24 @@
     ]
   },
   {
+    "label": "Matthew 6:8",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 6:8"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s10",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
     "label": "Matthew 6:9–13",
     "book": "Matthew",
     "volume": "New Testament",
@@ -656,6 +1090,24 @@
     ],
     "talks": [
       "26fale"
+    ]
+  },
+  {
+    "label": "Matthew 7:1–5",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 7:1–5"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
     ]
   },
   {
@@ -702,21 +1154,88 @@
     ]
   },
   {
+    "label": "Matthew 7:13–14",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 7:13–14"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook",
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "Matthew 7:15–23",
     "book": "Matthew",
     "volume": "New Testament",
     "refs": [
-      "Matthew 7:15–23"
+      "Matthew 7:15–23",
+      "Matthew 7:21"
     ],
     "citations": [
       {
         "talk": "15sikahema",
         "finding": "x-s3",
         "spoken": true
+      },
+      {
+        "talk": "46cook",
+        "finding": "x-s16",
+        "spoken": false
       }
     ],
     "talks": [
-      "15sikahema"
+      "15sikahema",
+      "46cook"
+    ]
+  },
+  {
+    "label": "Matthew 8:2–3",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 8:2–3"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Matthew 8:5–10",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 8:5–10"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
     ]
   },
   {
@@ -735,19 +1254,72 @@
         "spoken": false
       },
       {
+        "talk": "55lebethoa",
+        "finding": "x-s9",
+        "spoken": true
+      },
+      {
         "talk": "48schmeil",
         "finding": "x-s4",
         "spoken": true
       },
       {
+        "talk": "58reid",
+        "finding": "x-s25",
+        "spoken": false
+      },
+      {
         "talk": "210rasband",
         "finding": "x-s32",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s27",
         "spoken": false
       }
     ],
     "talks": [
       "210rasband",
-      "48schmeil"
+      "48schmeil",
+      "55lebethoa",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Matthew 12:34",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 12:34"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
+    ]
+  },
+  {
+    "label": "Matthew 12:36–37",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 12:36–37"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
     ]
   },
   {
@@ -769,6 +1341,42 @@
     ]
   },
   {
+    "label": "Matthew 15:21–28",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 15:21–28"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Matthew 16:25",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 16:25"
+    ],
+    "citations": [
+      {
+        "talk": "45dube",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "45dube"
+    ]
+  },
+  {
     "label": "Matthew 18:16",
     "book": "Matthew",
     "volume": "New Testament",
@@ -787,6 +1395,42 @@
     ]
   },
   {
+    "label": "Matthew 18:20",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 18:20"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Matthew 19:16–22",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 19:16–22"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
     "label": "Matthew 19:26",
     "book": "Matthew",
     "volume": "New Testament",
@@ -798,38 +1442,43 @@
         "talk": "28dunn",
         "finding": "x-s15",
         "spoken": false
-      }
-    ],
-    "talks": [
-      "28dunn"
-    ]
-  },
-  {
-    "label": "Matthew 22:37",
-    "book": "Matthew",
-    "volume": "New Testament",
-    "refs": [
-      "Matthew 22:37"
-    ],
-    "citations": [
+      },
       {
-        "talk": "210rasband",
-        "finding": "x-s17",
+        "talk": "51uchtdorf",
+        "finding": "x-s23",
         "spoken": false
       }
     ],
     "talks": [
-      "210rasband"
+      "28dunn",
+      "51uchtdorf"
     ]
   },
   {
-    "label": "Matthew 22:39",
+    "label": "Matthew 22:36–40",
     "book": "Matthew",
     "volume": "New Testament",
     "refs": [
+      "Matthew 22:36–40",
+      "Matthew 22:37",
       "Matthew 22:39"
     ],
     "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s14",
+        "spoken": false
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-s17",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s30",
+        "spoken": false
+      },
       {
         "talk": "19christofferson",
         "finding": "x-s4",
@@ -843,7 +1492,8 @@
     ],
     "talks": [
       "19christofferson",
-      "210rasband"
+      "210rasband",
+      "58reid"
     ]
   },
   {
@@ -919,6 +1569,24 @@
     ]
   },
   {
+    "label": "Mark 1:17",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 1:17"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
     "label": "Mark 5:25–34",
     "book": "Mark",
     "volume": "New Testament",
@@ -985,6 +1653,24 @@
     ]
   },
   {
+    "label": "Mark 10:17–20",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 10:17–20"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
+    ]
+  },
+  {
     "label": "Mark 10:21",
     "book": "Mark",
     "volume": "New Testament",
@@ -996,10 +1682,76 @@
         "talk": "18douglas",
         "finding": "x-s16",
         "spoken": false
+      },
+      {
+        "talk": "42chibota",
+        "finding": "x-s1",
+        "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s2",
+        "spoken": true
       }
     ],
     "talks": [
-      "18douglas"
+      "18douglas",
+      "42chibota",
+      "52munoz-spannaus"
+    ]
+  },
+  {
+    "label": "Mark 10:22–23",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 10:22–23"
+    ],
+    "citations": [
+      {
+        "talk": "42chibota",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "42chibota"
+    ]
+  },
+  {
+    "label": "Mark 10:45",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 10:45"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Mark 12:28–31",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 12:28–31"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
     ]
   },
   {
@@ -1014,10 +1766,70 @@
         "talk": "24giuffra",
         "finding": "x-s1",
         "spoken": false
+      },
+      {
+        "talk": "53villanueva",
+        "finding": "x-s8",
+        "spoken": true
       }
     ],
     "talks": [
-      "24giuffra"
+      "24giuffra",
+      "53villanueva"
+    ]
+  },
+  {
+    "label": "Luke 5:11",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 5:11"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s39",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Luke 6:37–42",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 6:37–42"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Luke 6:46",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 6:46"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
     ]
   },
   {
@@ -1087,39 +1899,65 @@
     ]
   },
   {
-    "label": "Luke 10:25",
+    "label": "Luke 10:25–28",
     "book": "Luke",
     "volume": "New Testament",
     "refs": [
-      "Luke 10:25"
+      "Luke 10:25",
+      "Luke 10:25–28"
     ],
     "citations": [
       {
         "talk": "22farnes",
         "finding": "x-s5",
         "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s16",
+        "spoken": false
       }
     ],
     "talks": [
-      "22farnes"
+      "22farnes",
+      "58reid"
     ]
   },
   {
-    "label": "Luke 10:30–35",
+    "label": "Luke 10:30–37",
     "book": "Luke",
     "volume": "New Testament",
     "refs": [
-      "Luke 10:30–35"
+      "Luke 10:30–35",
+      "Luke 10:30–37"
     ],
     "citations": [
       {
         "talk": "22farnes",
         "finding": "x-s7",
         "spoken": false
+      },
+      {
+        "talk": "42chibota",
+        "finding": "x-s4",
+        "spoken": false
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s11",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s8",
+        "spoken": false
       }
     ],
     "talks": [
-      "22farnes"
+      "22farnes",
+      "42chibota",
+      "51uchtdorf",
+      "56sinclair"
     ]
   },
   {
@@ -1213,39 +2051,161 @@
     ]
   },
   {
-    "label": "John 3:16",
-    "book": "John",
+    "label": "Luke 22:44",
+    "book": "Luke",
     "volume": "New Testament",
     "refs": [
-      "John 3:16"
+      "Luke 22:44"
     ],
     "citations": [
       {
-        "talk": "26fale",
+        "talk": "45dube",
         "finding": "x-s1",
-        "spoken": true
-      }
-    ],
-    "talks": [
-      "26fale"
-    ]
-  },
-  {
-    "label": "John 4:5–26",
-    "book": "John",
-    "volume": "New Testament",
-    "refs": [
-      "John 4:5–26"
-    ],
-    "citations": [
-      {
-        "talk": "22farnes",
-        "finding": "x-s10",
         "spoken": false
       }
     ],
     "talks": [
-      "22farnes"
+      "45dube"
+    ]
+  },
+  {
+    "label": "Luke 23:39–43",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 23:39–43"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Luke 24:39",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 24:39"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
+    "label": "John 3:1–21",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 3:1–21",
+      "John 3:16",
+      "John 3:17"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s18",
+        "spoken": false
+      },
+      {
+        "talk": "26fale",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "46cook",
+        "finding": "x-s11",
+        "spoken": false
+      },
+      {
+        "talk": "57stevenson",
+        "finding": "x-s4",
+        "spoken": false
+      },
+      {
+        "talk": "46cook",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale",
+      "46cook",
+      "56sinclair",
+      "57stevenson"
+    ]
+  },
+  {
+    "label": "John 4:4–42",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 4:4",
+      "John 4:4–42",
+      "John 4:5–26",
+      "John 4:7",
+      "John 4:10",
+      "John 4:26",
+      "John 4:28",
+      "John 4:29"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s25",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s15",
+        "spoken": false
+      },
+      {
+        "talk": "22farnes",
+        "finding": "x-s10",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s26",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s30",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s38",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s40",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s33",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes",
+      "56sinclair"
     ]
   },
   {
@@ -1253,17 +2213,31 @@
     "book": "John",
     "volume": "New Testament",
     "refs": [
-      "John 5:1–17"
+      "John 5:1–17",
+      "John 5:2–15",
+      "John 5:2–9"
     ],
     "citations": [
       {
         "talk": "22farnes",
         "finding": "x-s11",
         "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s19",
+        "spoken": false
+      },
+      {
+        "talk": "42chibota",
+        "finding": "x-s3",
+        "spoken": false
       }
     ],
     "talks": [
-      "22farnes"
+      "22farnes",
+      "42chibota",
+      "56sinclair"
     ]
   },
   {
@@ -1346,6 +2320,48 @@
     ]
   },
   {
+    "label": "John 13:34–35",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 13:34–35"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s41",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair",
+      "58reid"
+    ]
+  },
+  {
+    "label": "John 14:15",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 14:15"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s31",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
     "label": "John 14:16–17",
     "book": "John",
     "volume": "New Testament",
@@ -1388,6 +2404,42 @@
     ]
   },
   {
+    "label": "John 14:23",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 14:23"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
+    "label": "John 14:26",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 14:26"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
     "label": "John 14:27",
     "book": "John",
     "volume": "New Testament",
@@ -1399,10 +2451,34 @@
         "talk": "210rasband",
         "finding": "x-s13",
         "spoken": false
+      },
+      {
+        "talk": "47kyungu",
+        "finding": "x-s7",
+        "spoken": false
       }
     ],
     "talks": [
-      "210rasband"
+      "210rasband",
+      "47kyungu"
+    ]
+  },
+  {
+    "label": "John 15:11",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 15:11"
+    ],
+    "citations": [
+      {
+        "talk": "45dube",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "45dube"
     ]
   },
   {
@@ -1442,6 +2518,24 @@
     ]
   },
   {
+    "label": "John 15:26",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 15:26"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
     "label": "John 16:33",
     "book": "John",
     "volume": "New Testament",
@@ -1457,6 +2551,121 @@
     ],
     "talks": [
       "21renlund"
+    ]
+  },
+  {
+    "label": "John 17:11, 21–22",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 17:11, 21–22"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "John 18:33–38",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 18:33–38"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "John 19:28",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 19:28"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "John 19:30",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 19:30"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "John 20:11–18",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 20:11–18"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "John 21:15–19",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 21:15–17",
+      "John 21:15–19"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s13",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair",
+      "58reid"
     ]
   },
   {
@@ -1496,6 +2705,48 @@
     ]
   },
   {
+    "label": "Acts 4:8",
+    "book": "Acts",
+    "volume": "New Testament",
+    "refs": [
+      "Acts 4:8"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
+    "label": "Acts 4:9–10",
+    "book": "Acts",
+    "volume": "New Testament",
+    "refs": [
+      "Acts 4:9–10",
+      "Acts 4:10"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s17",
+        "spoken": false
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
     "label": "Acts 17:29",
     "book": "Acts",
     "volume": "New Testament",
@@ -1529,6 +2780,42 @@
     ],
     "talks": [
       "15sikahema"
+    ]
+  },
+  {
+    "label": "Romans 4:17",
+    "book": "Romans",
+    "volume": "New Testament",
+    "refs": [
+      "Romans 4:17"
+    ],
+    "citations": [
+      {
+        "talk": "42chibota",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "42chibota"
+    ]
+  },
+  {
+    "label": "Romans 8:16",
+    "book": "Romans",
+    "volume": "New Testament",
+    "refs": [
+      "Romans 8:16"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
     ]
   },
   {
@@ -1568,6 +2855,24 @@
     ]
   },
   {
+    "label": "1 Corinthians 10:16–17",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "1 Corinthians 10:16–17"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "1 Corinthians 15:21–22",
     "book": "1 Corinthians",
     "volume": "New Testament",
@@ -1579,10 +2884,34 @@
         "talk": "16hathaway",
         "finding": "x-s4",
         "spoken": false
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s2",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "43andersen"
+    ]
+  },
+  {
+    "label": "1 Corinthians 15:33–34",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "1 Corinthians 15:33–34"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
     ]
   },
   {
@@ -1622,6 +2951,24 @@
     ]
   },
   {
+    "label": "2 Corinthians 4:8",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "2 Corinthians 4:8"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
     "label": "2 Corinthians 13:1",
     "book": "2 Corinthians",
     "volume": "New Testament",
@@ -1658,6 +3005,60 @@
     ]
   },
   {
+    "label": "Galatians 3:28",
+    "book": "Galatians",
+    "volume": "New Testament",
+    "refs": [
+      "Galatians 3:28"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Ephesians 2:14",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "refs": [
+      "Ephesians 2:14"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Ephesians 2:19",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "refs": [
+      "Ephesians 2:19"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "Ephesians 4:14",
     "book": "Ephesians",
     "volume": "New Testament",
@@ -1673,6 +3074,24 @@
     ],
     "talks": [
       "210rasband"
+    ]
+  },
+  {
+    "label": "Ephesians 4:29",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "refs": [
+      "Ephesians 4:29"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
     ]
   },
   {
@@ -1694,6 +3113,24 @@
     ]
   },
   {
+    "label": "Ephesians 6:12",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "refs": [
+      "Ephesians 6:12"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
     "label": "Philippians 4:7",
     "book": "Philippians",
     "volume": "New Testament",
@@ -1709,6 +3146,42 @@
     ],
     "talks": [
       "29eyring"
+    ]
+  },
+  {
+    "label": "Philippians 4:8",
+    "book": "Philippians",
+    "volume": "New Testament",
+    "refs": [
+      "Philippians 4:8"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
+    "label": "Colossians 4:6",
+    "book": "Colossians",
+    "volume": "New Testament",
+    "refs": [
+      "Colossians 4:6"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
     ]
   },
   {
@@ -1906,12 +3379,18 @@
     ],
     "citations": [
       {
+        "talk": "58reid",
+        "finding": "x-s32",
+        "spoken": false
+      },
+      {
         "talk": "59gilbert",
         "finding": "x-s1",
         "spoken": false
       }
     ],
     "talks": [
+      "58reid",
       "59gilbert"
     ]
   },
@@ -1999,7 +3478,10 @@
     "volume": "Book of Mormon",
     "refs": [
       "1 Nephi 8",
+      "1 Nephi 8:10",
       "1 Nephi 8:11",
+      "1 Nephi 8:11",
+      "1 Nephi 8:12",
       "1 Nephi 8:21",
       "1 Nephi 8:23, 26"
     ],
@@ -2010,8 +3492,28 @@
         "spoken": false
       },
       {
+        "talk": "57stevenson",
+        "finding": "x-s1",
+        "spoken": false
+      },
+      {
         "talk": "210rasband",
         "finding": "x-s10",
+        "spoken": false
+      },
+      {
+        "talk": "57stevenson",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "46cook",
+        "finding": "x-s21",
+        "spoken": false
+      },
+      {
+        "talk": "57stevenson",
+        "finding": "x-s3",
         "spoken": false
       },
       {
@@ -2026,7 +3528,9 @@
       }
     ],
     "talks": [
-      "210rasband"
+      "210rasband",
+      "46cook",
+      "57stevenson"
     ]
   },
   {
@@ -2045,6 +3549,24 @@
     ],
     "talks": [
       "13runia"
+    ]
+  },
+  {
+    "label": "1 Nephi 11:21–36",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "1 Nephi 11:21–36"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
     ]
   },
   {
@@ -2144,6 +3666,30 @@
     ]
   },
   {
+    "label": "2 Nephi 2:25",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 2:25",
+      "2 Nephi 2:25"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "46cook",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "2 Nephi 4–6",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -2239,7 +3785,8 @@
     "volume": "Book of Mormon",
     "refs": [
       "2 Nephi 9:21",
-      "2 Nephi 9:21–23"
+      "2 Nephi 9:21–23",
+      "2 Nephi 9:22"
     ],
     "citations": [
       {
@@ -2251,10 +3798,16 @@
         "talk": "16hathaway",
         "finding": "x-s7",
         "spoken": false
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s3",
+        "spoken": false
       }
     ],
     "talks": [
       "16hathaway",
+      "43andersen",
       "49oaks"
     ]
   },
@@ -2292,6 +3845,24 @@
     ],
     "talks": [
       "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 26:24–28",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 26:24–28"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
     ]
   },
   {
@@ -2386,6 +3957,24 @@
     ]
   },
   {
+    "label": "2 Nephi 31:18",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 31:18"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "2 Nephi 31:19–20",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -2411,6 +4000,24 @@
     ]
   },
   {
+    "label": "2 Nephi 32:5",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 32:5"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
     "label": "Jacob 2:7–9",
     "book": "Jacob",
     "volume": "Book of Mormon",
@@ -2426,6 +4033,42 @@
     ],
     "talks": [
       "19christofferson"
+    ]
+  },
+  {
+    "label": "Jacob 2:17–19",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Jacob 2:17–19"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Jacob 6:11",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Jacob 6:11"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
     ]
   },
   {
@@ -2512,10 +4155,16 @@
         "talk": "22farnes",
         "finding": "x-s4",
         "spoken": false
+      },
+      {
+        "talk": "44fantone",
+        "finding": "x-s8",
+        "spoken": true
       }
     ],
     "talks": [
-      "22farnes"
+      "22farnes",
+      "44fantone"
     ]
   },
   {
@@ -2530,10 +4179,34 @@
         "talk": "48schmeil",
         "finding": "x-s10",
         "spoken": true
+      },
+      {
+        "talk": "54bednar",
+        "finding": "x-s5",
+        "spoken": false
       }
     ],
     "talks": [
-      "48schmeil"
+      "48schmeil",
+      "54bednar"
+    ]
+  },
+  {
+    "label": "Mosiah 3:17",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 3:17"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -2573,6 +4246,78 @@
     ]
   },
   {
+    "label": "Mosiah 5:2",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 5:2"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s31",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Mosiah 5:8",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 5:8"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
+    ]
+  },
+  {
+    "label": "Mosiah 5:13",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 5:13"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s10",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
+    ]
+  },
+  {
+    "label": "Mosiah 6:2",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 6:2"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
+    ]
+  },
+  {
     "label": "Mosiah 11–18",
     "book": "Mosiah",
     "volume": "Book of Mormon",
@@ -2591,13 +4336,36 @@
     ]
   },
   {
-    "label": "Mosiah 18:9",
+    "label": "Mosiah 18:8–11",
     "book": "Mosiah",
     "volume": "Book of Mormon",
     "refs": [
+      "Mosiah 18:8",
+      "Mosiah 18:8–11",
+      "Mosiah 18:8–9",
       "Mosiah 18:9"
     ],
     "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s4",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s9",
+        "spoken": false
+      },
+      {
+        "talk": "41eyring",
+        "finding": "x-s5",
+        "spoken": false
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s5",
+        "spoken": false
+      },
       {
         "talk": "14causse",
         "finding": "x-s7",
@@ -2607,11 +4375,38 @@
         "talk": "29eyring",
         "finding": "x-s1",
         "spoken": false
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s10",
+        "spoken": false
       }
     ],
     "talks": [
       "14causse",
-      "29eyring"
+      "29eyring",
+      "41eyring",
+      "43andersen",
+      "51uchtdorf",
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Mosiah 18:13",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 18:13"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -2658,32 +4453,44 @@
     ]
   },
   {
-    "label": "Mosiah 27:9",
+    "label": "Mosiah 26:30",
     "book": "Mosiah",
     "volume": "Book of Mormon",
     "refs": [
-      "Mosiah 27:9"
+      "Mosiah 26:30"
     ],
     "citations": [
       {
-        "talk": "210rasband",
-        "finding": "x-s26",
+        "talk": "56sinclair",
+        "finding": "x-s29",
         "spoken": false
       }
     ],
     "talks": [
-      "210rasband"
+      "56sinclair"
     ]
   },
   {
-    "label": "Mosiah 27:11, 14",
+    "label": "Mosiah 27:8–37",
     "book": "Mosiah",
     "volume": "Book of Mormon",
     "refs": [
+      "Mosiah 27:8–37",
+      "Mosiah 27:9",
       "Mosiah 27:11, 14",
       "Mosiah 27:14"
     ],
     "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s3",
+        "spoken": false
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-s26",
+        "spoken": false
+      },
       {
         "talk": "210rasband",
         "finding": "x-s24",
@@ -2696,17 +4503,24 @@
       }
     ],
     "talks": [
-      "210rasband"
+      "210rasband",
+      "58reid"
     ]
   },
   {
-    "label": "Mosiah 28:3",
+    "label": "Mosiah 28:1–3",
     "book": "Mosiah",
     "volume": "Book of Mormon",
     "refs": [
+      "Mosiah 28:1–3",
       "Mosiah 28:3"
     ],
     "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s4",
+        "spoken": false
+      },
       {
         "talk": "18douglas",
         "finding": "x-s9",
@@ -2714,7 +4528,44 @@
       }
     ],
     "talks": [
-      "18douglas"
+      "18douglas",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Alma 1:26–27",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 1:26–27"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "Alma 5:14",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 5:14"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s9",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -2762,6 +4613,16 @@
         "spoken": false
       },
       {
+        "talk": "41eyring",
+        "finding": "x-s4",
+        "spoken": false
+      },
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s6",
+        "spoken": true
+      },
+      {
         "talk": "17soares",
         "finding": "x-s6",
         "spoken": false
@@ -2770,12 +4631,19 @@
         "talk": "16hathaway",
         "finding": "x-s11",
         "spoken": false
+      },
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s8",
+        "spoken": true
       }
     ],
     "talks": [
       "16hathaway",
       "17soares",
-      "29eyring"
+      "29eyring",
+      "41eyring",
+      "55lebethoa"
     ]
   },
   {
@@ -2851,6 +4719,48 @@
     ]
   },
   {
+    "label": "Alma 17:10–11",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 17:10–11",
+      "Alma 17:11"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s8",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
+    "label": "Alma 24:19",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 24:19"
+    ],
+    "citations": [
+      {
+        "talk": "47kyungu",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "47kyungu"
+    ]
+  },
+  {
     "label": "Alma 26:14",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -2905,6 +4815,24 @@
     ]
   },
   {
+    "label": "Alma 34:9–10, 14–15",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 34:9–10, 14–15"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
     "label": "Alma 34:32",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -2938,6 +4866,24 @@
     ],
     "talks": [
       "12gong"
+    ]
+  },
+  {
+    "label": "Alma 34:34",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 34:34"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s24",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
     ]
   },
   {
@@ -3104,6 +5050,42 @@
     ]
   },
   {
+    "label": "Alma 40:11",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 40:11"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
+    "label": "Alma 40:12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 40:12"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
     "label": "Alma 42:8",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -3115,10 +5097,16 @@
         "talk": "48schmeil",
         "finding": "x-s1",
         "spoken": true
+      },
+      {
+        "talk": "57stevenson",
+        "finding": "x-s10",
+        "spoken": false
       }
     ],
     "talks": [
-      "48schmeil"
+      "48schmeil",
+      "57stevenson"
     ]
   },
   {
@@ -3212,6 +5200,42 @@
     ]
   },
   {
+    "label": "Helaman 10:1–5",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Helaman 10:1–5"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
+    "label": "Helaman 14:17",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Helaman 14:17"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
     "label": "3 Nephi 5:13",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
@@ -3227,6 +5251,24 @@
     ],
     "talks": [
       "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 9:21",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 9:21"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
     ]
   },
   {
@@ -3248,13 +5290,37 @@
     ]
   },
   {
-    "label": "3 Nephi 11:14",
+    "label": "3 Nephi 11:11",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
     "refs": [
+      "3 Nephi 11:11"
+    ],
+    "citations": [
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa"
+    ]
+  },
+  {
+    "label": "3 Nephi 11:13–15",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 11:13–15",
       "3 Nephi 11:14"
     ],
     "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s17",
+        "spoken": false
+      },
       {
         "talk": "49oaks",
         "finding": "x-s5",
@@ -3262,17 +5328,49 @@
       }
     ],
     "talks": [
-      "49oaks"
+      "49oaks",
+      "58reid"
     ]
   },
   {
-    "label": "3 Nephi 12:6",
+    "label": "3 Nephi 11:16–41",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
     "refs": [
+      "3 Nephi 11:16–41",
+      "3 Nephi 11:29–30"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s18",
+        "spoken": false
+      },
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa",
+      "58reid"
+    ]
+  },
+  {
+    "label": "3 Nephi 12:1–11",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 12:1–11",
       "3 Nephi 12:6"
     ],
     "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s5",
+        "spoken": false
+      },
       {
         "talk": "19christofferson",
         "finding": "x-s6",
@@ -3280,7 +5378,8 @@
       }
     ],
     "talks": [
-      "19christofferson"
+      "19christofferson",
+      "46cook"
     ]
   },
   {
@@ -3302,6 +5401,24 @@
     ]
   },
   {
+    "label": "3 Nephi 13:1–4",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 13:1–4"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
     "label": "3 Nephi 13:8",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
@@ -3317,6 +5434,24 @@
     ],
     "talks": [
       "28dunn"
+    ]
+  },
+  {
+    "label": "3 Nephi 14:1–12",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 14:1–12"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
     ]
   },
   {
@@ -3356,14 +5491,22 @@
     ]
   },
   {
-    "label": "3 Nephi 17:1–9",
+    "label": "3 Nephi 17:1–21",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
     "refs": [
+      "3 Nephi 17:1–21",
       "3 Nephi 17:1–9",
-      "3 Nephi 17:4"
+      "3 Nephi 17:4",
+      "3 Nephi 17:5",
+      "3 Nephi 17:6, 7"
     ],
     "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s19",
+        "spoken": false
+      },
       {
         "talk": "22farnes",
         "finding": "x-s13",
@@ -3373,11 +5516,23 @@
         "talk": "49oaks",
         "finding": "x-s15",
         "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s13",
+        "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s14",
+        "spoken": false
       }
     ],
     "talks": [
       "22farnes",
-      "49oaks"
+      "49oaks",
+      "56sinclair",
+      "58reid"
     ]
   },
   {
@@ -3396,6 +5551,24 @@
     ],
     "talks": [
       "48schmeil"
+    ]
+  },
+  {
+    "label": "3 Nephi 18:16",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 18:16"
+    ],
+    "citations": [
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa"
     ]
   },
   {
@@ -3432,6 +5605,42 @@
     ],
     "talks": [
       "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 18:36",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 18:36"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "3 Nephi 27:5",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 27:5"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -3489,6 +5698,78 @@
     ]
   },
   {
+    "label": "3 Nephi 28:1–3",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 28:1–3"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s24",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
+    "label": "4 Nephi 1:15, 17",
+    "book": "4 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "4 Nephi 1:15, 17"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Mormon 8:5",
+    "book": "Mormon",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mormon 8:5"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
+    ]
+  },
+  {
+    "label": "Mormon 8:20",
+    "book": "Mormon",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mormon 8:20"
+    ],
+    "citations": [
+      {
+        "talk": "56sinclair",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "56sinclair"
+    ]
+  },
+  {
     "label": "Mormon 8:22",
     "book": "Mormon",
     "volume": "Book of Mormon",
@@ -3536,10 +5817,40 @@
         "talk": "48schmeil",
         "finding": "x-s3",
         "spoken": true
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s6",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s24",
+        "spoken": false
       }
     ],
     "talks": [
-      "48schmeil"
+      "48schmeil",
+      "52munoz-spannaus",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Moroni 1:3",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 1:3"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
     ]
   },
   {
@@ -3554,10 +5865,40 @@
         "talk": "22farnes",
         "finding": "x-s1",
         "spoken": false
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s12",
+        "spoken": false
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s26",
+        "spoken": false
       }
     ],
     "talks": [
-      "22farnes"
+      "22farnes",
+      "43andersen",
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Moroni 6:3",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 6:3"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -3615,6 +5956,24 @@
     ]
   },
   {
+    "label": "Moroni 8:26",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 8:26"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
     "label": "Moroni 10:3",
     "book": "Moroni",
     "volume": "Book of Mormon",
@@ -3630,6 +5989,24 @@
     ],
     "talks": [
       "21renlund"
+    ]
+  },
+  {
+    "label": "Moroni 10:5",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 10:5"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
     ]
   },
   {
@@ -3675,6 +6052,48 @@
     ]
   },
   {
+    "label": "Moroni 10:32",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 10:32"
+    ],
+    "citations": [
+      {
+        "talk": "45dube",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "45dube",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Moroni 10:33",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 10:33"
+    ],
+    "citations": [
+      {
+        "talk": "45dube",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "45dube"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 1:23",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -3690,6 +6109,24 @@
     ],
     "talks": [
       "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 1:35",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "D&C 1:35"
+    ],
+    "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "43andersen"
     ]
   },
   {
@@ -3747,6 +6184,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 6:15",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 6:15"
+    ],
+    "citations": [
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 6:28",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -3762,6 +6217,42 @@
     ],
     "talks": [
       "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 6:36",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 6:36"
+    ],
+    "citations": [
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "55lebethoa"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 8:2–3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 8:2–3"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
     ]
   },
   {
@@ -3812,10 +6303,70 @@
         "talk": "18douglas",
         "finding": "x-s14",
         "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s10",
+        "spoken": false
       }
     ],
     "talks": [
-      "18douglas"
+      "18douglas",
+      "58reid"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 13:1",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 13:1"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 14:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 14:7"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 19:23",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 19:23"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
     ]
   },
   {
@@ -3837,6 +6388,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 20:37",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 20:37"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 20:77, 79",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -3851,6 +6420,16 @@
         "spoken": false
       },
       {
+        "talk": "43andersen",
+        "finding": "x-s11",
+        "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s10",
+        "spoken": false
+      },
+      {
         "talk": "23chigbundu",
         "finding": "x-s6",
         "spoken": true
@@ -3858,7 +6437,9 @@
     ],
     "talks": [
       "22farnes",
-      "23chigbundu"
+      "23chigbundu",
+      "43andersen",
+      "52munoz-spannaus"
     ]
   },
   {
@@ -3892,6 +6473,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 34:3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 34:3"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 35:13–14",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -3907,6 +6506,24 @@
     ],
     "talks": [
       "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 38:27",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 38:27"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
     ]
   },
   {
@@ -3946,21 +6563,28 @@
     ]
   },
   {
-    "label": "Doctrine and Covenants 46:8",
+    "label": "Doctrine and Covenants 46:8–10, 26",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
     "refs": [
-      "Doctrine and Covenants 46:8"
+      "Doctrine and Covenants 46:8",
+      "Doctrine and Covenants 46:8–10, 26"
     ],
     "citations": [
       {
         "talk": "14causse",
         "finding": "x-s8",
         "spoken": false
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s42",
+        "spoken": false
       }
     ],
     "talks": [
-      "14causse"
+      "14causse",
+      "56sinclair"
     ]
   },
   {
@@ -4018,6 +6642,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 58:31",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 58:31"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 59:5",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4051,6 +6693,24 @@
     ],
     "talks": [
       "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 64:31–32",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 64:31–32"
+    ],
+    "citations": [
+      {
+        "talk": "54bednar",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "54bednar"
     ]
   },
   {
@@ -4115,6 +6775,42 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 82:14",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 82:14"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 84:20",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 84:20"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 84:57",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4151,6 +6847,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 84:85",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 84:85"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 84:88",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4162,10 +6876,16 @@
         "talk": "28dunn",
         "finding": "x-s5",
         "spoken": false
+      },
+      {
+        "talk": "58reid",
+        "finding": "x-s23",
+        "spoken": false
       }
     ],
     "talks": [
-      "28dunn"
+      "28dunn",
+      "58reid"
     ]
   },
   {
@@ -4193,6 +6913,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 88:67",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 88:67"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 88:72–73",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4215,9 +6953,15 @@
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
     "refs": [
+      "D&C 88:91",
       "Doctrine and Covenants 88:91"
     ],
     "citations": [
+      {
+        "talk": "43andersen",
+        "finding": "x-s9",
+        "spoken": false
+      },
       {
         "talk": "29eyring",
         "finding": "x-s9",
@@ -4225,7 +6969,44 @@
       }
     ],
     "talks": [
-      "29eyring"
+      "29eyring",
+      "43andersen"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 88:118",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 88:118"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s29",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 88:124",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 88:124"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
     ]
   },
   {
@@ -4324,6 +7105,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 97:8–9",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 97:8–9"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 100:5–8, 10",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4381,6 +7180,24 @@
     ],
     "talks": [
       "19christofferson"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 112:10",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 112:10"
+    ],
+    "citations": [
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "52munoz-spannaus"
     ]
   },
   {
@@ -4444,6 +7261,42 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 121:45",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 121:45"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 121:46",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 121:46"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 122:7",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4486,6 +7339,24 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 124:20",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 124:20"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "46cook"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 128:9",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4504,6 +7375,60 @@
     ]
   },
   {
+    "label": "Doctrine and Covenants 130:2",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 130:2"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 130:20–21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 130:20–21"
+    ],
+    "citations": [
+      {
+        "talk": "53villanueva",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "53villanueva"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 130:22",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 130:22"
+    ],
+    "citations": [
+      {
+        "talk": "57stevenson",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "57stevenson"
+    ]
+  },
+  {
     "label": "Doctrine and Covenants 132:7, 18–19, 26",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -4519,6 +7444,11 @@
         "spoken": false
       },
       {
+        "talk": "54bednar",
+        "finding": "x-s1",
+        "spoken": false
+      },
+      {
         "talk": "12gong",
         "finding": "x-s8",
         "spoken": false
@@ -4530,7 +7460,26 @@
       }
     ],
     "talks": [
-      "12gong"
+      "12gong",
+      "54bednar"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 136:4",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 136:4"
+    ],
+    "citations": [
+      {
+        "talk": "54bednar",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "54bednar"
     ]
   },
   {
@@ -4586,11 +7535,17 @@
         "talk": "26fale",
         "finding": "x-s10",
         "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s8",
+        "spoken": false
       }
     ],
     "talks": [
       "12gong",
-      "26fale"
+      "26fale",
+      "52munoz-spannaus"
     ]
   },
   {
@@ -4609,6 +7564,24 @@
     ],
     "talks": [
       "49oaks"
+    ]
+  },
+  {
+    "label": "Moses 6:31–34",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 6:31–34"
+    ],
+    "citations": [
+      {
+        "talk": "58reid",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "58reid"
     ]
   },
   {
@@ -4648,6 +7621,78 @@
     ]
   },
   {
+    "label": "Moses 7:16",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 7:16"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Moses 7:18–19",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 7:18–19"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
+    "label": "Moses 7:21",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 7:21"
+    ],
+    "citations": [
+      {
+        "talk": "54bednar",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "54bednar"
+    ]
+  },
+  {
+    "label": "Moses 7:53",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 7:53"
+    ],
+    "citations": [
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "51uchtdorf"
+    ]
+  },
+  {
     "label": "Moses 7:62",
     "book": "Moses",
     "volume": "Pearl of Great Price",
@@ -4681,6 +7726,24 @@
     ],
     "talks": [
       "15sikahema"
+    ]
+  },
+  {
+    "label": "Joseph Smith—History 1:19",
+    "book": "Joseph Smith—History",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Joseph Smith—History 1:19"
+    ],
+    "citations": [
+      {
+        "talk": "44fantone",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "44fantone"
     ]
   },
   {
@@ -4735,6 +7798,41 @@
     ],
     "talks": [
       "12gong"
+    ]
+  },
+  {
+    "label": "Articles of Faith 1:13",
+    "book": "Articles of Faith",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Articles of Faith 1:13",
+      "thirteenth article of faith"
+    ],
+    "citations": [
+      {
+        "talk": "46cook",
+        "finding": "x-s18",
+        "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s4",
+        "spoken": false
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "46cook",
+      "52munoz-spannaus"
     ]
   }
 ]

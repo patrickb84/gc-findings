@@ -1,0 +1,774 @@
+{
+  "id": "43andersen",
+  "kind": "talk",
+  "speaker": "Neil L. Andersen",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Courage Born of Our Faith in Jesus Christ",
+  "session": "Sunday Morning Session",
+  "order": 21,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/43andersen?lang=eng",
+  "pronouns": {
+    "i": 26,
+    "we": 65,
+    "you": 10
+  },
+  "summary": "Elder Andersen teaches that faith in Jesus Christ and spiritual courage feed each other: faith gives the courage to choose the right, and choosing the right strengthens faith. He shows this through Rosemary Chibota's conversion as a teenager in Zimbabwe, Moroni standing alone, his own quiet summer days with the cows, President Oaks accepting a demanding calling as a young lawyer, and a Spokane family who lost their home to fire. He asks members to seek stillness, pray, keep their covenants and commandments, and promises that answers, spiritual power, and courage will come.",
+  "audience": {
+    "who": "Members of the Church across the world, with nods to youth, young mothers, and people facing loss or betrayal",
+    "quote": "our members of the Church across the world"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "scripture",
+    "scripture",
+    "story",
+    "principle",
+    "quote",
+    "principle",
+    "story",
+    "list",
+    "story",
+    "list",
+    "story",
+    "scripture",
+    "promise",
+    "scripture",
+    "story",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.5,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Alma 34:9–10, 14–15",
+      "basis": "exact",
+      "ref": "Alma 34:9–10, 14–15",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Corinthians 15:21–22",
+      "basis": "exact",
+      "ref": "1 Corinthians 15:21–22",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "2 Nephi 9:22",
+      "basis": "exact",
+      "ref": "2 Nephi 9:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Helaman 14:17",
+      "basis": "exact",
+      "ref": "Helaman 14:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mormon 8:5",
+      "basis": "exact",
+      "ref": "Mormon 8:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Moroni 1:3",
+      "basis": "exact",
+      "ref": "Moroni 1:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Ephesians 6:12",
+      "basis": "exact",
+      "ref": "Ephesians 6:12",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "D&C 1:35",
+      "basis": "exact",
+      "ref": "D&C 1:35",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "D&C 88:91",
+      "basis": "exact",
+      "ref": "D&C 88:91",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Mosiah 18:9",
+      "basis": "exact",
+      "ref": "Mosiah 18:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:77",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:77",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Moroni 4:3",
+      "basis": "exact",
+      "ref": "Moroni 4:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "2 Corinthians 4:8",
+      "basis": "exact",
+      "ref": "2 Corinthians 4:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "John 14:23",
+      "basis": "exact",
+      "ref": "John 14:23",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Luke 24:39",
+      "basis": "exact",
+      "ref": "Luke 24:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Acts 4:8",
+      "basis": "exact",
+      "ref": "Acts 4:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Acts 4:9–10",
+      "basis": "exact",
+      "ref": "Acts 4:9–10",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Acts 4:10",
+      "basis": "exact",
+      "ref": "Acts 4:10",
+      "spoken": false
+    },
+    {
+      "id": "x-n6",
+      "type": "prophet",
+      "quote": "President Dallin H. Oaks said: “We are living in the prophesied time ‘when peace shall be taken from the earth’ (D&C 1:35), when ‘all things shall be in commotion’ and ‘men’s hearts shall fail them’ (D&C 88:91). There are many temporal causes of commotion, including wars and natural disasters, but an even greater cause of current commotion is spiritual” (“Preparation for the Second Coming,” Liahona, May 2004, 9–10).",
+      "basis": "exact",
+      "ref": "Preparation for the Second Coming",
+      "note": "Cites President Oaks on the spiritual commotion of the last days",
+      "detail": {
+        "source": "Preparation for the Second Coming, Apr. 2004"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "Elder David A. Bednar said: “I believe the Lord’s admonition to ‘be still’ entails much more than simply not talking or not moving. Perhaps His intent is for us to remember and rely upon Him and His power ‘at all times and in all things, and in all places that [we] may be in’ [Mosiah 18:9]. Thus, ‘be still’ may be a way of reminding us to focus upon the Savior unfailingly as the ultimate source of the spiritual stillness of the soul that strengthens us to do and overcome hard things” (“Be Still, and Know That I Am God,” Liahona, May 2024, 28–29).",
+      "basis": "exact",
+      "ref": "Be Still, and Know That I Am God"
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "We need stillness to nourish our faith in Christ.",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as need: make room for quiet, phone-free stillness",
+      "detail": {
+        "action": "seek stillness to nourish faith"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "as you strengthen your faith in Jesus Christ by believing and following Him and keeping His commandments",
+      "basis": "interpreted",
+      "note": "The condition inside the closing promise, read as the talk's main ask",
+      "detail": {
+        "action": "strengthen faith by believing, following, and keeping commandments"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "It is our faith in Jesus Christ that gives us the desire to humbly kneel alone and pray to our Heavenly Father.",
+      "basis": "interpreted",
+      "note": "Implied invitation to private, independent prayer",
+      "detail": {
+        "action": "kneel alone and pray privately"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "as you strengthen your faith in Jesus Christ by believing and following Him and keeping His commandments, your answers will come, your spiritual power will increase, and your courage in following Christ will define your eternal soul",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "answers, increased spiritual power, and courage that defines the eternal soul"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "In those quiet moments when we speak with our Heavenly Father privately, independently, we are given the increased courage to choose the right.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "increased courage to choose the right"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "As we choose faith in Christ, He blesses us with the courage, sometimes in very difficult situations, to choose the right, and as we manifest our courage to choose the right, our faith in Christ strengthens.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "courage to choose the right, and faith that strengthens in return"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "As we courageously win the battles of the soul, our faith in our Savior multiplies.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "faith in the Savior multiplies"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "Then, with courage, we are true to our covenants, and in turn, the Lord blesses us with increased faith.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "increased faith for keeping sacrament covenants"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "Because He rose from the tomb, we too will be resurrected.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "resurrection for all"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "we too may be, as the Apostle Paul said, “troubled on every side, yet not distressed; … perplexed, but not in despair.”",
+      "basis": "interpreted",
+      "note": "Hope in Christ lets us be troubled without despair",
+      "detail": {
+        "blessing": "troubled but not distressed, perplexed but not in despair"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "testimony",
+      "quote": "As Peter and John of old, I too witness the reality of “Jesus Christ of Nazareth.” He lives. He guides this holy work, the restored gospel of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Jesus Christ of Nazareth, who guides the restored gospel"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "minister to others, live the Word of Wisdom, keep the law of chastity, honor the Sabbath day, be honest in our tithing",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "minister to others",
+          "live the Word of Wisdom",
+          "keep the law of chastity",
+          "honor the Sabbath day",
+          "be honest in tithing",
+          "trust the Father and Son when illness, money troubles, or disaster upend life"
+        ],
+        "purpose": "things faith in Christ gives spiritual courage to do"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "speak openly with others about our Savior, make covenants in the house of the Lord, repent and receive forgiveness, follow living prophets, and be guided by the quiet impressions of the Holy Ghost",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "speak openly about the Savior",
+          "make temple covenants",
+          "repent and receive forgiveness",
+          "follow living prophets",
+          "be guided by the Holy Ghost"
+        ],
+        "purpose": "more things faith in Christ gives spiritual courage to do"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "Being His true disciple, overcoming the world, keeping His commandments, and trusting in Him and His promises are not casual pursuits.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "being His true disciple",
+          "overcoming the world",
+          "keeping His commandments",
+          "trusting in Him and His promises"
+        ],
+        "purpose": "why discipleship takes courage"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "the courage to get up before the sun rises to attend seminary and then to serve missions and, upon returning, to marry and begin a family",
+      "basis": "interpreted",
+      "note": "A sequence of youth milestones that take courage",
+      "detail": {
+        "count": "4",
+        "items": [
+          "attend early-morning seminary",
+          "serve missions",
+          "marry",
+          "begin a family"
+        ],
+        "purpose": "the courage of young men and women"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "The doubts, distractions, and deceptions of our day",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "doubts",
+          "distractions",
+          "deceptions"
+        ],
+        "purpose": "what discipleship faces today"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "a flood of information, misinformation, and now artificial information",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "information",
+          "misinformation",
+          "artificial information"
+        ],
+        "purpose": "what the phone brings"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "revelation",
+      "quote": "Our phone seems almost attached to our hand, bringing a flood of information, misinformation, and now artificial information.",
+      "basis": "interpreted",
+      "note": "Reads as an apostolic warning that names AI-generated content alongside misinformation",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "past_prophet",
+      "quote": "As a young man, I heard President David O. McKay say, “The greatest battle of life is fought within the silent chambers of your own soul.”",
+      "basis": "exact",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "prophet",
+      "quote": "President Oaks reflected, “Gathering all my faith, I accepted the call.”",
+      "basis": "exact",
+      "detail": {
+        "source": "Life's Lessons Learned (2011), on accepting a stake mission calling"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "prophet",
+      "quote": "That decision was a turning point in my life",
+      "basis": "exact",
+      "detail": {
+        "source": "Life's Lessons Learned (2011), 44–46 (footnote 10)"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "source",
+      "quote": "‘sharp agate points, on which the ponderous balance of destiny turns’",
+      "basis": "exact",
+      "detail": {
+        "who": "Winston Churchill, as quoted by President Oaks"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "“Our family is safe,” Cody and Haylee Woodbury said to me, “and our faith is secure. We can build another house.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Cody and Haylee Woodbury"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "christ",
+      "quote": "“If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 14:23"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "christ",
+      "quote": "“Behold my hands and my feet,” Jesus said, “that it is I myself: handle me, and see.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Luke 24:39"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "Seventeen-year-old Rosemary found a Joseph Smith pamphlet missionaries had left at her home in Zimbabwe.",
+      "basis": "interpreted",
+      "note": "A teenager converts alone from a pamphlet; her parents follow 19 years later",
+      "detail": {
+        "story_type": "missionary",
+        "about": "Rosemary Chibota's conversion at seventeen"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "relationship",
+      "quote": "became an example to her parents, who joined the Church 19 years later",
+      "basis": "exact",
+      "detail": {
+        "who": "Rosemary Chibota's parents",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "Even as his adversaries were putting to death everyone who would not deny the Christ, in his courage he declared, “And I, Moroni, will not deny the Christ.”",
+      "basis": "interpreted",
+      "note": "Moroni alone, family slain, still refuses to deny Christ",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Moroni alone and unwilling to deny Christ"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "relationship",
+      "quote": "“My father [and all my family have] been slain in battle",
+      "basis": "exact",
+      "detail": {
+        "who": "Moroni's father (Mormon) and family",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "story",
+      "quote": "I grew up on a small dairy farm. For a season our three dozen cows were housed near a small canyon.",
+      "basis": "interpreted",
+      "note": "Summer days alone with the cows and his thoughts, no phone, as a picture of lost stillness",
+      "detail": {
+        "story_type": "personal",
+        "about": "boyhood days herding cows to a high meadow"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "As a young attorney, President Dallin H. Oaks was energetically working in a prestigious law firm, including working evenings and Saturdays.",
+      "basis": "interpreted",
+      "note": "A busy young lawyer accepts a calling needing three to four evenings a week",
+      "detail": {
+        "story_type": "church history",
+        "about": "President Oaks accepts a stake mission calling as a young attorney"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "His stake president called him to be a counselor in the stake mission presidency",
+      "basis": "exact",
+      "detail": {
+        "who": "President Oaks's stake president",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "story",
+      "quote": "A month ago I accompanied President Dieter F. Uchtdorf to Spokane, Washington, where fires destroyed more than 800 homes.",
+      "basis": "interpreted",
+      "note": "Members who lost their homes to fire say their faith is secure",
+      "detail": {
+        "story_type": "personal",
+        "about": "visiting fire-stricken members in Spokane with President Uchtdorf"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "Cody and Haylee Woodbury said to me",
+      "basis": "interpreted",
+      "note": "A couple who lost their home in the Spokane fires",
+      "detail": {
+        "who": "Cody and Haylee Woodbury, a married couple",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "story",
+      "quote": "Recently a noble woman of deep faith shared her testimony in church. Confidentially, I knew that she had been devastated by the betrayal of her husband.",
+      "basis": "interpreted",
+      "note": "A betrayed wife testifies she will trust Christ in joy or grief",
+      "detail": {
+        "story_type": "other",
+        "about": "a betrayed woman's testimony of trusting Christ"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "relationship",
+      "quote": "she had been devastated by the betrayal of her husband",
+      "basis": "exact",
+      "detail": {
+        "who": "her husband, who betrayed her",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "story",
+      "quote": "With faith in Christ and remarkable courage, a young mother prepares her small children for church, knowing that some Sundays will be more a wrestle of survival than a spiritual renewal.",
+      "basis": "interpreted",
+      "note": "A short vignette honoring young mothers' Sunday courage",
+      "detail": {
+        "story_type": "other",
+        "about": "a young mother getting small children to church"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "story",
+      "quote": "Peter and John were in the room when the resurrected Christ appeared to the Apostles.",
+      "basis": "interpreted",
+      "note": "Having handled the risen Christ, Peter and John boldly testify to hostile rulers",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Peter and John testify before rulers after healing a lame man"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "Our phone seems almost attached to our hand",
+      "basis": "interpreted",
+      "note": "The phone as a body part we cannot put down",
+      "detail": {
+        "image": "phone attached to the hand",
+        "family": "body",
+        "carries": "constant connection crowds out stillness"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "bringing a flood of information, misinformation, and now artificial information",
+      "basis": "interpreted",
+      "note": "Information as a flood",
+      "detail": {
+        "image": "flood",
+        "family": "water",
+        "carries": "overwhelming information that drowns stillness"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "“The greatest battle of life is fought within the silent chambers of your own soul.”",
+      "basis": "interpreted",
+      "note": "The soul as a set of silent rooms where the real battle happens",
+      "detail": {
+        "image": "silent chambers / battle",
+        "family": "building",
+        "carries": "discipleship is won privately, inside"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "I would saddle my horse and guide the cows into a high meadow to graze, with no cell phone, no earbuds, no music, no texting.",
+      "basis": "interpreted",
+      "note": "The quiet meadow as the picture of stillness that nourishes faith",
+      "detail": {
+        "image": "high meadow",
+        "family": "growth",
+        "carries": "stillness nourishes faith"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "she would trust in the rock of her salvation, her Savior, Jesus Christ",
+      "basis": "interpreted",
+      "note": "Christ as a rock that holds in grief",
+      "detail": {
+        "image": "rock",
+        "family": "rock",
+        "carries": "Christ is a sure foundation in betrayal and grief"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "image",
+      "quote": "We can build another house.",
+      "basis": "interpreted",
+      "note": "A house is replaceable; faith is not",
+      "detail": {
+        "image": "house",
+        "family": "building",
+        "carries": "temporal loss can be rebuilt when faith is secure"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "image",
+      "quote": "some Sundays will be more a wrestle of survival than a spiritual renewal",
+      "basis": "interpreted",
+      "note": "Echoes Paul's wrestle against darkness",
+      "detail": {
+        "image": "wrestle",
+        "family": "body",
+        "carries": "faithful effort counts even when it feels like struggle"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "place",
+      "quote": "her home in Zimbabwe",
+      "basis": "exact",
+      "detail": {
+        "place": "Zimbabwe",
+        "country": "Zimbabwe"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "place",
+      "quote": "Spokane, Washington, where fires destroyed more than 800 homes",
+      "basis": "exact",
+      "detail": {
+        "place": "Spokane, Washington",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "place",
+      "quote": "by the name of Jesus Christ of Nazareth",
+      "basis": "exact",
+      "detail": {
+        "place": "Nazareth",
+        "country": "Israel"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is the divine Son of God.",
+      "basis": "exact",
+      "detail": {
+        "name": "the divine Son of God"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "name_of_christ",
+      "quote": "“And I, Moroni, will not deny the Christ.”",
+      "basis": "exact",
+      "detail": {
+        "name": "the Christ"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "name_of_christ",
+      "quote": "the rock of her salvation",
+      "basis": "exact",
+      "detail": {
+        "name": "the rock of her salvation"
+      }
+    },
+    {
+      "id": "c-52",
+      "type": "name_of_christ",
+      "quote": "I too witness the reality of “Jesus Christ of Nazareth.”",
+      "basis": "exact",
+      "detail": {
+        "name": "Jesus Christ of Nazareth"
+      }
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "id": "54bednar",
+  "kind": "talk",
+  "speaker": "David A. Bednar",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Sealed by the Holy Spirit of Promise",
+  "session": "Sunday Afternoon Session",
+  "order": 31,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/54bednar?lang=eng",
+  "pronouns": {
+    "i": 10,
+    "we": 20,
+    "you": 2
+  },
+  "summary": "Elder Bednar teaches that ordinances and covenants are spiritual credentials for the journey home to God, and that each covenant must be sealed over time by the Holy Spirit of Promise as we repent and stay faithful. He tells of a traveler turned away at a border because he let his valid passport get damaged, then applies the doctrine to temple marriage, separating the lateral sealing of husband and wife from the vertical sealing to God. He assures faithful spouses whose marriages break that another person's choices cannot rob them of any promised blessing, and asks members to keep honoring their covenants.",
+  "audience": {
+    "who": "All covenant members, with a long word to faithful spouses whose temple marriages have broken or ended in divorce"
+  },
+  "arc": [
+    "quote",
+    "story",
+    "principle",
+    "promise",
+    "list",
+    "scripture",
+    "principle",
+    "invitation",
+    "list",
+    "promise",
+    "testimony",
+    "promise",
+    "scripture",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.15,
+    "present": 0.5,
+    "future": 0.35
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 132:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 132:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Moses 7:21",
+      "basis": "exact",
+      "ref": "Moses 7:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 136:4",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 136:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 64:31–32",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 64:31–32",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mosiah 2:41",
+      "basis": "exact",
+      "ref": "Mosiah 2:41",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "Boyd K. Packer, “Covenants,” Ensign, May 1987, 24; emphasis added.",
+      "basis": "exact",
+      "ref": "Covenants",
+      "note": "Opening quote from President Boyd K. Packer, then President of the Quorum of the Twelve, not Church President",
+      "detail": {
+        "who": "Boyd K. Packer"
+      }
+    },
+    {
+      "id": "x-n2",
+      "type": "source",
+      "quote": "See Boyd K. Packer, “Covenants,” 23.",
+      "basis": "exact",
+      "ref": "Covenants",
+      "note": "Packer's phrase \"quest of a lifetime\"",
+      "detail": {
+        "who": "Boyd K. Packer"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "Boyd K. Packer, “Covenants,” 24; emphasis added.",
+      "basis": "exact",
+      "ref": "Covenants",
+      "note": "Packer's phrase \"the challenge of mortality\"",
+      "detail": {
+        "who": "Boyd K. Packer"
+      }
+    },
+    {
+      "id": "x-n11",
+      "type": "past_prophet",
+      "quote": "President Russell M. Nelson taught: “A husband and wife make a covenant with God and with each other to be loyal and faithful to each other. … Just as marriages and families share a unique lateral bond that creates a special love, so does the new relationship formed when we bind ourselves by covenant vertically to our God!” (“The Everlasting Covenant,” Liahona, Oct. 2022, 6, 9).",
+      "basis": "exact",
+      "ref": "The Everlasting Covenant",
+      "note": "Cites President Russell M. Nelson on lateral and vertical covenant bonds",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "These blessings are set forth in the covenant received through the marriage sealing ordinance. “While a sealing remains in place, a member who is faithful to temple covenants will receive the personal blessings promised in the temple. This is true even if the person’s spouse has broken the covenants or withdrawn from the marriage. Moreover, God will not require anyone to remain in a sealed relationship throughout eternity against his or her will. Heavenly Father will ensure that each person receives every blessing that his or her desires and choices allow” (General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints, 38.4.1.10, Gospel Library).",
+      "basis": "exact",
+      "ref": "38.4.1.10",
+      "note": "General Handbook on blessings for a faithful spouse when the other breaks covenants",
+      "detail": {
+        "who": "General Handbook 38.4.1.10"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Each of us should ever be grateful for sacred opportunities to “walk in all the ordinances of the Lord”",
+      "basis": "interpreted",
+      "note": "Soft invitation phrased as 'should': be grateful for and walk in the ordinances",
+      "detail": {
+        "action": "walk gratefully in all the ordinances of the Lord"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "it comes over time as we repent sincerely and consistently, honor our covenants, and yield our hearts unto God",
+      "basis": "interpreted",
+      "note": "Describes how the sealing comes; read as the implied call to repent, honor covenants, and yield hearts",
+      "detail": {
+        "action": "repent consistently, honor covenants, yield your heart to God"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Ongoing faithfulness is required for those credentials to be valid and for promised blessings to be received.",
+      "basis": "interpreted",
+      "note": "A condition read as a call to stay faithful, like keeping a passport undamaged",
+      "detail": {
+        "action": "stay faithful so your credentials stay valid"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "God promises His sons and daughters supernal blessings for honoring covenants, including obedience to the laws and ordinances of the gospel of Jesus Christ.",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "supernal blessings for honoring covenants"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "the ratifying seal that guarantees all promised blessings",
+      "basis": "interpreted",
+      "note": "The seal of the Holy Spirit of Promise, received in process of time, guarantees the blessings",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "a seal that guarantees all promised blessings"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "the adversities and afflictions we experience through no fault of our own do not diminish God’s promises to us or invalidate our covenants",
+      "basis": "exact",
+      "detail": {
+        "blessing": "afflictions not of our making do not void God's promises"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "The answer to this question is an emphatic no!",
+      "basis": "interpreted",
+      "note": "Answer to whether a spouse's unrighteous agency can rob a faithful spouse of what God promised",
+      "detail": {
+        "blessing": "no one else's choices can rob you of God's promises"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "unrighteousness by one person cannot hinder or thwart the flow of God’s love, strength, and blessings to another person",
+      "basis": "exact",
+      "detail": {
+        "blessing": "God's love, strength, and blessings keep flowing to the faithful"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "The power of the Lord’s infinite and eternal Atonement can overcome all things, all the time, everywhere, for every person who holds fast to their covenants with Him.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "the Atonement overcomes all things for covenant keepers"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "A faithful spouse who honors covenants and presses forward in faith remains worthy to receive for himself or herself the ratifying seal of the Holy Spirit of Promise for the vertical aspect of the sealing ordinance",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "the vertical sealing and all individual blessings, even if the marriage fails"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "No faithful disciple will ultimately be deprived of any eternal blessing God has promised because of another individual’s unrighteous exercise of moral agency.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "no eternal blessing lost through another's choices"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "testimony",
+      "quote": "I do not know and cannot explain precisely how and when promised blessings are received. But I do know promised blessings will be received.",
+      "basis": "exact",
+      "detail": {
+        "of": "promised blessings will be received, though how and when is unknown"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "testimony",
+      "quote": "I joyfully testify to the truthfulness of King Benjamin’s prophetic promise in the sacred name of the Lord Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "King Benjamin's promise of blessings to the commandment keeper"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "revelation",
+      "quote": "This sealing is conditional in mortality and can be broken or forfeited through unrighteousness.",
+      "basis": "interpreted",
+      "note": "Reads as a doctrinal warning that the Spirit's seal can be lost",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "revelation",
+      "quote": "A spouse who violates covenants and does not repent relinquishes the opportunity to receive for himself or herself the ratifying seal of the Holy Spirit of Promise for both the lateral and vertical aspects of the sealing ordinance.",
+      "basis": "interpreted",
+      "note": "Reads as a doctrinal clarification: the unrepentant spouse loses both sealings, the faithful one keeps the vertical",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "revelation",
+      "quote": "what may be understood as a lateral sealing",
+      "basis": "interpreted",
+      "note": "Reads as new framing direction: the sealing has a lateral (spouse to spouse) and a vertical (to God's family) part",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "The sealing ordinance includes two fundamental and related parts",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "the eternal union of a man and a woman in marriage (lateral sealing)",
+          "the sealing of husband and wife into God's eternal family and the linking of all generations (vertical sealing)"
+        ],
+        "purpose": "the parts of the temple sealing ordinance"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "list",
+      "quote": "The intended and prayed-for outcomes of a temple sealing between a man and a woman include a lifetime of spiritual growth, marital devotion, fidelity, working together to overcome the uncertainties and challenges of mortality, and enduring happiness.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "spiritual growth",
+          "marital devotion",
+          "fidelity",
+          "working together through mortality's challenges",
+          "enduring happiness"
+        ],
+        "purpose": "what a temple sealing is meant to bring"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "list",
+      "quote": "A spouse’s sins, infidelity, personal apostasy, or other difficulties may cause contention, alienation, and even divorce.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "sins",
+          "infidelity",
+          "personal apostasy",
+          "other difficulties"
+        ],
+        "purpose": "why intended marriage outcomes sometimes fail"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "list",
+      "quote": "as we repent sincerely and consistently, honor our covenants, and yield our hearts unto God",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "repent sincerely and consistently",
+          "honor our covenants",
+          "yield our hearts unto God"
+        ],
+        "purpose": "how the ratifying seal comes over time"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "He is a personage of spirit, testifies of all truth, and is the witness of and messenger for the Father and the Son.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "a personage of spirit",
+          "testifies of all truth",
+          "witness of and messenger for the Father and the Son"
+        ],
+        "purpose": "who the Holy Ghost is"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "past_prophet",
+      "quote": "As the Lord revealed to the Prophet Joseph Smith",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "“Can the unrighteous exercise of moral agency by another person rob me of what God has promised?”",
+      "basis": "interpreted",
+      "note": "A voiced question from a hypothetical faithful spouse",
+      "detail": {
+        "who": "a faithful spouse (hypothetical)"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "source",
+      "quote": "“How can this be the case if a temple marriage does not endure?”",
+      "basis": "interpreted",
+      "note": "A voiced question put in the listener's mouth",
+      "detail": {
+        "who": "the listener (hypothetical)"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "story",
+      "quote": "Once a man wanted to visit family members in a distant country.",
+      "basis": "interpreted",
+      "note": "A traveler with a valid but damaged, taped passport is refused entry at the border",
+      "detail": {
+        "story_type": "other",
+        "about": "a man turned away at passport control because his passport was damaged"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "relationship",
+      "quote": "traveled by airplane to the city where his relatives lived",
+      "basis": "exact",
+      "detail": {
+        "who": "relatives of the traveler",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "relationship",
+      "quote": "I learned a vital lesson many years ago from President Boyd K. Packer.",
+      "basis": "interpreted",
+      "note": "Packer as a teacher whose lesson Elder Bednar still carries",
+      "detail": {
+        "who": "President Boyd K. Packer, a teacher",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "the integrity of a passport must be maintained over time",
+      "basis": "interpreted",
+      "note": "Passport stands for covenants: valid when issued, but must be cared for to be honored",
+      "detail": {
+        "image": "passport",
+        "family": "other",
+        "carries": "covenants must be kept intact over time, not just received"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "needed an authorized stamp in his passport to enter a foreign country",
+      "basis": "interpreted",
+      "note": "The entry stamp maps to the ratifying seal of the Holy Spirit of Promise",
+      "detail": {
+        "image": "entry stamp",
+        "family": "other",
+        "carries": "the Spirit's seal admits us to eternal blessings"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "spiritual credentials for our journey home to Heavenly Father",
+      "basis": "interpreted",
+      "note": "Ordinances and covenants as travel credentials",
+      "detail": {
+        "image": "credentials",
+        "family": "other",
+        "carries": "ordinances and covenants admit us to God's presence"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "life is a homeward journey for all of us, back to the presence of God",
+      "basis": "interpreted",
+      "note": "Packer's framing that the talk builds on",
+      "detail": {
+        "image": "homeward journey",
+        "family": "path",
+        "carries": "everyone is traveling back to God"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "image",
+      "quote": "open wide the heavenly windows of opportunity",
+      "basis": "interpreted",
+      "note": "Covenants open heaven's windows",
+      "detail": {
+        "image": "heavenly windows",
+        "family": "building",
+        "carries": "covenants open the way for purpose, direction, and strength"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "the flow of God’s love, strength, and blessings",
+      "basis": "interpreted",
+      "note": "Blessings as a stream another person cannot dam",
+      "detail": {
+        "image": "flow",
+        "family": "water",
+        "carries": "no one can stop God's blessings reaching the faithful"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "what may be understood as a vertical sealing",
+      "basis": "interpreted",
+      "note": "Lateral and vertical as directions: across to a spouse, upward to God and through the generations",
+      "detail": {
+        "image": "lateral and vertical bonds",
+        "family": "other",
+        "carries": "the bond to God stands even if the bond to a spouse fails"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "name_of_christ",
+      "quote": "the sacred name of the Lord Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "name_of_christ",
+      "quote": "the Lord’s infinite and eternal Atonement",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "name_of_christ",
+      "quote": "messenger for the Father and the Son",
+      "basis": "exact",
+      "detail": {
+        "name": "the Son"
+      }
+    }
+  ]
+}

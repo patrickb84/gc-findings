@@ -1,0 +1,718 @@
+{
+  "id": "52munoz-spannaus",
+  "kind": "talk",
+  "speaker": "Andrea Muñoz Spannaus",
+  "role": "Second Counselor in the Young Women General Presidency",
+  "title": "God Is at Your Side",
+  "session": "Sunday Afternoon Session",
+  "order": 29,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng",
+  "pronouns": {
+    "i": 56,
+    "we": 15,
+    "you": 56
+  },
+  "summary": "Sister Muñoz Spannaus teaches young women that Heavenly Father knows exactly where they are, loves them completely, and will guide them toward the righteous desires of their hearts. She tells of a GPS that misread her location until her husband guided her by phone, of Jesus loving the rich young man before He counseled him, and of a priesthood blessing that lifted her when she was learning English. She asks each young woman to choose one of seven practices, such as daily repentance, protecting sleep, and limiting phone use, and to write her own list of aspirations from the thirteenth article of faith.",
+  "audience": {
+    "who": "Young women",
+    "quote": "Dear young women"
+  },
+  "arc": [
+    "story",
+    "invitation",
+    "promise",
+    "story",
+    "principle",
+    "story",
+    "scripture",
+    "principle",
+    "testimony",
+    "list",
+    "invitation",
+    "promise",
+    "quote",
+    "story",
+    "testimony",
+    "promise",
+    "invitation"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.45,
+    "future": 0.2
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "thirteenth article of faith",
+      "basis": "exact",
+      "ref": "thirteenth article of faith",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Mark 10:21",
+      "basis": "exact",
+      "ref": "Mark 10:21",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "thirteenth article of faith",
+      "basis": "exact",
+      "ref": "thirteenth article of faith",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Articles of Faith 1:13",
+      "basis": "exact",
+      "ref": "Articles of Faith 1:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Isaiah 48:17",
+      "basis": "exact",
+      "ref": "Isaiah 48:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Ether 12:27",
+      "basis": "exact",
+      "ref": "Ether 12:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Mark 10:17–20",
+      "basis": "exact",
+      "ref": "Mark 10:17–20",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Moses 1:39",
+      "basis": "exact",
+      "ref": "Moses 1:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 84:20",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:20",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:77",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:77",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 13:1",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 13:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 88:124",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:124",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Isaiah 41:13",
+      "basis": "exact",
+      "ref": "Isaiah 41:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 112:10",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 112:10",
+      "spoken": false
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "See “Young Women Theme,” Gospel Library.",
+      "basis": "exact",
+      "ref": "Young Women Theme"
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "“You have an important place in His Church. Jesus Christ will help you fulfill His purposes for you” (“Message from the First Presidency,” For the Strength of Youth: A Guide for Making Choices [2025], 2).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth: A Guide for Making Choices",
+      "note": "First Presidency message in For the Strength of Youth",
+      "detail": {
+        "who": "the First Presidency"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "Our Heavenly Father invites all of us to assist in His work of bringing to pass the eternal life of His children (see Moses 1:39; General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints, 1.2, Gospel Library). He also blesses us with specific responsibilities within His work. President Dieter F. Uchtdorf explained: “The Lord gave you your responsibilities for a reason. There may be people and hearts only you can reach and touch. Perhaps no one else could do it in quite the same way” (“Lift Where You Stand,” Liahona, Nov. 2008, 56).",
+      "basis": "exact",
+      "ref": "1.2",
+      "note": "Cites President Uchtdorf on responsibilities only you can fulfill",
+      "detail": {
+        "who": "Dieter F. Uchtdorf"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "See For the Strength of Youth, 23; Doctrine and Covenants 84:20: “Therefore, in the ordinances [of the priesthood], the power of godliness is manifest.”",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n9",
+      "type": "prophet",
+      "quote": "“Persons who have this remission of sins—and then regularly renew their cleansing by daily repentance and living according to the covenants they make through the ordinance of the sacrament—qualify for the promise that the Holy Ghost, the Spirit of the Lord, ‘may always … be with them’ (Doctrine and Covenants 20:77)” (Dallin H. Oaks, “Divine Helps for Mortality,” Liahona, May 2025, 105).",
+      "basis": "exact",
+      "ref": "Divine Helps for Mortality",
+      "note": "Cites President Oaks on daily repentance and the sacrament bringing the Holy Ghost",
+      "detail": {
+        "source": "Divine Helps for Mortality, Liahona, May 2025"
+      }
+    },
+    {
+      "id": "x-n10",
+      "type": "past_prophet",
+      "quote": "“Become an engaged learner. Immerse yourself in the scriptures to understand better Christ’s mission and ministry. Know the doctrine of Christ so that you understand its power for your life. Internalize the truth that the Atonement of Jesus Christ applies to you. … “The more you learn about the Savior, the easier it will be to trust in His mercy, His infinite love, and His strengthening, healing, and redeeming power” (Russell M. Nelson, “Christ Is Risen; Faith in Him Will Move Mountains,” Liahona, May 2021, 103).",
+      "basis": "exact",
+      "ref": "Christ Is Risen; Faith in Him Will Move Mountains",
+      "note": "Cites President Nelson on immersing yourself in the scriptures",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n11",
+      "type": "prophet",
+      "quote": "See Doctrine and Covenants 13:1; Dallin H. Oaks, “The Aaronic Priesthood and the Sacrament,” Liahona, Jan. 1999, 43–46.",
+      "basis": "exact",
+      "ref": "The Aaronic Priesthood and the Sacrament",
+      "note": "Cites President Oaks on the Aaronic Priesthood and ministering angels",
+      "detail": {
+        "source": "The Aaronic Priesthood and the Sacrament, Liahona, Jan. 1999"
+      }
+    },
+    {
+      "id": "x-n13",
+      "type": "source",
+      "quote": "See For the Strength of Youth, 24.",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Today I invite you to look at your life and what you want to achieve with enthusiasm",
+      "basis": "exact",
+      "detail": {
+        "action": "look at your life and what you want to achieve, with enthusiasm"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "your Father in Heaven will guide you on that journey and show you the best way to make the righteous desires of your heart come true",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "Heavenly Father guides you toward your righteous desires"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "I invite you to listen to the Spirit to choose one to focus on over the next few weeks.",
+      "basis": "exact",
+      "detail": {
+        "action": "choose one of the seven ways to focus on for a few weeks"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Partake of the sacrament with a humble heart",
+      "basis": "exact",
+      "detail": {
+        "action": "take the sacrament with a humble heart"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "grateful for the promise that as you keep your covenants, the Holy Ghost will be your constant companion",
+      "basis": "exact",
+      "paired_with": "c-4",
+      "detail": {
+        "blessing": "the Holy Ghost as a constant companion"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Begin each day by asking the Father for that companionship.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray each morning for the Holy Ghost's companionship"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "Repent daily and at the end of the day, as you pray, ask for forgiveness.",
+      "basis": "exact",
+      "detail": {
+        "action": "repent daily and ask forgiveness in evening prayer"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "invitation",
+      "quote": "Study the scriptures with a desire to know God’s character so you can do His will, increase your love for Him, and advance His work.",
+      "basis": "exact",
+      "detail": {
+        "action": "study the scriptures to know God's character"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "invitation",
+      "quote": "Study what it means to have ministering angels help you.",
+      "basis": "exact",
+      "detail": {
+        "action": "study the ministering of angels"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "invitation",
+      "quote": "Protect your sleep; go to bed early.",
+      "basis": "exact",
+      "detail": {
+        "action": "go to bed early and get enough sleep"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "invitation",
+      "quote": "Limit cell phone use.",
+      "basis": "exact",
+      "detail": {
+        "action": "limit cell phone use"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "invitation",
+      "quote": "And number seven is an invitation from our prophet, President Dallin H. Oaks",
+      "basis": "interpreted",
+      "note": "The seventh way is President Oaks's invitation to seek faithful friends",
+      "detail": {
+        "action": "seek friends who follow the Lord and strengthen your faith"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "prophet",
+      "quote": "“Seek friends … who are striving to follow the Lord … with whom you can feel the Spirit and … reinforce your faith.”",
+      "basis": "exact",
+      "detail": {
+        "source": "Coming Closer to Jesus Christ, BYU devotional, Feb. 10, 2026"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "invitation",
+      "quote": "Always put Him first and remain faithful to the covenants you made at your baptism.",
+      "basis": "exact",
+      "detail": {
+        "action": "put the Lord first and keep your baptismal covenants"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "promise",
+      "quote": "He knows where you are and has promised to lead you by the hand.",
+      "basis": "exact",
+      "paired_with": "c-14",
+      "detail": {
+        "blessing": "the Lord leads you by the hand"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "promise",
+      "quote": "Angels can minister to you.",
+      "basis": "exact",
+      "paired_with": "c-9",
+      "detail": {
+        "blessing": "the ministering of angels"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "invitation",
+      "quote": "I invite you to study the thirteenth article of faith and to create your own list of aspirations.",
+      "basis": "exact",
+      "detail": {
+        "action": "study the thirteenth article of faith and write a list of aspirations"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "promise",
+      "quote": "my confidence in all the beautiful things you will achieve in your lives",
+      "basis": "interpreted",
+      "note": "Closing assurance that answers the invitation to write a list of aspirations",
+      "paired_with": "c-17",
+      "detail": {
+        "blessing": "beautiful things you will achieve"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "promise",
+      "quote": "the Lord knows where you are; He has your exact location and can guide you.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "the Lord knows where you are and can guide you"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "promise",
+      "quote": "And knowing everything about you does not make Him love you less.",
+      "basis": "interpreted",
+      "note": "Assurance that God's full knowledge of you does not lessen His love",
+      "detail": {
+        "blessing": "God's love does not shrink when He knows everything about you"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "promise",
+      "quote": "if you choose to love God and Jesus Christ and to trust Them, doing that work will bring you the same great joy.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "great joy in your own life's work"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "testimony",
+      "quote": "I testify that you are beloved daughters of heavenly parents, with a divine nature and an eternal destiny.",
+      "basis": "exact",
+      "detail": {
+        "of": "young women as beloved daughters of heavenly parents"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "testimony",
+      "quote": "I testify that the Lord has greater power than the enemy.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Lord's power over the adversary"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "testimony",
+      "quote": "Angels can minister to you. The Father, Jesus Christ, and the Holy Ghost are at your side.",
+      "basis": "interpreted",
+      "note": "Closing witness that repeats the words of her blessing as a promise to every young woman",
+      "detail": {
+        "of": "the Godhead at your side"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "I would like to share seven ways that will help you in this endeavor.",
+      "basis": "exact",
+      "detail": {
+        "count": "7",
+        "items": [
+          "partake of the sacrament with a humble heart",
+          "repent daily",
+          "study the scriptures to know God's character",
+          "study ministering angels",
+          "protect your sleep",
+          "limit cell phone use",
+          "seek faithful friends"
+        ],
+        "purpose": "ways to do your work on earth and find joy"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "list",
+      "quote": "He knows your dreams and your gifts. He knows when you feel alone and what your questions are. He knows your challenges and how to turn your weaknesses into strengths.",
+      "basis": "interpreted",
+      "note": "A litany of what the Lord knows about each young woman",
+      "detail": {
+        "count": "6",
+        "items": [
+          "your dreams",
+          "your gifts",
+          "when you feel alone",
+          "your questions",
+          "your challenges",
+          "how to turn weaknesses into strengths"
+        ],
+        "purpose": "what the Lord knows about you"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "list",
+      "quote": "Satan wants to destroy your self-esteem, your mind, your thoughts, and your spirit.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "self-esteem",
+          "mind",
+          "thoughts",
+          "spirit"
+        ],
+        "purpose": "what Satan wants to destroy"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "When I was your age, I remember a lesson where we studied the thirteenth article of faith.",
+      "basis": "interpreted",
+      "note": "As a youth she spent a Sunday afternoon writing her list of aspirations",
+      "detail": {
+        "story_type": "personal",
+        "about": "writing a list of aspirations after a lesson on the thirteenth article of faith"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "On my way to the dentist, I put the address in my phone.",
+      "basis": "interpreted",
+      "note": "The GPS misread her location; her husband guided her once she gave her exact location",
+      "detail": {
+        "story_type": "personal",
+        "about": "a confused GPS and a husband who could guide her"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "I pulled off the freeway and called my husband for help.",
+      "basis": "exact",
+      "detail": {
+        "who": "husband",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "Once a young man came running, kneeling before Jesus Christ, and asking Him, “What can I do to gain eternal life?”",
+      "basis": "interpreted",
+      "note": "Jesus looked on the rich young man with love before telling him what to improve",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus loves the rich young man before counseling him"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "source",
+      "quote": "“What can I do to gain eternal life?”",
+      "basis": "exact",
+      "detail": {
+        "who": "the young man in Mark 10"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "story",
+      "quote": "A few years ago, we had recently moved from Argentina to the United States, and I was learning English.",
+      "basis": "interpreted",
+      "note": "After a teaching calling went badly in English, a priesthood blessing lifted her despair",
+      "detail": {
+        "story_type": "personal",
+        "about": "a priesthood blessing while learning English"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "Then my husband gave me a priesthood blessing",
+      "basis": "exact",
+      "detail": {
+        "who": "husband",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "source",
+      "quote": "“Satan wants to destroy your self-esteem, your mind, your thoughts, and your spirit.” And then I received these words: “But the Father, Jesus Christ, and the Holy Ghost are at your side.”",
+      "basis": "exact",
+      "detail": {
+        "who": "her husband's priesthood blessing"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "He has your exact location and can guide you.",
+      "basis": "interpreted",
+      "note": "The GPS and phone call turned into a picture of God knowing exactly where you are",
+      "detail": {
+        "image": "GPS / exact location",
+        "family": "path",
+        "carries": "God knows exactly where you are and can direct you"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "will guide you on that journey",
+      "basis": "interpreted",
+      "note": "Life's aspirations pictured as a journey God guides",
+      "detail": {
+        "image": "journey",
+        "family": "path",
+        "carries": "pursuing righteous goals is a guided journey"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "A look that conveys only love: love of the highest quality.",
+      "basis": "interpreted",
+      "note": "Jesus's gaze on the young man comes before any correction",
+      "detail": {
+        "image": "a loving look",
+        "family": "body",
+        "carries": "Christ loves before He corrects"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "it is a thief of our peace of mind, self-esteem, and the real connection",
+      "basis": "interpreted",
+      "note": "Social media pictured as a thief",
+      "detail": {
+        "image": "thief",
+        "family": "other",
+        "carries": "social media steals peace, self-esteem, and real connection"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "I felt depressed, as if I were in a black cloud.",
+      "basis": "interpreted",
+      "note": "Discouragement pictured as a black cloud",
+      "detail": {
+        "image": "black cloud",
+        "family": "light",
+        "carries": "despair that hides the way out"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "I felt the heavens open.",
+      "basis": "interpreted",
+      "note": "The priesthood blessing as heaven opening",
+      "detail": {
+        "image": "open heavens",
+        "family": "light",
+        "carries": "revelation breaking through despair"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "has promised to lead you by the hand",
+      "basis": "interpreted",
+      "note": "The Lord's guidance pictured as holding a hand",
+      "detail": {
+        "image": "hand",
+        "family": "body",
+        "carries": "close, personal guidance"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "revelation",
+      "quote": "Social media makes us believe we are connected; however, it is a thief of our peace of mind, self-esteem, and the real connection",
+      "basis": "interpreted",
+      "note": "Reads as a warning to youth that social media's connection is false",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "place",
+      "quote": "we had recently moved from Argentina to the United States",
+      "basis": "exact",
+      "detail": {
+        "place": "Argentina",
+        "country": "Argentina"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "place",
+      "quote": "we had recently moved from Argentina to the United States",
+      "basis": "exact",
+      "detail": {
+        "place": "United States",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "name_of_christ",
+      "quote": "the Lord knows where you are",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    }
+  ]
+}

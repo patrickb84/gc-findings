@@ -1,0 +1,581 @@
+{
+  "id": "55lebethoa",
+  "kind": "talk",
+  "speaker": "Thabo Lebethoa",
+  "role": "Of the Seventy",
+  "title": "Jesus Christ Is the Light and Life of the World",
+  "session": "Sunday Afternoon Session",
+  "order": 32,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/55lebethoa?lang=eng",
+  "pronouns": {
+    "i": 19,
+    "we": 58,
+    "you": 4
+  },
+  "summary": "Elder Lebethoa teaches that Jesus Christ is the light and life of the world, and that whatever our struggles, the answer is always Him. He tells how his name and his wife's name together mean “eternal joy,” how the Savior's words against contention in 3 Nephi helped him know how to resolve their first serious argument as newlyweds, and how a man reading the Book of Mormon buried a new tin of coffee in his garden. He asks us to build faith through consistent scripture study and prayer and to ponder what we need to change, promising that through Christ today can be a new day and tomorrow a better day.",
+  "audience": {
+    "who": "All members, especially those facing conflict at home and everyday struggles such as school, work, doubt, fear, or grief"
+  },
+  "arc": [
+    "story",
+    "story",
+    "scripture",
+    "principle",
+    "scripture",
+    "principle",
+    "promise",
+    "list",
+    "principle",
+    "scripture",
+    "quote",
+    "quote",
+    "quote",
+    "invitation",
+    "story",
+    "promise",
+    "principle",
+    "invitation",
+    "promise",
+    "quote",
+    "testimony",
+    "scripture"
+  ],
+  "orientation": {
+    "past": 0.2,
+    "present": 0.65,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "3 Nephi 11:29–30",
+      "basis": "exact",
+      "ref": "3 Nephi 11:29–30",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "3 Nephi 11:11",
+      "basis": "exact",
+      "ref": "3 Nephi 11:11",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 6:15",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 6:15",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "3 Nephi 18:16",
+      "basis": "exact",
+      "ref": "3 Nephi 18:16",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Psalm 119:105",
+      "basis": "exact",
+      "ref": "Psalm 119:105",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Alma 7:11–12",
+      "basis": "exact",
+      "ref": "Alma 7:11–12",
+      "spoken": true
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 6:36",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 6:36",
+      "spoken": true
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Alma 7:12",
+      "basis": "exact",
+      "ref": "Alma 7:12",
+      "spoken": true
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Matthew 11:28",
+      "basis": "exact",
+      "ref": "Matthew 11:28",
+      "spoken": true
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Let us ponder about the changes that we need to make in our lives",
+      "basis": "exact",
+      "detail": {
+        "action": "ponder what we need to change"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Perhaps we can begin by asking ourselves what is it that we need to change in our lives.",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: ask yourself what to change",
+      "detail": {
+        "action": "ask yourself what you need to change"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "We need to trust that He is always ready to help us as we remember to “look unto [Him] in every thought” and “doubt not, fear not”",
+      "basis": "interpreted",
+      "note": "Invitation framed as a need: trust Christ and look to Him in every thought",
+      "detail": {
+        "action": "trust Christ and look to Him in every thought"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Ultimately, the method, timing, and length of our scripture study matter less than the consistency and sincerity of our effort.",
+      "basis": "interpreted",
+      "note": "Invitation to study scriptures consistently and sincerely, in whatever way fits",
+      "detail": {
+        "action": "study the scriptures consistently and sincerely"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "We too can receive enlightenment as we study our scriptures.",
+      "basis": "exact",
+      "paired_with": "c-4",
+      "detail": {
+        "blessing": "enlightenment from the Spirit through scripture study"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "It is important to remember that we do not need to go through this alone.",
+      "basis": "interpreted",
+      "note": "Assurance that the Savior helps us through repentance",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the Savior's help in changing"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "Jesus Christ can bring light in our moments of darkness and restore hope where there is hopelessness.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "light in darkness and restored hope"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "Through Him, today can be a new day and tomorrow can be a better day.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "a new day today and a better day tomorrow"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "Whatever concerns, challenges, and struggles we may have in our lives, the answer is always Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Assurance that Christ answers every kind of struggle",
+      "detail": {
+        "blessing": "Christ as the answer to every struggle"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "testimony",
+      "quote": "I testify that today can be a new day and tomorrow will be a better day for all who come unto Jesus Christ and receive His light in their lives.",
+      "basis": "exact",
+      "detail": {
+        "of": "a new day and a better tomorrow for all who come to Christ"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "Here are some things we can do to increase the Savior’s light in our lives.",
+      "basis": "interpreted",
+      "note": "The talk's two sections that follow: faith in Christ (with prayer and scripture study) and repentance",
+      "detail": {
+        "count": "2",
+        "items": [
+          "faith in Jesus Christ, nourished by daily prayer and scripture study",
+          "repentance"
+        ],
+        "purpose": "ways to increase the Savior's light in our lives"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "We may be concerned about becoming self-reliant; meeting the demands placed upon us at school or at work; feeling inadequacy, fear, and doubt; dealing with the loss of a loved one; or simply knowing what to do with our lives.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "becoming self-reliant",
+          "demands at school or work",
+          "inadequacy, fear, and doubt",
+          "the loss of a loved one",
+          "knowing what to do with our lives"
+        ],
+        "purpose": "daily struggles for which Christ is the answer"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "We may choose to read chronologically, study by topic, focus on a particular question, or begin with a passage or verse that draws our attention.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "read chronologically",
+          "study by topic",
+          "focus on a particular question",
+          "begin with a passage or verse that draws attention"
+        ],
+        "purpose": "ways to study the scriptures; no single right way"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "these may include how we use our time, the things we watch or listen to, and the language and tone we use as we communicate with others",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "how we use our time",
+          "what we watch or listen to",
+          "the language and tone we use with others"
+        ],
+        "purpose": "changes to ponder in repentance"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "a spouse, a child, a family member, a friend, a colleague, or a neighbor",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "spouse",
+          "child",
+          "family member",
+          "friend",
+          "colleague",
+          "neighbor"
+        ],
+        "purpose": "people with whom a conversation may end badly"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "feelings of anger, disappointment, frustration, or even regret",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "anger",
+          "disappointment",
+          "frustration",
+          "regret"
+        ],
+        "purpose": "feelings left after a conversation goes wrong"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "story",
+      "quote": "My name is Thabo. It means “joy.” My beloved wife’s middle name is Gadifele. It means “eternal or endless.”",
+      "basis": "interpreted",
+      "note": "In South Africa names carry meaning; together theirs mean eternal joy",
+      "detail": {
+        "story_type": "family",
+        "about": "his and his wife's names together mean “eternal joy”"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "story",
+      "quote": "But shortly after we were married, a discussion one evening unexpectedly turned into our first serious disagreement.",
+      "basis": "interpreted",
+      "note": "Their first argument; recalling 3 Nephi 11:29–30 helped him know how to resolve it",
+      "detail": {
+        "story_type": "family",
+        "about": "a newlywed argument and the silent treatment, met with the Savior's words on contention"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "Whilst we were serving as mission leaders in our home country, one of our missionaries shared a story of a man they were teaching",
+      "basis": "interpreted",
+      "note": "After reading the Book of Mormon a man buried his new tin of coffee in his garden",
+      "detail": {
+        "story_type": "missionary",
+        "about": "a man buries a tin of coffee after reading the Book of Mormon"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "My beloved wife’s middle name is Gadifele.",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "one of our missionaries shared a story",
+      "basis": "exact",
+      "detail": {
+        "who": "a missionary from the mission they led",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "Put together, our names mean “eternal joy.” What an expectation!",
+      "basis": "interpreted",
+      "note": "Two names joined as a picture of what marriage is meant to be",
+      "detail": {
+        "image": "joined names",
+        "family": "other",
+        "carries": "marriage is meant for eternal joy"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "Jesus Christ can bring light in our moments of darkness",
+      "basis": "interpreted",
+      "note": "Light and darkness, the talk's governing image",
+      "detail": {
+        "image": "light in darkness",
+        "family": "light",
+        "carries": "Christ brings hope and direction in hard times"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "His words are “a light unto [our] path”",
+      "basis": "interpreted",
+      "note": "Christ's words as a lamp on a path",
+      "detail": {
+        "image": "light on a path",
+        "family": "light",
+        "carries": "His teachings show the way forward"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "it’s the thorns and thistles of doubt that grow spontaneously. The healthy, fruitful tree of faith requires intentional effort",
+      "basis": "interpreted",
+      "note": "Uchtdorf's garden contrast: doubt grows by itself, faith must be cultivated",
+      "detail": {
+        "image": "tree and thistles",
+        "family": "growth",
+        "carries": "faith needs deliberate tending; doubt does not"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "It means daily trying, one step at a time",
+      "basis": "interpreted",
+      "note": "Faith as walking step by step",
+      "detail": {
+        "image": "steps",
+        "family": "path",
+        "carries": "faith grows through small daily effort"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "Repentance means a change of mind and a turning of the heart to God.",
+      "basis": "interpreted",
+      "note": "Repentance pictured as turning the heart",
+      "detail": {
+        "image": "turning heart",
+        "family": "body",
+        "carries": "repentance is a change of direction toward God"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "today can be a new day and tomorrow can be a better day",
+      "basis": "interpreted",
+      "note": "Dawn of a new day, repeated in the closing testimony",
+      "detail": {
+        "image": "new day",
+        "family": "light",
+        "carries": "through Christ we can start again"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "place",
+      "quote": "In my home country of South Africa",
+      "basis": "exact",
+      "detail": {
+        "place": "South Africa",
+        "country": "South Africa"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "place",
+      "quote": "President Dallin H. Oaks in an address to BYU students",
+      "basis": "exact",
+      "detail": {
+        "place": "Brigham Young University",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "name_of_christ",
+      "quote": "I am the light and the life of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "the Light and the Life of the World"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "name_of_christ",
+      "quote": "I am the light; I have set an example for you",
+      "basis": "exact",
+      "detail": {
+        "name": "the Light"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "christ",
+      "quote": "he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 11:29"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "christ",
+      "quote": "Behold, this is not my doctrine, to stir up the hearts of men with anger, one against another; but this is my doctrine, that such things should be done away",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 11:30"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "christ",
+      "quote": "I am the light and the life of the world",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 11:11"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "christ",
+      "quote": "I am the light; I have set an example for you",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 18:16"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "christ",
+      "quote": "doubt not, fear not",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 6:36"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "christ",
+      "quote": "Come unto me, … and I will give you rest",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 11:28"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "prophet",
+      "quote": "“strong faith requires more than strong desire. It means daily trying, one step at a time, with prayer and scripture study”",
+      "basis": "exact",
+      "detail": {
+        "source": "Coming Closer to Jesus Christ, BYU devotional, Feb. 10, 2026"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "source",
+      "quote": "“Strong faith in Jesus Christ doesn’t happen overnight. No, in this mortal world, it’s the thorns and thistles of doubt that grow spontaneously. The healthy, fruitful tree of faith requires intentional effort”",
+      "basis": "exact",
+      "detail": {
+        "who": "President Dieter F. Uchtdorf"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "source",
+      "quote": "“As people read and pray about the Book of Mormon, they will come to know the Savior better and experience His love”",
+      "basis": "exact",
+      "detail": {
+        "who": "Preach My Gospel"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "source",
+      "quote": "“the invitation to repent is an expression of God’s love. Saying yes to that invitation is an expression of ours”",
+      "basis": "exact",
+      "detail": {
+        "who": "Sister Tamara W. Runia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "id": "41eyring",
+  "kind": "talk",
+  "speaker": "Henry B. Eyring",
+  "role": "First Counselor in the First Presidency",
+  "title": "“Fear Not, I Am with Thee”",
+  "session": "Sunday Morning Session",
+  "order": 19,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/41eyring?lang=eng",
+  "pronouns": {
+    "i": 23,
+    "we": 26,
+    "you": 27
+  },
+  "summary": "President Eyring teaches that the Lord's promise in the hymn \"How Firm a Foundation\", \"Fear not, I am with thee\", is true, though it does not promise to take our trials away, because life is a test we need in order to grow. He tells of his mother, who taught him as a boy that life is supposed to be hard, kept a picture of the Savior on her wall through her last days, and was cared for by his father, and he uses this to show that the Lord keeps His promises through other people. He thanks members who pray to know whom to help, encourage missionaries, support Church leaders and comfort those in need, and he asks others to join them in helping the Lord keep His promise.",
+  "audience": {
+    "who": "Members worldwide, especially those already quietly serving others",
+    "quote": "My beloved brothers and sisters"
+  },
+  "arc": [
+    "principle",
+    "quote",
+    "list",
+    "principle",
+    "story",
+    "principle",
+    "scripture",
+    "principle",
+    "story",
+    "quote",
+    "invitation",
+    "list",
+    "invitation",
+    "promise",
+    "invitation",
+    "promise",
+    "invitation",
+    "scripture",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.5,
+    "future": 0.2
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "41st chapter of Isaiah,",
+      "basis": "exact",
+      "ref": "41st chapter of Isaiah,",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Isaiah 41:10",
+      "basis": "exact",
+      "ref": "Isaiah 41:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Isaiah 53:4",
+      "basis": "exact",
+      "ref": "Isaiah 53:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Alma 7:11–12",
+      "basis": "exact",
+      "ref": "Alma 7:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mosiah 18:8–9",
+      "basis": "exact",
+      "ref": "Mosiah 18:8–9",
+      "spoken": false
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Let us listen again to those promises:",
+      "basis": "exact",
+      "detail": {
+        "action": "listen again to the hymn's promises"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "encourage others to join Him in keeping His promise today and in the hard days ahead",
+      "basis": "exact",
+      "detail": {
+        "action": "join the Lord in keeping His promise to succor others"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "You have prayed in faith consistently for your family members or friends to know who the Lord would have you help for Him.",
+      "basis": "interpreted",
+      "note": "Praise of what members already do, offered as a pattern to follow: pray to know whom to help, then reach out",
+      "detail": {
+        "action": "pray to know whom the Lord would have you help, then reach out"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "That you felt prompted to reach out to them was evidence to them that the Lord knew and loved them.",
+      "basis": "interpreted",
+      "note": "Reaching out when prompted shows the person that the Lord knows and loves them",
+      "detail": {
+        "blessing": "those you reach out to feel the Lord knows and loves them"
+      },
+      "paired_with": "c-3"
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "Many of you have recognized a discouraged missionary as an invitation to lift a servant of Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Praise offered as a pattern: lift discouraged missionaries, even with a smile",
+      "detail": {
+        "action": "encourage and lift missionaries"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "When you speak to them, you will find words to build their faith that the Lord knows them and is aware of their circumstances.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "words to build a missionary's faith"
+      },
+      "paired_with": "c-5"
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "As you show your appreciation and confidence in them that they have been inspired",
+      "basis": "interpreted",
+      "note": "Pray for Church leaders and show them appreciation and confidence",
+      "detail": {
+        "action": "pray for and show appreciation to those serving in callings"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "they will feel evidence that God called them, knows them, and has guided and blessed them. They will be strengthened in their feeling of the Lord’s approval.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "leaders feel God called and guides them, and feel the Lord's approval"
+      },
+      "paired_with": "c-7"
+    },
+    {
+      "id": "c-9",
+      "type": "invitation",
+      "quote": "Another great opportunity can come when you invite the Holy Ghost to help you find ways to help the Lord comfort those who are pleading for it.",
+      "basis": "interpreted",
+      "note": "Framed as an opportunity: ask the Holy Ghost how to comfort those in need",
+      "detail": {
+        "action": "invite the Holy Ghost to show you how to comfort others"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "We know that the Lord will comfort all of those who try to follow Him.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "the Lord's comfort for all who try to follow Him"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "I’ll strengthen thee, help thee, and cause thee to stand,",
+      "basis": "interpreted",
+      "note": "The hymn's words in the Lord's voice, which President Eyring affirms are true",
+      "detail": {
+        "blessing": "the Lord's strength, help and power to stand"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "As thy days may demand, … so thy succor shall be.",
+      "basis": "interpreted",
+      "note": "Help measured to each day's need, from the hymn he calls true",
+      "detail": {
+        "blessing": "succor equal to each day's demands"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "promise",
+      "quote": "He knows you perfectly. He knows your heart.",
+      "basis": "interpreted",
+      "note": "An assurance that the Savior knows each person fully",
+      "detail": {
+        "blessing": "being perfectly known by the Savior"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "In ev’ry condition—in sickness, in health,",
+      "basis": "interpreted",
+      "note": "The hymn's paired conditions, all covered by the promise",
+      "detail": {
+        "count": "8",
+        "items": [
+          "sickness",
+          "health",
+          "poverty",
+          "wealth",
+          "at home",
+          "abroad",
+          "on the land",
+          "on the sea"
+        ],
+        "purpose": "every condition in which the Lord's succor comes"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "I would like to share examples of what so many of you have already done and are doing to help the Lord fulfill His promise to succor those in need",
+      "basis": "interpreted",
+      "note": "The examples that follow form the body of the talk",
+      "detail": {
+        "count": "4",
+        "items": [
+          "pray to know whom to help and reach out",
+          "lift discouraged missionaries",
+          "pray for and show confidence in Church leaders",
+          "invite the Holy Ghost to help you comfort those in need"
+        ],
+        "purpose": "ways members help the Lord keep His promise"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "are willing to bear one another’s burdens, that they may be light;",
+      "basis": "interpreted",
+      "note": "Alma's covenant duties, quoted as the pattern for comforting",
+      "detail": {
+        "count": "3",
+        "items": [
+          "bear one another's burdens",
+          "mourn with those that mourn",
+          "comfort those that stand in need of comfort"
+        ],
+        "purpose": "what those who come into the fold of God are willing to do"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "testimony",
+      "quote": "I testify that this is His Church and that He keeps His promises, both through the Holy Spirit and through His loving, true, faithful disciples",
+      "basis": "exact",
+      "detail": {
+        "of": "His Church, and that He keeps His promises through the Spirit and through disciples"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "testimony",
+      "quote": "My message today is that the promises in that hymn are true.",
+      "basis": "interpreted",
+      "note": "An opening witness that the hymn's promises are true",
+      "detail": {
+        "of": "the promises in \"How Firm a Foundation\""
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "revelation",
+      "quote": "speaks of promises which will become more important and more precious in the time ahead for all of us and for those we love.",
+      "basis": "interpreted",
+      "note": "Reads as a forecast that the Lord's promises of succor will matter more in coming days",
+      "detail": {
+        "kind": "prophecy"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "revelation",
+      "quote": "in keeping His promise today and in the hard days ahead.",
+      "basis": "interpreted",
+      "note": "Reads as a warning that hard days lie ahead",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "past_prophet",
+      "quote": "“God does notice us, and he watches over us. But it is usually through another person that he meets our needs.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Spencer W. Kimball"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "source",
+      "quote": "Fear not, I am with thee; oh, be not dismayed,",
+      "basis": "exact",
+      "detail": {
+        "who": "\"How Firm a Foundation\" (hymn, drawn from Isaiah 41)"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "“Hal, of course it’s hard. It’s supposed to be. Life is a test.”",
+      "basis": "exact",
+      "detail": {
+        "who": "his mother"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "source",
+      "quote": "Will we do whatsoever the Lord our God will command us?",
+      "basis": "interpreted",
+      "note": "Echoes Abraham 3:25, not cited in the notes",
+      "detail": {
+        "who": "Abraham 3:25 (uncited echo)"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "story",
+      "quote": "I had asked her, “Mother, why is life so hard?”",
+      "basis": "interpreted",
+      "note": "As a boy he asked his mother why life is hard; she said it is a test",
+      "detail": {
+        "story_type": "family",
+        "about": "his mother teaches young Hal that life is a test"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "As a girl, she had been diagnosed with diseases that would cause lifelong health challenges.",
+      "basis": "interpreted",
+      "note": "His mother's lifelong illness, through which the Lord's promise was fulfilled",
+      "detail": {
+        "story_type": "family",
+        "about": "his mother's lifetime of medical trials"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "As my mother went through her last days of life, she became bedridden. The only picture she had placed on her bedroom wall was of the Savior.",
+      "basis": "interpreted",
+      "note": "His mother's last days, with only a picture of the Savior on her wall",
+      "detail": {
+        "story_type": "family",
+        "about": "his mother's last days and the picture of the Savior"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "After she died, my father walked through the floor of the hospital ward to thank and to shake the hand of every nurse who had helped her.",
+      "basis": "interpreted",
+      "note": "His father slept on a cot by her and afterwards thanked every nurse: evidence the Lord sends disciples to succor",
+      "detail": {
+        "story_type": "family",
+        "about": "his father cares for his dying mother and thanks every nurse"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "relationship",
+      "quote": "My wise mother taught me that when I was a little boy.",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "My father had a cot placed next to her in the hospital room",
+      "basis": "exact",
+      "detail": {
+        "who": "father",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "Life is a test.",
+      "basis": "interpreted",
+      "note": "Mortality as a test that is meant to be hard",
+      "detail": {
+        "image": "test",
+        "family": "other",
+        "carries": "trials are expected and purposeful, not a sign of abandonment"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "image",
+      "quote": "Upheld by my righteous, … omnipotent hand.",
+      "basis": "interpreted",
+      "note": "The Lord's hand holding the person up",
+      "detail": {
+        "image": "hand",
+        "family": "body",
+        "carries": "the Lord's power holds us up in trials"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "It hung where she could see it as she lay in her bed.",
+      "basis": "interpreted",
+      "note": "The picture of the Savior kept in view to the end",
+      "detail": {
+        "image": "picture of the Savior",
+        "family": "other",
+        "carries": "keeping the Savior in sight through suffering"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "along their mortal journey toward home",
+      "basis": "interpreted",
+      "note": "Mortality as a journey back home to God",
+      "detail": {
+        "image": "journey home",
+        "family": "path",
+        "carries": "life is a road back to Heavenly Father"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "we must grow in spiritual cleanliness and stature to be able to live in His presence",
+      "basis": "interpreted",
+      "note": "Spiritual growth pictured as growing in stature",
+      "detail": {
+        "image": "stature",
+        "family": "growth",
+        "carries": "trials grow us until we can live with God"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "name_of_christ",
+      "quote": "the Lord’s promise was fulfilled for her",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord"
+      }
+    }
+  ]
+}

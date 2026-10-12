@@ -1,0 +1,929 @@
+{
+  "id": "46cook",
+  "kind": "talk",
+  "speaker": "Quentin L. Cook",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Integrity and Virtue Lead to Happiness",
+  "session": "Sunday Morning Session",
+  "order": 24,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/46cook?lang=eng",
+  "pronouns": {
+    "i": 15,
+    "we": 43,
+    "you": 2
+  },
+  "summary": "Elder Cook teaches that integrity and virtue are tied to true happiness and keep disciples on the covenant path, and he warns against the coarse, crude conduct common in society and online. He tells of a carved stone in Scotland reading “Whate’er thou art, act well thy part” that shaped the young missionary David O. McKay, and of a World War II sailor he taught who compared repentance to stepping onto home soil. He asks members to live with integrity, be peacemakers, spend time every day in the scriptures, and make repentance part of daily life.",
+  "audience": {
+    "who": "All members, with a word on youth and on how Latter-day Saints speak in public and online"
+  },
+  "arc": [
+    "principle",
+    "story",
+    "quote",
+    "principle",
+    "quote",
+    "principle",
+    "quote",
+    "promise",
+    "principle",
+    "invitation",
+    "promise",
+    "scripture",
+    "promise",
+    "invitation",
+    "promise",
+    "story",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.5,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "2 Nephi 2:25",
+      "basis": "exact",
+      "ref": "2 Nephi 2:25",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Matthew 7:13–14",
+      "basis": "exact",
+      "ref": "Matthew 7:13–14",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 124:20",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 124:20",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Matthew 5:3–11",
+      "basis": "exact",
+      "ref": "Matthew 5:3–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "3 Nephi 12:1–11",
+      "basis": "exact",
+      "ref": "3 Nephi 12:1–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:45",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:45",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "2 Nephi 2:25",
+      "basis": "exact",
+      "ref": "2 Nephi 2:25",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 82:14",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 82:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 97:8–9",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 97:8–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "1 Corinthians 15:33–34",
+      "basis": "exact",
+      "ref": "1 Corinthians 15:33–34",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "John 3:16",
+      "basis": "exact",
+      "ref": "John 3:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 34:3",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 34:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "John 3:17",
+      "basis": "exact",
+      "ref": "John 3:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "3 Nephi 9:21",
+      "basis": "exact",
+      "ref": "3 Nephi 9:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Luke 6:46",
+      "basis": "exact",
+      "ref": "Luke 6:46",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Matthew 7:21",
+      "basis": "exact",
+      "ref": "Matthew 7:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Philippians 4:8",
+      "basis": "exact",
+      "ref": "Philippians 4:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Articles of Faith 1:13",
+      "basis": "exact",
+      "ref": "Articles of Faith 1:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:46",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:46",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "Psalm 26:11",
+      "basis": "exact",
+      "ref": "Psalm 26:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "1 Nephi 8:12",
+      "basis": "exact",
+      "ref": "1 Nephi 8:12",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “The Everlasting Covenant,” Liahona, Oct. 2022, 4–11.",
+      "basis": "exact",
+      "ref": "The Everlasting Covenant",
+      "note": "Cites President Russell M. Nelson on the covenant path",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n5",
+      "type": "past_prophet",
+      "quote": "President McKay taught that “the foundation of a noble character is integrity” and that “no man can do better than to accept Christ as the great Exemplar and the safest Guide” (Pathways to Happiness, comp. Llewelyn R. McKay [1957], 3; Teachings of Presidents of the Church: David O. McKay [2003], 216).",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: David O. McKay",
+      "note": "Quotes President David O. McKay: integrity as the foundation of noble character, Christ as Exemplar and Guide",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 129.",
+      "basis": "exact",
+      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ"
+    },
+    {
+      "id": "x-n8",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Spencer W. Kimball (2006), 126.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Spencer W. Kimball",
+      "note": "Source of President Spencer W. Kimball's quote on integrity as a foundation stone of character",
+      "detail": {
+        "who": "Spencer W. Kimball"
+      }
+    },
+    {
+      "id": "x-n19",
+      "type": "prophet",
+      "quote": "See Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 85–87; Russell M. Nelson, “Peacemakers Needed,” Liahona, May 2023, 98–101.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Cites President Oaks (and President Nelson) on being righteous peacemakers",
+      "detail": {
+        "source": "Alive in Christ, Liahona, May 2026"
+      }
+    },
+    {
+      "id": "x-n26",
+      "type": "source",
+      "quote": "See Joseph B. Wirthlin, “Personal Integrity,” Ensign, May 1990, 33.",
+      "basis": "exact",
+      "ref": "Personal Integrity"
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "We need to live our lives with integrity and follow His example.",
+      "basis": "exact",
+      "detail": {
+        "action": "live with integrity and follow Christ's example"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "we can strive to be a peaceable people who live in accordance with the Christlike conduct and virtues taught by our Savior, Jesus Christ",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: be peaceable in the face of attacks",
+      "detail": {
+        "action": "be a peaceable people"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "If we dedicate some time every day to the scriptures and spiritual renewal",
+      "basis": "interpreted",
+      "note": "Conditional phrasing read as an invitation to daily scripture time",
+      "detail": {
+        "action": "spend time every day in the scriptures and spiritual renewal"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "If we dedicate some time every day to the scriptures and spiritual renewal, we will be deeply blessed.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "being deeply blessed"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "When we make repentance a constant, day-to-day part of our lives",
+      "basis": "interpreted",
+      "note": "Conditional phrasing read as an invitation to daily repentance",
+      "detail": {
+        "action": "make repentance a daily part of life"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "When we make repentance a constant, day-to-day part of our lives, we can approach the Lord with integrity and receive His saving blessings.",
+      "basis": "exact",
+      "paired_with": "c-5",
+      "detail": {
+        "blessing": "approaching the Lord with integrity and receiving His saving blessings"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "The ultimate reward of integrity and virtue is the constant companionship of the Holy Ghost.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the constant companionship of the Holy Ghost"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "But when we do what is right, He can dwell with us and guide us in all that we do.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the Holy Ghost dwelling with us and guiding us"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "Those who make sacrifices in His name will be richly rewarded.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "rich reward for sacrifice in Christ's name"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "True happiness, often translated as blessedness, is the actual outcome of integrity and being virtuous.",
+      "basis": "interpreted",
+      "note": "Doctrinal statement read as a promise: integrity and virtue yield true happiness",
+      "detail": {
+        "blessing": "true happiness, or blessedness"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "we can stay on the path and continue to follow wise, righteous principles that lead to happiness",
+      "basis": "interpreted",
+      "note": "Being spiritually prepared with integrity and virtue keeps us on the path to happiness",
+      "detail": {
+        "blessing": "staying on the covenant path toward happiness"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "revelation",
+      "quote": "Any use of the internet to bully, destroy a reputation, or place a person in a bad light is reprehensible.",
+      "basis": "interpreted",
+      "note": "Reads as an apostolic warning about online conduct",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "revelation",
+      "quote": "It is clear that evil communications are not just a matter of bad manners. If practiced by Latter-day Saints, they can adversely affect others who do not have a knowledge of God or a testimony of our Savior.",
+      "basis": "interpreted",
+      "note": "Reads as a warning that members' coarse speech harms others' faith",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "revelation",
+      "quote": "The Lord has inspired marvelous technology that provides us with unparalleled experiences and opportunities when used wisely.",
+      "basis": "interpreted",
+      "note": "Reads as direction that technology is inspired when used wisely, balancing the warning",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "In the Father’s plan, integrity, virtue, and happiness are intrinsically linked.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "integrity",
+          "virtue",
+          "happiness"
+        ],
+        "purpose": "the three linked qualities the talk is built on"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "Virtue includes not only a strong personal moral compass but also cleanliness, modesty, goodness, holiness, and reverence for the sacred.",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "a strong personal moral compass",
+          "cleanliness",
+          "modesty",
+          "goodness",
+          "holiness",
+          "reverence for the sacred"
+        ],
+        "purpose": "what virtue includes"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "Integrity includes being honest with God, yourself, your leaders, and others.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "God",
+          "yourself",
+          "your leaders",
+          "others"
+        ],
+        "purpose": "those integrity requires honesty with (Preach My Gospel)"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "list",
+      "quote": "Virtue, uprightness, faithfulness, holiness, and keeping the commandments of God lead to a happy life.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "virtue",
+          "uprightness",
+          "faithfulness",
+          "holiness",
+          "keeping the commandments of God"
+        ],
+        "purpose": "what leads to a happy life (President McKay)"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "list",
+      "quote": "through repentance, baptism, and confirmation he could receive forgiveness",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "repentance",
+          "baptism",
+          "confirmation"
+        ],
+        "purpose": "the path to forgiveness taught to the sailor"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "list",
+      "quote": "Integrity, virtue, and ongoing repentance are the answer in a world where coarse language and serious challenges are so prevalent.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "integrity",
+          "virtue",
+          "ongoing repentance"
+        ],
+        "purpose": "the closing answer to a coarse world"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "testimony",
+      "quote": "I testify that Jesus Christ accomplished the eternity-shaping sacrifice necessary for our salvation and exaltation",
+      "basis": "exact",
+      "detail": {
+        "of": "Christ's sacrifice for our salvation and exaltation"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "past_prophet",
+      "quote": "Significantly President McKay taught: “Happiness is the purpose and design of existence. ‘Men are that they might have joy’ [see 2 Nephi 2:25].",
+      "basis": "exact",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "past_prophet",
+      "quote": "President McKay continued, “Those who follow that path are not long faced and sanctimonious, depriving themselves of the joys of existence”",
+      "basis": "exact",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "past_prophet",
+      "quote": "In a talk given in 1957, President McKay spoke of the message.",
+      "basis": "exact",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "past_prophet",
+      "quote": "It was clear that one of President McKay’s purposes in mentioning this incident was to teach that some conduct which is not inherently evil can keep us from engaging in spiritual matters",
+      "basis": "interpreted",
+      "note": "Elder Cook's reading of what President McKay meant by the inscription story",
+      "detail": {
+        "who": "David O. McKay"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "past_prophet",
+      "quote": "President Russell M. Nelson reaffirmed the message at the 50th anniversary of the Missionary Training Center on January 31, 2012",
+      "basis": "exact",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "christ",
+      "quote": "“And why call ye me, Lord, Lord, and do not the things which I say?”",
+      "basis": "exact",
+      "detail": {
+        "where": "Luke 6:46"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "christ",
+      "quote": "“Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 7:21"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "christ",
+      "quote": "“He may be trusted because of the integrity of his heart.”",
+      "basis": "interpreted",
+      "note": "The Lord speaking in revelation about an unnamed servant in Nauvoo",
+      "detail": {
+        "where": "Doctrine and Covenants 124:20"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "christ",
+      "quote": "“Let virtue garnish thy thoughts unceasingly.”",
+      "basis": "interpreted",
+      "note": "The Lord's words received by Joseph Smith in Liberty Jail",
+      "detail": {
+        "where": "Doctrine and Covenants 121:45"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "christ",
+      "quote": "“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”",
+      "basis": "interpreted",
+      "note": "Jesus's words to Nicodemus, framed by Elder Cook as a special message of the gospel",
+      "detail": {
+        "where": "John 3:16"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "source",
+      "quote": "“WHAT-E’ER THOU ART ACT WELL THY PART.”",
+      "basis": "exact",
+      "detail": {
+        "who": "stone inscription over a doorway in Scotland"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "source",
+      "quote": "“Life, Liberty and the pursuit of Happiness.”",
+      "basis": "exact",
+      "detail": {
+        "who": "the Declaration of Independence"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "source",
+      "quote": "Some scholars have noted that the reference to “happiness” was understood by the founders to be based on living a virtuous life.",
+      "basis": "interpreted",
+      "note": "Unnamed scholars; note 12 points to Jeffrey Rosen, The Pursuit of Happiness",
+      "detail": {
+        "who": "scholars (Jeffrey Rosen)"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "source",
+      "quote": "The Apostle Paul beautifully taught, “Whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.”",
+      "basis": "exact",
+      "detail": {
+        "who": "the Apostle Paul"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "source",
+      "quote": "Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference.",
+      "basis": "exact",
+      "detail": {
+        "who": "Robert Frost"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "source",
+      "quote": "“Especially my family.”",
+      "basis": "exact",
+      "detail": {
+        "who": "the World War II sailor Elder Cook taught"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "source",
+      "quote": "Young people who attend For the Strength of Youth and young single adult conferences often tell me the testimony meeting, a small portion of the event, is the most appreciated.",
+      "basis": "interpreted",
+      "note": "Paraphrased voice of youth and young single adults",
+      "detail": {
+        "who": "youth and young single adults"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "story",
+      "quote": "As a new missionary, Elder McKay passed a building where the stone above the doorway bore this carved inscription",
+      "basis": "interpreted",
+      "note": "A carved motto shaped McKay's missionary service and the rest of his life",
+      "detail": {
+        "story_type": "church history",
+        "about": "young missionary David O. McKay sees “act well thy part” on a stone in Scotland"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "story",
+      "quote": "Mary and I recently had the privilege of meeting with the missionaries in the Scotland/Ireland Mission.",
+      "basis": "interpreted",
+      "note": "Frame story: a recent visit to the mission where the McKay stone's replica stands",
+      "detail": {
+        "story_type": "personal",
+        "about": "Elder and Sister Cook visit the Scotland/Ireland Mission"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "story",
+      "quote": "When I was young, President McKay was the prophet, and his teachings had a lasting influence on me.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "personal",
+        "about": "President McKay's influence on young Quentin Cook"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "story",
+      "quote": "When I was a young missionary in the British Mission, one of my most memorable experiences was teaching a wonderful man who had served on a battleship in the European theater during World War II",
+      "basis": "interpreted",
+      "note": "A WWII veteran likens repentance to coming home and is baptized wanting to share the joy with his family",
+      "detail": {
+        "story_type": "missionary",
+        "about": "a WWII battleship veteran learns repentance and is baptized"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "relationship",
+      "quote": "Mary and I",
+      "basis": "interpreted",
+      "note": "Mary is Elder Cook's wife",
+      "detail": {
+        "who": "wife Mary",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "relationship",
+      "quote": "“Especially my family.”",
+      "basis": "interpreted",
+      "note": "The sailor prays to share his joy with his family",
+      "detail": {
+        "who": "the sailor's family",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "image",
+      "quote": "The covenant path that will return us to our beloved Father in Heaven and His Son, Jesus Christ, is not obscure; it is well marked.",
+      "basis": "exact",
+      "detail": {
+        "image": "well-marked path",
+        "family": "path",
+        "carries": "the way back to God is clear and taught"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "image",
+      "quote": "He compared repentance to the feelings he had when he arrived back in England, departed from the battleship, and felt the earth of his island home under his feet.",
+      "basis": "interpreted",
+      "note": "Repentance as coming home and kneeling on solid ground",
+      "detail": {
+        "image": "home soil underfoot",
+        "family": "rock",
+        "carries": "repentance feels like safe homecoming after war"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "image",
+      "quote": "the stone above the doorway bore this carved inscription",
+      "basis": "interpreted",
+      "note": "A carved stone, preserved and replicated, carries a lasting message",
+      "detail": {
+        "image": "carved stone",
+        "family": "rock",
+        "carries": "a durable motto to do one's part well"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "image",
+      "quote": "“Whate’er thou art, act well thy part,”",
+      "basis": "interpreted",
+      "note": "Life as a stage role to be played well",
+      "detail": {
+        "image": "a part in a play",
+        "family": "other",
+        "carries": "do your best in whatever role you have"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "image",
+      "quote": "integrity (the willingness and ability to live by our beliefs and commitments) is one of the foundation stones of good character",
+      "basis": "interpreted",
+      "note": "Character as a building with integrity at its foundation",
+      "detail": {
+        "image": "foundation stones",
+        "family": "building",
+        "carries": "integrity is what good character rests on"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "image",
+      "quote": "a strong personal moral compass",
+      "basis": "interpreted",
+      "note": "Virtue as a compass for direction",
+      "detail": {
+        "image": "compass",
+        "family": "path",
+        "carries": "virtue gives moral direction"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "image",
+      "quote": "Two roads diverged in a wood",
+      "basis": "interpreted",
+      "note": "Frost's two roads, paired in note 2 with the strait and narrow way",
+      "detail": {
+        "image": "two roads",
+        "family": "path",
+        "carries": "choosing the less-traveled covenant path"
+      }
+    },
+    {
+      "id": "c-52",
+      "type": "place",
+      "quote": "meeting with the missionaries in the Scotland/Ireland Mission",
+      "basis": "exact",
+      "detail": {
+        "place": "Scotland/Ireland Mission",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": "c-53",
+      "type": "place",
+      "quote": "when he was a young missionary in Scotland",
+      "basis": "exact",
+      "detail": {
+        "place": "Scotland",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": "c-54",
+      "type": "place",
+      "quote": "The Lord, speaking of one servant in Nauvoo",
+      "basis": "exact",
+      "detail": {
+        "place": "Nauvoo",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-55",
+      "type": "place",
+      "quote": "In the United States we have been celebrating the 250th anniversary of the Declaration of Independence",
+      "basis": "exact",
+      "detail": {
+        "place": "United States",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-56",
+      "type": "place",
+      "quote": "Among the touching guidance that Joseph Smith received in Liberty Jail",
+      "basis": "exact",
+      "detail": {
+        "place": "Liberty Jail",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-57",
+      "type": "place",
+      "quote": "When I was a young missionary in the British Mission",
+      "basis": "exact",
+      "detail": {
+        "place": "British Mission",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": "c-58",
+      "type": "place",
+      "quote": "when he arrived back in England",
+      "basis": "exact",
+      "detail": {
+        "place": "England",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": "c-59",
+      "type": "place",
+      "quote": "Later it was relocated to Salt Lake City, Utah, for permanent preservation and is located at the Church History Museum.",
+      "basis": "exact",
+      "detail": {
+        "place": "Church History Museum, Salt Lake City",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-60",
+      "type": "place",
+      "quote": "Replicas are on display at the Scotland/Ireland Mission home in Edinburgh, the Provo Missionary Training Center, and a museum in Stirling, Scotland.",
+      "basis": "exact",
+      "detail": {
+        "place": "Edinburgh, Provo Missionary Training Center, Stirling",
+        "country": "United Kingdom; United States"
+      }
+    },
+    {
+      "id": "c-61",
+      "type": "name_of_christ",
+      "quote": "he gave his only begotten Son",
+      "basis": "exact",
+      "detail": {
+        "name": "Only Begotten Son"
+      }
+    },
+    {
+      "id": "c-62",
+      "type": "name_of_christ",
+      "quote": "the great Exemplar and the safest Guide",
+      "basis": "exact",
+      "detail": {
+        "name": "the great Exemplar; the safest Guide"
+      }
+    }
+  ]
+}

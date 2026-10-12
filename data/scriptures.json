@@ -1,5 +1,209 @@
 [
   {
+    "ref": "Genesis 1–2",
+    "book": "Genesis",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Exodus 14:11–12",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Exodus 16:2–4",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Exodus 17:3–6",
+    "book": "Exodus",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Numbers 11:4–6, 31–32",
+    "book": "Numbers",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Numbers 14:2",
+    "book": "Numbers",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Numbers 14:3–4",
+    "book": "Numbers",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Numbers 14:11",
+    "book": "Numbers",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Deuteronomy 6:5",
+    "book": "Deuteronomy",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Deuteronomy 31:6",
+    "book": "Deuteronomy",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Judges 2:1",
+    "book": "Judges",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Chronicles 20:15",
+    "book": "2 Chronicles",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Job 19:25",
     "book": "Job",
     "volume": "Old Testament",
@@ -29,6 +233,148 @@
     ],
     "talks": [
       "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Psalm 50:15",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Psalm 55:22",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s1",
+        "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn",
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Psalm 116:2",
+    "book": "Psalms",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Proverbs 3:5–6",
+    "book": "Proverbs",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Isaiah 40:4",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Isaiah 40:31",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Isaiah 53:4",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Isaiah 55:8",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
     ],
     "spoken": false,
     "overlaps": []
@@ -182,6 +528,23 @@
     "overlaps": []
   },
   {
+    "ref": "Zephaniah 3:17",
+    "book": "Zephaniah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Haggai 1:5–7, 9",
     "book": "Haggai",
     "volume": "Old Testament",
@@ -221,6 +584,40 @@
     "overlaps": []
   },
   {
+    "ref": "Malachi 3:8, 10",
+    "book": "Malachi",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "24giuffra",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "24giuffra"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 1–2",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Matthew 5:6",
     "book": "Matthew",
     "volume": "New Testament",
@@ -255,6 +652,78 @@
     "overlaps": []
   },
   {
+    "ref": "Matthew 6:9–13",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 7:7",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 7:9–11",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Matthew 7:11"
+    ]
+  },
+  {
+    "ref": "Matthew 7:11",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Matthew 7:9–11"
+    ]
+  },
+  {
     "ref": "Matthew 7:15–23",
     "book": "Matthew",
     "volume": "New Testament",
@@ -272,6 +741,25 @@
     "overlaps": []
   },
   {
+    "ref": "Matthew 11:28",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s37",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Matthew 11:28–30"
+    ]
+  },
+  {
     "ref": "Matthew 11:28–30",
     "book": "Matthew",
     "volume": "New Testament",
@@ -286,6 +774,45 @@
       "48schmeil"
     ],
     "spoken": true,
+    "overlaps": [
+      "Matthew 11:29",
+      "Matthew 11:28"
+    ]
+  },
+  {
+    "ref": "Matthew 11:29",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s32",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Matthew 11:28–30"
+    ]
+  },
+  {
+    "ref": "Matthew 14:28–31",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -306,6 +833,40 @@
     "overlaps": []
   },
   {
+    "ref": "Matthew 19:26",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 22:37",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Matthew 22:39",
     "book": "Matthew",
     "volume": "New Testament",
@@ -314,10 +875,16 @@
         "talk": "19christofferson",
         "finding": "x-s4",
         "spoken": false
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-s20",
+        "spoken": false
       }
     ],
     "talks": [
-      "19christofferson"
+      "19christofferson",
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -340,6 +907,40 @@
     "overlaps": []
   },
   {
+    "ref": "Matthew 25:34–40",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 28:18",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Matthew 28:19–20",
     "book": "Matthew",
     "volume": "New Testament",
@@ -357,6 +958,23 @@
     "overlaps": []
   },
   {
+    "ref": "Mark 5:25–34",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Mark 5:35–42",
     "book": "Mark",
     "volume": "New Testament",
@@ -365,10 +983,16 @@
         "talk": "16hathaway",
         "finding": "x-s29",
         "spoken": false
+      },
+      {
+        "talk": "27kearon",
+        "finding": "x-s2",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "27kearon"
     ],
     "spoken": false,
     "overlaps": [
@@ -395,6 +1019,23 @@
     ]
   },
   {
+    "ref": "Mark 9:17–27",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Mark 10:21",
     "book": "Mark",
     "volume": "New Testament",
@@ -412,6 +1053,40 @@
     "overlaps": []
   },
   {
+    "ref": "Mark 12:41–44",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "24giuffra",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "24giuffra"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 7:36–50",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Luke 8:49–55",
     "book": "Luke",
     "volume": "New Testament",
@@ -420,10 +1095,16 @@
         "talk": "16hathaway",
         "finding": "x-s30",
         "spoken": false
+      },
+      {
+        "talk": "27kearon",
+        "finding": "x-s3",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "27kearon"
     ],
     "spoken": false,
     "overlaps": [
@@ -450,6 +1131,125 @@
     ]
   },
   {
+    "ref": "Luke 10:23–24",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 10:25",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 10:30–35",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 15:13",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s34",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 15:20",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s35",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 15:24",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s36",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 18:22",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Luke 22:19–20",
     "book": "Luke",
     "volume": "New Testament",
@@ -467,6 +1267,93 @@
     "overlaps": []
   },
   {
+    "ref": "John 3:16",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "John 4:5–26",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 5:1–17",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 6:40",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 8:1–11",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "John 8:11"
+    ]
+  },
+  {
     "ref": "John 8:11",
     "book": "John",
     "volume": "New Testament",
@@ -481,7 +1368,9 @@
       "59gilbert"
     ],
     "spoken": false,
-    "overlaps": []
+    "overlaps": [
+      "John 8:1–11"
+    ]
   },
   {
     "ref": "John 10:16",
@@ -513,6 +1402,114 @@
     ],
     "talks": [
       "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 14:16–17",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 14:18",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s39",
+        "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband",
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 14:27",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 15:12, 17",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 15:13",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s33",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 16:33",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
     ],
     "spoken": false,
     "overlaps": []
@@ -552,6 +1549,23 @@
     "overlaps": []
   },
   {
+    "ref": "Acts 17:29",
+    "book": "Acts",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Acts 20:29",
     "book": "Acts",
     "volume": "New Testament",
@@ -566,6 +1580,23 @@
       "15sikahema"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Corinthians 2:9",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -598,6 +1629,23 @@
     ],
     "talks": [
       "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Corinthians 1:8",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -654,6 +1702,23 @@
     "overlaps": []
   },
   {
+    "ref": "Ephesians 4:14",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Ephesians 6:11, 14–17",
     "book": "Ephesians",
     "volume": "New Testament",
@@ -666,6 +1731,40 @@
     ],
     "talks": [
       "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Philippians 4:7",
+    "book": "Philippians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Thessalonians 5:17",
+    "book": "1 Thessalonians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
     ],
     "spoken": false,
     "overlaps": []
@@ -688,6 +1787,57 @@
     "overlaps": []
   },
   {
+    "ref": "Hebrews 4:16",
+    "book": "Hebrews",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Hebrews 12:1",
+    "book": "Hebrews",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "James 1:5",
+    "book": "James",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "James 1:17",
     "book": "James",
     "volume": "New Testament",
@@ -696,10 +1846,67 @@
         "talk": "14causse",
         "finding": "x-s11",
         "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s12",
+        "spoken": false
       }
     ],
     "talks": [
-      "14causse"
+      "14causse",
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "James 2:17",
+    "book": "James",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Peter 5:7",
+    "book": "1 Peter",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Peter 1:4",
+    "book": "2 Peter",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
     ],
     "spoken": false,
     "overlaps": []
@@ -744,16 +1951,169 @@
     "volume": "Book of Mormon",
     "citations": [
       {
+        "talk": "21renlund",
+        "finding": "x-s11",
+        "spoken": false
+      },
+      {
         "talk": "49oaks",
         "finding": "x-s22",
         "spoken": false
       }
     ],
     "talks": [
+      "21renlund",
       "49oaks"
     ],
     "spoken": false,
     "overlaps": []
+  },
+  {
+    "ref": "1 Nephi 1–18",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 11:16, 17",
+      "1 Nephi 1:4",
+      "1 Nephi 8",
+      "1 Nephi 2",
+      "1 Nephi 17–18",
+      "1 Nephi 8:21",
+      "1 Nephi 8:11",
+      "1 Nephi 8:23, 26",
+      "1 Nephi 13:26–29"
+    ]
+  },
+  {
+    "ref": "1 Nephi 1:4",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 2",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 8",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 8:21",
+      "1 Nephi 8:11",
+      "1 Nephi 8:23, 26",
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 8:11",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 8",
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 8:21",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 8",
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 8:23, 26",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 8",
+      "1 Nephi 1–18"
+    ]
   },
   {
     "ref": "1 Nephi 11:16, 17",
@@ -770,7 +2130,47 @@
       "13runia"
     ],
     "spoken": false,
-    "overlaps": []
+    "overlaps": [
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 13:26–29",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 1–18"
+    ]
+  },
+  {
+    "ref": "1 Nephi 17–18",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "1 Nephi 1–18"
+    ]
   },
   {
     "ref": "2 Nephi 2:2",
@@ -796,6 +2196,23 @@
     "overlaps": []
   },
   {
+    "ref": "2 Nephi 2:3",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "2 Nephi 2:8",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -811,6 +2228,44 @@
     ],
     "spoken": false,
     "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 4–6",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 5"
+    ]
+  },
+  {
+    "ref": "2 Nephi 5",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 4–6"
+    ]
   },
   {
     "ref": "2 Nephi 9:5",
@@ -842,6 +2297,23 @@
     ],
     "talks": [
       "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 9:10",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
     ],
     "spoken": false,
     "overlaps": []
@@ -936,6 +2408,66 @@
     "overlaps": []
   },
   {
+    "ref": "2 Nephi 28",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 28:7–9",
+      "2 Nephi 28:24–32",
+      "2 Nephi 28:30"
+    ]
+  },
+  {
+    "ref": "2 Nephi 28:7–9",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 28"
+    ]
+  },
+  {
+    "ref": "2 Nephi 28:24–32",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 28",
+      "2 Nephi 28:30"
+    ]
+  },
+  {
     "ref": "2 Nephi 28:30",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -950,7 +2482,10 @@
       "510oaks"
     ],
     "spoken": false,
-    "overlaps": []
+    "overlaps": [
+      "2 Nephi 28",
+      "2 Nephi 28:24–32"
+    ]
   },
   {
     "ref": "2 Nephi 29:7",
@@ -987,6 +2522,25 @@
     "overlaps": []
   },
   {
+    "ref": "2 Nephi 31:19",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 31:19–20"
+    ]
+  },
+  {
     "ref": "2 Nephi 31:19–20",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -1001,7 +2555,9 @@
       "18douglas"
     ],
     "spoken": false,
-    "overlaps": []
+    "overlaps": [
+      "2 Nephi 31:19"
+    ]
   },
   {
     "ref": "Jacob 2:7–9",
@@ -1038,6 +2594,23 @@
     "overlaps": []
   },
   {
+    "ref": "Enos 1:15–18",
+    "book": "Enos",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "25morgan",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "25morgan"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Omni 1:26",
     "book": "Omni",
     "volume": "Book of Mormon",
@@ -1050,6 +2623,40 @@
     ],
     "talks": [
       "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 1:6, 7",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "23chigbundu"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 2:17",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
     ],
     "spoken": false,
     "overlaps": []
@@ -1089,6 +2696,42 @@
     "overlaps": []
   },
   {
+    "ref": "Mosiah 4:9–10",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 11–18",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 18:9"
+    ]
+  },
+  {
     "ref": "Mosiah 18:9",
     "book": "Mosiah",
     "volume": "Book of Mormon",
@@ -1097,13 +2740,21 @@
         "talk": "14causse",
         "finding": "x-s7",
         "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s1",
+        "spoken": false
       }
     ],
     "talks": [
-      "14causse"
+      "14causse",
+      "29eyring"
     ],
     "spoken": false,
-    "overlaps": []
+    "overlaps": [
+      "Mosiah 11–18"
+    ]
   },
   {
     "ref": "Mosiah 24:8–16",
@@ -1123,7 +2774,8 @@
     "overlaps": [
       "Mosiah 24:14–16",
       "Mosiah 24:10",
-      "Mosiah 24:13–16"
+      "Mosiah 24:13–16",
+      "Mosiah 24:14–15"
     ]
   },
   {
@@ -1162,7 +2814,29 @@
     "spoken": false,
     "overlaps": [
       "Mosiah 24:14–16",
-      "Mosiah 24:8–16"
+      "Mosiah 24:8–16",
+      "Mosiah 24:14–15"
+    ]
+  },
+  {
+    "ref": "Mosiah 24:14–15",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "23chigbundu"
+    ],
+    "spoken": true,
+    "overlaps": [
+      "Mosiah 24:14–16",
+      "Mosiah 24:8–16",
+      "Mosiah 24:13–16"
     ]
   },
   {
@@ -1182,7 +2856,63 @@
     "spoken": false,
     "overlaps": [
       "Mosiah 24:8–16",
-      "Mosiah 24:13–16"
+      "Mosiah 24:13–16",
+      "Mosiah 24:14–15"
+    ]
+  },
+  {
+    "ref": "Mosiah 27:9",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 27:11, 14",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s24",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 27:14"
+    ]
+  },
+  {
+    "ref": "Mosiah 27:14",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s38",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 27:11, 14"
     ]
   },
   {
@@ -1248,10 +2978,16 @@
         "talk": "16hathaway",
         "finding": "x-s2",
         "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s3",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "29eyring"
     ],
     "spoken": false,
     "overlaps": [
@@ -1353,6 +3089,74 @@
     "overlaps": []
   },
   {
+    "ref": "Alma 17:2",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "23chigbundu"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 26:14",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 26:15",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 26:16",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Alma 34:32",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -1387,6 +3191,25 @@
     "overlaps": []
   },
   {
+    "ref": "Alma 36:3",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 36:3, 27"
+    ]
+  },
+  {
     "ref": "Alma 36:3, 27",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -1402,8 +3225,60 @@
     ],
     "spoken": false,
     "overlaps": [
-      "Alma 36:27"
+      "Alma 36:27",
+      "Alma 36:3"
     ]
+  },
+  {
+    "ref": "Alma 36:12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 36:13",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 36:14",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
   },
   {
     "ref": "Alma 36:17",
@@ -1414,10 +3289,50 @@
         "talk": "14causse",
         "finding": "x-s18",
         "spoken": false
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-s29",
+        "spoken": false
       }
     ],
     "talks": [
-      "14causse"
+      "14causse",
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 36:18",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s30",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 36:20",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s31",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -1440,6 +3355,23 @@
     "overlaps": [
       "Alma 36:3, 27"
     ]
+  },
+  {
+    "ref": "Alma 37:6",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "23chigbundu"
+    ],
+    "spoken": true,
+    "overlaps": []
   },
   {
     "ref": "Alma 42:8",
@@ -1559,10 +3491,16 @@
         "talk": "13runia",
         "finding": "x-s3",
         "spoken": false
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-s40",
+        "spoken": false
       }
     ],
     "talks": [
-      "13runia"
+      "13runia",
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -1605,6 +3543,10 @@
       "3 Nephi 27:27",
       "3 Nephi 18:32",
       "3 Nephi 12:6",
+      "3 Nephi 17:1–9",
+      "3 Nephi 27:22",
+      "3 Nephi 27:14–15",
+      "3 Nephi 13:8",
       "3 Nephi 18:11",
       "3 Nephi 11:14",
       "3 Nephi 16:1",
@@ -1670,6 +3612,25 @@
     ]
   },
   {
+    "ref": "3 Nephi 13:8",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
     "ref": "3 Nephi 16:1",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
@@ -1708,6 +3669,26 @@
     ]
   },
   {
+    "ref": "3 Nephi 17:1–9",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28",
+      "3 Nephi 17:4"
+    ]
+  },
+  {
     "ref": "3 Nephi 17:4",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
@@ -1723,6 +3704,7 @@
     ],
     "spoken": false,
     "overlaps": [
+      "3 Nephi 17:1–9",
       "3 Nephi 11–28"
     ]
   },
@@ -1784,6 +3766,44 @@
     ]
   },
   {
+    "ref": "3 Nephi 27:14–15",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 27:22",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "27kearon",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "27kearon"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
     "ref": "3 Nephi 27:27",
     "book": "3 Nephi",
     "volume": "Book of Mormon",
@@ -1803,6 +3823,40 @@
     ]
   },
   {
+    "ref": "Mormon 8:22",
+    "book": "Mormon",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Ether 12:6",
+    "book": "Ether",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Ether 12:27",
     "book": "Ether",
     "volume": "Book of Mormon",
@@ -1820,6 +3874,23 @@
     "overlaps": []
   },
   {
+    "ref": "Moroni 4:3",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Moroni 7:13, 24, 47",
     "book": "Moroni",
     "volume": "Book of Mormon",
@@ -1832,6 +3903,23 @@
     ],
     "talks": [
       "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moroni 7:41",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -1854,6 +3942,23 @@
     "overlaps": []
   },
   {
+    "ref": "Moroni 10:3",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "21renlund",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "21renlund"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Moroni 10:18",
     "book": "Moroni",
     "volume": "Book of Mormon",
@@ -1862,10 +3967,33 @@
         "talk": "14causse",
         "finding": "x-s19",
         "spoken": false
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s13",
+        "spoken": false
       }
     ],
     "talks": [
-      "14causse"
+      "14causse",
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moroni 10:19",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -1902,6 +4030,23 @@
       "15sikahema"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 2:2",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "25morgan",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "25morgan"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -2007,6 +4152,44 @@
     "overlaps": []
   },
   {
+    "ref": "Doctrine and Covenants 20:77",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "22farnes"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 20:77, 79"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 20:77, 79",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "23chigbundu"
+    ],
+    "spoken": true,
+    "overlaps": [
+      "Doctrine and Covenants 20:77"
+    ]
+  },
+  {
     "ref": "Doctrine and Covenants 31:1, 3, 5–7",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -2099,6 +4282,23 @@
     "overlaps": []
   },
   {
+    "ref": "Doctrine and Covenants 45:26",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Doctrine and Covenants 46:8",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -2162,6 +4362,23 @@
     ],
     "talks": [
       "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 59:5",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "210rasband",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "210rasband"
     ],
     "spoken": false,
     "overlaps": []
@@ -2256,6 +4473,23 @@
     "overlaps": []
   },
   {
+    "ref": "Doctrine and Covenants 84:57",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "25morgan",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "25morgan"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Doctrine and Covenants 84:61",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -2273,6 +4507,46 @@
     "overlaps": []
   },
   {
+    "ref": "Doctrine and Covenants 84:88",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "28dunn",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "28dunn"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 88:63",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "23chigbundu",
+        "finding": "x-s4",
+        "spoken": true
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "23chigbundu",
+      "29eyring"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
     "ref": "Doctrine and Covenants 88:72–73",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -2285,6 +4559,23 @@
     ],
     "talks": [
       "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 88:91",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "29eyring",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "29eyring"
     ],
     "spoken": false,
     "overlaps": []
@@ -2309,6 +4600,74 @@
       "15sikahema"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 93:11",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 93:13",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 93:19",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 93:21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -2392,10 +4751,16 @@
         "talk": "16hathaway",
         "finding": "x-s15",
         "spoken": false
+      },
+      {
+        "talk": "25morgan",
+        "finding": "x-s5",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "25morgan"
     ],
     "spoken": false,
     "overlaps": [
@@ -2506,10 +4871,16 @@
         "talk": "16hathaway",
         "finding": "x-s22",
         "spoken": false
+      },
+      {
+        "talk": "25morgan",
+        "finding": "x-s6",
+        "spoken": false
       }
     ],
     "talks": [
-      "16hathaway"
+      "16hathaway",
+      "25morgan"
     ],
     "spoken": false,
     "overlaps": []
@@ -2632,10 +5003,16 @@
         "talk": "12gong",
         "finding": "x-s1",
         "spoken": false
+      },
+      {
+        "talk": "26fale",
+        "finding": "x-s10",
+        "spoken": false
       }
     ],
     "talks": [
-      "12gong"
+      "12gong",
+      "26fale"
     ],
     "spoken": false,
     "overlaps": []
@@ -2675,6 +5052,23 @@
     "overlaps": []
   },
   {
+    "ref": "Moses 6:57",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "26fale",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "26fale"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Moses 7:62",
     "book": "Moses",
     "volume": "Pearl of Great Price",
@@ -2706,6 +5100,23 @@
       "15sikahema"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Joseph Smith—History 1:25",
+    "book": "Joseph Smith—History",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "25morgan",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "25morgan"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {

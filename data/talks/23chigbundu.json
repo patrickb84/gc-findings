@@ -1,0 +1,561 @@
+{
+  "id": "23chigbundu",
+  "kind": "talk",
+  "speaker": "Christian C. Chigbundu",
+  "role": "Of the Seventy",
+  "title": "Spiritual Immunity",
+  "session": "Saturday Afternoon Session",
+  "order": 11,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/23chigbundu?lang=eng",
+  "pronouns": {
+    "i": 45,
+    "we": 52,
+    "you": 12
+  },
+  "summary": "Elder Chigbundu teaches that just as the body has immunity against disease, we can build spiritual immunity that gives us strength and courage in troubled times. He names four small and simple things that build it, scripture study, prayer, the sacrament, and covenants, and tells of a homesick missionary helped by daily Book of Mormon study and a sister with cancer in Côte d’Ivoire who feels the Savior’s love through daily prayer. He asks listeners to search the scriptures diligently and to always remember these four things, calling them the armor of God against the devil.",
+  "audience": {
+    "who": "All members, especially those facing worry and hard times",
+    "quote": "My beloved brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "quote",
+    "invitation",
+    "scripture",
+    "list",
+    "scripture",
+    "story",
+    "invitation",
+    "promise",
+    "scripture",
+    "list",
+    "story",
+    "promise",
+    "principle",
+    "promise",
+    "principle",
+    "quote",
+    "promise",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.15,
+    "present": 0.65,
+    "future": 0.2
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Alma 37:6",
+      "basis": "exact",
+      "ref": "Alma 37:6",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Mosiah 1:6, 7",
+      "basis": "exact",
+      "ref": "Mosiah 1:6, 7",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Alma 17:2",
+      "basis": "exact",
+      "ref": "Alma 17:2",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 88:63",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:63",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Mosiah 24:14–15",
+      "basis": "exact",
+      "ref": "Mosiah 24:14–15",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:77, 79",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:77, 79",
+      "spoken": true
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "I invite you to search the scriptures diligently, that you might know the word of God",
+      "basis": "exact",
+      "detail": {
+        "action": "search the scriptures diligently"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "As we do this, little by little we learn how to become lifelong disciples of Jesus Christ.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "becoming lifelong disciples of Jesus Christ, little by little"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "I invite you to always remember scriptures, prayers, the sacrament, and covenants.",
+      "basis": "exact",
+      "detail": {
+        "action": "always remember scriptures, prayers, the sacrament, and covenants"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "they are truly the armor of God that will help us stand against the tactics of the devil!",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "strength to stand against the tactics of the devil"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "As you listen today, think for a moment: What keeps you awake at night or weighs on your mind?",
+      "basis": "interpreted",
+      "note": "Asks listeners to name their own worries before he offers the small and simple things",
+      "detail": {
+        "action": "name what keeps you awake at night"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "As we partake of the sacrament, we can ask ourselves, “What would He have me do?”",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: ask a question of yourself during the sacrament",
+      "detail": {
+        "action": "ask during the sacrament what He would have you do"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "As we remember Jesus Christ throughout the week and strive to keep His commandments, our lives are gradually refined and reshaped.",
+      "basis": "exact",
+      "paired_with": "c-6",
+      "detail": {
+        "blessing": "lives gradually refined and reshaped"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "Our “Why me?” questions will be replaced by “What can I learn, and what can I change?”",
+      "basis": "exact",
+      "paired_with": "c-6",
+      "detail": {
+        "blessing": "\"Why me?\" turns into \"What can I learn, and what can I change?\""
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "As we build our spiritual immunity, we develop the strength and courage to withstand the challenges of life.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "strength and courage to withstand life's challenges"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "Daily, meaningful scripture study invites the guidance of the Holy Ghost and builds our faith to face the temptations and the troubles of the world.",
+      "basis": "interpreted",
+      "note": "Stated as a principle, read as an assured outcome of daily scripture study",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "guidance of the Holy Ghost and faith to face temptation and trouble"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "As we pray in faith, our spiritual immunity will be strengthened.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "stronger spiritual immunity"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "The burden we carry may not always be removed, but our backs will be built to carry the load placed upon them",
+      "basis": "exact",
+      "detail": {
+        "blessing": "strength to carry burdens that are not removed"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "promise",
+      "quote": "as we worship in the temple and remember our covenants, we receive personal direction from the Lord that will guide us along the covenant path.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "personal direction from the Lord along the covenant path"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "promise",
+      "quote": "Yet, as frightening as these challenges may be, we need not fear!",
+      "basis": "interpreted",
+      "note": "Reassurance against fear in troubled times",
+      "detail": {
+        "blessing": "freedom from fear in troubled times"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "testimony",
+      "quote": "I bear you my witness that we have a loving Father in Heaven, that Jesus Christ is our Savior and Redeemer.",
+      "basis": "exact",
+      "detail": {
+        "of": "a loving Heavenly Father and Jesus Christ as Savior and Redeemer"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "testimony",
+      "quote": "President Dallin H. Oaks is truly the mouthpiece of God on earth today.",
+      "basis": "exact",
+      "detail": {
+        "of": "President Oaks as God's mouthpiece on earth"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "May I share some of these small and simple things with you?",
+      "basis": "interpreted",
+      "note": "Introduces the four ordinal items: First, Second, Third, Fourth",
+      "detail": {
+        "count": "4",
+        "items": [
+          "scripture study",
+          "prayer",
+          "the sacrament",
+          "covenants"
+        ],
+        "purpose": "small and simple things that build spiritual immunity"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "list",
+      "quote": "Enos, Nephi, the Prophet Joseph Smith, and the Savior Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "Enos",
+          "Nephi",
+          "the Prophet Joseph Smith",
+          "the Savior Jesus Christ"
+        ],
+        "purpose": "scriptural examples of the power of prayer"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "list",
+      "quote": "to take upon us the name of Jesus Christ, to always remember Him, and to keep His commandments",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "take upon us the name of Jesus Christ",
+          "always remember Him",
+          "keep His commandments"
+        ],
+        "purpose": "the promises made in the sacrament"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "list",
+      "quote": "We live in troubled times marked by wars, family challenges, and economic uncertainty.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "wars",
+          "family challenges",
+          "economic uncertainty"
+        ],
+        "purpose": "the troubles of our times"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "prophet",
+      "quote": "As we honor those covenants by keeping [Heavenly Father and Jesus Christ’s] commandments and following Their plan of redemption, Their promised blessings enable us to soar to celestial heights",
+      "basis": "exact",
+      "detail": {
+        "source": "Following Christ, Oct. 2024"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "past_prophet",
+      "quote": "the Prophet Joseph Smith",
+      "basis": "interpreted",
+      "note": "Named, not quoted, as an example of the power of prayer",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "[Proving] moments are not evidence that the Lord has abandoned you. Rather, they are evidence that He loves you enough to refine and strengthen you",
+      "basis": "exact",
+      "detail": {
+        "who": "President Henry B. Eyring"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "christ",
+      "quote": "Draw near unto me and I will draw near unto you; seek me diligently and ye shall find me",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 88:63"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "source",
+      "quote": "As I pray daily, I realize that the Savior loves me. I see His hands all around me, telling me, ‘My daughter, all is well.’",
+      "basis": "exact",
+      "detail": {
+        "who": "a sister battling cancer in Côte d’Ivoire"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "source",
+      "quote": "I am happy now and do not want to be sent home any longer.",
+      "basis": "exact",
+      "detail": {
+        "who": "a new missionary in his mission"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "source",
+      "quote": "President, I don’t.",
+      "basis": "exact",
+      "detail": {
+        "who": "a new missionary in his mission"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "executives at my place of work, in a bid to provide awareness and safety, invited health professionals to provide health education on COVID-19",
+      "basis": "interpreted",
+      "note": "Workplace COVID-19 health sessions where he kept hearing the word immunity",
+      "detail": {
+        "story_type": "personal",
+        "about": "COVID-19 health sessions at work that taught him about immunity"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "While serving as mission leader, I received a new missionary. In our welcome interview, this young missionary began to cry and asked to be sent home.",
+      "basis": "interpreted",
+      "note": "A homesick missionary without a testimony of the Book of Mormon stays after daily scripture study",
+      "detail": {
+        "story_type": "missionary",
+        "about": "a new missionary who wanted to go home finds purpose through daily scripture study"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "story",
+      "quote": "After the Saturday adult session, the stake president and I decided to visit a sister who is battling with cancer.",
+      "basis": "interpreted",
+      "note": "A sister with cancer feels the Savior's love through daily prayer",
+      "detail": {
+        "story_type": "personal",
+        "about": "visiting a sister with cancer who finds peace in daily prayer"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "relationship",
+      "quote": "I received a new missionary",
+      "basis": "exact",
+      "detail": {
+        "who": "a new missionary he presided over",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "He and his trainer made a scripture study plan.",
+      "basis": "exact",
+      "detail": {
+        "who": "the missionary's trainer",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "relationship",
+      "quote": "a sister who is battling with cancer",
+      "basis": "exact",
+      "detail": {
+        "who": "a sister in a stake he visited",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "the stake president and I decided to visit",
+      "basis": "exact",
+      "detail": {
+        "who": "a stake president in Côte d’Ivoire",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "immunity is the body’s inherent biological ability to defend and protect itself against infectious diseases, harmful substances, and foreign invaders",
+      "basis": "interpreted",
+      "note": "Physical immunity as the frame for the whole talk",
+      "detail": {
+        "image": "immunity",
+        "family": "body",
+        "carries": "small daily habits defend the soul as immunity defends the body"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "the Lord has provided us with a spiritual compass to help us navigate life’s challenges",
+      "basis": "exact",
+      "detail": {
+        "image": "compass",
+        "family": "path",
+        "carries": "small and simple things give direction through life's challenges"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "they are truly the armor of God that will help us stand against the tactics of the devil",
+      "basis": "exact",
+      "detail": {
+        "image": "armor",
+        "family": "other",
+        "carries": "the four small habits protect against the devil"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "our backs will be built to carry the load placed upon them",
+      "basis": "exact",
+      "detail": {
+        "image": "back carrying a load",
+        "family": "body",
+        "carries": "God strengthens us to bear burdens he does not remove"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "Making covenants and staying on the covenant path are inseparable companions.",
+      "basis": "interpreted",
+      "note": "The covenant path, with covenants and the path as inseparable companions",
+      "detail": {
+        "image": "covenant path",
+        "family": "path",
+        "carries": "making covenants and keeping them go together"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "I see His hands all around me",
+      "basis": "interpreted",
+      "note": "The Savior's hands felt around a sick sister",
+      "detail": {
+        "image": "hands",
+        "family": "body",
+        "carries": "the Savior's loving care in illness"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "Covenants create a bond between us and God",
+      "basis": "interpreted",
+      "note": "Covenant as a bond tying us to God",
+      "detail": {
+        "image": "bond",
+        "family": "other",
+        "carries": "covenants tie us to God and bring promised blessings"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "place",
+      "quote": "I attended a stake conference in Côte d’Ivoire.",
+      "basis": "exact",
+      "detail": {
+        "place": "Côte d’Ivoire",
+        "country": "Côte d’Ivoire"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is our Savior and Redeemer",
+      "basis": "exact",
+      "detail": {
+        "name": "Redeemer"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "name_of_christ",
+      "quote": "In the name of our Lord and Savior, Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "our Lord and Savior"
+      }
+    }
+  ]
+}

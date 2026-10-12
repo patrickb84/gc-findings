@@ -1,0 +1,616 @@
+{
+  "id": "25morgan",
+  "kind": "talk",
+  "speaker": "Jeremiah J. Morgan",
+  "role": "Of the Seventy",
+  "title": "The Infinite Power of God in Our Covenants",
+  "session": "Saturday Afternoon Session",
+  "order": 13,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/25morgan?lang=eng",
+  "pronouns": {
+    "i": 64,
+    "we": 10,
+    "you": 19
+  },
+  "summary": "Elder Morgan teaches that the power of God in covenants is infinite and reaches across generations, blessing not only the people who make them but their posterity. He tells how he was raised in another church that believed in the Book of Mormon, how his mother read it to him every day, and how his wife, Rebecca, saw that his conversion came from covenants his Nauvoo ancestors made in the temple. He asks worried parents and anyone who feels far from God to take comfort, keep their covenants, and never give up, because their family's story is not finished.",
+  "audience": {
+    "who": "All members, especially parents and grandparents worried about wandering children, and anyone who feels they have wandered too far from God"
+  },
+  "arc": [
+    "story",
+    "scripture",
+    "principle",
+    "story",
+    "quote",
+    "story",
+    "quote",
+    "quote",
+    "principle",
+    "quote",
+    "scripture",
+    "scripture",
+    "principle",
+    "promise",
+    "quote",
+    "principle",
+    "invitation",
+    "promise",
+    "scripture",
+    "testimony",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.45,
+    "present": 0.4,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 84:57",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:57",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Joseph Smith—History 1:25",
+      "basis": "exact",
+      "ref": "Joseph Smith—History 1:25",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 2:2",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 2:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Enos 1:15–18",
+      "basis": "exact",
+      "ref": "Enos 1:15–18",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:1",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 123:17",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 123:17",
+      "spoken": false
+    },
+    {
+      "id": "x-n4",
+      "type": "source",
+      "quote": "Orson F. Whitney, in Conference Report, Apr. 1929, 110. Elder David A. Bednar taught: “The ‘tentacles of Divine Providence’ described by Elder Whitney may be considered a type of spiritual power, a heavenly pull or tug that entices a wandering child to return to the fold eventually. Such an influence cannot override the moral agency of a child but nonetheless can invite and beckon. Ultimately, a child must exercise his or her moral agency and respond in faith, repent with full purpose of heart, and act in accordance with the teachings of Christ” (“Faithful Parents and Wayward Children: Sustaining Hope While Overcoming Misunderstanding,” Liahona, Mar. 2014, 19).",
+      "basis": "exact",
+      "ref": "Faithful Parents and Wayward Children: Sustaining Hope While Overcoming Misunderstanding",
+      "note": "Orson F. Whitney on the tentacles of Divine Providence, with Elder Bednar's explanation that it cannot override agency",
+      "detail": {
+        "who": "Orson F. Whitney (with David A. Bednar)"
+      }
+    },
+    {
+      "id": "x-n5",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Covenants and Responsibilities,” Liahona, May 2024, 96.",
+      "basis": "exact",
+      "ref": "Covenants and Responsibilities",
+      "note": "Cites President Oaks that covenants do not take a day off",
+      "detail": {
+        "source": "Covenants and Responsibilities, Apr. 2024"
+      }
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "“God is in relentless pursuit of you. He ‘wants all of His children to choose to return to Him,’ and He employs every possible measure to bring you back” (Patrick Kearon, “God’s Intent Is to Bring You Home,” Liahona, May 2024, 87).",
+      "basis": "exact",
+      "ref": "God’s Intent Is to Bring You Home",
+      "note": "Elder Kearon: God employs every possible measure to bring us back",
+      "detail": {
+        "who": "Patrick Kearon"
+      }
+    },
+    {
+      "id": "x-n9",
+      "type": "source",
+      "quote": "Jeffrey R. Holland, “The Laborers in the Vineyard,” Liahona, May 2012, 33.",
+      "basis": "exact",
+      "ref": "The Laborers in the Vineyard",
+      "note": "President Holland: no one has traveled beyond the reach of divine love",
+      "detail": {
+        "who": "Jeffrey R. Holland"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Take comfort; God hears you and will answer your prayers in His own time and in His own way.",
+      "basis": "exact",
+      "detail": {
+        "action": "take comfort when a child is struggling"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Keep your covenants, strive to be faithful, and “cheerfully do all things that lie in [your] power;",
+      "basis": "exact",
+      "detail": {
+        "action": "keep your covenants and stay faithful"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Don’t ever give up.",
+      "basis": "exact",
+      "detail": {
+        "action": "never give up on yourself or your family"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "No time or effort is ever wasted in reading the Book of Mormon. Not for you, not for your children, not for your family, not for anyone.",
+      "basis": "interpreted",
+      "note": "Implied invitation drawn from his mother's example: read the Book of Mormon, including to your children",
+      "detail": {
+        "action": "read the Book of Mormon with your family"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "God hears you and will answer your prayers in His own time and in His own way.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "God hears and answers a parent's prayers in His time"
+      },
+      "paired_with": "c-1"
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "then may [you] stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.",
+      "basis": "interpreted",
+      "note": "The D&C 123:17 phrasing serves as the outcome of keeping covenants",
+      "detail": {
+        "blessing": "assurance of seeing God's salvation"
+      },
+      "paired_with": "c-2"
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "Your story, your family’s story, is not all written. God is the author and the finisher of it.",
+      "basis": "interpreted",
+      "note": "Assurance behind 'Don't ever give up': the family story is still being written by God",
+      "detail": {
+        "blessing": "God will finish your family's story"
+      },
+      "paired_with": "c-3"
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "If you are wondering whether you or a loved one has wandered so far away that the love of God and His covenantal power cannot reach you—I say to you, you have not.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "no one is beyond the reach of God's love and covenant power"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "there is a discernible impact of those covenants on all our posterity.",
+      "basis": "interpreted",
+      "note": "Parents' and grandparents' covenants bless their descendants",
+      "detail": {
+        "blessing": "covenant faithfulness blesses posterity"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "No time or effort is ever wasted in reading the Book of Mormon.",
+      "basis": "interpreted",
+      "note": "Assurance that Book of Mormon reading always bears fruit, as it did for him",
+      "detail": {
+        "blessing": "Book of Mormon reading is never wasted"
+      },
+      "paired_with": "c-4"
+    },
+    {
+      "id": "c-11",
+      "type": "testimony",
+      "quote": "I testify that the infinite power of God is in our covenants.",
+      "basis": "exact",
+      "detail": {
+        "of": "the infinite power of God in covenants"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "testimony",
+      "quote": "I am a standing, breathing, believing demonstration of God’s love and the power of God in covenants.",
+      "basis": "exact",
+      "detail": {
+        "of": "himself as living evidence of covenant power"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "testimony",
+      "quote": "Blessed be the name of the Lord, of whom I testify in the name of Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Lord"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "testimony",
+      "quote": "I came to know that this is the Lord’s Church.",
+      "basis": "exact",
+      "detail": {
+        "of": "The Church of Jesus Christ of Latter-day Saints as the Lord's Church"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "testimony",
+      "quote": "I knew the Book of Mormon was true and that Joseph Smith was a prophet of God.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Book of Mormon and Joseph Smith"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "There are only two things I remember from that reading of the Book of Mormon by my mother: “and it came to pass” and “wars and rumors of wars.”",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "and it came to pass",
+          "wars and rumors of wars"
+        ],
+        "purpose": "all he remembers of the words, to show the words mattered less than her example"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "Not for you, not for your children, not for your family, not for anyone.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "you",
+          "your children",
+          "your family",
+          "anyone"
+        ],
+        "purpose": "for whom Book of Mormon reading is never wasted"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "list",
+      "quote": "Keep your covenants, strive to be faithful, and “cheerfully do all things that lie in [your] power;",
+      "basis": "interpreted",
+      "note": "Three counsels to worried parents",
+      "detail": {
+        "count": "3",
+        "items": [
+          "keep your covenants",
+          "strive to be faithful",
+          "cheerfully do all in your power"
+        ],
+        "purpose": "what to do while waiting on God for a struggling child"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "revelation",
+      "quote": "Though the covenant faithfulness of parents and grandparents does not alter the agency of children or grandchildren, there is a discernible impact of those covenants on all our posterity.",
+      "basis": "interpreted",
+      "note": "Reads as a doctrinal clarification: ancestral covenants influence but do not override agency",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "revelation",
+      "quote": "They do not bless just the maker of the covenant but are generational in their impact.",
+      "basis": "interpreted",
+      "note": "Reads as doctrinal teaching that covenants are generational",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "christ",
+      "quote": "“Remember the new covenant, even the Book of Mormon.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 84:57"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "past_prophet",
+      "quote": "And in the words of the Prophet Joseph Smith, “I knew it, and I knew that God knew it, and I could not deny it.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "past_prophet",
+      "quote": "“cheerfully do all things that lie in [your] power; and then may [you] stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.”",
+      "basis": "interpreted",
+      "note": "Unattributed in the talk; footnote 11 is D&C 123:17, Joseph Smith's letter from Liberty Jail",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "source",
+      "quote": "“I know what it was! It was covenants.”",
+      "basis": "exact",
+      "detail": {
+        "who": "his wife, Rebecca"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "source",
+      "quote": "“O, God, where art Thou? My child is struggling.”",
+      "basis": "interpreted",
+      "note": "A parent's cry modeled on Joseph Smith's Liberty Jail prayer (D&C 121:1)",
+      "detail": {
+        "who": "a struggling parent (echoing D&C 121:1)"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "When I was a young teenager getting ready for school, my mother read to me from the Book of Mormon every day, out loud, whether I was listening or not.",
+      "basis": "interpreted",
+      "note": "His single mother read the whole Book of Mormon aloud to him daily",
+      "detail": {
+        "story_type": "family",
+        "about": "a single mother reads the Book of Mormon aloud to her teenage son every day"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "My family were members of a different church that also believes in the Book of Mormon and the prophetic mission of Joseph Smith.",
+      "basis": "interpreted",
+      "note": "Footnote 1 names it: the Reorganized Church of Jesus Christ of Latter Day Saints, now Community of Christ",
+      "detail": {
+        "story_type": "family",
+        "about": "raised in the Community of Christ"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "my third-great-grandparents Francis and Mary Ann Case, who were baptized by Oliver Cowdery in 1831 and helped establish Nauvoo and build the house of the Lord.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "church history",
+        "about": "ancestors baptized by Oliver Cowdery who helped build Nauvoo and its temple but did not go west"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "So, for two months I attended both my family’s congregation, and secretly—hiding between the accordion doors of the overflow—I attended a congregation of The Church of Jesus Christ of Latter-day Saints.",
+      "basis": "interpreted",
+      "note": "At 14 he secretly attended Latter-day Saint meetings while seeking the true Church",
+      "detail": {
+        "story_type": "personal",
+        "about": "a teenager secretly attends Church meetings from behind the overflow doors"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "story",
+      "quote": "While I was musing out loud about this topic, my wife, Rebecca, said, “I know what it was! It was covenants.”",
+      "basis": "interpreted",
+      "note": "His wife names ancestral temple covenants as the reason he sought the truth",
+      "detail": {
+        "story_type": "family",
+        "about": "Rebecca sees that ancestors' covenants drew him to the Church"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "In the Book of Mormon, the Lord made a covenant with Enos that the remnant of the people living at that time would someday receive his words",
+      "basis": "interpreted",
+      "note": "A covenant fulfilled 2,000 years later shows covenants have no time limit",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the Lord's covenant with Enos fulfilled across 2,000 years"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "Even as a single mother, she made the extraordinary effort to read the Book of Mormon to me every day until it was finished.",
+      "basis": "exact",
+      "detail": {
+        "who": "mother (single mother)",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "relationship",
+      "quote": "my third-great-grandparents Francis and Mary Ann Case",
+      "basis": "exact",
+      "detail": {
+        "who": "third-great-grandparents",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "my wife, Rebecca",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "relationship",
+      "quote": "I knew members of The Church of Jesus Christ of Latter-day Saints; they were my friends.",
+      "basis": "exact",
+      "detail": {
+        "who": "Latter-day Saint friends",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "relationship",
+      "quote": "though I would face questions and disappointment from my family",
+      "basis": "interpreted",
+      "note": "His family was disappointed when he chose to join the Church",
+      "detail": {
+        "who": "family of origin",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "Like the great binding power of gravity that stretches across the universe, covenants with God stretch over all time and all space.",
+      "basis": "exact",
+      "detail": {
+        "image": "gravity",
+        "family": "other",
+        "carries": "covenant power reaches across all time and space"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "though some of the sheep may wander, the eye of the Shepherd is upon them",
+      "basis": "interpreted",
+      "note": "Wandering children as sheep watched by the Shepherd",
+      "detail": {
+        "image": "sheep and shepherd",
+        "family": "other",
+        "carries": "God watches over wandering children"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "sooner or later they will feel the tentacles of Divine Providence reaching out after them and drawing them back to the fold.",
+      "basis": "interpreted",
+      "note": "Providence as reaching arms that pull the wanderer home",
+      "detail": {
+        "image": "tentacles / the fold",
+        "family": "body",
+        "carries": "covenants pull wandering children back"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "God is the author and the finisher of it.",
+      "basis": "interpreted",
+      "note": "A family's life as a book still being written by God",
+      "detail": {
+        "image": "unfinished story",
+        "family": "other",
+        "carries": "God is not done with your family"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "It is not possible for you to sink lower than the infinite light of Christ’s Atonement shines.",
+      "basis": "interpreted",
+      "note": "Holland's light that reaches every depth",
+      "detail": {
+        "image": "light shining down",
+        "family": "light",
+        "carries": "the Atonement reaches the lowest place"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "And he shall plant in the hearts of the children the promises made to the fathers",
+      "basis": "interpreted",
+      "note": "Promises to ancestors planted like seed in descendants' hearts",
+      "detail": {
+        "image": "planting",
+        "family": "growth",
+        "carries": "ancestral promises take root in children"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "place",
+      "quote": "helped establish Nauvoo and build the house of the Lord",
+      "basis": "exact",
+      "detail": {
+        "place": "Nauvoo",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "name_of_christ",
+      "quote": "that Jesus Christ would be our Savior and Redeemer",
+      "basis": "exact",
+      "detail": {
+        "name": "Redeemer"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "name_of_christ",
+      "quote": "the eye of the Shepherd is upon them",
+      "basis": "interpreted",
+      "note": "The Shepherd in Whitney's words reads as Christ",
+      "detail": {
+        "name": "the Shepherd"
+      }
+    }
+  ]
+}

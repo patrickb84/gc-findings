@@ -1,0 +1,595 @@
+{
+  "id": "28dunn",
+  "kind": "talk",
+  "speaker": "Michael A. Dunn",
+  "role": "Of the Seventy",
+  "title": "The Ninety and Ten",
+  "session": "Saturday Afternoon Session",
+  "order": 16,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/28dunn?lang=eng",
+  "pronouns": {
+    "i": 56,
+    "we": 38,
+    "you": 14
+  },
+  "summary": "Elder Dunn teaches that Jesus Christ carries our burdens, often quietly and unseen, and that He rescues us not by shortening our course but by helping us lengthen our stride. His main story is a 100-mile ultramarathon where, at mile 90, his friend Ted promised to get him to the finish and, as a photo later showed, secretly carried his water bottles and pack for the last 10 miles. He asks those at their own \"mile 90\" to keep asking for help, to trust that feeling broken is not being abandoned, and to lay aside every weight and run with patience.",
+  "audience": {
+    "who": "People who are worn out, discouraged, or near the end of their strength",
+    "quote": "To those at or nearing their “mile 90,”"
+  },
+  "arc": [
+    "principle",
+    "story",
+    "scripture",
+    "principle",
+    "quote",
+    "promise",
+    "invitation",
+    "quote",
+    "promise",
+    "list"
+  ],
+  "orientation": {
+    "past": 0.4,
+    "present": 0.5,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Psalm 55:22",
+      "basis": "exact",
+      "ref": "Psalm 55:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Thessalonians 5:17",
+      "basis": "exact",
+      "ref": "1 Thessalonians 5:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Isaiah 53:4",
+      "basis": "exact",
+      "ref": "Isaiah 53:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "3 Nephi 13:8",
+      "basis": "exact",
+      "ref": "3 Nephi 13:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 84:88",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:88",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Acts 17:29",
+      "basis": "exact",
+      "ref": "Acts 17:29",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Psalm 50:15",
+      "basis": "exact",
+      "ref": "Psalm 50:15",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Matthew 7:7",
+      "basis": "exact",
+      "ref": "Matthew 7:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Hebrews 4:16",
+      "basis": "exact",
+      "ref": "Hebrews 4:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "James 1:5",
+      "basis": "exact",
+      "ref": "James 1:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Isaiah 55:8",
+      "basis": "exact",
+      "ref": "Isaiah 55:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Deuteronomy 31:6",
+      "basis": "exact",
+      "ref": "Deuteronomy 31:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "2 Nephi 31:19",
+      "basis": "exact",
+      "ref": "2 Nephi 31:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Zephaniah 3:17",
+      "basis": "exact",
+      "ref": "Zephaniah 3:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Matthew 19:26",
+      "basis": "exact",
+      "ref": "Matthew 19:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Isaiah 40:4",
+      "basis": "exact",
+      "ref": "Isaiah 40:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Hebrews 12:1",
+      "basis": "exact",
+      "ref": "Hebrews 12:1",
+      "spoken": false
+    },
+    {
+      "id": "x-n13",
+      "type": "source",
+      "quote": "Dieter F. Uchtdorf, “Continue in Patience,” Liahona, May 2010, 58.",
+      "basis": "exact",
+      "ref": "Continue in Patience",
+      "note": "Elder Dunn quotes President Uchtdorf (an apostle, not a Church President) on seeing the Lord's hand only in hindsight",
+      "detail": {
+        "who": "Dieter F. Uchtdorf"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "as you expend even your last drops of energy to ask",
+      "basis": "interpreted",
+      "note": "The condition inside the promise: keep asking God for help even when spent",
+      "detail": {
+        "action": "keep asking God for help, even with your last energy"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "I promise that as you expend even your last drops of energy to ask, His helping hand will ultimately give you that much-needed leg up.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "His helping hand will give you a leg up"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "take solace knowing that feeling broken does not mean you’ve been abandoned by God",
+      "basis": "exact",
+      "detail": {
+        "action": "take comfort that feeling broken is not being abandoned"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "don’t confuse the perceived invisibility of the Lord’s hand with the inveterate nature of the Lord’s heart",
+      "basis": "exact",
+      "detail": {
+        "action": "don't mistake an unseen hand for an absent heart"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "Through “him who is mighty to save,” you will find “strength beyond [your] own.”",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "strength beyond your own"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "Peace will come even when hoped-for outcomes do not.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "peace even when the outcome is not what you hoped"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "By His grace we can trust and expect His constant care.",
+      "basis": "interpreted",
+      "note": "Assurance of constant care through grace",
+      "detail": {
+        "blessing": "His constant care"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "it’s reasonable to assume that blessings may often materialize in the selfsame moment we verbalize",
+      "basis": "interpreted",
+      "note": "Because God knows our prayers before we ask, help can come the moment we pray",
+      "detail": {
+        "blessing": "blessings arriving the moment we pray"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "His grace, which is a duality defined as a “divine means of help or strength,” can free us from the freight we would otherwise carry.",
+      "basis": "interpreted",
+      "note": "Grace lifts burdens we would otherwise carry alone",
+      "detail": {
+        "blessing": "freedom from burdens through grace"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "He enlists the Teds—both of this world and sometimes even the Teds beyond—with His heartening promise of angels all around us to bear us up.",
+      "basis": "interpreted",
+      "note": "God sends helpers, earthly and heavenly, even when we cannot sense Him",
+      "detail": {
+        "blessing": "helpers and angels sent to bear us up"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "Anytime we turn to Christ, we turn a corner.",
+      "basis": "interpreted",
+      "note": "Turning to Christ always brings a change for the better",
+      "detail": {
+        "blessing": "a turning point whenever we turn to Christ"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "sometimes the God who makes the impossible possible can part seas and move mountains. Other times He simply sends us a Ted. But most often He tops off our courage, capacity, and confidence",
+      "basis": "interpreted",
+      "note": "Three ways God helps, from rare miracle to most common",
+      "detail": {
+        "count": "3",
+        "items": [
+          "part seas and move mountains",
+          "send us a Ted",
+          "top off our courage, capacity, and confidence"
+        ],
+        "purpose": "ways God helps us finish our race"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "fatigue, blisters, and especially self-doubt would become my worst enemies",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "fatigue",
+          "blisters",
+          "self-doubt"
+        ],
+        "purpose": "the enemies of the second half of the race"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "He tops off our courage, capacity, and confidence",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "courage",
+          "capacity",
+          "confidence"
+        ],
+        "purpose": "what God refills in us"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "more personal, profound, and private ways than I ever thought possible",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "personal",
+          "profound",
+          "private"
+        ],
+        "purpose": "how the Savior ministers to us"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "my running partner Ted somehow talked me into entering a 100-mile (161-km) ultramarathon race",
+      "basis": "interpreted",
+      "note": "In 1998 Ted coaxes him through a 100-mile race; at mile 90 he gives up, and Ted gets him to the finish",
+      "detail": {
+        "story_type": "personal",
+        "about": "a 100-mile ultramarathon finished with his friend Ted's help"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "story",
+      "quote": "A week or so later, a photograph from the race arrived in the mail. Miraculously, a friend captured that exact moment when Ted and I parted ways. But it also revealed a startling secret.",
+      "basis": "interpreted",
+      "note": "The photo shows Ted had been carrying his water bottles and pack without saying so",
+      "detail": {
+        "story_type": "personal",
+        "about": "a race photo reveals Ted silently carried his load"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "my running partner Ted",
+      "basis": "exact",
+      "detail": {
+        "who": "running partner (friend)",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "a friend captured that exact moment when Ted and I parted ways",
+      "basis": "exact",
+      "detail": {
+        "who": "friend who took the photo",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "image",
+      "quote": "the Redeemer rescues not by shortening our course but by helping us lengthen our stride",
+      "basis": "interpreted",
+      "note": "The thesis image: Christ does not shorten the race, He strengthens the runner",
+      "detail": {
+        "image": "race course / stride",
+        "family": "path",
+        "carries": "Christ strengthens us to finish rather than removing the trial"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "image",
+      "quote": "he wasn’t only carrying his water; he was carrying two of my water bottles and my pack",
+      "basis": "interpreted",
+      "note": "Ted's hidden carrying mirrors Christ bearing our burdens unseen",
+      "detail": {
+        "image": "water bottles and pack",
+        "family": "other",
+        "carries": "Christ quietly carries our heaviest burden"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "ponder the metaphorical “last 10 miles” I still often face in this sojourn called life",
+      "basis": "interpreted",
+      "note": "The last 10 miles (the title's \"ten\") as life's hardest final stretches",
+      "detail": {
+        "image": "last 10 miles",
+        "family": "path",
+        "carries": "the hardest stretch, where we most need help"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "He not only knows the road; He knows you",
+      "basis": "interpreted",
+      "note": "Like Ted knowing every twist of the trail, Christ knows the road and the runner",
+      "detail": {
+        "image": "road",
+        "family": "path",
+        "carries": "Christ has walked every part of mortality and knows us"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "Anytime we turn to Christ, we turn a corner.",
+      "basis": "interpreted",
+      "note": "Turning to Christ as turning a corner on the course",
+      "detail": {
+        "image": "corner",
+        "family": "path",
+        "carries": "turning to Christ changes our direction for the better"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "the perceived invisibility of the Lord’s hand with the inveterate nature of the Lord’s heart",
+      "basis": "interpreted",
+      "note": "Hand (visible help) set against heart (constant love)",
+      "detail": {
+        "image": "hand and heart",
+        "family": "body",
+        "carries": "His love is constant even when His help is unseen"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "can free us from the freight we would otherwise carry",
+      "basis": "interpreted",
+      "note": "Burdens as freight",
+      "detail": {
+        "image": "freight",
+        "family": "other",
+        "carries": "grace removes loads we would carry alone"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "I was completely sapped—running on empty, as it were.",
+      "basis": "interpreted",
+      "note": "Running on empty as total depletion",
+      "detail": {
+        "image": "running on empty",
+        "family": "other",
+        "carries": "the point of exhaustion where help is needed"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "can part seas and move mountains",
+      "basis": "interpreted",
+      "note": "Seas and mountains as the great miracles God can work",
+      "detail": {
+        "image": "seas and mountains",
+        "family": "water",
+        "carries": "God can work great miracles, though more often helps quietly"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "name_of_christ",
+      "quote": "an infinitely more amazing load-bearing Friend",
+      "basis": "exact",
+      "detail": {
+        "name": "load-bearing Friend"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "name_of_christ",
+      "quote": "the Redeemer",
+      "basis": "exact",
+      "detail": {
+        "name": "the Redeemer"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "name_of_christ",
+      "quote": "“him who is mighty to save,”",
+      "basis": "exact",
+      "detail": {
+        "name": "him who is mighty to save"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "source",
+      "quote": "“I know you can do this, Mike, and I’m going to get you there.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Ted, his running partner"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "source",
+      "quote": "“Congrats, man,” he said. “You did it!”",
+      "basis": "exact",
+      "detail": {
+        "who": "Ted, his running partner"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "source",
+      "quote": "“This is your race to finish.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Ted, his running partner"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "source",
+      "quote": "“divine means of help or strength,”",
+      "basis": "exact",
+      "detail": {
+        "who": "Bible Dictionary, \"Grace\""
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "source",
+      "quote": "Because He “marked the path and led the way,” there is no portion of our mortal sojourn He has not trod.",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn \"How Great the Wisdom and the Love\""
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "source",
+      "quote": "“strength beyond [your] own.”",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn \"Lord, I Would Follow Thee\""
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "source",
+      "quote": "I looked over at Ted and quietly said, “I give up.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Elder Dunn, at mile 90"
+      }
+    }
+  ]
+}

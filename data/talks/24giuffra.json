@@ -1,0 +1,489 @@
+{
+  "id": "24giuffra",
+  "kind": "talk",
+  "speaker": "Patricio M. Giuffra",
+  "role": "Of the Seventy",
+  "title": "Trusting the Lord Through Tithes and Offerings",
+  "session": "Saturday Afternoon Session",
+  "order": 12,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/24giuffra?lang=eng",
+  "pronouns": {
+    "i": 44,
+    "we": 43,
+    "you": 3
+  },
+  "summary": "Elder Giuffra teaches that tithing is a law of faith: paying it shows trust in the Lord, who keeps His promises in His own time and way. His main story is from his mission in Puerto Montt, Chile, where a poor woman of about 70 felt she could never pay tithing, and his mission president told him there were no exceptions; she prayed for help, was baptized, and paid her tithing and fast offering faithfully. He asks members to keep the commandments because they love God, to trust Him with their tithes and offerings, and to prove the Lord, who promises to open the windows of heaven.",
+  "audience": {
+    "who": "All members, especially those who feel too poor to pay tithing"
+  },
+  "arc": [
+    "story",
+    "story",
+    "principle",
+    "promise",
+    "principle",
+    "list",
+    "promise",
+    "quote",
+    "story",
+    "list",
+    "quote",
+    "scripture",
+    "invitation",
+    "promise",
+    "testimony",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.45,
+    "present": 0.4,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mark 12:41–44",
+      "basis": "exact",
+      "ref": "Mark 12:41–44",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Malachi 3:8, 10",
+      "basis": "exact",
+      "ref": "Malachi 3:8, 10",
+      "spoken": false
+    },
+    {
+      "id": "x-n3",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Tithing,” Ensign, May 1994, 34.",
+      "basis": "exact",
+      "ref": "Tithing",
+      "note": "Cites President Oaks on the spiritual blessings of tithing",
+      "detail": {
+        "source": "Tithing, Ensign, May 1994"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "We keep the commandments because we love God, not merely because we hope to receive the blessings that come from obedience.",
+      "basis": "interpreted",
+      "note": "His wife's principle, read as a call to obey out of love, not for reward",
+      "detail": {
+        "action": "keep the commandments out of love for God"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "prove me now herewith, saith the Lord of hosts",
+      "basis": "interpreted",
+      "note": "The Lord's own invitation in Malachi, used as the talk's closing call to pay tithing",
+      "detail": {
+        "action": "pay tithing and prove the Lord"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Bring ye all the tithes into the storehouse, that there may be meat in mine house",
+      "basis": "interpreted",
+      "note": "The Lord's command in Malachi, quoted as the talk's charge to members",
+      "detail": {
+        "action": "bring all tithes to the storehouse"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "the windows of heaven opened and blessings with no room to receive them"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "the Lord always fulfills His promises and that the windows of heaven are opened according to our obedience",
+      "basis": "interpreted",
+      "note": "Stated as what his family's experience taught; reads as a promise to the obedient",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "the windows of heaven opened according to obedience"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "we can have the assurance that the Lord knows our circumstances, honors our obedience, and fulfills His promises in His own time and way.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "the Lord knows our circumstances and keeps His promises in His time"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "As we obey it, we demonstrate our trust in the Lord and allow Him to work miracles in our lives, often in ways we do not expect.",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "miracles in our lives, often unexpected"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "testimony",
+      "quote": "I testify that the law of tithing is a law of faith.",
+      "basis": "exact",
+      "detail": {
+        "of": "the law of tithing as a law of faith"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "testimony",
+      "quote": "Christ lives. This is His Church, and President Dallin H. Oaks is His prophet.",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Christ, His Church, and President Oaks as prophet"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "Commandments are given to draw us closer to the Savior, to protect us, and to help us remain free from sin and many of the challenges the world presents.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "draw us closer to the Savior",
+          "protect us",
+          "keep us free from sin and the world's challenges"
+        ],
+        "purpose": "why commandments are given"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "All of us will face moments of uncertainty, financial hardship, illness, or loss.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "uncertainty",
+          "financial hardship",
+          "illness",
+          "loss"
+        ],
+        "purpose": "trials the obedient still face"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "I have also witnessed the Lord open doors for employment, provide education, strengthen marriages, and fill faithful hearts with peace and hope.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "employment",
+          "education",
+          "stronger marriages",
+          "peace and hope"
+        ],
+        "purpose": "blessings he has seen come to tithe payers"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "What I earn is barely enough to pay the rent for the room where we live, buy a small amount of firewood to keep us warm, and provide some food.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "rent for one room",
+          "a little firewood",
+          "some food"
+        ],
+        "purpose": "the woman's reasons she could not pay tithing"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "revelation",
+      "quote": "There are no exceptions to this commandment.",
+      "basis": "interpreted",
+      "note": "Reads as firm direction: no one is excused from tithing, however poor",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "past_prophet",
+      "quote": "tithing can break cycles of poverty in poor nations and families.",
+      "basis": "exact",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "past_prophet",
+      "quote": "That same poverty continues from one generation to another, until people pay their tithing.",
+      "basis": "exact",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "christ",
+      "quote": "Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+      "basis": "interpreted",
+      "note": "The Lord (Jehovah) speaking in Malachi, read as the words of Christ",
+      "detail": {
+        "where": "Malachi 3:8"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "source",
+      "quote": "Elder Giuffra, you are no one to deny this sister the blessings of the law of tithing. There are no exceptions to this commandment.",
+      "basis": "exact",
+      "detail": {
+        "who": "President Fernando Caballero, his mission president"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "source",
+      "quote": "I don’t think I will ever be able to live the law of tithing because I will not have enough money to do so.",
+      "basis": "exact",
+      "detail": {
+        "who": "a woman of about 70 he taught in Puerto Montt"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "source",
+      "quote": "Last night I knelt in prayer and told Heavenly Father that I truly wanted to become a member of His Church and that He would need to help me live this law.",
+      "basis": "exact",
+      "detail": {
+        "who": "a woman of about 70 he taught in Puerto Montt"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "source",
+      "quote": "My wife often teaches a principle that has become very meaningful in our family",
+      "basis": "exact",
+      "detail": {
+        "who": "his wife"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "story",
+      "quote": "Before I was baptized into the Church, the missionaries taught me about tithes and offerings.",
+      "basis": "interpreted",
+      "note": "He paid tithing from summer jobs as a new convert before he understood it",
+      "detail": {
+        "story_type": "personal",
+        "about": "learning and paying tithing as a young convert"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "story",
+      "quote": "Elder Ruben Alvarez and I began teaching a woman who was about 70 years old and lived with her son, who was a member of the Church.",
+      "basis": "interpreted",
+      "note": "A poor woman who felt she could never pay tithing prays for help, is baptized, and pays faithfully",
+      "detail": {
+        "story_type": "missionary",
+        "about": "a poor woman in Puerto Montt learns to live the law of tithing"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "story",
+      "quote": "He told me she arrived every week with her tithing envelope and that on the first Sunday of every month she also brought her fast offering.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "missionary",
+        "about": "the woman's faithful tithing after baptism, reported by her bishop"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "story",
+      "quote": "President Caballero read to me the account of the widow’s mite",
+      "basis": "interpreted",
+      "note": "The widow's mite, retold through his mission president as the answer to his question",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the widow's mite"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "I have known children of God who once could not afford a pair of shoes and who today, through faith and diligent effort, own successful businesses.",
+      "basis": "interpreted",
+      "note": "Composite witness from his service in Central America",
+      "detail": {
+        "story_type": "other",
+        "about": "tithe payers in Central America who rose from poverty"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "relationship",
+      "quote": "My wife often teaches a principle",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "relationship",
+      "quote": "I called my mission president, President Fernando Caballero, to seek his counsel.",
+      "basis": "exact",
+      "detail": {
+        "who": "mission president",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "relationship",
+      "quote": "My companion and I decided to pray and fast",
+      "basis": "exact",
+      "detail": {
+        "who": "missionary companion, Elder Ruben Alvarez",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "lived with her son, who was a member of the Church",
+      "basis": "exact",
+      "detail": {
+        "who": "the woman's son",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "relationship",
+      "quote": "I have seen innumerable blessings come to my family and me",
+      "basis": "exact",
+      "detail": {
+        "who": "his family",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "image",
+      "quote": "the windows of heaven are opened according to our obedience",
+      "basis": "interpreted",
+      "note": "Heaven as a house whose windows open to pour out blessings",
+      "detail": {
+        "image": "windows of heaven",
+        "family": "building",
+        "carries": "blessings pour out as we obey"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "Bring ye all the tithes into the storehouse",
+      "basis": "interpreted",
+      "note": "The storehouse as the place the Lord's tithes are gathered",
+      "detail": {
+        "image": "storehouse",
+        "family": "building",
+        "carries": "tithes are gathered into the Lord's house"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "Those words became engraved upon my heart.",
+      "basis": "interpreted",
+      "note": "Words carved into the heart, never to be erased",
+      "detail": {
+        "image": "engraving on the heart",
+        "family": "body",
+        "carries": "a lasting lesson that no one is excepted"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "tithing can break cycles of poverty",
+      "basis": "interpreted",
+      "note": "Poverty as a cycle passed down that tithing breaks",
+      "detail": {
+        "image": "cycle",
+        "family": "other",
+        "carries": "tithing ends inherited poverty"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "the Lord open doors for employment",
+      "basis": "interpreted",
+      "note": "Opportunities as doors the Lord opens",
+      "detail": {
+        "image": "open doors",
+        "family": "building",
+        "carries": "the Lord makes way for work"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "place",
+      "quote": "While serving in the Chile Osorno Mission, in the city of Puerto Montt",
+      "basis": "exact",
+      "detail": {
+        "place": "Puerto Montt (Chile Osorno Mission)",
+        "country": "Chile"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "place",
+      "quote": "During my years of service in Central America",
+      "basis": "exact",
+      "detail": {
+        "place": "Central America",
+        "country": "Central America (region)"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "name_of_christ",
+      "quote": "saith the Lord of hosts",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord of hosts"
+      }
+    }
+  ]
+}

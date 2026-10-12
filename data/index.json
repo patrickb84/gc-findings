@@ -11,10 +11,14 @@
       "lord's house",
       "temple’s"
     ],
-    "mentions": 67,
+    "mentions": 80,
     "talks": [
       "12gong",
       "19christofferson",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
       "48schmeil",
       "49oaks",
       "510oaks"
@@ -29,13 +33,21 @@
       "covenants",
       "covenant path"
     ],
-    "mentions": 53,
+    "mentions": 102,
     "talks": [
       "12gong",
       "14causse",
       "16hathaway",
       "17soares",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -53,12 +65,19 @@
       "peacemakers",
       "peacemaking"
     ],
-    "mentions": 14,
+    "mentions": 25,
     "talks": [
       "12gong",
       "14causse",
       "16hathaway",
       "17soares",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "510oaks",
       "59gilbert",
@@ -73,11 +92,16 @@
       "truth",
       "truths"
     ],
-    "mentions": 29,
+    "mentions": 36,
     "talks": [
       "14causse",
       "15sikahema",
       "18douglas",
+      "210rasband",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "49oaks",
       "510oaks",
       "59gilbert"
@@ -93,7 +117,7 @@
       "loved",
       "loving"
     ],
-    "mentions": 73,
+    "mentions": 160,
     "talks": [
       "12gong",
       "13runia",
@@ -102,6 +126,14 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "49oaks",
       "59gilbert"
     ],
@@ -115,7 +147,7 @@
       "faithful",
       "faithfully"
     ],
-    "mentions": 45,
+    "mentions": 69,
     "talks": [
       "12gong",
       "13runia",
@@ -125,6 +157,14 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -139,9 +179,11 @@
     "variants": [
       "sacrament"
     ],
-    "mentions": 12,
+    "mentions": 18,
     "talks": [
       "18douglas",
+      "22farnes",
+      "23chigbundu",
       "48schmeil",
       "49oaks"
     ],
@@ -155,11 +197,13 @@
       "consider your ways",
       "consider"
     ],
-    "mentions": 11,
+    "mentions": 13,
     "talks": [
       "12gong",
       "13runia",
       "16hathaway",
+      "21renlund",
+      "23chigbundu",
       "48schmeil",
       "59gilbert"
     ],
@@ -173,13 +217,15 @@
       "humble",
       "humbly"
     ],
-    "mentions": 15,
+    "mentions": 17,
     "talks": [
       "13runia",
       "14causse",
       "16hathaway",
       "17soares",
       "18douglas",
+      "26fale",
+      "29eyring",
       "48schmeil",
       "49oaks"
     ],
@@ -193,13 +239,18 @@
       "road",
       "pursuit"
     ],
-    "mentions": 18,
+    "mentions": 31,
     "talks": [
       "12gong",
       "13runia",
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -219,12 +270,15 @@
       "burden is light",
       "light thing"
     ],
-    "mentions": 10,
+    "mentions": 15,
     "talks": [
       "12gong",
       "15sikahema",
       "17soares",
       "18douglas",
+      "25morgan",
+      "27kearon",
+      "29eyring",
       "49oaks",
       "59gilbert",
       "hymn-my-redeemer-lives"
@@ -240,9 +294,11 @@
       "anchored",
       "water"
     ],
-    "mentions": 6,
+    "mentions": 9,
     "talks": [
       "15sikahema",
+      "21renlund",
+      "28dunn",
       "49oaks",
       "59gilbert"
     ],
@@ -265,6 +321,8 @@
     "variants": [],
     "mentions": null,
     "talks": [
+      "21renlund",
+      "27kearon",
       "49oaks",
       "59gilbert"
     ],
@@ -301,7 +359,8 @@
     "talks": [
       "13runia",
       "15sikahema",
-      "16hathaway"
+      "16hathaway",
+      "29eyring"
     ],
     "status": "approved"
   },
@@ -328,12 +387,48 @@
     "status": "approved"
   },
   {
+    "term": "Christ carries our burdens",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "210rasband",
+      "27kearon",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Loved ones who have strayed",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "210rasband",
+      "25morgan",
+      "26fale"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Tithes and fast offerings",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "17soares",
+      "24giuffra"
+    ],
+    "status": "proposed_family"
+  },
+  {
     "term": "christ",
     "kind": "keyword",
     "variants": [
       "christ"
     ],
-    "mentions": 109,
+    "mentions": 179,
     "talks": [
       "12gong",
       "13runia",
@@ -343,6 +438,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -356,7 +461,7 @@
     "variants": [
       "jesus"
     ],
-    "mentions": 89,
+    "mentions": 158,
     "talks": [
       "12gong",
       "13runia",
@@ -366,6 +471,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -379,7 +494,7 @@
     "variants": [
       "jesus christ"
     ],
-    "mentions": 83,
+    "mentions": 141,
     "talks": [
       "12gong",
       "13runia",
@@ -389,33 +504,20 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "lord",
-    "kind": "keyword",
-    "variants": [
-      "lord"
-    ],
-    "mentions": 77,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -425,7 +527,7 @@
     "variants": [
       "god"
     ],
-    "mentions": 75,
+    "mentions": 133,
     "talks": [
       "12gong",
       "13runia",
@@ -435,56 +537,20 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "59gilbert",
       "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "know",
-    "kind": "keyword",
-    "variants": [
-      "know"
-    ],
-    "mentions": 27,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "day",
-    "kind": "keyword",
-    "variants": [
-      "day"
-    ],
-    "mentions": 22,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -494,7 +560,7 @@
     "variants": [
       "name"
     ],
-    "mentions": 19,
+    "mentions": 34,
     "talks": [
       "12gong",
       "13runia",
@@ -504,6 +570,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -517,7 +593,7 @@
     "variants": [
       "amen"
     ],
-    "mentions": 12,
+    "mentions": 22,
     "talks": [
       "12gong",
       "13runia",
@@ -527,6 +603,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -540,7 +626,7 @@
     "variants": [
       "christ amen"
     ],
-    "mentions": 12,
+    "mentions": 22,
     "talks": [
       "12gong",
       "13runia",
@@ -550,6 +636,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -563,7 +659,7 @@
     "variants": [
       "jesus christ amen"
     ],
-    "mentions": 12,
+    "mentions": 22,
     "talks": [
       "12gong",
       "13runia",
@@ -573,6 +669,16 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -581,56 +687,43 @@
     "status": "discovered"
   },
   {
-    "term": "president",
+    "term": "lord",
     "kind": "keyword",
     "variants": [
-      "president"
+      "lord"
     ],
-    "mentions": 34,
+    "mentions": 127,
     "talks": [
       "12gong",
-      "13runia",
       "14causse",
       "15sikahema",
       "16hathaway",
       "17soares",
       "18douglas",
       "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "come",
-    "kind": "keyword",
-    "variants": [
-      "come"
-    ],
-    "mentions": 33,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
   {
-    "term": "time",
+    "term": "day",
     "kind": "keyword",
     "variants": [
-      "time"
+      "day"
     ],
-    "mentions": 33,
+    "mentions": 42,
     "talks": [
       "12gong",
       "13runia",
@@ -640,27 +733,14 @@
       "17soares",
       "18douglas",
       "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "father",
-    "kind": "keyword",
-    "variants": [
-      "father"
-    ],
-    "mentions": 26,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -674,7 +754,7 @@
     "variants": [
       "name of jesus"
     ],
-    "mentions": 11,
+    "mentions": 21,
     "talks": [
       "12gong",
       "13runia",
@@ -683,10 +763,109 @@
       "16hathaway",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "510oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "father",
+    "kind": "keyword",
+    "variants": [
+      "father"
+    ],
+    "mentions": 62,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "come",
+    "kind": "keyword",
+    "variants": [
+      "come"
+    ],
+    "mentions": 49,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "know",
+    "kind": "keyword",
+    "variants": [
+      "know"
+    ],
+    "mentions": 40,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -696,7 +875,7 @@
     "variants": [
       "savior"
     ],
-    "mentions": 34,
+    "mentions": 56,
     "talks": [
       "13runia",
       "14causse",
@@ -704,6 +883,14 @@
       "16hathaway",
       "17soares",
       "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "59gilbert",
@@ -712,60 +899,28 @@
     "status": "discovered"
   },
   {
-    "term": "heavenly",
+    "term": "president",
     "kind": "keyword",
     "variants": [
-      "heavenly"
+      "president"
     ],
-    "mentions": 13,
+    "mentions": 52,
     "talks": [
       "12gong",
       "13runia",
       "14causse",
+      "15sikahema",
       "16hathaway",
       "17soares",
       "18douglas",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "church",
-    "kind": "keyword",
-    "variants": [
-      "church"
-    ],
-    "mentions": 28,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "18douglas",
       "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "children",
-    "kind": "keyword",
-    "variants": [
-      "children"
-    ],
-    "mentions": 27,
-    "talks": [
-      "12gong",
-      "13runia",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "59gilbert"
@@ -778,7 +933,7 @@
     "variants": [
       "become"
     ],
-    "mentions": 26,
+    "mentions": 39,
     "talks": [
       "12gong",
       "13runia",
@@ -787,8 +942,73 @@
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "life",
+    "kind": "keyword",
+    "variants": [
+      "life"
+    ],
+    "mentions": 48,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "time",
+    "kind": "keyword",
+    "variants": [
+      "time"
+    ],
+    "mentions": 48,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -798,7 +1018,7 @@
     "variants": [
       "way"
     ],
-    "mentions": 26,
+    "mentions": 45,
     "talks": [
       "13runia",
       "14causse",
@@ -806,9 +1026,72 @@
       "16hathaway",
       "17soares",
       "18douglas",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "49oaks",
       "59gilbert",
       "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "words",
+    "kind": "keyword",
+    "variants": [
+      "words"
+    ],
+    "mentions": 30,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "children",
+    "kind": "keyword",
+    "variants": [
+      "children"
+    ],
+    "mentions": 55,
+    "talks": [
+      "12gong",
+      "13runia",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -818,7 +1101,7 @@
     "variants": [
       "see"
     ],
-    "mentions": 24,
+    "mentions": 43,
     "talks": [
       "12gong",
       "13runia",
@@ -826,9 +1109,381 @@
       "16hathaway",
       "18douglas",
       "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
       "48schmeil",
       "49oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "son",
+    "kind": "keyword",
+    "variants": [
+      "son"
+    ],
+    "mentions": 35,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "first",
+    "kind": "keyword",
+    "variants": [
+      "first"
+    ],
+    "mentions": 33,
+    "talks": [
+      "12gong",
+      "14causse",
+      "15sikahema",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heavenly",
+    "kind": "keyword",
+    "variants": [
+      "heavenly"
+    ],
+    "mentions": 24,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "world",
+    "kind": "keyword",
+    "variants": [
+      "world"
+    ],
+    "mentions": 38,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "help",
+    "kind": "keyword",
+    "variants": [
+      "help"
+    ],
+    "mentions": 34,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lives",
+    "kind": "keyword",
+    "variants": [
+      "lives"
+    ],
+    "mentions": 33,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "great",
+    "kind": "keyword",
+    "variants": [
+      "great"
+    ],
+    "mentions": 30,
+    "talks": [
+      "12gong",
+      "14causse",
+      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prophet",
+    "kind": "keyword",
+    "variants": [
+      "prophet"
+    ],
+    "mentions": 30,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "taught",
+    "kind": "keyword",
+    "variants": [
+      "taught"
+    ],
+    "mentions": 28,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "years",
+    "kind": "keyword",
+    "variants": [
+      "years"
+    ],
+    "mentions": 27,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
+      "29eyring",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "people",
+    "kind": "keyword",
+    "variants": [
+      "people"
+    ],
+    "mentions": 25,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "take",
+    "kind": "keyword",
+    "variants": [
+      "take"
+    ],
+    "mentions": 21,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "family",
+    "kind": "keyword",
+    "variants": [
+      "family"
+    ],
+    "mentions": 45,
+    "talks": [
+      "12gong",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "divine",
+    "kind": "keyword",
+    "variants": [
+      "divine"
+    ],
+    "mentions": 39,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil"
     ],
     "status": "discovered"
   },
@@ -838,13 +1493,18 @@
     "variants": [
       "spirit"
     ],
-    "mentions": 22,
+    "mentions": 38,
     "talks": [
       "12gong",
       "14causse",
       "16hathaway",
       "17soares",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "48schmeil",
       "510oaks",
       "59gilbert",
@@ -858,7 +1518,7 @@
     "variants": [
       "make"
     ],
-    "mentions": 21,
+    "mentions": 29,
     "talks": [
       "12gong",
       "13runia",
@@ -866,6 +1526,11 @@
       "16hathaway",
       "18douglas",
       "19christofferson",
+      "22farnes",
+      "23chigbundu",
+      "26fale",
+      "27kearon",
+      "28dunn",
       "48schmeil",
       "49oaks",
       "59gilbert"
@@ -873,19 +1538,24 @@
     "status": "discovered"
   },
   {
-    "term": "prophet",
+    "term": "feel",
     "kind": "keyword",
     "variants": [
-      "prophet"
+      "feel"
     ],
-    "mentions": 17,
+    "mentions": 28,
     "talks": [
       "12gong",
       "13runia",
       "14causse",
-      "15sikahema",
-      "17soares",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "59gilbert"
@@ -893,304 +1563,25 @@
     "status": "discovered"
   },
   {
-    "term": "family",
+    "term": "promise",
     "kind": "keyword",
     "variants": [
-      "family"
+      "promise"
     ],
     "mentions": 27,
     "talks": [
       "12gong",
       "14causse",
-      "15sikahema",
       "16hathaway",
       "17soares",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "lives",
-    "kind": "keyword",
-    "variants": [
-      "lives"
-    ],
-    "mentions": 22,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "help",
-    "kind": "keyword",
-    "variants": [
-      "help"
-    ],
-    "mentions": 21,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "first",
-    "kind": "keyword",
-    "variants": [
-      "first"
-    ],
-    "mentions": 20,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "gospel",
-    "kind": "keyword",
-    "variants": [
-      "gospel"
-    ],
-    "mentions": 19,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "son",
-    "kind": "keyword",
-    "variants": [
-      "son"
-    ],
-    "mentions": 18,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "work",
-    "kind": "keyword",
-    "variants": [
-      "work"
-    ],
-    "mentions": 18,
-    "talks": [
-      "12gong",
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "world",
-    "kind": "keyword",
-    "variants": [
-      "world"
-    ],
-    "mentions": 18,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "years",
-    "kind": "keyword",
-    "variants": [
-      "years"
-    ],
-    "mentions": 16,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "plan",
-    "kind": "keyword",
-    "variants": [
-      "plan"
-    ],
-    "mentions": 14,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "two",
-    "kind": "keyword",
-    "variants": [
-      "two"
-    ],
-    "mentions": 13,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "joy",
-    "kind": "keyword",
-    "variants": [
-      "joy"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "means",
-    "kind": "keyword",
-    "variants": [
-      "means"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "take",
-    "kind": "keyword",
-    "variants": [
-      "take"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "words",
-    "kind": "keyword",
-    "variants": [
-      "words"
-    ],
-    "mentions": 11,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "savior's",
-    "kind": "keyword",
-    "variants": [
-      "savior's"
-    ],
-    "mentions": 10,
-    "talks": [
-      "12gong",
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks"
     ],
@@ -1202,12 +1593,18 @@
     "variants": [
       "heavenly father"
     ],
-    "mentions": 9,
+    "mentions": 19,
     "talks": [
       "13runia",
       "14causse",
       "16hathaway",
       "17soares",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
       "48schmeil",
       "49oaks",
       "510oaks",
@@ -1216,110 +1613,98 @@
     "status": "discovered"
   },
   {
-    "term": "things",
+    "term": "church",
     "kind": "keyword",
     "variants": [
-      "things"
+      "church"
     ],
-    "mentions": 27,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "life",
-    "kind": "keyword",
-    "variants": [
-      "life"
-    ],
-    "mentions": 23,
+    "mentions": 43,
     "talks": [
       "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "others",
-    "kind": "keyword",
-    "variants": [
-      "others"
-    ],
-    "mentions": 23,
-    "talks": [
-      "13runia",
       "14causse",
       "15sikahema",
-      "17soares",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "divine",
-    "kind": "keyword",
-    "variants": [
-      "divine"
-    ],
-    "mentions": 20,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
       "18douglas",
       "19christofferson",
-      "48schmeil"
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "sacred",
+    "term": "like",
     "kind": "keyword",
     "variants": [
-      "sacred"
+      "like"
     ],
-    "mentions": 19,
+    "mentions": 42,
     "talks": [
-      "12gong",
+      "13runia",
       "14causse",
       "15sikahema",
       "16hathaway",
-      "17soares",
-      "48schmeil",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "book",
+    "kind": "keyword",
+    "variants": [
+      "book"
+    ],
+    "mentions": 39,
+    "talks": [
+      "12gong",
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "joseph",
+    "term": "power",
     "kind": "keyword",
     "variants": [
-      "joseph"
+      "power"
     ],
-    "mentions": 17,
+    "mentions": 38,
     "talks": [
-      "12gong",
-      "13runia",
       "14causse",
-      "15sikahema",
       "16hathaway",
       "17soares",
-      "18douglas"
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "49oaks"
     ],
     "status": "discovered"
   },
@@ -1329,13 +1714,19 @@
     "variants": [
       "god's"
     ],
-    "mentions": 16,
+    "mentions": 33,
     "talks": [
       "12gong",
       "13runia",
       "15sikahema",
       "17soares",
       "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
       "48schmeil",
       "59gilbert"
     ],
@@ -1347,248 +1738,20 @@
     "variants": [
       "heart"
     ],
-    "mentions": 15,
+    "mentions": 33,
     "talks": [
       "12gong",
       "13runia",
       "14causse",
       "17soares",
       "18douglas",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "great",
-    "kind": "keyword",
-    "variants": [
-      "great"
-    ],
-    "mentions": 14,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "spiritual",
-    "kind": "keyword",
-    "variants": [
-      "spiritual"
-    ],
-    "mentions": 14,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "taught",
-    "kind": "keyword",
-    "variants": [
-      "taught"
-    ],
-    "mentions": 14,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "live",
-    "kind": "keyword",
-    "variants": [
-      "live"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "13runia",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "people",
-    "kind": "keyword",
-    "variants": [
-      "people"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "personal",
-    "kind": "keyword",
-    "variants": [
-      "personal"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "bless",
-    "kind": "keyword",
-    "variants": [
-      "bless"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "bring",
-    "kind": "keyword",
-    "variants": [
-      "bring"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "felt",
-    "kind": "keyword",
-    "variants": [
-      "felt"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "go",
-    "kind": "keyword",
-    "variants": [
-      "go"
-    ],
-    "mentions": 12,
-    "talks": [
-      "13runia",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "look",
-    "kind": "keyword",
-    "variants": [
-      "look"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "old",
-    "kind": "keyword",
-    "variants": [
-      "old"
-    ],
-    "mentions": 12,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "place",
-    "kind": "keyword",
-    "variants": [
-      "place"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
       "59gilbert"
     ],
     "status": "discovered"
@@ -1599,12 +1762,18 @@
     "variants": [
       "eternal"
     ],
-    "mentions": 11,
+    "mentions": 30,
     "talks": [
       "12gong",
       "15sikahema",
       "16hathaway",
       "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
       "49oaks",
       "510oaks",
       "59gilbert"
@@ -1612,38 +1781,74 @@
     "status": "discovered"
   },
   {
-    "term": "ago",
+    "term": "keep",
     "kind": "keyword",
     "variants": [
-      "ago"
+      "keep"
     ],
-    "mentions": 10,
+    "mentions": 30,
     "talks": [
       "13runia",
       "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "510oaks",
+      "16hathaway",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "48schmeil",
+      "49oaks",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "feel",
+    "term": "turn",
     "kind": "keyword",
     "variants": [
-      "feel"
+      "turn"
     ],
-    "mentions": 9,
+    "mentions": 25,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "experience",
+    "kind": "keyword",
+    "variants": [
+      "experience"
+    ],
+    "mentions": 22,
     "talks": [
       "12gong",
       "13runia",
       "14causse",
+      "16hathaway",
+      "18douglas",
       "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring"
     ],
     "status": "discovered"
   },
@@ -1653,7 +1858,7 @@
     "variants": [
       "home"
     ],
-    "mentions": 9,
+    "mentions": 21,
     "talks": [
       "12gong",
       "14causse",
@@ -1661,6 +1866,383 @@
       "16hathaway",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "need",
+    "kind": "keyword",
+    "variants": [
+      "need"
+    ],
+    "mentions": 21,
+    "talks": [
+      "13runia",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "came",
+    "kind": "keyword",
+    "variants": [
+      "came"
+    ],
+    "mentions": 19,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "two",
+    "kind": "keyword",
+    "variants": [
+      "two"
+    ],
+    "mentions": 19,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "things",
+    "kind": "keyword",
+    "variants": [
+      "things"
+    ],
+    "mentions": 42,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "blessings",
+    "kind": "keyword",
+    "variants": [
+      "blessings"
+    ],
+    "mentions": 38,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "spiritual",
+    "kind": "keyword",
+    "variants": [
+      "spiritual"
+    ],
+    "mentions": 34,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "remember",
+    "kind": "keyword",
+    "variants": [
+      "remember"
+    ],
+    "mentions": 32,
+    "talks": [
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "witness",
+    "kind": "keyword",
+    "variants": [
+      "witness"
+    ],
+    "mentions": 30,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "26fale",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "others",
+    "kind": "keyword",
+    "variants": [
+      "others"
+    ],
+    "mentions": 29,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "oaks",
+    "kind": "keyword",
+    "variants": [
+      "oaks"
+    ],
+    "mentions": 24,
+    "talks": [
+      "12gong",
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "work",
+    "kind": "keyword",
+    "variants": [
+      "work"
+    ],
+    "mentions": 23,
+    "talks": [
+      "12gong",
+      "13runia",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "hope",
+    "kind": "keyword",
+    "variants": [
+      "hope"
+    ],
+    "mentions": 22,
+    "talks": [
+      "12gong",
+      "14causse",
+      "16hathaway",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "young",
+    "kind": "keyword",
+    "variants": [
+      "young"
+    ],
+    "mentions": 22,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "live",
+    "kind": "keyword",
+    "variants": [
+      "live"
+    ],
+    "mentions": 21,
+    "talks": [
+      "12gong",
+      "13runia",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "look",
+    "kind": "keyword",
+    "variants": [
+      "look"
+    ],
+    "mentions": 20,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "22farnes",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "made",
+    "kind": "keyword",
+    "variants": [
+      "made"
+    ],
+    "mentions": 20,
+    "talks": [
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "48schmeil",
+      "49oaks",
       "59gilbert"
     ],
     "status": "discovered"
@@ -1671,12 +2253,109 @@
     "variants": [
       "never"
     ],
-    "mentions": 9,
+    "mentions": 20,
     "talks": [
       "12gong",
       "14causse",
       "16hathaway",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "26fale",
+      "28dunn",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "new",
+    "kind": "keyword",
+    "variants": [
+      "new"
+    ],
+    "mentions": 18,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bring",
+    "kind": "keyword",
+    "variants": [
+      "bring"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heaven",
+    "kind": "keyword",
+    "variants": [
+      "heaven"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "13runia",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "means",
+    "kind": "keyword",
+    "variants": [
+      "means"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks",
       "59gilbert"
@@ -1689,576 +2368,20 @@
     "variants": [
       "man"
     ],
-    "mentions": 8,
+    "mentions": 15,
     "talks": [
       "12gong",
       "13runia",
       "17soares",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "28dunn",
+      "29eyring",
       "48schmeil",
       "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "unto",
-    "kind": "keyword",
-    "variants": [
-      "unto"
-    ],
-    "mentions": 24,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "like",
-    "kind": "keyword",
-    "variants": [
-      "like"
-    ],
-    "mentions": 21,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "witness",
-    "kind": "keyword",
-    "variants": [
-      "witness"
-    ],
-    "mentions": 21,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "holy",
-    "kind": "keyword",
-    "variants": [
-      "holy"
-    ],
-    "mentions": 20,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "keep",
-    "kind": "keyword",
-    "variants": [
-      "keep"
-    ],
-    "mentions": 19,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "earth",
-    "kind": "keyword",
-    "variants": [
-      "earth"
-    ],
-    "mentions": 16,
-    "talks": [
-      "12gong",
-      "13runia",
-      "15sikahema",
-      "18douglas",
-      "49oaks",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "today",
-    "kind": "keyword",
-    "variants": [
-      "today"
-    ],
-    "mentions": 14,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "called",
-    "kind": "keyword",
-    "variants": [
-      "called"
-    ],
-    "mentions": 13,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "need",
-    "kind": "keyword",
-    "variants": [
-      "need"
-    ],
-    "mentions": 13,
-    "talks": [
-      "13runia",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "promise",
-    "kind": "keyword",
-    "variants": [
-      "promise"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "smith",
-    "kind": "keyword",
-    "variants": [
-      "smith"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "asked",
-    "kind": "keyword",
-    "variants": [
-      "asked"
-    ],
-    "mentions": 12,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "desire",
-    "kind": "keyword",
-    "variants": [
-      "desire"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "else",
-    "kind": "keyword",
-    "variants": [
-      "else"
-    ],
-    "mentions": 12,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "oaks",
-    "kind": "keyword",
-    "variants": [
-      "oaks"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "experience",
-    "kind": "keyword",
-    "variants": [
-      "experience"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "joseph smith",
-    "kind": "keyword",
-    "variants": [
-      "joseph smith"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "new",
-    "kind": "keyword",
-    "variants": [
-      "new"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "invite",
-    "kind": "keyword",
-    "variants": [
-      "invite"
-    ],
-    "mentions": 10,
-    "talks": [
-      "13runia",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "message",
-    "kind": "keyword",
-    "variants": [
-      "message"
-    ],
-    "mentions": 10,
-    "talks": [
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "right",
-    "kind": "keyword",
-    "variants": [
-      "right"
-    ],
-    "mentions": 10,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "young",
-    "kind": "keyword",
-    "variants": [
-      "young"
-    ],
-    "mentions": 10,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "came",
-    "kind": "keyword",
-    "variants": [
-      "came"
-    ],
-    "mentions": 9,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "gave",
-    "kind": "keyword",
-    "variants": [
-      "gave"
-    ],
-    "mentions": 8,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "leaders",
-    "kind": "keyword",
-    "variants": [
-      "leaders"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "lord's",
-    "kind": "keyword",
-    "variants": [
-      "lord's"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "well",
-    "kind": "keyword",
-    "variants": [
-      "well"
-    ],
-    "mentions": 8,
-    "talks": [
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "years ago",
-    "kind": "keyword",
-    "variants": [
-      "years ago"
-    ],
-    "mentions": 8,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "19christofferson",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "act",
-    "kind": "keyword",
-    "variants": [
-      "act"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "elder",
-    "kind": "keyword",
-    "variants": [
-      "elder"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "times",
-    "kind": "keyword",
-    "variants": [
-      "times"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "word",
-    "kind": "keyword",
-    "variants": [
-      "word"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "alone",
-    "kind": "keyword",
-    "variants": [
-      "alone"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -2268,12 +2391,18 @@
     "variants": [
       "dallin"
     ],
-    "mentions": 6,
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
       "48schmeil",
       "59gilbert"
     ],
@@ -2285,12 +2414,18 @@
     "variants": [
       "dallin h"
     ],
-    "mentions": 6,
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
       "48schmeil",
       "59gilbert"
     ],
@@ -2302,12 +2437,18 @@
     "variants": [
       "dallin h oaks"
     ],
-    "mentions": 6,
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
       "48schmeil",
       "59gilbert"
     ],
@@ -2319,12 +2460,18 @@
     "variants": [
       "h"
     ],
-    "mentions": 6,
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
       "48schmeil",
       "59gilbert"
     ],
@@ -2336,1233 +2483,20 @@
     "variants": [
       "h oaks"
     ],
-    "mentions": 6,
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
       "48schmeil",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "hold",
-    "kind": "keyword",
-    "variants": [
-      "hold"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "made",
-    "kind": "keyword",
-    "variants": [
-      "made"
-    ],
-    "mentions": 6,
-    "talks": [
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "president dallin",
-    "kind": "keyword",
-    "variants": [
-      "president dallin"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "president dallin h",
-    "kind": "keyword",
-    "variants": [
-      "president dallin h"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "mission",
-    "kind": "keyword",
-    "variants": [
-      "mission"
-    ],
-    "mentions": 23,
-    "talks": [
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "testimony",
-    "kind": "keyword",
-    "variants": [
-      "testimony"
-    ],
-    "mentions": 20,
-    "talks": [
-      "14causse",
-      "17soares",
-      "18douglas",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "power",
-    "kind": "keyword",
-    "variants": [
-      "power"
-    ],
-    "mentions": 17,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "blessings",
-    "kind": "keyword",
-    "variants": [
-      "blessings"
-    ],
-    "mentions": 16,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "48schmeil",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "book",
-    "kind": "keyword",
-    "variants": [
-      "book"
-    ],
-    "mentions": 15,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "hearts",
-    "kind": "keyword",
-    "variants": [
-      "hearts"
-    ],
-    "mentions": 15,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "serve",
-    "kind": "keyword",
-    "variants": [
-      "serve"
-    ],
-    "mentions": 13,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "good",
-    "kind": "keyword",
-    "variants": [
-      "good"
-    ],
-    "mentions": 12,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "believe",
-    "kind": "keyword",
-    "variants": [
-      "believe"
-    ],
-    "mentions": 11,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "ghost",
-    "kind": "keyword",
-    "variants": [
-      "ghost"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "holy ghost",
-    "kind": "keyword",
-    "variants": [
-      "holy ghost"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "knows",
-    "kind": "keyword",
-    "variants": [
-      "knows"
-    ],
-    "mentions": 11,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "men",
-    "kind": "keyword",
-    "variants": [
-      "men"
-    ],
-    "mentions": 11,
-    "talks": [
-      "13runia",
-      "17soares",
-      "48schmeil",
-      "49oaks",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "prayer",
-    "kind": "keyword",
-    "variants": [
-      "prayer"
-    ],
-    "mentions": 11,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "received",
-    "kind": "keyword",
-    "variants": [
-      "received"
-    ],
-    "mentions": 11,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "days",
-    "kind": "keyword",
-    "variants": [
-      "days"
-    ],
-    "mentions": 10,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "sometimes",
-    "kind": "keyword",
-    "variants": [
-      "sometimes"
-    ],
-    "mentions": 10,
-    "talks": [
-      "12gong",
-      "13runia",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "away",
-    "kind": "keyword",
-    "variants": [
-      "away"
-    ],
-    "mentions": 9,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "16hathaway",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "call",
-    "kind": "keyword",
-    "variants": [
-      "call"
-    ],
-    "mentions": 9,
-    "talks": [
-      "14causse",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "draw",
-    "kind": "keyword",
-    "variants": [
-      "draw"
-    ],
-    "mentions": 9,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "heaven",
-    "kind": "keyword",
-    "variants": [
-      "heaven"
-    ],
-    "mentions": 9,
-    "talks": [
-      "12gong",
-      "13runia",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "hope",
-    "kind": "keyword",
-    "variants": [
-      "hope"
-    ],
-    "mentions": 9,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "remember",
-    "kind": "keyword",
-    "variants": [
-      "remember"
-    ],
-    "mentions": 9,
-    "talks": [
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "without",
-    "kind": "keyword",
-    "variants": [
-      "without"
-    ],
-    "mentions": 9,
-    "talks": [
-      "13runia",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "according",
-    "kind": "keyword",
-    "variants": [
-      "according"
-    ],
-    "mentions": 8,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "always",
-    "kind": "keyword",
-    "variants": [
-      "always"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "13runia",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "back",
-    "kind": "keyword",
-    "variants": [
-      "back"
-    ],
-    "mentions": 8,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "18douglas",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "closer",
-    "kind": "keyword",
-    "variants": [
-      "closer"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "comes",
-    "kind": "keyword",
-    "variants": [
-      "comes"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "19christofferson",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "father's",
-    "kind": "keyword",
-    "variants": [
-      "father's"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "promises",
-    "kind": "keyword",
-    "variants": [
-      "promises"
-    ],
-    "mentions": 8,
-    "talks": [
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "saints",
-    "kind": "keyword",
-    "variants": [
-      "saints"
-    ],
-    "mentions": 8,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "19christofferson",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "service",
-    "kind": "keyword",
-    "variants": [
-      "service"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "17soares",
-      "18douglas",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "strong",
-    "kind": "keyword",
-    "variants": [
-      "strong"
-    ],
-    "mentions": 8,
-    "talks": [
-      "12gong",
-      "19christofferson",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "true",
-    "kind": "keyword",
-    "variants": [
-      "true"
-    ],
-    "mentions": 8,
-    "talks": [
-      "13runia",
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "turn",
-    "kind": "keyword",
-    "variants": [
-      "turn"
-    ],
-    "mentions": 8,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "better",
-    "kind": "keyword",
-    "variants": [
-      "better"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "17soares",
-      "19christofferson",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "brothers",
-    "kind": "keyword",
-    "variants": [
-      "brothers"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "died",
-    "kind": "keyword",
-    "variants": [
-      "died"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "follow",
-    "kind": "keyword",
-    "variants": [
-      "follow"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "17soares",
-      "18douglas",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "give",
-    "kind": "keyword",
-    "variants": [
-      "give"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "17soares",
-      "48schmeil",
-      "510oaks",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "last",
-    "kind": "keyword",
-    "variants": [
-      "last"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "latter",
-    "kind": "keyword",
-    "variants": [
-      "latter"
-    ],
-    "mentions": 7,
-    "talks": [
-      "15sikahema",
-      "17soares",
-      "19christofferson",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "learn",
-    "kind": "keyword",
-    "variants": [
-      "learn"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "13runia",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "morning",
-    "kind": "keyword",
-    "variants": [
-      "morning"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "17soares"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "open",
-    "kind": "keyword",
-    "variants": [
-      "open"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "salvation",
-    "kind": "keyword",
-    "variants": [
-      "salvation"
-    ],
-    "mentions": 7,
-    "talks": [
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "sister",
-    "kind": "keyword",
-    "variants": [
-      "sister"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "sisters",
-    "kind": "keyword",
-    "variants": [
-      "sisters"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "testify",
-    "kind": "keyword",
-    "variants": [
-      "testify"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "toward",
-    "kind": "keyword",
-    "variants": [
-      "toward"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "atonement",
-    "kind": "keyword",
-    "variants": [
-      "atonement"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "different",
-    "kind": "keyword",
-    "variants": [
-      "different"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "living",
-    "kind": "keyword",
-    "variants": [
-      "living"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "long",
-    "kind": "keyword",
-    "variants": [
-      "long"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "maybe",
-    "kind": "keyword",
-    "variants": [
-      "maybe"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "part",
-    "kind": "keyword",
-    "variants": [
-      "part"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "16hathaway",
-      "17soares",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "prepared",
-    "kind": "keyword",
-    "variants": [
-      "prepared"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "18douglas",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "receive",
-    "kind": "keyword",
-    "variants": [
-      "receive"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "reminded",
-    "kind": "keyword",
-    "variants": [
-      "reminded"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "seek",
-    "kind": "keyword",
-    "variants": [
-      "seek"
-    ],
-    "mentions": 6,
-    "talks": [
-      "15sikahema",
-      "16hathaway",
-      "17soares",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "son jesus",
-    "kind": "keyword",
-    "variants": [
-      "son jesus"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "son jesus christ",
-    "kind": "keyword",
-    "variants": [
-      "son jesus christ"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "still",
-    "kind": "keyword",
-    "variants": [
-      "still"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "18douglas",
-      "hymn-my-redeemer-lives"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "worship",
-    "kind": "keyword",
-    "variants": [
-      "worship"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "17soares",
-      "19christofferson",
-      "48schmeil",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "earlier",
-    "kind": "keyword",
-    "variants": [
-      "earlier"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "needed",
-    "kind": "keyword",
-    "variants": [
-      "needed"
-    ],
-    "mentions": 5,
-    "talks": [
-      "16hathaway",
-      "18douglas",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "often",
-    "kind": "keyword",
-    "variants": [
-      "often"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "returned",
-    "kind": "keyword",
-    "variants": [
-      "returned"
-    ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "scripture",
-    "kind": "keyword",
-    "variants": [
-      "scripture"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "together",
-    "kind": "keyword",
-    "variants": [
-      "together"
-    ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "bear",
-    "kind": "keyword",
-    "variants": [
-      "bear"
-    ],
-    "mentions": 16,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "18douglas"
     ],
     "status": "discovered"
   },
@@ -3572,11 +2506,18 @@
     "variants": [
       "book of mormon"
     ],
-    "mentions": 14,
+    "mentions": 35,
     "talks": [
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "49oaks"
     ],
     "status": "discovered"
@@ -3587,790 +2528,369 @@
     "variants": [
       "mormon"
     ],
-    "mentions": 14,
+    "mentions": 35,
     "talks": [
       "14causse",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "missionaries",
+    "term": "unto",
     "kind": "keyword",
     "variants": [
-      "missionaries"
+      "unto"
     ],
-    "mentions": 10,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "restored",
-    "kind": "keyword",
-    "variants": [
-      "restored"
-    ],
-    "mentions": 10,
+    "mentions": 35,
     "talks": [
       "14causse",
       "15sikahema",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
       "49oaks",
       "510oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "savior jesus",
+    "term": "holy",
     "kind": "keyword",
     "variants": [
-      "savior jesus"
+      "holy"
     ],
-    "mentions": 10,
+    "mentions": 34,
     "talks": [
+      "12gong",
       "14causse",
       "17soares",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "26fale",
+      "27kearon",
+      "29eyring",
       "48schmeil",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "savior jesus christ",
+    "term": "hearts",
     "kind": "keyword",
     "variants": [
-      "savior jesus christ"
+      "hearts"
     ],
-    "mentions": 10,
+    "mentions": 26,
     "talks": [
+      "12gong",
       "14causse",
       "17soares",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "stand",
-    "kind": "keyword",
-    "variants": [
-      "stand"
-    ],
-    "mentions": 10,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "29eyring",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "ye",
+    "term": "sacred",
     "kind": "keyword",
     "variants": [
-      "ye"
+      "sacred"
     ],
-    "mentions": 10,
+    "mentions": 26,
     "talks": [
+      "12gong",
       "14causse",
       "15sikahema",
+      "16hathaway",
+      "17soares",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
       "48schmeil",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "year",
+    "term": "asked",
     "kind": "keyword",
     "variants": [
-      "year"
+      "asked"
     ],
-    "mentions": 9,
+    "mentions": 25,
     "talks": [
-      "12gong",
       "13runia",
+      "14causse",
       "15sikahema",
-      "19christofferson"
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "26fale",
+      "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "conference",
+    "term": "gospel",
     "kind": "keyword",
     "variants": [
-      "conference"
+      "gospel"
     ],
-    "mentions": 8,
+    "mentions": 24,
     "talks": [
-      "12gong",
+      "13runia",
+      "14causse",
       "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "25morgan",
+      "29eyring",
+      "48schmeil",
       "510oaks",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "left",
+    "term": "felt",
     "kind": "keyword",
     "variants": [
-      "left"
+      "felt"
     ],
-    "mentions": 8,
+    "mentions": 22,
     "talks": [
       "12gong",
       "13runia",
-      "15sikahema",
-      "16hathaway"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "moment",
-    "kind": "keyword",
-    "variants": [
-      "moment"
-    ],
-    "mentions": 8,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "simple",
-    "kind": "keyword",
-    "variants": [
-      "simple"
-    ],
-    "mentions": 8,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "17soares",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "began",
-    "kind": "keyword",
-    "variants": [
-      "began"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "16hathaway",
-      "17soares",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "begin",
-    "kind": "keyword",
-    "variants": [
-      "begin"
-    ],
-    "mentions": 7,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "16hathaway",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "deeply",
-    "kind": "keyword",
-    "variants": [
-      "deeply"
-    ],
-    "mentions": 7,
-    "talks": [
       "14causse",
       "16hathaway",
       "17soares",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "hear",
-    "kind": "keyword",
-    "variants": [
-      "hear"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "nothing",
-    "kind": "keyword",
-    "variants": [
-      "nothing"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "small",
-    "kind": "keyword",
-    "variants": [
-      "small"
-    ],
-    "mentions": 7,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "weak",
-    "kind": "keyword",
-    "variants": [
-      "weak"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
       "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "whether",
-    "kind": "keyword",
-    "variants": [
-      "whether"
-    ],
-    "mentions": 7,
-    "talks": [
-      "14causse",
-      "15sikahema",
-      "16hathaway",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "among",
-    "kind": "keyword",
-    "variants": [
-      "among"
-    ],
-    "mentions": 6,
-    "talks": [
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "brothers and sisters",
-    "kind": "keyword",
-    "variants": [
-      "brothers and sisters"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "17soares",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "cannot",
-    "kind": "keyword",
-    "variants": [
-      "cannot"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "16hathaway",
-      "18douglas",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "27kearon",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "choose",
+    "term": "give",
     "kind": "keyword",
     "variants": [
-      "choose"
+      "give"
     ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "commandments",
-    "kind": "keyword",
-    "variants": [
-      "commandments"
-    ],
-    "mentions": 6,
+    "mentions": 19,
     "talks": [
       "13runia",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "28dunn",
+      "29eyring",
       "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "doctrine",
-    "kind": "keyword",
-    "variants": [
-      "doctrine"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "18douglas",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "everything",
-    "kind": "keyword",
-    "variants": [
-      "everything"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "16hathaway"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "find",
-    "kind": "keyword",
-    "variants": [
-      "find"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "grateful",
-    "kind": "keyword",
-    "variants": [
-      "grateful"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "greater",
-    "kind": "keyword",
-    "variants": [
-      "greater"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "17soares",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "kingdom",
-    "kind": "keyword",
-    "variants": [
-      "kingdom"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "knowledge",
-    "kind": "keyword",
-    "variants": [
-      "knowledge"
-    ],
-    "mentions": 6,
-    "talks": [
-      "15sikahema",
-      "18douglas",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "learning",
-    "kind": "keyword",
-    "variants": [
-      "learning"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "19christofferson",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "lost",
-    "kind": "keyword",
-    "variants": [
-      "lost"
-    ],
-    "mentions": 6,
-    "talks": [
-      "16hathaway",
-      "19christofferson",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "months",
-    "kind": "keyword",
-    "variants": [
-      "months"
-    ],
-    "mentions": 6,
-    "talks": [
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "pain",
-    "kind": "keyword",
-    "variants": [
-      "pain"
-    ],
-    "mentions": 6,
-    "talks": [
-      "13runia",
-      "16hathaway",
-      "59gilbert",
+      "510oaks",
       "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
   {
-    "term": "priesthood",
+    "term": "go",
     "kind": "keyword",
     "variants": [
-      "priesthood"
+      "go"
     ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "think",
-    "kind": "keyword",
-    "variants": [
-      "think"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "want",
-    "kind": "keyword",
-    "variants": [
-      "want"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "18douglas",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "wife",
-    "kind": "keyword",
-    "variants": [
-      "wife"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "another",
-    "kind": "keyword",
-    "variants": [
-      "another"
-    ],
-    "mentions": 5,
+    "mentions": 19,
     "talks": [
       "13runia",
-      "14causse",
-      "19christofferson",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "answer",
-    "kind": "keyword",
-    "variants": [
-      "answer"
-    ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
       "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "authority",
-    "kind": "keyword",
-    "variants": [
-      "authority"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "14causse",
-      "15sikahema",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "blessed",
-    "kind": "keyword",
-    "variants": [
-      "blessed"
-    ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
+      "18douglas",
       "19christofferson",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "christ's",
-    "kind": "keyword",
-    "variants": [
-      "christ's"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "29eyring",
+      "48schmeil",
+      "510oaks",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "church of jesus",
+    "term": "plan",
     "kind": "keyword",
     "variants": [
-      "church of jesus"
+      "plan"
     ],
-    "mentions": 5,
+    "mentions": 18,
     "talks": [
+      "12gong",
+      "13runia",
       "14causse",
       "15sikahema",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "26fale",
+      "48schmeil",
       "49oaks",
       "510oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "concern",
+    "term": "ever",
     "kind": "keyword",
     "variants": [
-      "concern"
+      "ever"
     ],
-    "mentions": 5,
+    "mentions": 17,
     "talks": [
-      "17soares",
-      "19christofferson",
-      "49oaks",
+      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "day saints",
+    "term": "joy",
     "kind": "keyword",
     "variants": [
-      "day saints"
+      "joy"
     ],
-    "mentions": 5,
+    "mentions": 17,
     "talks": [
-      "15sikahema",
-      "19christofferson",
-      "49oaks",
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "27kearon",
+      "48schmeil",
       "510oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "declared",
+    "term": "often",
     "kind": "keyword",
     "variants": [
-      "declared"
+      "often"
     ],
-    "mentions": 5,
+    "mentions": 17,
     "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lord's",
+    "kind": "keyword",
+    "variants": [
+      "lord's"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "old",
+    "kind": "keyword",
+    "variants": [
+      "old"
+    ],
+    "mentions": 16,
+    "talks": [
+      "13runia",
       "15sikahema",
       "17soares",
       "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "26fale",
+      "48schmeil",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "filled",
+    "term": "ago",
     "kind": "keyword",
     "variants": [
-      "filled"
+      "ago"
     ],
-    "mentions": 5,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "17soares",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "forward",
-    "kind": "keyword",
-    "variants": [
-      "forward"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "17soares",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "friends",
-    "kind": "keyword",
-    "variants": [
-      "friends"
-    ],
-    "mentions": 5,
+    "mentions": 15,
     "talks": [
       "13runia",
-      "17soares",
-      "18douglas",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "general",
-    "kind": "keyword",
-    "variants": [
-      "general"
-    ],
-    "mentions": 5,
-    "talks": [
       "14causse",
       "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "27kearon",
+      "28dunn",
+      "29eyring",
       "510oaks",
       "59gilbert"
     ],
@@ -4382,57 +2902,528 @@
     "variants": [
       "later"
     ],
-    "mentions": 5,
+    "mentions": 15,
     "talks": [
       "13runia",
       "15sikahema",
       "16hathaway",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
+      "29eyring",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "latter day",
+    "term": "savior's",
     "kind": "keyword",
     "variants": [
-      "latter day"
+      "savior's"
     ],
-    "mentions": 5,
+    "mentions": 14,
     "talks": [
+      "12gong",
+      "13runia",
       "15sikahema",
-      "19christofferson",
-      "49oaks",
-      "510oaks"
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "22farnes",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "latter day saints",
+    "term": "living",
     "kind": "keyword",
     "variants": [
-      "latter day saints"
+      "living"
     ],
-    "mentions": 5,
+    "mentions": 13,
     "talks": [
+      "13runia",
+      "14causse",
       "15sikahema",
+      "18douglas",
       "19christofferson",
-      "49oaks",
-      "510oaks"
+      "210rasband",
+      "21renlund",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring"
     ],
     "status": "discovered"
   },
   {
-    "term": "perfect",
+    "term": "president dallin",
     "kind": "keyword",
     "variants": [
-      "perfect"
+      "president dallin"
     ],
-    "mentions": 5,
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president dallin h",
+    "kind": "keyword",
+    "variants": [
+      "president dallin h"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "still",
+    "kind": "keyword",
+    "variants": [
+      "still"
+    ],
+    "mentions": 13,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "promises",
+    "kind": "keyword",
+    "variants": [
+      "promises"
+    ],
+    "mentions": 31,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "27kearon",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "joseph",
+    "kind": "keyword",
+    "variants": [
+      "joseph"
+    ],
+    "mentions": 25,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bear",
+    "kind": "keyword",
+    "variants": [
+      "bear"
+    ],
+    "mentions": 23,
     "talks": [
       "14causse",
       "16hathaway",
       "17soares",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "always",
+    "kind": "keyword",
+    "variants": [
+      "always"
+    ],
+    "mentions": 22,
+    "talks": [
+      "12gong",
+      "13runia",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "true",
+    "kind": "keyword",
+    "variants": [
+      "true"
+    ],
+    "mentions": 21,
+    "talks": [
+      "13runia",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "find",
+    "kind": "keyword",
+    "variants": [
+      "find"
+    ],
+    "mentions": 20,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "210rasband",
+      "23chigbundu",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "knows",
+    "kind": "keyword",
+    "variants": [
+      "knows"
+    ],
+    "mentions": 20,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "back",
+    "kind": "keyword",
+    "variants": [
+      "back"
+    ],
+    "mentions": 19,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "called",
+    "kind": "keyword",
+    "variants": [
+      "called"
+    ],
+    "mentions": 19,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "27kearon",
+      "28dunn",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "received",
+    "kind": "keyword",
+    "variants": [
+      "received"
+    ],
+    "mentions": 19,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "trust",
+    "kind": "keyword",
+    "variants": [
+      "trust"
+    ],
+    "mentions": 18,
+    "talks": [
+      "13runia",
+      "14causse",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring",
       "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "without",
+    "kind": "keyword",
+    "variants": [
+      "without"
+    ],
+    "mentions": 18,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "cannot",
+    "kind": "keyword",
+    "variants": [
+      "cannot"
+    ],
+    "mentions": 17,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "days",
+    "kind": "keyword",
+    "variants": [
+      "days"
+    ],
+    "mentions": 17,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "27kearon",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "draw",
+    "kind": "keyword",
+    "variants": [
+      "draw"
+    ],
+    "mentions": 17,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "personal",
+    "kind": "keyword",
+    "variants": [
+      "personal"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "gave",
+    "kind": "keyword",
+    "variants": [
+      "gave"
+    ],
+    "mentions": 15,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "last",
+    "kind": "keyword",
+    "variants": [
+      "last"
+    ],
+    "mentions": 15,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "moment",
+    "kind": "keyword",
+    "variants": [
+      "moment"
+    ],
+    "mentions": 15,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -4442,27 +3433,1831 @@
     "variants": [
       "pray"
     ],
-    "mentions": 5,
+    "mentions": 15,
     "talks": [
       "12gong",
       "18douglas",
       "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "29eyring",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "precious",
+    "term": "long",
     "kind": "keyword",
     "variants": [
-      "precious"
+      "long"
     ],
-    "mentions": 5,
+    "mentions": 14,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "27kearon",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "right",
+    "kind": "keyword",
+    "variants": [
+      "right"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "19christofferson",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "times",
+    "kind": "keyword",
+    "variants": [
+      "times"
+    ],
+    "mentions": 14,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "mission",
+    "kind": "keyword",
+    "variants": [
+      "mission"
+    ],
+    "mentions": 32,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ye",
+    "kind": "keyword",
+    "variants": [
+      "ye"
+    ],
+    "mentions": 25,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "today",
+    "kind": "keyword",
+    "variants": [
+      "today"
+    ],
+    "mentions": 21,
+    "talks": [
+      "12gong",
+      "14causse",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "smith",
+    "kind": "keyword",
+    "variants": [
+      "smith"
+    ],
+    "mentions": 20,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "away",
+    "kind": "keyword",
+    "variants": [
+      "away"
+    ],
+    "mentions": 19,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "25morgan",
+      "27kearon",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "elder",
+    "kind": "keyword",
+    "variants": [
+      "elder"
+    ],
+    "mentions": 19,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "joseph smith",
+    "kind": "keyword",
+    "variants": [
+      "joseph smith"
+    ],
+    "mentions": 18,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "began",
+    "kind": "keyword",
+    "variants": [
+      "began"
+    ],
+    "mentions": 17,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "good",
+    "kind": "keyword",
+    "variants": [
+      "good"
+    ],
+    "mentions": 17,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "25morgan",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "learn",
+    "kind": "keyword",
+    "variants": [
+      "learn"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "13runia",
+      "210rasband",
+      "23chigbundu",
+      "27kearon",
+      "28dunn",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "call",
+    "kind": "keyword",
+    "variants": [
+      "call"
+    ],
+    "mentions": 16,
+    "talks": [
+      "14causse",
+      "17soares",
+      "18douglas",
+      "22farnes",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "think",
+    "kind": "keyword",
+    "variants": [
+      "think"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "13runia",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "wife",
+    "kind": "keyword",
+    "variants": [
+      "wife"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "men",
+    "kind": "keyword",
+    "variants": [
+      "men"
+    ],
+    "mentions": 15,
+    "talks": [
+      "13runia",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "27kearon",
+      "48schmeil",
+      "49oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "better",
+    "kind": "keyword",
+    "variants": [
+      "better"
+    ],
+    "mentions": 14,
+    "talks": [
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "21renlund",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bless",
+    "kind": "keyword",
+    "variants": [
+      "bless"
+    ],
+    "mentions": 14,
     "talks": [
       "12gong",
       "14causse",
       "15sikahema",
-      "19christofferson"
+      "17soares",
+      "18douglas",
+      "25morgan",
+      "26fale",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brothers",
+    "kind": "keyword",
+    "variants": [
+      "brothers"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "place",
+    "kind": "keyword",
+    "variants": [
+      "place"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "23chigbundu",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sisters",
+    "kind": "keyword",
+    "variants": [
+      "sisters"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "understand",
+    "kind": "keyword",
+    "variants": [
+      "understand"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "13runia",
+      "17soares",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "seek",
+    "kind": "keyword",
+    "variants": [
+      "seek"
+    ],
+    "mentions": 12,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "years ago",
+    "kind": "keyword",
+    "variants": [
+      "years ago"
+    ],
+    "mentions": 12,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "19christofferson",
+      "22farnes",
+      "28dunn",
+      "29eyring",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brought",
+    "kind": "keyword",
+    "variants": [
+      "brought"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "receive",
+    "kind": "keyword",
+    "variants": [
+      "receive"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sister",
+    "kind": "keyword",
+    "variants": [
+      "sister"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "well",
+    "kind": "keyword",
+    "variants": [
+      "well"
+    ],
+    "mentions": 11,
+    "talks": [
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "28dunn",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "different",
+    "kind": "keyword",
+    "variants": [
+      "different"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "19christofferson",
+      "21renlund",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "face",
+    "kind": "keyword",
+    "variants": [
+      "face"
+    ],
+    "mentions": 10,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heard",
+    "kind": "keyword",
+    "variants": [
+      "heard"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "testimony",
+    "kind": "keyword",
+    "variants": [
+      "testimony"
+    ],
+    "mentions": 27,
+    "talks": [
+      "14causse",
+      "17soares",
+      "18douglas",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "earth",
+    "kind": "keyword",
+    "variants": [
+      "earth"
+    ],
+    "mentions": 18,
+    "talks": [
+      "12gong",
+      "13runia",
+      "15sikahema",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "49oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ghost",
+    "kind": "keyword",
+    "variants": [
+      "ghost"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "holy ghost",
+    "kind": "keyword",
+    "variants": [
+      "holy ghost"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "knew",
+    "kind": "keyword",
+    "variants": [
+      "knew"
+    ],
+    "mentions": 17,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "210rasband",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "someone",
+    "kind": "keyword",
+    "variants": [
+      "someone"
+    ],
+    "mentions": 16,
+    "talks": [
+      "16hathaway",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prayer",
+    "kind": "keyword",
+    "variants": [
+      "prayer"
+    ],
+    "mentions": 15,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "simple",
+    "kind": "keyword",
+    "variants": [
+      "simple"
+    ],
+    "mentions": 15,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "23chigbundu",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sometimes",
+    "kind": "keyword",
+    "variants": [
+      "sometimes"
+    ],
+    "mentions": 15,
+    "talks": [
+      "12gong",
+      "13runia",
+      "19christofferson",
+      "27kearon",
+      "28dunn",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "stand",
+    "kind": "keyword",
+    "variants": [
+      "stand"
+    ],
+    "mentions": 15,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "desire",
+    "kind": "keyword",
+    "variants": [
+      "desire"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "26fale",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "small",
+    "kind": "keyword",
+    "variants": [
+      "small"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "17soares",
+      "19christofferson",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "26fale"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "atonement",
+    "kind": "keyword",
+    "variants": [
+      "atonement"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "14causse",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "25morgan",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "begin",
+    "kind": "keyword",
+    "variants": [
+      "begin"
+    ],
+    "mentions": 13,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "27kearon"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brothers and sisters",
+    "kind": "keyword",
+    "variants": [
+      "brothers and sisters"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "second",
+    "kind": "keyword",
+    "variants": [
+      "second"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "26fale",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "beyond",
+    "kind": "keyword",
+    "variants": [
+      "beyond"
+    ],
+    "mentions": 12,
+    "talks": [
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "leaders",
+    "kind": "keyword",
+    "variants": [
+      "leaders"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "16hathaway",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "message",
+    "kind": "keyword",
+    "variants": [
+      "message"
+    ],
+    "mentions": 12,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "26fale",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "promised",
+    "kind": "keyword",
+    "variants": [
+      "promised"
+    ],
+    "mentions": 12,
+    "talks": [
+      "14causse",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "28dunn",
+      "29eyring",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "scriptures",
+    "kind": "keyword",
+    "variants": [
+      "scriptures"
+    ],
+    "mentions": 12,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "26fale",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "according",
+    "kind": "keyword",
+    "variants": [
+      "according"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "act",
+    "kind": "keyword",
+    "variants": [
+      "act"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "22farnes",
+      "27kearon",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "another",
+    "kind": "keyword",
+    "variants": [
+      "another"
+    ],
+    "mentions": 11,
+    "talks": [
+      "13runia",
+      "14causse",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "24giuffra",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "closer",
+    "kind": "keyword",
+    "variants": [
+      "closer"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "24giuffra",
+      "28dunn",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "comes",
+    "kind": "keyword",
+    "variants": [
+      "comes"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "27kearon",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "enough",
+    "kind": "keyword",
+    "variants": [
+      "enough"
+    ],
+    "mentions": 11,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "morning",
+    "kind": "keyword",
+    "variants": [
+      "morning"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "21renlund",
+      "24giuffra",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "strength",
+    "kind": "keyword",
+    "variants": [
+      "strength"
+    ],
+    "mentions": 11,
+    "talks": [
+      "16hathaway",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "filled",
+    "kind": "keyword",
+    "variants": [
+      "filled"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "24giuffra",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "next",
+    "kind": "keyword",
+    "variants": [
+      "next"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "13runia",
+      "14causse",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "27kearon",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "part",
+    "kind": "keyword",
+    "variants": [
+      "part"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "26fale",
+      "27kearon",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "helped",
+    "kind": "keyword",
+    "variants": [
+      "helped"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "18douglas",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "25morgan",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "redeemer",
+    "kind": "keyword",
+    "variants": [
+      "redeemer"
+    ],
+    "mentions": 9,
+    "talks": [
+      "14causse",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "25morgan",
+      "27kearon",
+      "28dunn",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "alone",
+    "kind": "keyword",
+    "variants": [
+      "alone"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "17soares",
+      "22farnes",
+      "26fale",
+      "48schmeil",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "needed",
+    "kind": "keyword",
+    "variants": [
+      "needed"
+    ],
+    "mentions": 8,
+    "talks": [
+      "16hathaway",
+      "18douglas",
+      "22farnes",
+      "24giuffra",
+      "28dunn",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "father's",
+    "kind": "keyword",
+    "variants": [
+      "father's"
+    ],
+    "mentions": 22,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "26fale",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "something",
+    "kind": "keyword",
+    "variants": [
+      "something"
+    ],
+    "mentions": 18,
+    "talks": [
+      "13runia",
+      "19christofferson",
+      "21renlund",
+      "22farnes",
+      "23chigbundu",
+      "28dunn",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "believe",
+    "kind": "keyword",
+    "variants": [
+      "believe"
+    ],
+    "mentions": 15,
+    "talks": [
+      "13runia",
+      "14causse",
+      "16hathaway",
+      "21renlund",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior jesus",
+    "kind": "keyword",
+    "variants": [
+      "savior jesus"
+    ],
+    "mentions": 15,
+    "talks": [
+      "14causse",
+      "17soares",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior jesus christ",
+    "kind": "keyword",
+    "variants": [
+      "savior jesus christ"
+    ],
+    "mentions": 15,
+    "talks": [
+      "14causse",
+      "17soares",
+      "23chigbundu",
+      "28dunn",
+      "29eyring",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "commandments",
+    "kind": "keyword",
+    "variants": [
+      "commandments"
+    ],
+    "mentions": 13,
+    "talks": [
+      "13runia",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "else",
+    "kind": "keyword",
+    "variants": [
+      "else"
+    ],
+    "mentions": 13,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "27kearon",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "mortal",
+    "kind": "keyword",
+    "variants": [
+      "mortal"
+    ],
+    "mentions": 13,
+    "talks": [
+      "16hathaway",
+      "17soares",
+      "21renlund",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "invite",
+    "kind": "keyword",
+    "variants": [
+      "invite"
+    ],
+    "mentions": 12,
+    "talks": [
+      "13runia",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "23chigbundu",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "left",
+    "kind": "keyword",
+    "variants": [
+      "left"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "13runia",
+      "15sikahema",
+      "16hathaway",
+      "210rasband",
+      "22farnes",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "toward",
+    "kind": "keyword",
+    "variants": [
+      "toward"
+    ],
+    "mentions": 12,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "17soares",
+      "19christofferson",
+      "22farnes",
+      "27kearon"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "understanding",
+    "kind": "keyword",
+    "variants": [
+      "understanding"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "210rasband",
+      "26fale",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "forever",
+    "kind": "keyword",
+    "variants": [
+      "forever"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "16hathaway",
+      "21renlund",
+      "22farnes",
+      "26fale",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "friends",
+    "kind": "keyword",
+    "variants": [
+      "friends"
+    ],
+    "mentions": 11,
+    "talks": [
+      "13runia",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "learned",
+    "kind": "keyword",
+    "variants": [
+      "learned"
+    ],
+    "mentions": 11,
+    "talks": [
+      "13runia",
+      "16hathaway",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "27kearon"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "put",
+    "kind": "keyword",
+    "variants": [
+      "put"
+    ],
+    "mentions": 11,
+    "talks": [
+      "13runia",
+      "19christofferson",
+      "22farnes",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "service",
+    "kind": "keyword",
+    "variants": [
+      "service"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "17soares",
+      "18douglas",
+      "22farnes",
+      "24giuffra",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "whether",
+    "kind": "keyword",
+    "variants": [
+      "whether"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "16hathaway",
+      "19christofferson",
+      "21renlund",
+      "24giuffra",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "answer",
+    "kind": "keyword",
+    "variants": [
+      "answer"
+    ],
+    "mentions": 10,
+    "talks": [
+      "13runia",
+      "14causse",
+      "17soares",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "around",
+    "kind": "keyword",
+    "variants": [
+      "around"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "19christofferson",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "28dunn",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "deeply",
+    "kind": "keyword",
+    "variants": [
+      "deeply"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "16hathaway",
+      "17soares",
+      "24giuffra",
+      "25morgan",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "follow",
+    "kind": "keyword",
+    "variants": [
+      "follow"
+    ],
+    "mentions": 10,
+    "talks": [
+      "13runia",
+      "17soares",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "fully",
+    "kind": "keyword",
+    "variants": [
+      "fully"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "17soares",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "greater",
+    "kind": "keyword",
+    "variants": [
+      "greater"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "17soares",
+      "210rasband",
+      "24giuffra",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "knowledge",
+    "kind": "keyword",
+    "variants": [
+      "knowledge"
+    ],
+    "mentions": 10,
+    "talks": [
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lost",
+    "kind": "keyword",
+    "variants": [
+      "lost"
+    ],
+    "mentions": 10,
+    "talks": [
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "21renlund",
+      "29eyring",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "open",
+    "kind": "keyword",
+    "variants": [
+      "open"
+    ],
+    "mentions": 10,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "22farnes",
+      "24giuffra",
+      "510oaks"
     ],
     "status": "discovered"
   },
@@ -4472,87 +5267,51 @@
     "variants": [
       "prophet joseph"
     ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
       "12gong",
       "14causse",
-      "15sikahema",
-      "17soares"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "replied",
-    "kind": "keyword",
-    "variants": [
-      "replied"
-    ],
-    "mentions": 5,
-    "talks": [
-      "14causse",
-      "18douglas",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "revelation",
-    "kind": "keyword",
-    "variants": [
-      "revelation"
-    ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
       "15sikahema",
       "17soares",
-      "49oaks"
+      "21renlund",
+      "23chigbundu",
+      "25morgan"
     ],
     "status": "discovered"
   },
   {
-    "term": "simply",
+    "term": "scripture",
     "kind": "keyword",
     "variants": [
-      "simply"
+      "scripture"
     ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
-      "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "sin",
-    "kind": "keyword",
-    "variants": [
-      "sin"
-    ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
       "12gong",
+      "13runia",
+      "14causse",
       "16hathaway",
-      "19christofferson",
-      "59gilbert"
+      "21renlund",
+      "23chigbundu",
+      "48schmeil"
     ],
     "status": "discovered"
   },
   {
-    "term": "teach",
+    "term": "sure",
     "kind": "keyword",
     "variants": [
-      "teach"
+      "sure"
     ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
-      "15sikahema",
-      "17soares",
-      "18douglas",
-      "59gilbert"
+      "13runia",
+      "21renlund",
+      "22farnes",
+      "25morgan",
+      "26fale",
+      "28dunn",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -4562,11 +5321,14 @@
     "variants": [
       "teaches"
     ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
       "12gong",
       "17soares",
       "18douglas",
+      "210rasband",
+      "24giuffra",
+      "26fale",
       "49oaks"
     ],
     "status": "discovered"
@@ -4577,42 +5339,195 @@
     "variants": [
       "testament"
     ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
       "14causse",
       "15sikahema",
       "17soares",
+      "210rasband",
+      "21renlund",
+      "26fale",
       "48schmeil"
     ],
     "status": "discovered"
   },
   {
-    "term": "trust",
+    "term": "testify",
     "kind": "keyword",
     "variants": [
-      "trust"
+      "testify"
     ],
-    "mentions": 5,
-    "talks": [
-      "13runia",
-      "14causse",
-      "17soares",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "understand",
-    "kind": "keyword",
-    "variants": [
-      "understand"
-    ],
-    "mentions": 5,
+    "mentions": 10,
     "talks": [
       "12gong",
       "13runia",
+      "16hathaway",
       "17soares",
+      "24giuffra",
+      "25morgan",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "choose",
+    "kind": "keyword",
+    "variants": [
+      "choose"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "13runia",
+      "16hathaway",
+      "210rasband",
+      "22farnes",
+      "27kearon",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "courage",
+    "kind": "keyword",
+    "variants": [
+      "courage"
+    ],
+    "mentions": 9,
+    "talks": [
+      "15sikahema",
+      "22farnes",
+      "23chigbundu",
+      "26fale",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "moments",
+    "kind": "keyword",
+    "variants": [
+      "moments"
+    ],
+    "mentions": 9,
+    "talks": [
+      "16hathaway",
+      "22farnes",
+      "23chigbundu",
+      "24giuffra",
+      "27kearon",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "months",
+    "kind": "keyword",
+    "variants": [
+      "months"
+    ],
+    "mentions": 9,
+    "talks": [
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "25morgan",
+      "28dunn",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prophet joseph smith",
+    "kind": "keyword",
+    "variants": [
+      "prophet joseph smith"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "14causse",
+      "15sikahema",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "25morgan"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "reminded",
+    "kind": "keyword",
+    "variants": [
+      "reminded"
+    ],
+    "mentions": 9,
+    "talks": [
+      "14causse",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "28dunn",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "told",
+    "kind": "keyword",
+    "variants": [
+      "told"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "21renlund",
+      "22farnes",
+      "24giuffra",
+      "26fale",
+      "29eyring",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "want",
+    "kind": "keyword",
+    "variants": [
+      "want"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "13runia",
+      "18douglas",
+      "21renlund",
+      "23chigbundu",
+      "27kearon",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "word",
+    "kind": "keyword",
+    "variants": [
+      "word"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "19christofferson",
+      "23chigbundu",
+      "49oaks"
     ],
     "status": "discovered"
   },
@@ -4622,206 +5537,32 @@
     "variants": [
       "ask"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "13runia",
       "14causse",
       "16hathaway",
+      "210rasband",
+      "23chigbundu",
+      "28dunn",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "beautiful",
+    "term": "christ's",
     "kind": "keyword",
     "variants": [
-      "beautiful"
+      "christ's"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "12gong",
       "13runia",
-      "18douglas",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "brought",
-    "kind": "keyword",
-    "variants": [
-      "brought"
-    ],
-    "mentions": 4,
-    "talks": [
-      "14causse",
       "16hathaway",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "enter",
-    "kind": "keyword",
-    "variants": [
-      "enter"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "17soares",
-      "18douglas"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "focus",
-    "kind": "keyword",
-    "variants": [
-      "focus"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "13runia",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "gain",
-    "kind": "keyword",
-    "variants": [
-      "gain"
-    ],
-    "mentions": 4,
-    "talks": [
-      "14causse",
-      "16hathaway",
-      "18douglas",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "given",
-    "kind": "keyword",
-    "variants": [
-      "given"
-    ],
-    "mentions": 4,
-    "talks": [
-      "16hathaway",
-      "18douglas",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "guide",
-    "kind": "keyword",
-    "variants": [
-      "guide"
-    ],
-    "mentions": 4,
-    "talks": [
-      "13runia",
-      "19christofferson",
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "happen",
-    "kind": "keyword",
-    "variants": [
-      "happen"
-    ],
-    "mentions": 4,
-    "talks": [
-      "13runia",
-      "14causse",
-      "16hathaway",
-      "19christofferson"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "heard",
-    "kind": "keyword",
-    "variants": [
-      "heard"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "helped",
-    "kind": "keyword",
-    "variants": [
-      "helped"
-    ],
-    "mentions": 4,
-    "talks": [
-      "13runia",
-      "15sikahema",
-      "18douglas",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "invitation",
-    "kind": "keyword",
-    "variants": [
-      "invitation"
-    ],
-    "mentions": 4,
-    "talks": [
-      "13runia",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "kind",
-    "kind": "keyword",
-    "variants": [
-      "kind"
-    ],
-    "mentions": 4,
-    "talks": [
-      "16hathaway",
-      "17soares",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "led",
-    "kind": "keyword",
-    "variants": [
-      "led"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "14causse",
-      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
       "59gilbert"
     ],
     "status": "discovered"
@@ -4832,71 +5573,32 @@
     "variants": [
       "little"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "15sikahema",
       "18douglas",
       "19christofferson",
+      "22farnes",
+      "23chigbundu",
+      "27kearon",
       "48schmeil"
     ],
     "status": "discovered"
   },
   {
-    "term": "mine",
+    "term": "maybe",
     "kind": "keyword",
     "variants": [
-      "mine"
+      "maybe"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "13runia",
-      "14causse",
       "15sikahema",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "neighbor",
-    "kind": "keyword",
-    "variants": [
-      "neighbor"
-    ],
-    "mentions": 4,
-    "talks": [
-      "13runia",
-      "14causse",
+      "18douglas",
       "19christofferson",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "next",
-    "kind": "keyword",
-    "variants": [
-      "next"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "13runia",
-      "14causse",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "perhaps",
-    "kind": "keyword",
-    "variants": [
-      "perhaps"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "15sikahema",
-      "19christofferson",
+      "210rasband",
+      "26fale",
       "59gilbert"
     ],
     "status": "discovered"
@@ -4907,87 +5609,383 @@
     "variants": [
       "person"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "12gong",
       "19christofferson",
+      "210rasband",
+      "21renlund",
+      "22farnes",
       "510oaks",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "physical",
+    "term": "relationship",
     "kind": "keyword",
     "variants": [
-      "physical"
+      "relationship"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
       "12gong",
-      "17soares",
-      "18douglas",
+      "14causse",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "26fale",
       "48schmeil"
     ],
     "status": "discovered"
   },
   {
-    "term": "principles",
+    "term": "returned",
     "kind": "keyword",
     "variants": [
-      "principles"
+      "returned"
     ],
-    "mentions": 4,
+    "mentions": 8,
     "talks": [
+      "13runia",
       "14causse",
-      "17soares",
-      "510oaks",
+      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "210rasband",
+      "22farnes"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sin",
+    "kind": "keyword",
+    "variants": [
+      "sin"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "19christofferson",
+      "24giuffra",
+      "26fale",
+      "29eyring",
       "59gilbert"
     ],
     "status": "discovered"
   },
   {
-    "term": "prophet joseph smith",
+    "term": "third",
     "kind": "keyword",
     "variants": [
-      "prophet joseph smith"
+      "third"
     ],
-    "mentions": 4,
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "together",
+    "kind": "keyword",
+    "variants": [
+      "together"
+    ],
+    "mentions": 8,
+    "talks": [
+      "13runia",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "28dunn",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "father in heaven",
+    "kind": "keyword",
+    "variants": [
+      "father in heaven"
+    ],
+    "mentions": 7,
+    "talks": [
+      "13runia",
+      "210rasband",
+      "22farnes",
+      "23chigbundu",
+      "26fale",
+      "27kearon",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "given",
+    "kind": "keyword",
+    "variants": [
+      "given"
+    ],
+    "mentions": 7,
+    "talks": [
+      "16hathaway",
+      "18douglas",
+      "22farnes",
+      "24giuffra",
+      "25morgan",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "important",
+    "kind": "keyword",
+    "variants": [
+      "important"
+    ],
+    "mentions": 7,
+    "talks": [
+      "18douglas",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
+      "26fale",
+      "27kearon",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "journey",
+    "kind": "keyword",
+    "variants": [
+      "journey"
+    ],
+    "mentions": 7,
+    "talks": [
+      "15sikahema",
+      "17soares",
+      "210rasband",
+      "26fale",
+      "27kearon",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "led",
+    "kind": "keyword",
+    "variants": [
+      "led"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "14causse",
+      "19christofferson",
+      "21renlund",
+      "25morgan",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "o",
+    "kind": "keyword",
+    "variants": [
+      "o"
+    ],
+    "mentions": 7,
+    "talks": [
+      "15sikahema",
+      "16hathaway",
+      "19christofferson",
+      "210rasband",
+      "23chigbundu",
+      "25morgan",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "challenges",
+    "kind": "keyword",
+    "variants": [
+      "challenges"
+    ],
+    "mentions": 14,
+    "talks": [
+      "210rasband",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "house",
+    "kind": "keyword",
+    "variants": [
+      "house"
+    ],
+    "mentions": 14,
+    "talks": [
+      "12gong",
+      "19christofferson",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "apostles",
+    "kind": "keyword",
+    "variants": [
+      "apostles"
+    ],
+    "mentions": 13,
     "talks": [
       "12gong",
       "14causse",
       "15sikahema",
-      "17soares"
+      "210rasband",
+      "22farnes",
+      "26fale"
     ],
     "status": "discovered"
   },
   {
-    "term": "scriptures",
+    "term": "get",
     "kind": "keyword",
     "variants": [
-      "scriptures"
+      "get"
     ],
-    "mentions": 4,
+    "mentions": 13,
     "talks": [
-      "15sikahema",
-      "16hathaway",
-      "48schmeil",
+      "13runia",
+      "18douglas",
+      "22farnes",
+      "23chigbundu",
+      "28dunn",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "sins",
+    "term": "saints",
     "kind": "keyword",
     "variants": [
-      "sins"
+      "saints"
     ],
-    "mentions": 4,
+    "mentions": 13,
     "talks": [
       "14causse",
-      "18douglas",
-      "48schmeil",
-      "49oaks"
+      "15sikahema",
+      "19christofferson",
+      "25morgan",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ways",
+    "kind": "keyword",
+    "variants": [
+      "ways"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "14causse",
+      "23chigbundu",
+      "24giuffra",
+      "28dunn",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "death",
+    "kind": "keyword",
+    "variants": [
+      "death"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "16hathaway",
+      "21renlund",
+      "27kearon",
+      "29eyring",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "families",
+    "kind": "keyword",
+    "variants": [
+      "families"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "19christofferson",
+      "210rasband",
+      "24giuffra",
+      "26fale",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "near",
+    "kind": "keyword",
+    "variants": [
+      "near"
+    ],
+    "mentions": 12,
+    "talks": [
+      "15sikahema",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "29eyring",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "restored",
+    "kind": "keyword",
+    "variants": [
+      "restored"
+    ],
+    "mentions": 12,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "25morgan",
+      "26fale",
+      "49oaks",
+      "510oaks"
     ],
     "status": "discovered"
   },
@@ -4997,70 +5995,439 @@
     "variants": [
       "thy"
     ],
-    "mentions": 4,
+    "mentions": 12,
     "talks": [
       "13runia",
       "17soares",
       "19christofferson",
+      "210rasband",
+      "21renlund",
       "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
   {
-    "term": "understanding",
+    "term": "opportunity",
     "kind": "keyword",
     "variants": [
-      "understanding"
+      "opportunity"
     ],
-    "mentions": 4,
+    "mentions": 11,
     "talks": [
-      "12gong",
-      "13runia",
-      "16hathaway",
+      "18douglas",
+      "19christofferson",
+      "22farnes",
+      "24giuffra",
+      "27kearon",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prayers",
+    "kind": "keyword",
+    "variants": [
+      "prayers"
+    ],
+    "mentions": 11,
+    "talks": [
+      "210rasband",
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "28dunn",
       "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "uniquely",
+    "term": "priesthood",
     "kind": "keyword",
     "variants": [
-      "uniquely"
+      "priesthood"
     ],
-    "mentions": 4,
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "26fale",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "serving",
+    "kind": "keyword",
+    "variants": [
+      "serving"
+    ],
+    "mentions": 11,
+    "talks": [
+      "14causse",
+      "15sikahema",
+      "18douglas",
+      "210rasband",
+      "23chigbundu",
+      "24giuffra"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "conference",
+    "kind": "keyword",
+    "variants": [
+      "conference"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "210rasband",
+      "23chigbundu",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "especially",
+    "kind": "keyword",
+    "variants": [
+      "especially"
+    ],
+    "mentions": 10,
+    "talks": [
+      "19christofferson",
+      "21renlund",
+      "23chigbundu",
+      "26fale",
+      "28dunn",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "going",
+    "kind": "keyword",
+    "variants": [
+      "going"
+    ],
+    "mentions": 10,
+    "talks": [
+      "13runia",
+      "18douglas",
+      "210rasband",
+      "22farnes",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "latter",
+    "kind": "keyword",
+    "variants": [
+      "latter"
+    ],
+    "mentions": 10,
+    "talks": [
+      "15sikahema",
+      "17soares",
+      "19christofferson",
+      "25morgan",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "saw",
+    "kind": "keyword",
+    "variants": [
+      "saw"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "15sikahema",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "throughout",
+    "kind": "keyword",
+    "variants": [
+      "throughout"
+    ],
+    "mentions": 10,
+    "talks": [
+      "14causse",
+      "17soares",
+      "21renlund",
+      "23chigbundu",
+      "24giuffra",
+      "29eyring"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "beloved",
+    "kind": "keyword",
+    "variants": [
+      "beloved"
+    ],
+    "mentions": 9,
+    "talks": [
+      "15sikahema",
+      "17soares",
+      "210rasband",
+      "23chigbundu",
+      "26fale",
+      "27kearon"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "died",
+    "kind": "keyword",
+    "variants": [
+      "died"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "16hathaway",
+      "19christofferson",
+      "21renlund",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "done",
+    "kind": "keyword",
+    "variants": [
+      "done"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "17soares",
+      "21renlund",
+      "26fale",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "learning",
+    "kind": "keyword",
+    "variants": [
+      "learning"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "19christofferson",
+      "21renlund",
+      "27kearon",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "provide",
+    "kind": "keyword",
+    "variants": [
+      "provide"
+    ],
+    "mentions": 9,
+    "talks": [
+      "23chigbundu",
+      "24giuffra",
+      "25morgan",
+      "26fale",
+      "29eyring",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "purpose",
+    "kind": "keyword",
+    "variants": [
+      "purpose"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "17soares",
+      "18douglas",
+      "23chigbundu",
+      "24giuffra",
+      "26fale"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "simply",
+    "kind": "keyword",
+    "variants": [
+      "simply"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "14causse",
+      "19christofferson",
+      "27kearon",
+      "28dunn",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "standing",
+    "kind": "keyword",
+    "variants": [
+      "standing"
+    ],
+    "mentions": 9,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "19christofferson",
+      "21renlund",
+      "25morgan",
+      "26fale"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "among",
+    "kind": "keyword",
+    "variants": [
+      "among"
+    ],
+    "mentions": 8,
+    "talks": [
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "19christofferson",
+      "21renlund",
+      "28dunn"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "became",
+    "kind": "keyword",
+    "variants": [
+      "became"
+    ],
+    "mentions": 8,
+    "talks": [
+      "14causse",
+      "18douglas",
+      "210rasband",
+      "21renlund",
+      "22farnes",
+      "24giuffra"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "everything",
+    "kind": "keyword",
+    "variants": [
+      "everything"
+    ],
+    "mentions": 8,
     "talks": [
       "12gong",
       "13runia",
       "14causse",
-      "18douglas"
+      "16hathaway",
+      "24giuffra",
+      "28dunn"
     ],
     "status": "discovered"
   },
   {
-    "term": "apostle",
+    "term": "grateful",
     "kind": "keyword",
     "variants": [
-      "apostle"
+      "grateful"
     ],
-    "mentions": 12,
+    "mentions": 8,
     "talks": [
+      "12gong",
       "14causse",
       "15sikahema",
-      "19christofferson"
+      "25morgan",
+      "29eyring",
+      "49oaks"
     ],
     "status": "discovered"
   },
   {
-    "term": "prophets",
+    "term": "kingdom",
     "kind": "keyword",
     "variants": [
-      "prophets"
+      "kingdom"
     ],
-    "mentions": 12,
+    "mentions": 8,
     "talks": [
+      "12gong",
+      "15sikahema",
+      "17soares",
+      "18douglas",
+      "21renlund",
+      "24giuffra"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "precious",
+    "kind": "keyword",
+    "variants": [
+      "precious"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
       "14causse",
       "15sikahema",
-      "18douglas"
+      "19christofferson",
+      "21renlund",
+      "26fale"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prepared",
+    "kind": "keyword",
+    "variants": [
+      "prepared"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "14causse",
+      "17soares",
+      "18douglas",
+      "29eyring",
+      "48schmeil"
     ],
     "status": "discovered"
   }

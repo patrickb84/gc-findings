@@ -1,0 +1,883 @@
+{
+  "id": "26fale",
+  "kind": "talk",
+  "speaker": "Hutch U. Fale",
+  "role": "Of the Seventy",
+  "title": "I Am a Child of God",
+  "session": "Saturday Afternoon Session",
+  "order": 14,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/26fale?lang=eng",
+  "pronouns": {
+    "i": 26,
+    "we": 72,
+    "you": 31
+  },
+  "summary": "Elder Fale teaches that each of us is a child of God whose love we did not earn and cannot lose, and that families are the pattern God uses to teach that love. He tells of showing his children their baby pictures and asking what they had done to earn their parents’ love, then warns that God’s love does not mean salvation without repentance, ordinances and covenants. He gives three reasons knowing the Father’s love matters and asks that the truth that we are God’s children never leave our hearts and change us forever.",
+  "audience": {
+    "who": "All members and all people, with an aside to those without a loving family"
+  },
+  "arc": [
+    "principle",
+    "quote",
+    "testimony",
+    "principle",
+    "story",
+    "promise",
+    "principle",
+    "invitation",
+    "list",
+    "promise",
+    "invitation",
+    "principle",
+    "story",
+    "scripture",
+    "testimony",
+    "invitation"
+  ],
+  "orientation": {
+    "past": 0.2,
+    "present": 0.55,
+    "future": 0.25
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "John 3:16",
+      "basis": "exact",
+      "ref": "John 3:16",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Nephi 13:26–29",
+      "basis": "exact",
+      "ref": "1 Nephi 13:26–29",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Matthew 1–2",
+      "basis": "exact",
+      "ref": "Matthew 1–2",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "1 Nephi 1–18",
+      "basis": "exact",
+      "ref": "1 Nephi 1–18",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Genesis 1–2",
+      "basis": "exact",
+      "ref": "Genesis 1–2",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "2 Nephi 28",
+      "basis": "exact",
+      "ref": "2 Nephi 28",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "7–9",
+      "basis": "exact",
+      "ref": "2 Nephi 28:7–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "24–32",
+      "basis": "exact",
+      "ref": "2 Nephi 28:24–32",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Moses 6:57",
+      "basis": "exact",
+      "ref": "Moses 6:57",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Moses 1:39",
+      "basis": "exact",
+      "ref": "Moses 1:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Matthew 6:9–13",
+      "basis": "exact",
+      "ref": "Matthew 6:9–13",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Matthew 7:9–11",
+      "basis": "exact",
+      "ref": "Matthew 7:9–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 93:21",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 93:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 93:11",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 93:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 93:13",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 93:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 93:19",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 93:19",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "“I know that God the Father lives. He loves us” (Henry B. Eyring, “Prayers for Peace,” Liahona, May 2026, 28).",
+      "basis": "exact",
+      "ref": "Prayers for Peace"
+    },
+    {
+      "id": "x-n2",
+      "type": "source",
+      "quote": "“I bear witness of this truth: God and His Son, Jesus Christ, love all—and They love each” (Gérald Caussé, “Love All; Love Each,” Liahona, May 2026, 45).",
+      "basis": "exact",
+      "ref": "Love All; Love Each"
+    },
+    {
+      "id": "x-n3",
+      "type": "source",
+      "quote": "“The Family: A Proclamation to the World,” Gospel Library.",
+      "basis": "exact",
+      "ref": "The Family: A Proclamation to the World"
+    },
+    {
+      "id": "x-n5",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Choices for Eternity” (worldwide devotional for young adults, May 15, 2022), Gospel Library.",
+      "basis": "exact",
+      "ref": "Choices for Eternity",
+      "note": "Cites President Russell M. Nelson's young adult devotional on identity",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n6",
+      "type": "prophet",
+      "quote": "“Our relationship to God and the purpose of our mortal life are explained in terms of the family” (Dallin H. Oaks, “The Family-Centered Gospel of Jesus Christ,” Liahona, Nov. 2025, 121).",
+      "basis": "exact",
+      "ref": "The Family-Centered Gospel of Jesus Christ",
+      "note": "Quotes President Oaks: our relationship to God is explained in terms of the family",
+      "detail": {
+        "source": "The Family-Centered Gospel of Jesus Christ, Oct. 2025"
+      }
+    },
+    {
+      "id": "x-n10",
+      "type": "prophet",
+      "quote": "See Dallin H. Oaks, “Divine Love in the Father’s Plan,” Liahona, May 2022, 102–3.",
+      "basis": "exact",
+      "ref": "Divine Love in the Father’s Plan",
+      "note": "Cites President Oaks on divine love and its conditions",
+      "detail": {
+        "source": "Divine Love in the Father’s Plan, Apr. 2022"
+      }
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "See Clark G. Gilbert, “Come Home,” Liahona, May 2026, 15–17.",
+      "basis": "exact",
+      "ref": "Come Home"
+    },
+    {
+      "id": "x-n13",
+      "type": "source",
+      "quote": "“All who live or ever have lived who come unto Christ and live His gospel will feel joy beyond any earthly expression as we reunite, resurrected, with our Father in Heaven and Jesus Christ and with our parents, grandparents, siblings, aunts, uncles, cousins, and ancestors” (Ronald A. Rasband, “He Is Risen,” Liahona, May 2026, 75). Part of God’s comfort in letting us leave our heavenly home may be that His children are not left alone. They are sent to the earth with support from “parents, family, leaders, friends, ministering brothers and sisters[;] you and I [are] stewards of His [children, His] most precious possessions” (Gary E. Stevenson, “Lost Luggage, Redeemed Souls,” Liahona, May 2026, 33).",
+      "basis": "exact",
+      "ref": "He Is Risen"
+    },
+    {
+      "id": "x-n14",
+      "type": "prophet",
+      "quote": "“We can truly say that the gospel plan was first taught to us in the council of an eternal family, it is implemented through our mortal families, and its intended destiny is to exalt the children of God in eternal families” (Dallin H. Oaks, “The Family-Centered Gospel of Jesus Christ,” 121).",
+      "basis": "exact",
+      "ref": "The Family-Centered Gospel of Jesus Christ",
+      "note": "Quotes President Oaks: the gospel plan was taught in an eternal family and destined to exalt eternal families",
+      "detail": {
+        "source": "The Family-Centered Gospel of Jesus Christ, Oct. 2025"
+      }
+    },
+    {
+      "id": "x-n15",
+      "type": "source",
+      "quote": "“Every true disciple of Jesus Christ, if it is his or her desire, will be eternally sealed to a righteous companion of his or her choosing throughout eternity, whether in this life or the next” (Neil L. Andersen, “Eternal Marriage Is an Eternal Journey,” Liahona, May 2026, 103).",
+      "basis": "exact",
+      "ref": "Eternal Marriage Is an Eternal Journey"
+    },
+    {
+      "id": "x-n17",
+      "type": "source",
+      "quote": "“Because God’s love is all-embracing, some speak of it as ‘unconditional,’ and in their minds they may project that thought to mean that God’s blessings are ‘unconditional’ and that salvation is ‘unconditional.’ They are not. Some are wont to say, ‘The Savior loves me just as I am,’ and that is certainly true. But He cannot take any of us into His kingdom just as we are, ‘for no unclean thing can dwell there, or dwell in his presence’ [Moses 6:57]. Our sins must first be resolved” (D. Todd Christofferson, “The Love of God,” Liahona, Nov. 2021, 16).",
+      "basis": "exact",
+      "ref": "The Love of God"
+    },
+    {
+      "id": "x-n18",
+      "type": "source",
+      "quote": "See D. Todd Christofferson, “The Love of God,” 16–18.",
+      "basis": "exact",
+      "ref": "The Love of God"
+    },
+    {
+      "id": "x-n19",
+      "type": "source",
+      "quote": "See D. Todd Christofferson, “The Character of Christ,” Liahona, May 2026, 90–92.",
+      "basis": "exact",
+      "ref": "The Character of Christ"
+    },
+    {
+      "id": "x-n20",
+      "type": "source",
+      "quote": "See Patrick Kearon, “About His Business,” Liahona, May 2026, 7–9.",
+      "basis": "exact",
+      "ref": "About His Business"
+    },
+    {
+      "id": "x-n21",
+      "type": "source",
+      "quote": "“I invite you to contemplate how you can: “Provide Christlike love, caring, and service. “Offer help and comfort in times of spiritual or temporal need. “Prayerfully seek the guidance of the Spirit. “Help prepare families to make and keep sacred covenants with God as they receive ordinances. “Consider your ministering assignment as ‘Christlike caring’ of the Lord’s most treasured possessions, who at the end of their mortal journey can be claimed and redeemed by Him” (Gary E. Stevenson, “Lost Luggage, Redeemed Souls,” 34).",
+      "basis": "exact",
+      "ref": "Lost Luggage, Redeemed Souls"
+    },
+    {
+      "id": "x-n22",
+      "type": "source",
+      "quote": "“Living the message of the risen Christ testifies of our devotion and love for our Savior. It may well be that our consistent, courageous, and humble acts of service and love for God and His children will speak far more eloquently and powerfully than we ever could through words alone” (Dieter F. Uchtdorf, “Encounter at the Empty Tomb,” Liahona, May 2026, 59).",
+      "basis": "exact",
+      "ref": "Encounter at the Empty Tomb"
+    },
+    {
+      "id": "x-n23",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Choices for Eternity.”",
+      "basis": "exact",
+      "ref": "Choices for Eternity",
+      "note": "Cites President Russell M. Nelson's Choices for Eternity again, on labels",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n24",
+      "type": "source",
+      "quote": "See Gerrit W. Gong, “’Tis Eastertide: No One Walks Alone,” Liahona, May 2026, 111–13; Gerrit W. Gong, “No One Sits Alone,” Liahona, Nov. 2025, 40–42.",
+      "basis": "exact",
+      "ref": "’Tis Eastertide: No One Walks Alone"
+    },
+    {
+      "id": "x-n25",
+      "type": "past_prophet",
+      "quote": "“If you feel you have strayed … too far or too long and have no way to return, that simply is not true” (Russell M. Nelson, “The Power of Spiritual Momentum,” Liahona, May 2022, 99). “It is neither too early nor too late for you to become a devout disciple of Jesus Christ. Then you will experience fully the blessings of His Atonement” (Russell M. Nelson, “The Lord Jesus Christ Will Come Again,” Liahona, Nov. 2024, 122).",
+      "basis": "exact",
+      "ref": "The Power of Spiritual Momentum",
+      "note": "Quotes President Russell M. Nelson twice: it is never too late to return",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n26",
+      "type": "source",
+      "quote": "“Jesus lived and died to do His Father’s will” (Dale G. Renlund, “Because of Jesus Christ,” Liahona, May 2026, 76; see also Moses 1:39).",
+      "basis": "exact",
+      "ref": "Because of Jesus Christ"
+    },
+    {
+      "id": "x-n27",
+      "type": "source",
+      "quote": "“It is my witness that His Atonement accomplished His Father’s plan of salvation and provides the way for everyone who has ever lived to be free of death unconditionally and free of sin on condition of repentance” (Quentin L. Cook, “Keys, Covenants, and Easter,” Liahona, May 2026, 105).",
+      "basis": "exact",
+      "ref": "Keys, Covenants, and Easter"
+    },
+    {
+      "id": "x-n30",
+      "type": "source",
+      "quote": "“The Redeemer ‘marked the path and led the way’ [“How Great the Wisdom and the Love,” Hymns, no. 195]. The power of His doctrine, covenants and ordinances, and example can bless us in every aspect of our lives. “The pattern of spiritual development evident in the Savior’s mortal life also applies to each of us. Jesus Christ was ‘in the beginning with the Father’ [Doctrine and Covenants 93:21]. So were we. “He ‘came and dwelt in the flesh’ [Doctrine and Covenants 93:11], and ‘he received not of the fulness at first, but [received and] continued … grace to grace, until he received a fulness’ [Doctrine and Covenants 93:13]. As children of God, we also can receive of His fulness ‘in due time’ [Doctrine and Covenants 93:19], following the same ‘grace for grace’ pattern as did the Savior” (David A. Bednar, “All Who Have Endured Valiantly,” Liahona, May 2026, 20).",
+      "basis": "exact",
+      "ref": "All Who Have Endured Valiantly"
+    },
+    {
+      "id": "x-n31",
+      "type": "source",
+      "quote": "“Abiding in Christ … is choosing to listen to His voice and the voice of His servants and following what they teach, above all the enticing voices of the world” (Ulisses Soares, “Jesus Christ—the True Vine,” Liahona, May 2026, 53).",
+      "basis": "exact",
+      "ref": "Jesus Christ—the True Vine"
+    },
+    {
+      "id": "x-n32",
+      "type": "source",
+      "quote": "See “The Living Christ: The Testimony of the Apostles,” Gospel Library.",
+      "basis": "exact",
+      "ref": "The Living Christ: The Testimony of the Apostles"
+    },
+    {
+      "id": "c-1",
+      "type": "testimony",
+      "quote": "I bear solemn witness of the reality of this “plain and precious” truth, powerful and simple.",
+      "basis": "exact",
+      "detail": {
+        "of": "we are spirit children of heavenly parents"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "It prevents deception and gives purpose to this mortal life.",
+      "basis": "interpreted",
+      "note": "Understanding our identity as God's children protects and gives purpose",
+      "detail": {
+        "blessing": "protection from deception and purpose in mortal life"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "image",
+      "quote": "The divine pattern of families teaches us of our Father’s love and our relationship to Him.",
+      "basis": "interpreted",
+      "note": "The family as the template for understanding God",
+      "detail": {
+        "image": "family",
+        "family": "other",
+        "carries": "earthly families picture God's love and our relationship to Him"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "list",
+      "quote": "Holy scriptures also teach us in terms of the family.",
+      "basis": "interpreted",
+      "note": "Each book of scripture opens with a family",
+      "detail": {
+        "count": "3",
+        "items": [
+          "New Testament: a young family and a baby in Bethlehem",
+          "Book of Mormon: a family's journey of faith",
+          "Old Testament: Creation completed with a family"
+        ],
+        "purpose": "show that scripture teaches in terms of the family"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "place",
+      "quote": "a baby born in Bethlehem",
+      "basis": "exact",
+      "detail": {
+        "place": "Bethlehem",
+        "country": "ancient Judea"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "story",
+      "quote": "So, in a text, I asked my wife to find a baby picture of each of our children.",
+      "basis": "interpreted",
+      "note": "Prompted in a Church meeting, he shows his children their baby pictures and asks what they did to earn their parents' love",
+      "detail": {
+        "story_type": "family",
+        "about": "baby pictures and love that was never earned"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "relationship",
+      "quote": "I asked my wife",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "relationship",
+      "quote": "At this time, we had three children at home and two serving missions.",
+      "basis": "exact",
+      "detail": {
+        "who": "five children, two then serving missions",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "image",
+      "quote": "“As of the date of this picture, what had you done to earn our love?”",
+      "basis": "interpreted",
+      "note": "A baby picture as proof that love came before any deed",
+      "detail": {
+        "image": "baby picture",
+        "family": "other",
+        "carries": "God's love is not earned"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "source",
+      "quote": "They lowered their eyes and said, “Nothing.”",
+      "basis": "exact",
+      "detail": {
+        "who": "his children"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "You did not earn it; you cannot lose it. It is yours forever.",
+      "basis": "interpreted",
+      "note": "A parent's unearned love, then likened to the Father's",
+      "detail": {
+        "blessing": "a love that cannot be lost"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "He loved you before you were born, He loves you today, and He will love you tomorrow.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "before you were born",
+          "today",
+          "tomorrow"
+        ],
+        "purpose": "God's love across past, present and future"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "the strength and the humility to come home when you need to",
+      "basis": "interpreted",
+      "note": "Coming home to parents pictures turning back to God",
+      "detail": {
+        "image": "home",
+        "family": "building",
+        "carries": "we can always return to the Father"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "promise",
+      "quote": "no matter what has happened, you can always come home, just as you can always turn to your Father in Heaven",
+      "basis": "exact",
+      "detail": {
+        "blessing": "the way home to the Father is always open"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "a special love for siblings, parents, spouse, aunts, uncles, a grandparent you never met before",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "siblings",
+          "parents",
+          "spouse",
+          "aunts",
+          "uncles",
+          "a grandparent you never met"
+        ],
+        "purpose": "family loves that can teach the Father's love besides children"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "promise",
+      "quote": "knowing that our Heavenly Father loves us can provide power, peace, and comfort",
+      "basis": "exact",
+      "detail": {
+        "blessing": "power, peace and comfort even without a loving earthly family"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "promise",
+      "quote": "the eternal blessings that await all who make and keep sacred covenants—including all the blessings of an eternal family",
+      "basis": "exact",
+      "paired_with": "c-19",
+      "detail": {
+        "blessing": "all the blessings of an eternal family"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "invitation",
+      "quote": "Beware of the adversary’s deceitful lie that twists this precious truth.",
+      "basis": "exact",
+      "detail": {
+        "action": "beware the lie that God's love saves without repentance"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "invitation",
+      "quote": "Receiving Christ through priesthood ordinances and covenants, and then being faithful to those covenants, is the only way for us to fully understand His love and the only way to exaltation.",
+      "basis": "interpreted",
+      "note": "Doctrinal statement read as a call to receive ordinances and keep covenants",
+      "detail": {
+        "action": "receive ordinances and stay faithful to covenants"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "revelation",
+      "quote": "He tries to deceive God’s children into believing that because God loves us",
+      "basis": "interpreted",
+      "note": "Reads as an apostolic-style warning against treating God's love as unconditional salvation",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "we can be saved regardless of our pride, regardless of our rebellion, regardless of our sins, and regardless of our rejection of His Son and His Son’s servants",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "pride",
+          "rebellion",
+          "sins",
+          "rejection of His Son and His Son's servants"
+        ],
+        "purpose": "what the adversary's lie says love overlooks"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "list",
+      "quote": "Knowing and understanding our Father’s love is important for many reasons. I will share just three.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "it helps us better understand Jesus Christ",
+          "it makes us immune to the world's labels",
+          "it protects us from the lie that it is too late"
+        ],
+        "purpose": "why knowing the Father's love matters"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "invitation",
+      "quote": "This understanding makes us eager to quickly and wholeheartedly join Him in His Father’s work.",
+      "basis": "interpreted",
+      "note": "Soft invitation: join Christ in the Father's work",
+      "detail": {
+        "action": "join Christ in His Father's work"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "promise",
+      "quote": "As we are anxiously engaged in this work, we are able to become more like Him.",
+      "basis": "exact",
+      "paired_with": "c-23",
+      "detail": {
+        "blessing": "becoming more like Christ"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "promise",
+      "quote": "we become immune to the divisive and misleading labels of our fallen world",
+      "basis": "exact",
+      "detail": {
+        "blessing": "immunity to the labels the world puts on us and on others"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "promise",
+      "quote": "We become quick to repent, slow to judge, and ever hopeful that the best is yet before us.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "quick repentance, slow judgment, hope"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "invitation",
+      "quote": "We are forever willing to love and to make sure that no one is ever sitting, standing, or walking alone.",
+      "basis": "interpreted",
+      "note": "Described as a result, read as a call to make sure no one is alone (echoes Elder Gong)",
+      "detail": {
+        "action": "make sure no one sits, stands or walks alone"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "promise",
+      "quote": "understanding our Father’s love protects us from the pernicious lie that it is too late for someone to change",
+      "basis": "exact",
+      "detail": {
+        "blessing": "protection from the lie that it is too late"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "list",
+      "quote": "too late for someone to change, too late for someone to turn to Christ, and too late to receive His redeeming grace",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "too late to change",
+          "too late to turn to Christ",
+          "too late to receive His grace"
+        ],
+        "purpose": "the three forms of the 'too late' lie"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "From the prodigal son",
+      "basis": "interpreted",
+      "note": "The parable of the son who comes home",
+      "detail": {
+        "image": "prodigal son",
+        "family": "other",
+        "carries": "it is never too late to return"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "leaving the 99 sheep to find the one",
+      "basis": "interpreted",
+      "note": "The parable of the lost sheep",
+      "detail": {
+        "image": "lost sheep",
+        "family": "other",
+        "carries": "God seeks each one who is lost"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "invitation",
+      "quote": "there is still yet time if we turn to Christ today",
+      "basis": "interpreted",
+      "note": "Implied call to turn to Christ now",
+      "detail": {
+        "action": "turn to Christ today"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "christ",
+      "quote": "He taught us to pray to “our Father.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 6:9"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "a loving Heavenly Father who gives better gifts to His children than any other earthly father gives to his",
+      "basis": "interpreted",
+      "note": "From the Sermon on the Mount's bread and stone",
+      "detail": {
+        "image": "gifts",
+        "family": "other",
+        "carries": "the Father gives better than any earthly father"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "list",
+      "quote": "through His premortal, mortal, and current ministry",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "premortal",
+          "mortal",
+          "current"
+        ],
+        "purpose": "Christ's ministries that all point to the Father's love"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "Today Christ shows us our Father’s love through priesthood keys held by living prophets and apostles.",
+      "basis": "interpreted",
+      "note": "Keys open access to ordinances",
+      "detail": {
+        "image": "keys",
+        "family": "other",
+        "carries": "living prophets open the way to ordinances that lead home"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "name_of_christ",
+      "quote": "the resurrected Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "the resurrected Christ"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "story",
+      "quote": "when I was a young boy riding from Nuku‘alofa to my home village of Mu‘a",
+      "basis": "interpreted",
+      "note": "As a boy in Tonga he read John 3:16 in several languages in a Gideons pocket New Testament and first felt the witness",
+      "detail": {
+        "story_type": "personal",
+        "about": "first witness of God's love from John 3:16 as a boy"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "place",
+      "quote": "Nuku‘alofa",
+      "basis": "exact",
+      "detail": {
+        "place": "Nuku‘alofa",
+        "country": "Tonga"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "place",
+      "quote": "my home village of Mu‘a",
+      "basis": "exact",
+      "detail": {
+        "place": "Mu‘a",
+        "country": "Tonga"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "source",
+      "quote": "Distributed by the Gideons International, it was a pocket-sized copy of the New Testament",
+      "basis": "exact",
+      "detail": {
+        "who": "the Gideons International"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "name_of_christ",
+      "quote": "his only begotten Son",
+      "basis": "exact",
+      "detail": {
+        "name": "only begotten Son"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "testimony",
+      "quote": "I knew this was true then, and I know it is true now.",
+      "basis": "exact",
+      "detail": {
+        "of": "John 3:16: God so loved the world He gave His Son"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "testimony",
+      "quote": "Jesus is the Christ. He, His restored Church, and the divine pattern of families stand as witnesses of our Father’s love.",
+      "basis": "exact",
+      "detail": {
+        "of": "Jesus is the Christ; His Church and families witness the Father's love"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "name_of_christ",
+      "quote": "Jesus is the Christ.",
+      "basis": "exact",
+      "detail": {
+        "name": "the Christ"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "testimony",
+      "quote": "I, Hutch ‘Ungapapalangi Fale, am a child of God. He loves me and He loves you.",
+      "basis": "exact",
+      "detail": {
+        "of": "he and every listener are loved children of God"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "invitation",
+      "quote": "May this truth never leave our minds or our hearts, and may it change us forever.",
+      "basis": "interpreted",
+      "note": "Closing prayer-wish read as a call to keep this truth central",
+      "detail": {
+        "action": "keep the truth that we are God's children in mind and heart"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "testimony",
+      "quote": "God’s love is real, and Jesus Christ is evidence of that love.",
+      "basis": "exact",
+      "detail": {
+        "of": "the reality of God's love, shown in Christ"
+      }
+    }
+  ]
+}

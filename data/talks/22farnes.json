@@ -1,0 +1,597 @@
+{
+  "id": "22farnes",
+  "kind": "talk",
+  "speaker": "Timothy L. Farnes",
+  "role": "Young Men General President",
+  "title": "Divine Appointments",
+  "session": "Saturday Afternoon Session",
+  "order": 10,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/22farnes?lang=eng",
+  "pronouns": {
+    "i": 78,
+    "we": 54,
+    "you": 7
+  },
+  "summary": "Elder Farnes teaches that covenant followers of Jesus Christ minister with compassion to whoever God places in their path, and that this everyday ministering is how we keep the covenant we renew at the sacrament. He tells of a discouraged day when Elder Dallin H. Oaks stopped him in a temple dressing room to ask how he was really doing, then years later did not remember it and said 'it's what we do,' and of helping a terrified new missionary through an airport. He asks everyone to pray daily for eyes to see these 'divine appointments' and to put compassion into action.",
+  "audience": {
+    "who": "All members, with footnotes aimed at youth and Aaronic Priesthood holders",
+    "quote": "Brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "quote",
+    "principle",
+    "promise",
+    "principle",
+    "scripture",
+    "principle",
+    "promise",
+    "story",
+    "invitation"
+  ],
+  "orientation": {
+    "past": 0.4,
+    "present": 0.5,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Moroni 4:3",
+      "basis": "exact",
+      "ref": "Moroni 4:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:77",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:77",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Matthew 25:34–40",
+      "basis": "exact",
+      "ref": "Matthew 25:34–40",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Mosiah 2:17",
+      "basis": "exact",
+      "ref": "Mosiah 2:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Luke 10:25",
+      "basis": "exact",
+      "ref": "Luke 10:25",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Luke 10:23–24",
+      "basis": "exact",
+      "ref": "Luke 10:23–24",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Luke 10:30–35",
+      "basis": "exact",
+      "ref": "Luke 10:30–35",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Mark 5:25–34",
+      "basis": "exact",
+      "ref": "Mark 5:25–34",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Luke 7:36–50",
+      "basis": "exact",
+      "ref": "Luke 7:36–50",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "John 4:5–26",
+      "basis": "exact",
+      "ref": "John 4:5–26",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "5:1–17",
+      "basis": "exact",
+      "ref": "John 5:1–17",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "8:1–11",
+      "basis": "exact",
+      "ref": "John 8:1–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "3 Nephi 17:1–9",
+      "basis": "exact",
+      "ref": "3 Nephi 17:1–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "James 2:17",
+      "basis": "exact",
+      "ref": "James 2:17",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "“Find ways to serve and minister to others, including your family, your friends, and your community” (For the Strength of Youth: A Guide for Making Choices [2025], 15).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth: A Guide for Making Choices"
+    },
+    {
+      "id": "x-n2",
+      "type": "source",
+      "quote": "“Let your covenants guide your actions. When you have a choice to make, remember your covenant relationship with God. Be loyal to Him. Ask yourself: Does this align with my covenants? For example, do I love and minister to others, comfort people who need comfort, and stand as a witness of Christ—everywhere and always?” (For the Strength of Youth, 36).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n3",
+      "type": "source",
+      "quote": "See Moroni 4:3; Doctrine and Covenants 20:77; For the Strength of Youth, 35. I hope that each Aaronic Priesthood holder can see what an important service they are performing when they administer the sacrament, to help us receive that sacred power in our lives. It is such a simple ordinance, and yet the blessings of that covenant extend indefinitely, to multitudes of God’s children.",
+      "basis": "exact",
+      "ref": "For the Strength of Youth",
+      "note": "Mostly Farnes's own aside to Aaronic Priesthood holders about administering the sacrament",
+      "detail": {
+        "who": "For the Strength of Youth (with Farnes's own aside)"
+      }
+    },
+    {
+      "id": "x-n4",
+      "type": "source",
+      "quote": "“Love your neighbor. And who is your neighbor? Everyone! … “… Reach out to those who may feel lonely, isolated, or helpless. Help them feel Heavenly Father’s love through you” (For the Strength of Youth, 29, 30).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "“[A] promise connected to baptism and the sacrament is the constant companionship of [the Lord’s] Spirit and the ministering of angels. You never have to face your challenges alone. God never abandons His covenant children—you can count on that” (For the Strength of Youth, 36–37).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "“Heavenly Father does not expect you to do this work on your own. He is with you. When you humbly offer your time and heart, He will do amazing things through you. Jesus Christ is your strength!” (For the Strength of Youth, 16).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "See Matthew 25:34–40; Mosiah 2:17. Often, during the sacrament, we think about how we did at keeping the commandments during the previous week. That kind of self-reflection can be good. But a covenant doesn’t just look back; it looks forward. It’s not so much about what we’ve done in the past; it’s more about what we’re willing to do in the future—in Christ’s name and with His help. (See Patrick Kearon, “Welcome to the Church of Joy,” Liahona, Nov. 2024, 37.)",
+      "basis": "exact",
+      "ref": "Welcome to the Church of Joy",
+      "note": "Farnes's own aside that the sacrament covenant looks forward, pointing to Elder Patrick Kearon",
+      "detail": {
+        "who": "Patrick Kearon"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "“Act on spiritual impressions you receive. If you have a thought or impression to do something kind that will bless someone, do it! All good things come from God. Show your Heavenly Father that He can trust you to follow impressions from Him” (For the Strength of Youth, 12).",
+      "basis": "exact",
+      "ref": "For the Strength of Youth"
+    },
+    {
+      "id": "x-n12",
+      "type": "past_prophet",
+      "quote": "We often think of compassion as something we feel, but for Christ, it was something He did. Like faith, compassion gets life from our actions (see James 2:17). As President Russell M. Nelson said, “One of the easiest ways to identify a true follower of Jesus Christ is how compassionately that person treats other people” (“Peacemakers Needed,” Liahona, May 2023, 98).",
+      "basis": "exact",
+      "ref": "Peacemakers Needed",
+      "note": "Cites President Russell M. Nelson on compassion as the mark of a true follower",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "let us pray every day for eyes to see the divine appointments God places before us!",
+      "basis": "exact",
+      "detail": {
+        "action": "pray daily for eyes to see divine appointments"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Let us put compassion into action and minister to the person in front of us.",
+      "basis": "exact",
+      "detail": {
+        "action": "act on compassion and minister to the person in front of you"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "When we use them, we begin to recognize divine appointments all around us.",
+      "basis": "interpreted",
+      "note": "Using our God-given eyes brings recognition of divine appointments; answers the call to pray for eyes to see",
+      "detail": {
+        "blessing": "recognizing divine appointments all around us"
+      },
+      "paired_with": "c-1"
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "Our promise of willingness is met by the Lord’s promise that we can always have His Spirit with us.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "always having His Spirit with us"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "With that gift, we can minister as the Savior would, with His power and His loving kindness.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "ministering with the Savior's power and loving kindness"
+      },
+      "paired_with": "c-2"
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "What once looked like random encounters become invitations from the Lord to minister with compassion.",
+      "basis": "interpreted",
+      "note": "Seeing with spiritual eyes turns chance encounters into the Lord's invitations",
+      "detail": {
+        "blessing": "ordinary encounters become invitations from the Lord"
+      },
+      "paired_with": "c-1"
+    },
+    {
+      "id": "c-7",
+      "type": "list",
+      "quote": "His kindness, His patience, His hope, His love, His compassion.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "kindness",
+          "patience",
+          "hope",
+          "love",
+          "compassion"
+        ],
+        "purpose": "what others should experience of Christ when they encounter us"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "list",
+      "quote": "we choose to see as He sees, feel as He feels, and do as He would do.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "see as He sees",
+          "feel as He feels",
+          "do as He would do"
+        ],
+        "purpose": "what taking His name upon us means"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "list",
+      "quote": "Seeing awakened compassion. Compassion moved him to act. And his actions changed a life forever.",
+      "basis": "interpreted",
+      "note": "The Good Samaritan's pattern as three steps: see, feel compassion, act",
+      "detail": {
+        "count": "3",
+        "items": [
+          "seeing",
+          "compassion",
+          "action"
+        ],
+        "purpose": "the pattern of a divine appointment"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "All we had to do was see the person God had placed in our path, look with compassion rather than judgment, and then act.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "see the person God placed in our path",
+          "look with compassion rather than judgment",
+          "act"
+        ],
+        "purpose": "the same pattern applied to the airport story"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "extraordinary moments of healing, encouragement, and transformation",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "healing",
+          "encouragement",
+          "transformation"
+        ],
+        "purpose": "what the Savior made of ordinary encounters"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "We had five young children, a business to run, and a full day of Church meetings",
+      "basis": "interpreted",
+      "note": "The demands that left him unsure he had enough to give",
+      "detail": {
+        "count": "3",
+        "items": [
+          "five young children",
+          "a business",
+          "a full day of Church meetings"
+        ],
+        "purpose": "how stretched he was"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "story",
+      "quote": "I’ll never forget a Saturday almost 20 years ago. I had just been called into a stake presidency and hadn’t yet been released as bishop.",
+      "basis": "interpreted",
+      "note": "Discouraged after a meeting, he went to the temple only at his wife's urging and was ministered to by Elder Oaks",
+      "detail": {
+        "story_type": "personal",
+        "about": "Elder Oaks asks a discouraged young leader how he is really doing"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "Five years later, my wife and I were invited to meet with Elder Oaks in his office.",
+      "basis": "interpreted",
+      "note": "Elder Oaks did not remember the encounter and said it is simply what we do",
+      "detail": {
+        "story_type": "personal",
+        "about": "Elder Oaks does not remember his act of compassion"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "story",
+      "quote": "A few years ago, my wife and I were waiting to board a flight for a much-needed vacation.",
+      "basis": "interpreted",
+      "note": "He nearly ignores a frightened new missionary, then helps him; the only empty seat is next to him",
+      "detail": {
+        "story_type": "missionary",
+        "about": "helping a terrified new missionary on his first flight"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "In the story, a traveler lay wounded on the road to Jericho.",
+      "basis": "interpreted",
+      "note": "The Good Samaritan retold as a divine appointment",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the Good Samaritan"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "relationship",
+      "quote": "Linsey wisely responded",
+      "basis": "exact",
+      "detail": {
+        "who": "wife, Linsey",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "We had five young children",
+      "basis": "exact",
+      "detail": {
+        "who": "five children",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "we anxiously watched for our missionary friend",
+      "basis": "interpreted",
+      "note": "A stranger who became a friend in one afternoon",
+      "detail": {
+        "who": "a new missionary met at the airport",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "prophet",
+      "quote": "It was Elder Dallin H. Oaks.",
+      "basis": "exact",
+      "detail": {
+        "source": "temple dressing-room encounter, almost 20 years ago"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "prophet",
+      "quote": "He said, “Brother, tell me how you are really doing.”",
+      "basis": "exact",
+      "detail": {
+        "source": "temple dressing-room encounter"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "prophet",
+      "quote": "Elder Oaks responded, “I’m sorry, brother. I don’t remember that.” Then, sensing my disappointment, he added, “But it’s what we do. Isn’t it?”",
+      "basis": "exact",
+      "detail": {
+        "source": "meeting in Elder Oaks's office five years later"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "prophet",
+      "quote": "It’s what His prophet does.",
+      "basis": "interpreted",
+      "note": "Points to President Oaks, now the prophet, as the model of compassionate ministering",
+      "detail": {
+        "source": "Farnes on President Oaks"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "source",
+      "quote": "Linsey wisely responded, “No, I think you need to be in the temple. We’ll talk after.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Linsey Farnes, his wife"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "source",
+      "quote": "When Jesus was asked, “What shall I do to inherit eternal life?”",
+      "basis": "exact",
+      "detail": {
+        "who": "the lawyer in Luke 10"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "christ",
+      "quote": "“Blessed are the eyes which see the things that ye see: for I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them;",
+      "basis": "exact",
+      "detail": {
+        "where": "Luke 10:23–24"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "God has given us eyes to see.",
+      "basis": "interpreted",
+      "note": "The talk's governing image: eyes that notice people",
+      "detail": {
+        "image": "eyes",
+        "family": "body",
+        "carries": "noticing the people God puts before us"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "Often this happens when God places someone in our path and we have eyes to see them.",
+      "basis": "interpreted",
+      "note": "Life as a path where God places people",
+      "detail": {
+        "image": "path",
+        "family": "path",
+        "carries": "the people we meet are placed there by God"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "I call these “divine appointments.”",
+      "basis": "interpreted",
+      "note": "Chance encounters recast as appointments God has scheduled",
+      "detail": {
+        "image": "appointment",
+        "family": "other",
+        "carries": "encounters are arranged by God, not random"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "His life should be reflected in ours.",
+      "basis": "interpreted",
+      "note": "Our lives as a reflection of Christ's",
+      "detail": {
+        "image": "reflection",
+        "family": "light",
+        "carries": "others should see Christ in us"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "Clutched in his hands were his boarding pass and a digital alarm clock.",
+      "basis": "interpreted",
+      "note": "The clock the missionary clutched is the visible sign of his fear, and returns as he boards",
+      "detail": {
+        "image": "alarm clock",
+        "family": "other",
+        "carries": "anxiety that others can see if they look"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "place",
+      "quote": "the road to Jericho",
+      "basis": "exact",
+      "detail": {
+        "place": "Jericho",
+        "country": "West Bank"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "name_of_christ",
+      "quote": "the name of His Son, Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "His Son"
+      }
+    }
+  ]
+}

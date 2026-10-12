@@ -1,0 +1,656 @@
+{
+  "id": "29eyring",
+  "kind": "talk",
+  "speaker": "Matthew J. Eyring",
+  "role": "Of the Seventy",
+  "title": "Comfort from the Holy Ghost",
+  "session": "Saturday Afternoon Session",
+  "order": 17,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/29eyring?lang=eng",
+  "pronouns": {
+    "i": 16,
+    "we": 71,
+    "you": 14
+  },
+  "summary": "Elder Matthew J. Eyring teaches that everyone sooner or later meets burdens they cannot carry or fix alone, and that Jesus Christ comforts us through the Holy Ghost and has already prepared our rescue from death and sin. He tells of a friend whose married son died suddenly, and of a dinner with a young couple who, like him and his wife, lost a twin before birth, ending with a priesthood blessing that promised the grieving father peace. He asks us to turn to the Lord with our burdens, to make living worthy of the Holy Ghost's constant companionship one of our highest priorities, and to place our faith and hope in Christ.",
+  "audience": {
+    "who": "All members, especially those carrying grief, loss, or burdens they cannot fix on their own"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "story",
+    "list",
+    "invitation",
+    "promise",
+    "scripture",
+    "principle",
+    "quote",
+    "list",
+    "scripture",
+    "promise",
+    "scripture",
+    "story",
+    "invitation",
+    "promise",
+    "testimony",
+    "invitation"
+  ],
+  "orientation": {
+    "past": 0.1,
+    "present": 0.65,
+    "future": 0.25
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mosiah 18:9",
+      "basis": "exact",
+      "ref": "Mosiah 18:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Ether 12:6",
+      "basis": "exact",
+      "ref": "Ether 12:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Alma 7:11–12",
+      "basis": "exact",
+      "ref": "Alma 7:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Psalm 55:22",
+      "basis": "exact",
+      "ref": "Psalm 55:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "1 Peter 5:7",
+      "basis": "exact",
+      "ref": "1 Peter 5:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 88:63",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:63",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "John 14:16–17",
+      "basis": "exact",
+      "ref": "John 14:16–17",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 45:26",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 45:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "88:91",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:91",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "2 Nephi 9:10",
+      "basis": "exact",
+      "ref": "2 Nephi 9:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Matthew 7:11",
+      "basis": "exact",
+      "ref": "Matthew 7:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "James 1:17",
+      "basis": "exact",
+      "ref": "James 1:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Moroni 10:18",
+      "basis": "exact",
+      "ref": "Moroni 10:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "1 Corinthians 2:9",
+      "basis": "exact",
+      "ref": "1 Corinthians 2:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Philippians 4:7",
+      "basis": "exact",
+      "ref": "Philippians 4:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "John 14:18",
+      "basis": "exact",
+      "ref": "John 14:18",
+      "spoken": false
+    },
+    {
+      "id": "x-n7",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” Liahona, May 2018, 96; see also Dallin H. Oaks, “Coming Closer to Jesus Christ” (Brigham Young University devotional, Feb. 10, 2026), 2, speeches.byu.edu.",
+      "basis": "exact",
+      "ref": "Revelation for the Church, Revelation for Our Lives",
+      "note": "Cites President Russell M. Nelson (and President Oaks) for the warning that we will not survive spiritually without the Holy Ghost",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n9",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 85.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Quotes President Oaks on the literal, universal resurrection",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "It is important to not allow our challenges to negatively impact our faith.",
+      "basis": "interpreted",
+      "note": "Soft invitation phrased as a principle: guard faith from trials",
+      "detail": {
+        "action": "keep challenges from weakening faith"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "As you humbly turn to the Lord and cast your burdens on Him",
+      "basis": "interpreted",
+      "note": "The condition of the promise read as an invitation",
+      "detail": {
+        "action": "turn to the Lord and cast your burdens on Him"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Living worthy of the constant companionship of the Holy Ghost should be one of our highest priorities.",
+      "basis": "interpreted",
+      "note": "Invitation phrased as a priority",
+      "detail": {
+        "action": "live worthy of the Holy Ghost's constant companionship"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "May we forever place our faith and hope in Him and believe and find comfort in His promise",
+      "basis": "exact",
+      "detail": {
+        "action": "place faith and hope in Christ and take comfort in His promise"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "you have His promise: “Draw near unto me and I will draw near unto you.”",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "the Lord draws near"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "He will provide comfort; He will provide answers on His timetable as you turn to Him.",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "comfort and answers in His time"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "Answers will come by various means as guided by the Spirit",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "answers through the Spirit, tools, resources, and other people"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "He knows exactly how we feel, especially in our darkest and most trying times.",
+      "basis": "interpreted",
+      "note": "Assurance that Christ understands our pain because He suffered for us",
+      "detail": {
+        "blessing": "a Savior who knows exactly how we feel"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "There is hope in Jesus Christ.",
+      "basis": "interpreted",
+      "note": "One-line assurance answering the warning that we can lose hope",
+      "detail": {
+        "blessing": "hope in Christ"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "Even as He comforts us through temporary times of challenge and pain, He has prepared our rescue from permanent tragedy.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "rescue from death and sin"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "We will realize that all the suffering that brought us closer to the Savior was preparing us for greater blessings.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "suffering revealed as preparation for greater blessings"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "That comfort will help us when we go through the inevitable hardships of life and times when we can’t fix things on our own.",
+      "basis": "exact",
+      "paired_with": "c-3",
+      "detail": {
+        "blessing": "the Holy Ghost's comfort in hardships we cannot fix"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "He spares us from the only two things that can bring us permanent misery: separation from our bodies and separation from God because of sin.",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "separation from our bodies",
+          "separation from God because of sin"
+        ],
+        "purpose": "the only two causes of permanent misery, both overcome by Christ"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "I know that some of you worry about having enough food each day for you and your family.",
+      "basis": "interpreted",
+      "note": "Opens a run of mortal challenges the paragraph names in turn",
+      "detail": {
+        "count": "7",
+        "items": [
+          "enough food each day",
+          "limits of physical or emotional health",
+          "the health of loved ones",
+          "loved ones straying from the gospel path",
+          "hurt by or hurting someone we love",
+          "feeling misunderstood or lonely",
+          "a bad habit not yet overcome"
+        ],
+        "purpose": "the different burdens of the mortal journey"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "We are trained from a young age to solve problems, to be independent, to have perseverance and resilience.",
+      "basis": "interpreted",
+      "note": "The traits of self-reliance that cannot carry every burden",
+      "detail": {
+        "count": "4",
+        "items": [
+          "solve problems",
+          "be independent",
+          "perseverance",
+          "resilience"
+        ],
+        "purpose": "the self-reliance we are trained in"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "sometimes in the form of tools, resources, and help from other people",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "tools",
+          "resources",
+          "help from other people"
+        ],
+        "purpose": "forms the Lord's answers can take"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "testimony",
+      "quote": "I bear my witness that Jesus Christ lives.",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Jesus Christ"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "revelation",
+      "quote": "We have received repeated prophetic warnings that in coming days we will not survive spiritually without the constant influence of the Holy Ghost.",
+      "basis": "interpreted",
+      "note": "Reads as a restated prophetic warning about needing the Holy Ghost to survive spiritually",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "revelation",
+      "quote": "in a world of increasing temporal and spiritual turbulence, true sources of comfort will become more scarce",
+      "basis": "interpreted",
+      "note": "Reads as a warning that real comfort will grow scarce in coming days",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "christ",
+      "quote": "“Draw near unto me and I will draw near unto you.”",
+      "basis": "interpreted",
+      "note": "The Lord's words in D&C 88:63, read as Christ's voice",
+      "detail": {
+        "where": "Doctrine and Covenants 88:63"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "christ",
+      "quote": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+      "basis": "exact",
+      "detail": {
+        "where": "John 14:16–17"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "christ",
+      "quote": "“I will not leave you comfortless: I will come to you.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 14:18"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "story",
+      "quote": "Recently a friend of mine received a call from his wife informing him that their young married son had unexpectedly passed away the night before.",
+      "basis": "interpreted",
+      "note": "A father's first thought at his son's sudden death: he cannot fix this",
+      "detail": {
+        "story_type": "other",
+        "about": "a friend learns his married son died suddenly"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "source",
+      "quote": "“I can’t fix this.”",
+      "basis": "exact",
+      "detail": {
+        "who": "a grieving friend of the speaker"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "relationship",
+      "quote": "a friend of mine",
+      "basis": "exact",
+      "detail": {
+        "who": "friend",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "relationship",
+      "quote": "their young married son had unexpectedly passed away",
+      "basis": "exact",
+      "detail": {
+        "who": "friend's young married son",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "On another occasion we had the opportunity to go to dinner with a young couple who had recently lost one of their twins right before birth.",
+      "basis": "interpreted",
+      "note": "Dinner with a grieving couple, later resolved by a priesthood blessing",
+      "detail": {
+        "story_type": "personal",
+        "about": "dinner with a young couple who lost a twin before birth"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "My wife and I went through a similar experience many years ago when she was preparing to deliver twins and one of them passed away before birth.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "the Eyrings lost one of their twins before birth"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "relationship",
+      "quote": "My wife and I went through a similar experience",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "one of them passed away before birth",
+      "basis": "exact",
+      "detail": {
+        "who": "twin child",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "After our dinner together, I had the opportunity to give this grieving father a priesthood blessing.",
+      "basis": "interpreted",
+      "note": "The father who had no blessing in the hospital is promised peace; the couple leave with shining faces",
+      "detail": {
+        "story_type": "personal",
+        "about": "a priesthood blessing for a grieving father"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "the loss of the young couple’s twin baby",
+      "basis": "exact",
+      "detail": {
+        "who": "the couple's twin baby",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "burdens we cannot possibly carry ourselves",
+      "basis": "interpreted",
+      "note": "Trials as loads too heavy to carry alone",
+      "detail": {
+        "image": "burden",
+        "family": "body",
+        "carries": "some trials need the Lord to carry them"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "Our mortal journey is designed to try our faith.",
+      "basis": "interpreted",
+      "note": "Mortality as a journey",
+      "detail": {
+        "image": "journey",
+        "family": "path",
+        "carries": "life is a designed trial of faith"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "the path to healing and hope",
+      "basis": "interpreted",
+      "note": "Recovery from loss as a path",
+      "detail": {
+        "image": "path",
+        "family": "path",
+        "carries": "healing after loss is walked step by step"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "stray from the gospel path",
+      "basis": "interpreted",
+      "note": "Leaving the gospel as straying from a path",
+      "detail": {
+        "image": "gospel path",
+        "family": "path",
+        "carries": "loved ones can wander from the gospel"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "increasing temporal and spiritual turbulence",
+      "basis": "interpreted",
+      "note": "The world as rough, turbulent conditions",
+      "detail": {
+        "image": "turbulence",
+        "family": "other",
+        "carries": "growing instability in the last days"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "image",
+      "quote": "Our hearts can fail us.",
+      "basis": "interpreted",
+      "note": "Echoes the last-days hearts failing (D&C 45:26; 88:91)",
+      "detail": {
+        "image": "failing heart",
+        "family": "body",
+        "carries": "without comfort and hope we can give up"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "image",
+      "quote": "the grasp of this awful monster",
+      "basis": "interpreted",
+      "note": "Jacob's picture of death and hell as a monster",
+      "detail": {
+        "image": "monster",
+        "family": "other",
+        "carries": "Christ frees us from physical and spiritual death"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "He and the Father are truly givers of good gifts",
+      "basis": "interpreted",
+      "note": "God as a generous giver",
+      "detail": {
+        "image": "gifts",
+        "family": "other",
+        "carries": "God's generosity, seen more fully someday"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "their countenances shone with the light of the One in whom we must all put our complete trust",
+      "basis": "interpreted",
+      "note": "Christ's peace visible as light on grieving faces",
+      "detail": {
+        "image": "light",
+        "family": "light",
+        "carries": "Christ's peace shows in those He comforts"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "name_of_christ",
+      "quote": "the One in whom we must all put our complete trust",
+      "basis": "interpreted",
+      "note": "A descriptive title for Christ",
+      "detail": {
+        "name": "the One in whom we must all put our complete trust"
+      }
+    }
+  ]
+}

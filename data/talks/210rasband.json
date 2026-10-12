@@ -1,0 +1,1091 @@
+{
+  "id": "210rasband",
+  "kind": "talk",
+  "speaker": "Ronald A. Rasband",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Love Like Jesus",
+  "session": "Saturday Afternoon Session",
+  "order": 18,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng",
+  "pronouns": {
+    "i": 15,
+    "we": 35,
+    "you": 14
+  },
+  "summary": "Elder Rasband speaks to everyone grieving loved ones who have strayed, teaching that each person must choose Christ for themselves and that only He can change their hearts, so love, not pressure, is the way to reach them. He draws on Lehi's dream, Alma the Younger turned around by his father's prayers, and the prodigal son welcomed home by love. He asks listeners to hand their despair to Jesus Christ, let go of guilt, never give up, put people before problems, seek Him and pray, and trust that \"He's got this.\"",
+  "audience": {
+    "who": "Parents, family and friends who grieve for loved ones who have left the Church or broken covenants",
+    "quote": "my message is for everyone whose heart aches for loved ones who have turned away from the Lord"
+  },
+  "arc": [
+    "principle",
+    "list",
+    "story",
+    "scripture",
+    "invitation",
+    "promise",
+    "principle",
+    "scripture",
+    "list",
+    "quote",
+    "story",
+    "scripture",
+    "story",
+    "list",
+    "invitation",
+    "quote",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.55,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Ephesians 4:14",
+      "basis": "exact",
+      "ref": "Ephesians 4:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "2 Corinthians 1:8",
+      "basis": "exact",
+      "ref": "2 Corinthians 1:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "1 Nephi 1:4",
+      "basis": "exact",
+      "ref": "1 Nephi 1:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "1 Nephi 8",
+      "basis": "exact",
+      "ref": "1 Nephi 8",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "1 Nephi 2",
+      "basis": "exact",
+      "ref": "1 Nephi 2",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "1 Nephi 17–18",
+      "basis": "exact",
+      "ref": "1 Nephi 17–18",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "2 Nephi 4–6",
+      "basis": "exact",
+      "ref": "2 Nephi 4–6",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "2 Nephi 5",
+      "basis": "exact",
+      "ref": "2 Nephi 5",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "1 Nephi 8:21",
+      "basis": "exact",
+      "ref": "1 Nephi 8:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "1 Nephi 8:11",
+      "basis": "exact",
+      "ref": "1 Nephi 8:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "1 Nephi 8:23, 26",
+      "basis": "exact",
+      "ref": "1 Nephi 8:23, 26",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Moroni 7:41",
+      "basis": "exact",
+      "ref": "Moroni 7:41",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "John 14:27",
+      "basis": "exact",
+      "ref": "John 14:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "2 Chronicles 20:15",
+      "basis": "exact",
+      "ref": "2 Chronicles 20:15",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Moroni 10:19",
+      "basis": "exact",
+      "ref": "Moroni 10:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Luke 18:22",
+      "basis": "exact",
+      "ref": "Luke 18:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Matthew 22:37",
+      "basis": "exact",
+      "ref": "Matthew 22:37",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Deuteronomy 6:5",
+      "basis": "exact",
+      "ref": "Deuteronomy 6:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 59:5",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 59:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "Matthew 22:39",
+      "basis": "exact",
+      "ref": "Matthew 22:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "John 15:12, 17",
+      "basis": "exact",
+      "ref": "John 15:12, 17",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "Proverbs 3:5–6",
+      "basis": "exact",
+      "ref": "Proverbs 3:5–6",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "Alma 36:13",
+      "basis": "exact",
+      "ref": "Alma 36:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "Mosiah 27:11, 14",
+      "basis": "exact",
+      "ref": "Mosiah 27:11, 14",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "Mosiah 11–18",
+      "basis": "exact",
+      "ref": "Mosiah 11–18",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "Mosiah 27:9",
+      "basis": "exact",
+      "ref": "Mosiah 27:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "Alma 36:14",
+      "basis": "exact",
+      "ref": "Alma 36:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "Alma 36:12",
+      "basis": "exact",
+      "ref": "Alma 36:12",
+      "spoken": false
+    },
+    {
+      "id": "x-s29",
+      "type": "scripture",
+      "quote": "Alma 36:17",
+      "basis": "exact",
+      "ref": "Alma 36:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s30",
+      "type": "scripture",
+      "quote": "Alma 36:18",
+      "basis": "exact",
+      "ref": "Alma 36:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s31",
+      "type": "scripture",
+      "quote": "Alma 36:20",
+      "basis": "exact",
+      "ref": "Alma 36:20",
+      "spoken": false
+    },
+    {
+      "id": "x-s32",
+      "type": "scripture",
+      "quote": "Matthew 11:29",
+      "basis": "exact",
+      "ref": "Matthew 11:29",
+      "spoken": false
+    },
+    {
+      "id": "x-s33",
+      "type": "scripture",
+      "quote": "John 15:13",
+      "basis": "exact",
+      "ref": "John 15:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s34",
+      "type": "scripture",
+      "quote": "Luke 15:13",
+      "basis": "exact",
+      "ref": "Luke 15:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s35",
+      "type": "scripture",
+      "quote": "Luke 15:20",
+      "basis": "exact",
+      "ref": "Luke 15:20",
+      "spoken": false
+    },
+    {
+      "id": "x-s36",
+      "type": "scripture",
+      "quote": "Luke 15:24",
+      "basis": "exact",
+      "ref": "Luke 15:24",
+      "spoken": false
+    },
+    {
+      "id": "x-s37",
+      "type": "scripture",
+      "quote": "Matthew 11:28",
+      "basis": "exact",
+      "ref": "Matthew 11:28",
+      "spoken": false
+    },
+    {
+      "id": "x-s38",
+      "type": "scripture",
+      "quote": "Mosiah 27:14",
+      "basis": "exact",
+      "ref": "Mosiah 27:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s39",
+      "type": "scripture",
+      "quote": "John 14:18",
+      "basis": "exact",
+      "ref": "John 14:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s40",
+      "type": "scripture",
+      "quote": "Helaman 5:12",
+      "basis": "exact",
+      "ref": "Helaman 5:12",
+      "spoken": false
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "Eternal life means “to gain salvation, the blessings of eternal family, and exaltation, which is ‘the highest state of happiness and glory’ [Guide to the Scriptures, “Exaltation,” Gospel Library]. Through God’s love and grace, all His children will be resurrected after they die and enjoy immortality (see Moroni 7:41). Eternal life goes beyond immortality and includes inheriting the highest degree of the celestial kingdom, continuing in an eternal family, and being like God and living in His presence” (Topics and Questions, “Eternal Life,” Gospel Library).",
+      "basis": "exact",
+      "ref": "Eternal Life",
+      "note": "Footnote defining eternal life from Church reference material",
+      "detail": {
+        "who": "Topics and Questions; Guide to the Scriptures"
+      }
+    },
+    {
+      "id": "x-n9",
+      "type": "source",
+      "quote": "Miracles are divine acts, manifestations and expressions of God’s limitless power, and an affirmation that He “is the same yesterday, today, and forever” (Moroni 10:19). As I taught in a previous general conference address, “Jesus Christ, who created the seas, can calm them; He who gave sight to the blind can lift our sights to heaven; He who cleansed the lepers can mend our infirmities; He who healed the impotent man can call for us to rise up with ‘Come, follow me’ [Luke 18:22]” (Ronald A. Rasband, “Behold! I Am a God of Miracles,” Liahona, May 2021, 109–10).",
+      "basis": "exact",
+      "ref": "Behold! I Am a God of Miracles",
+      "note": "Elder Rasband quotes his own earlier conference talk on Christ as a God of miracles",
+      "detail": {
+        "who": "Ronald A. Rasband (self-citation)"
+      }
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "“Love One Another,” Children’s Songbook, 136; see also John 15:12, 17.",
+      "basis": "exact",
+      "ref": "Love One Another",
+      "note": "Primary song spoken in the talk: \"As I have loved you, love one another\"",
+      "detail": {
+        "who": "Children's Songbook"
+      }
+    },
+    {
+      "id": "x-n14",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 87.",
+      "basis": "exact",
+      "ref": "Alive in Christ",
+      "note": "Cites President Oaks: avoid what is harsh and hateful; seek to be holy",
+      "detail": {
+        "source": "Alive in Christ, Liahona, May 2026"
+      }
+    },
+    {
+      "id": "x-n30",
+      "type": "past_prophet",
+      "quote": "Thomas S. Monson, “Finding Joy in the Journey,” Liahona, Nov. 2008, 86.",
+      "basis": "exact",
+      "ref": "Finding Joy in the Journey",
+      "note": "Cites President Monson: never let a problem become more important than a person",
+      "detail": {
+        "who": "Thomas S. Monson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "I ask you to turn over to Jesus Christ your despair for those wayward souls.",
+      "basis": "exact",
+      "detail": {
+        "action": "give your despair over wayward loved ones to Jesus Christ"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "promise",
+      "quote": "We cannot change their hearts, but He can; He is a God of miracles.",
+      "basis": "interpreted",
+      "note": "Assurance that answers the invitation to hand despair to Christ: He can change hearts",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "Christ can change the hearts of wayward loved ones"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "By the power of Jesus Christ’s Atonement, there is always a way back!",
+      "basis": "interpreted",
+      "note": "Assurance that no one strays beyond the reach of the Atonement",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "there is always a way back"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Our Father extends His protective arms to us and to those still distant from Him and His Son. He asks us to do the same.",
+      "basis": "interpreted",
+      "note": "Invitation to reach out with protective love as the Father does",
+      "detail": {
+        "action": "extend protective, loving arms to those who are distant"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "First, let go of any guilt.",
+      "basis": "exact",
+      "detail": {
+        "action": "let go of guilt over a loved one's choices"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "so never, never give up on those you love",
+      "basis": "exact",
+      "detail": {
+        "action": "never give up on loved ones"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "Remember the example of Alma praying for his son.",
+      "basis": "exact",
+      "detail": {
+        "action": "keep praying for a wayward child, as Alma did"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "invitation",
+      "quote": "Second, follow the admonition of President Thomas S. Monson",
+      "basis": "exact",
+      "detail": {
+        "action": "put the person before the problem"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "invitation",
+      "quote": "Third, remember Jesus Christ is the answer.",
+      "basis": "exact",
+      "detail": {
+        "action": "remember Jesus Christ is the answer"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "invitation",
+      "quote": "Seek Him through study of the scriptures and words of prophets, apostles, men and women leaders who are devoted to serving the Lord.",
+      "basis": "exact",
+      "detail": {
+        "action": "seek Christ in scripture and the words of leaders"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "invitation",
+      "quote": "Pray mightily to our Heavenly Father in the name of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray mightily"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "He will not leave us “comfortless.”",
+      "basis": "exact",
+      "paired_with": "c-11",
+      "detail": {
+        "blessing": "we will not be left comfortless"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "promise",
+      "quote": "I promise you, as an Apostle of the Lord Jesus Christ, that when the devil sends “forth his mighty winds” pulling loved ones off course",
+      "basis": "interpreted",
+      "note": "Apostolic promise, finished in Helaman 5:12: the storm has no power to drag you down if you are built on Christ",
+      "paired_with": "c-9",
+      "detail": {
+        "blessing": "the devil's storm will have no power to drag you down when you are built on the rock of Christ"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "invitation",
+      "quote": "Trust Him.",
+      "basis": "exact",
+      "detail": {
+        "action": "trust Jesus Christ"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "promise",
+      "quote": "He’s got this!",
+      "basis": "interpreted",
+      "note": "Closing assurance in everyday words, echoing his earlier \"I've got this!\"",
+      "paired_with": "c-14",
+      "detail": {
+        "blessing": "Christ has the care of our wayward loved ones in hand"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "testimony",
+      "quote": "He is, always has been, and always will be.",
+      "basis": "interpreted",
+      "note": "Reads as his witness of Christ as the answer; there is no formal \"I testify\" in the talk",
+      "detail": {
+        "of": "Jesus Christ as the eternal answer"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "revelation",
+      "quote": "By divine design, brothers and sisters, everyone must choose for themselves to follow Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Reads as a doctrinal direction: agency is God's design, so we cannot force a loved one back",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "revelation",
+      "quote": "Love is not stepping back or sanctioning others’ decisions and actions.",
+      "basis": "interpreted",
+      "note": "Reads as a direction defining love: neither withdrawing nor endorsing",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "list",
+      "quote": "I close with three suggestions to help us find rest:",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "let go of any guilt and never give up",
+          "never let a problem become more important than a person",
+          "remember Jesus Christ is the answer"
+        ],
+        "purpose": "finding rest while grieving for wayward loved ones"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "list",
+      "quote": "We preach, cajole, argue, demand, lecture, ignore, sit them down to watch general conference, and even send them links to the talks, like this one, but to no avail.",
+      "basis": "exact",
+      "detail": {
+        "count": "8",
+        "items": [
+          "preach",
+          "cajole",
+          "argue",
+          "demand",
+          "lecture",
+          "ignore",
+          "make them watch general conference",
+          "send them links to talks"
+        ],
+        "purpose": "the efforts that fail and can widen the rift"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "list",
+      "quote": "everyone whose heart aches for loved ones who have turned away from the Lord, stepped away from obedience to God’s laws, breached their covenants, and left behind a string of broken hearts",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "turned away from the Lord",
+          "stepped away from obedience",
+          "breached covenants",
+          "left broken hearts behind"
+        ],
+        "purpose": "who the wayward loved ones are"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "list",
+      "quote": "In our grief, we continuously ponder the whys, hows, and what ifs.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "whys",
+          "hows",
+          "what ifs"
+        ],
+        "purpose": "the questions that haunt grieving families"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "list",
+      "quote": "He can promise no life eternal, no life with God the Father, and no peace.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "no eternal life",
+          "no life with God the Father",
+          "no peace"
+        ],
+        "purpose": "what the adversary cannot offer"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "list",
+      "quote": "Love is being interested in their lives, their successes, and their challenges.",
+      "basis": "interpreted",
+      "note": "First of a run of \"Love is ...\" statements",
+      "detail": {
+        "count": "5",
+        "items": [
+          "being interested in their lives",
+          "being there with arms outstretched and a cheerful countenance",
+          "lifting with faith and hope in Christ",
+          "relying on the Holy Ghost",
+          "expressed in prayer"
+        ],
+        "purpose": "what love looks like toward those who have strayed"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "That holiness comes when we are peacemakers, when we are charitable, patient, forgiving, and kind.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "peacemakers",
+          "charitable",
+          "patient",
+          "forgiving",
+          "kind"
+        ],
+        "purpose": "how holiness shows, following President Oaks"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "story",
+      "quote": "Most of us have faced such anguish in our families or circle of friends. I know Sister Rasband and I have.",
+      "basis": "interpreted",
+      "note": "A brief admission, not told as a story, that the Rasbands have grieved for a loved one who strayed",
+      "detail": {
+        "story_type": "family",
+        "about": "the Rasbands' own grief over a straying loved one"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "relationship",
+      "quote": "I know Sister Rasband and I have.",
+      "basis": "exact",
+      "detail": {
+        "who": "wife, Sister Rasband",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "story",
+      "quote": "The Book of Mormon prophet Lehi viewed in a dream “numberless concourses of people … pressing forward” to the tree of life, which is the love of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Lehi's dream: some lose their way in the mist and wander to the great and spacious buildings"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "In the Book of Mormon, Alma the Younger, talented and smooth-talking, “had rebelled against … God” and “had not kept his holy commandments.”",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Alma the Younger, rescued after his father's long prayers, cries to Jesus and becomes a prophet"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "His father, Alma, had prayed for weeks, months, years, maybe decades.",
+      "basis": "interpreted",
+      "note": "Scripture relationship: Alma the Elder praying for his rebellious son; the length is Elder Rasband's surmise (footnote 18)",
+      "detail": {
+        "who": "father (Alma the Elder) of a rebellious son",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "Remember the prodigal son who chose to leave his safe moorings for “riotous living.”",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the prodigal son comes home to a father who runs to him; love brought him back"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "his father saw him, and had compassion, and ran [to him].",
+      "basis": "interpreted",
+      "note": "Parable relationship: the waiting father of the prodigal son",
+      "detail": {
+        "who": "father of the prodigal son",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "christ",
+      "quote": "In the vernacular, Jesus Christ says to all who grieve, “I’ve got this!”",
+      "basis": "interpreted",
+      "note": "Elder Rasband's own everyday paraphrase put in Christ's mouth, not a scripture quotation",
+      "detail": {
+        "where": "paraphrase, no scripture reference"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "christ",
+      "quote": "“love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 22:37"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "christ",
+      "quote": "“Love thy neighbour as thyself.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 22:39"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "christ",
+      "quote": "“Take my yoke upon you, and learn of me,” our Savior says, “ … and ye shall find rest unto your souls.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 11:29"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "christ",
+      "quote": "“Greater love hath no man than this, that a man lay down his life for his friends.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 15:13"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "christ",
+      "quote": "“When he was yet a great way off, his father saw him, and had compassion, and ran [to him].”",
+      "basis": "interpreted",
+      "note": "Words of the parable Jesus told",
+      "detail": {
+        "where": "Luke 15:20"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "christ",
+      "quote": "Jesus Christ beckons, “Come unto me, all ye that labour and are heavy laden, and I will give you rest.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 11:28"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "image",
+      "quote": "the tree of life, which is the love of Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "image": "tree of life",
+        "family": "growth",
+        "carries": "the love of Jesus Christ is what people press toward"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "image",
+      "quote": "But “there arose a mist of darkness,” and some “wandered off,”",
+      "basis": "interpreted",
+      "note": "The mist as the adversary's deceit that confuses and misleads",
+      "detail": {
+        "image": "mist of darkness",
+        "family": "light",
+        "carries": "the adversary's confusion leads people off the path"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "image",
+      "quote": "setting up residence in the growing skyline of great and spacious buildings",
+      "basis": "interpreted",
+      "note": "Updates Lehi's single building to a modern, growing skyline",
+      "detail": {
+        "image": "skyline of great and spacious buildings",
+        "family": "building",
+        "carries": "the world the wayward settle into keeps expanding"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "How do we reset the clock while the adversary works overtime to destroy God’s plan of happiness?",
+      "basis": "interpreted",
+      "note": "The clock as time and ground lost with a straying loved one",
+      "detail": {
+        "image": "clock",
+        "family": "other",
+        "carries": "the wish to undo lost time while the adversary works harder"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "image",
+      "quote": "for the battle is not yours, but God’s.",
+      "basis": "interpreted",
+      "note": "The struggle for a loved one belongs to God, not us",
+      "detail": {
+        "image": "battle",
+        "family": "other",
+        "carries": "God, not the grieving parent, fights for the wayward"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "image",
+      "quote": "becoming, as the Bible says, “tossed to and fro.”",
+      "basis": "interpreted",
+      "note": "Wayward loved ones pictured as tossed on waves",
+      "detail": {
+        "image": "tossed on the waves",
+        "family": "water",
+        "carries": "the instability of those who leave their covenants"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "image",
+      "quote": "weighed down as if being “pressed out of measure.”",
+      "basis": "interpreted",
+      "note": "Grief pictured as a crushing weight",
+      "detail": {
+        "image": "crushing weight",
+        "family": "body",
+        "carries": "the burden of grieving for a loved one"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "image",
+      "quote": "Love is being there with arms outstretched and a cheerful countenance.",
+      "basis": "exact",
+      "detail": {
+        "image": "outstretched arms",
+        "family": "body",
+        "carries": "love stays present and welcoming"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "image",
+      "quote": "The path is marked by love.",
+      "basis": "exact",
+      "detail": {
+        "image": "path",
+        "family": "path",
+        "carries": "the Lord directs our way, and love marks it"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "image",
+      "quote": "Brothers and sisters, Jesus Christ pulls more than His weight.",
+      "basis": "interpreted",
+      "note": "Extends the yoke image: Christ carries the heavier side of the load",
+      "detail": {
+        "image": "yoke",
+        "family": "other",
+        "carries": "Christ carries more of our burden than we do"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "image",
+      "quote": "He gave His very life to bring them home, all the way home.",
+      "basis": "interpreted",
+      "note": "Home as return to God",
+      "detail": {
+        "image": "home",
+        "family": "building",
+        "carries": "Christ's aim is the full return of every child to God"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "image",
+      "quote": "leave his safe moorings",
+      "basis": "interpreted",
+      "note": "The prodigal as a boat leaving its moorings",
+      "detail": {
+        "image": "moorings",
+        "family": "water",
+        "carries": "home and the gospel as a safe harbor"
+      }
+    },
+    {
+      "id": "c-52",
+      "type": "image",
+      "quote": "when the devil sends “forth his mighty winds” pulling loved ones off course",
+      "basis": "interpreted",
+      "note": "Storm and winds driving loved ones off course",
+      "detail": {
+        "image": "storm winds",
+        "family": "water",
+        "carries": "the devil's pressure that pulls loved ones away"
+      }
+    },
+    {
+      "id": "c-53",
+      "type": "image",
+      "quote": "because of the rock upon which ye are built.” If that rock is Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "image": "rock",
+        "family": "rock",
+        "carries": "a foundation on Christ keeps us from being dragged down"
+      }
+    },
+    {
+      "id": "c-54",
+      "type": "place",
+      "quote": "from the Garden of Gethsemane to the cross on Golgotha",
+      "basis": "exact",
+      "detail": {
+        "place": "Garden of Gethsemane",
+        "country": "ancient Judea (Jerusalem)"
+      }
+    },
+    {
+      "id": "c-55",
+      "type": "place",
+      "quote": "the cross on Golgotha",
+      "basis": "exact",
+      "detail": {
+        "place": "Golgotha",
+        "country": "ancient Judea (Jerusalem)"
+      }
+    },
+    {
+      "id": "c-56",
+      "type": "name_of_christ",
+      "quote": "He is a God of miracles",
+      "basis": "exact",
+      "detail": {
+        "name": "God of miracles"
+      }
+    },
+    {
+      "id": "c-57",
+      "type": "name_of_christ",
+      "quote": "gave His Beloved Son the authority and power necessary to heal all His children",
+      "basis": "exact",
+      "detail": {
+        "name": "Beloved Son"
+      }
+    },
+    {
+      "id": "c-58",
+      "type": "name_of_christ",
+      "quote": "Love is lifting with faith and hope in our Lord and Savior.",
+      "basis": "exact",
+      "detail": {
+        "name": "Lord and Savior"
+      }
+    },
+    {
+      "id": "c-59",
+      "type": "name_of_christ",
+      "quote": "“O Jesus, thou Son of God, have mercy on me.”",
+      "basis": "exact",
+      "detail": {
+        "name": "Son of God"
+      }
+    },
+    {
+      "id": "c-60",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is the perfect embodiment of love.",
+      "basis": "interpreted",
+      "note": "A description used as a title",
+      "detail": {
+        "name": "the perfect embodiment of love"
+      }
+    },
+    {
+      "id": "c-61",
+      "type": "name_of_christ",
+      "quote": "If that rock is Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Christ named as the rock of Helaman 5:12",
+      "detail": {
+        "name": "the rock"
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 [
   {
     "title": "The conference opens and closes at a temple door",
-    "body": "The first talk (Elder Gong) says temple 54 times; the other eleven talks read so far say it 13 times combined. The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
+    "body": "The first talk (Elder Gong) says temple 54 times; the other twenty-one talks read so far say it 26 times combined, and thirteen of them never say it. The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
     "evidence": [
       {
         "talk": "12gong",
@@ -18,8 +18,8 @@
     ]
   },
   {
-    "title": "156 scripture citations; Elder Hathaway's talk is the crossroads",
-    "body": "Each speaker leans on a home book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Bishop Douglas's 13 of 29 Doctrine and Covenants, Elder Soares lives in Isaiah 58. Only four passages are shared by two talks, and Elder Hathaway sits in three of them: 2 Nephi 2:2 (also Bishop Douglas, same verse), 2 Nephi 9:21–23 (President Oaks) and Alma 7:11–12 (Elder Soares, the Savior's succor). The fourth: the closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk. Twice, two talks stop one verse apart: Helaman 5:11 (Elder Hathaway) and 5:12 (Elder Runia), Alma 34:32 (Elder Schmeil) and 34:33 (Elder Gong).",
+    "title": "302 scripture citations; Elder Hathaway's talk is still the crossroads",
+    "body": "Each speaker leans on a home book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Bishop Douglas's 13 of 29 Doctrine and Covenants, Elder Renlund's 9 of 16 Old Testament (Israel in the wilderness), and Elder Rasband cites the most of anyone, 40, 22 of them Book of Mormon. Twenty-eight passages are now shared by two talks. Elder Hathaway sits in nine of them, and Elder Matthew J. Eyring, from the afternoon, in eight. Only one passage is in three talks: Alma 7:11–12, the Savior's succor (Elder Hathaway, Elder Soares, Elder Eyring). The closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk. And some talks stop one verse apart: Alma 34:32 (Elder Schmeil) and 34:33 (Elder Gong); Helaman 5:11 (Elder Hathaway) beside 5:12, which Elder Runia and Elder Rasband both cite.",
     "evidence": [
       {
         "talk": "16hathaway",
@@ -46,12 +46,24 @@
         "finding": "x-s6"
       },
       {
+        "talk": "29eyring",
+        "finding": "x-s3"
+      },
+      {
         "talk": "12gong",
         "finding": "x-s3"
       },
       {
         "talk": "hymn-my-redeemer-lives",
         "finding": "x-s1"
+      },
+      {
+        "talk": "48schmeil",
+        "finding": "x-s2"
+      },
+      {
+        "talk": "12gong",
+        "finding": "x-s5"
       },
       {
         "talk": "16hathaway",
@@ -62,12 +74,8 @@
         "finding": "x-s3"
       },
       {
-        "talk": "48schmeil",
-        "finding": "x-s2"
-      },
-      {
-        "talk": "12gong",
-        "finding": "x-s5"
+        "talk": "210rasband",
+        "finding": "x-s40"
       }
     ]
   },
@@ -94,8 +102,46 @@
     ]
   },
   {
-    "title": "Faith is the one word in everything",
-    "body": "Faith (45 mentions) is the only family in all twelve talks and the closing hymn. Covenants is louder (53) but narrower: 9 of 12 talks, with Elder Schmeil alone saying it 22 times, while Sister Runia, Elder Sikahema and Bishop Douglas never use it. Elder Hathaway gives faith its shortest form, the Savior's words to Jairus, said twice: \"Be not afraid, only believe.\" The closing hymn carries faith (\"my one sure rock of faith\") but never says covenant.",
+    "title": "Jairus's daughter, in Mark and in Luke, twice",
+    "body": "Elder Hathaway and Elder Kearon, a session apart, both cite the raising of Jairus's daughter in two Gospels, Mark 5:35–42 and Luke 8:49–55. Elder Hathaway takes the Savior's words to the father, \"Be not afraid, only believe,\" and echoes them to everyone still waiting. Elder Kearon takes the lifting, \"He lifted the daughter of Jairus from the depths of death,\" and shows the painting Talitha Cumi, named for the words Jesus spoke to her.",
+    "evidence": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s29"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s30"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "c-35"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "c-37"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "x-s2"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "x-s3"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "c-23"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "c-29"
+      }
+    ]
+  },
+  {
+    "title": "Faith is the widest word; love is the loudest",
+    "body": "Faith (69 mentions) is in 20 of the 22 talks and the closing hymn; only Elder Farnes and Elder Dunn never say it. Love is louder (160) but narrower, 17 talks: Elder Fale says it 34 times, Elder Rasband 29, Elder Gilbert 28. Covenants (102, 17 talks) is carried by two speakers, Elder Morgan (24) and Elder Schmeil (22), while Sister Runia, Elder Sikahema, Bishop Douglas, Elder Dunn and Elder Eyring never use it. The closing hymn carries faith (\"my one sure rock of faith\") but never says covenant.",
     "evidence": [
       {
         "talk": "16hathaway",
@@ -125,7 +171,7 @@
   },
   {
     "title": "President Oaks is the voice other speakers build on",
-    "body": "President Oaks is cited 12 times in 6 of the 10 talks he didn't give. Three talks are built on him: Elder Schmeil on 'Divine Helps for Mortality', Elder Gilbert on five principles from a devotional they gave together, and President Christofferson, whose case against gambling runs on three Oaks lines: 'Where will this lead?', a 1987 moral case, and 'opportunity cost'. Bishop Douglas opens with him. The prophet's earlier words are the scaffolding of other talks, not just quotes in them.",
+    "body": "President Oaks is cited 25 times in 14 of the 20 talks he didn't give. Three talks are built on him: Elder Schmeil on 'Divine Helps for Mortality', Elder Gilbert on five principles from a devotional they gave together, and President Christofferson, whose case against gambling runs on three Oaks lines: 'Where will this lead?', a 1987 moral case, and 'opportunity cost'. In the afternoon he becomes a character: Elder Farnes's main story is Elder Oaks stopping him in a temple dressing room almost 20 years ago (\"Brother, tell me how you are really doing\") and, years later, not remembering it: \"But it's what we do. Isn't it?\" Elder Eyring and Elder Rasband both cite his April 2026 talk \"Alive in Christ\".",
     "evidence": [
       {
         "talk": "48schmeil",
@@ -154,12 +200,28 @@
       {
         "talk": "18douglas",
         "finding": "x-n2"
+      },
+      {
+        "talk": "22farnes",
+        "finding": "c-21"
+      },
+      {
+        "talk": "22farnes",
+        "finding": "c-22"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-n9"
+      },
+      {
+        "talk": "210rasband",
+        "finding": "x-n14"
       }
     ]
   },
   {
-    "title": "President Nelson is cited almost as often as the living prophet",
-    "body": "President Nelson is cited 11 times (5 by Elder Gilbert, 4 by Bishop Douglas), one fewer than President Oaks's 12. Bishop Douglas leans on President Nelson's youth devotional to make the missionary call, so the call runs from one prophet to the next. President Oaks credits 'the covenant path' to President Nelson by name.",
+    "title": "President Nelson is still cited almost as often as the living prophet",
+    "body": "President Nelson is cited 19 times across 9 talks, against President Oaks's 25 across 14. Elder Gilbert (5) and Bishop Douglas (4) lean on him most; Bishop Douglas uses President Nelson's youth devotional to make the missionary call, so the call runs from one prophet to the next. President Oaks credits 'the covenant path' to President Nelson by name. In the afternoon Elder Giuffra quotes him on tithing: it \"can break cycles of poverty in poor nations and families.\"",
     "evidence": [
       {
         "talk": "49oaks",
@@ -180,12 +242,16 @@
       {
         "talk": "18douglas",
         "finding": "x-n20"
+      },
+      {
+        "talk": "24giuffra",
+        "finding": "c-15"
       }
     ]
   },
   {
     "title": "Saturday morning runs on Joseph Smith",
-    "body": "Each of the first six talks quotes or cites the Prophet Joseph Smith. In the other six he appears once, in passing: Bishop Douglas's closing scripture came \"through Joseph Smith\" to Thomas B. Marsh. Two of the six go to the same place, Liberty Jail: Sister Runia uses the Lord's answer to him there (\"all these things shall give thee experience\"), Elder Hathaway his cry (\"O God, where art thou?\"). Elder Sikahema quotes the First Vision, Elder Caussé and Elder Soares his teachings, Elder Gong his vision of the kingdoms of glory.",
+    "body": "Each of the first six talks quotes or cites the Prophet Joseph Smith. Of the sixteen talks after them, only three cite him, all on Saturday afternoon (Elder Renlund, Elder Chigbundu, Elder Morgan), and Bishop Douglas names him in passing: his closing scripture came \"through Joseph Smith\" to Thomas B. Marsh. Two of the six go to Liberty Jail: Sister Runia uses the Lord's answer to him there (\"all these things shall give thee experience\"), Elder Hathaway his cry (\"O God, where art thou?\"). Elder Morgan cites two lines Joseph Smith wrote there (Doctrine and Covenants 121:1 and 123:17) without naming the jail. Elder Sikahema quotes the First Vision, Elder Caussé and Elder Soares his teachings, Elder Gong his vision of the kingdoms of glory.",
     "evidence": [
       {
         "talk": "12gong",
@@ -210,12 +276,20 @@
       {
         "talk": "17soares",
         "finding": "c-21"
+      },
+      {
+        "talk": "25morgan",
+        "finding": "x-s5"
+      },
+      {
+        "talk": "25morgan",
+        "finding": "x-s6"
       }
     ]
   },
   {
-    "title": "Saturday morning carries grief",
-    "body": "Three of the first five talks hold a death in the family. Sister Runia's oldest son, Ryan, died thirteen years ago; his seven-year-old son gave a Primary talk at the funeral about trusting the designer. Elder Sikahema's grandparents lost their infant son on an ocean voyage to hear an Apostle, then got back on the boat. Elder Hathaway tells of a missionary's father, Kelly, killed in an accident one week before she came home.",
+    "title": "Saturday carries grief",
+    "body": "Three of the first five talks hold a death in the family. Sister Runia's oldest son, Ryan, died thirteen years ago; his seven-year-old son gave a Primary talk at the funeral about trusting the designer. Elder Sikahema's grandparents lost their infant son on an ocean voyage to hear an Apostle, then got back on the boat. Elder Hathaway tells of a missionary's father, Kelly, killed in an accident one week before she came home. In the afternoon Elder Eyring adds two more: a friend whose young married son died suddenly and could only say \"I can't fix this,\" and a couple who lost a twin before birth, as he and his wife once did.",
     "evidence": [
       {
         "talk": "13runia",
@@ -236,12 +310,148 @@
       {
         "talk": "16hathaway",
         "finding": "c-18"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "c-23"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "c-24"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "c-28"
       }
     ]
   },
   {
-    "title": "Elder Gilbert's is the confession talk",
-    "body": "Four speakers say 'I' more than 'we': Sister Runia (61 to 56), Elder Caussé (58 to 24), Elder Sikahema (32 to 6) and Elder Gilbert (46 to 36). Sister Runia tells the most stories (7). But only Elder Gilbert's turning point is a failure of his own: 'I may have won the debate in the moment, but I lost the Spirit.'",
+    "title": "Christ carries the load",
+    "body": "Saturday afternoon keeps coming back to one point: Christ carries what we cannot. Elder Dunn's friend Ted quietly carried his pack for the last ten miles of a 100-mile race, and Christ is \"an infinitely more amazing load-bearing Friend\" who rescues \"not by shortening our course but by helping us lengthen our stride.\" Elder Eyring starts from a grieving father's \"I can't fix this.\" Elder Rasband ends on \"He's got this!\" Elder Dunn and Elder Eyring cite the same verse, Psalm 55:22: \"Cast thy burden upon the Lord.\"",
+    "evidence": [
+      {
+        "talk": "28dunn",
+        "finding": "c-17"
+      },
+      {
+        "talk": "28dunn",
+        "finding": "c-29"
+      },
+      {
+        "talk": "28dunn",
+        "finding": "c-20"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "c-24"
+      },
+      {
+        "talk": "210rasband",
+        "finding": "c-15"
+      },
+      {
+        "talk": "28dunn",
+        "finding": "x-s1"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s4"
+      }
+    ]
+  },
+  {
+    "title": "For families with someone who has wandered",
+    "body": "Elder Rasband lists what does not work with a loved one who has strayed: \"We preach, cajole, argue, demand, lecture, ignore, sit them down to watch general conference, and even send them links to the talks, like this one.\" He says he and Sister Rasband have lived it, and asks: \"never, never give up on those you love.\" Elder Morgan is the case from the other side: raised in another church, he finds his conversion came from his ancestors' covenants (\"It was covenants\"), which do not override a child's agency but leave \"a discernible impact\" on their posterity. Elder Fale: \"you can always come home,\" pointing to Elder Gilbert's April talk \"Come Home\".",
+    "evidence": [
+      {
+        "talk": "210rasband",
+        "finding": "c-20"
+      },
+      {
+        "talk": "210rasband",
+        "finding": "c-26"
+      },
+      {
+        "talk": "210rasband",
+        "finding": "c-6"
+      },
+      {
+        "talk": "25morgan",
+        "finding": "c-24"
+      },
+      {
+        "talk": "25morgan",
+        "finding": "c-19"
+      },
+      {
+        "talk": "26fale",
+        "finding": "c-14"
+      },
+      {
+        "talk": "26fale",
+        "finding": "x-n12"
+      }
+    ]
+  },
+  {
+    "title": "Tithes from Malachi, fasting from Isaiah",
+    "body": "Elder Giuffra and Elder Soares, a session apart, teach the two offerings: tithing from Malachi's \"windows of heaven\", the fast from Isaiah 58. They meet in one person. Elder Giuffra's convert in Puerto Montt, Chile, who thought she could never pay, \"arrived every week with her tithing envelope and... on the first Sunday of every month she also brought her fast offering.\"",
+    "evidence": [
+      {
+        "talk": "24giuffra",
+        "finding": "c-4"
+      },
+      {
+        "talk": "24giuffra",
+        "finding": "c-24"
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s2"
+      },
+      {
+        "talk": "17soares",
+        "finding": "c-25"
+      }
+    ]
+  },
+  {
+    "title": "Saturday afternoon teaches with everyday things",
+    "body": "Cold oatmeal: Elder Renlund's heart-transplant survivor complains, \"The oatmeal isn't hot, and the milk isn't cold!\", and an asterisk that needs an eraser. The body's immunity (Elder Chigbundu). A glider riding air you cannot see (Elder Kearon). A friend named Ted at mile 90 (Elder Dunn). Baby pictures: \"what had you done to earn our love?\" (Elder Fale). Elder Rasband even gives the Savior everyday words: \"In the vernacular, Jesus Christ says to all who grieve, 'I've got this!'\"",
+    "evidence": [
+      {
+        "talk": "21renlund",
+        "finding": "c-42"
+      },
+      {
+        "talk": "21renlund",
+        "finding": "c-29"
+      },
+      {
+        "talk": "23chigbundu",
+        "finding": "c-35"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "c-11"
+      },
+      {
+        "talk": "28dunn",
+        "finding": "c-17"
+      },
+      {
+        "talk": "26fale",
+        "finding": "c-9"
+      },
+      {
+        "talk": "210rasband",
+        "finding": "c-33"
+      }
+    ]
+  },
+  {
+    "title": "Eight talks speak as 'I'",
+    "body": "Eight speakers say 'I' more than 'we': Sister Runia (61 to 56), Elder Caussé (58 to 24), Elder Sikahema (32 to 6), Elder Gilbert (46 to 36), and in the afternoon Elder Farnes (78 to 54), Elder Giuffra (44 to 43), Elder Morgan (64 to 10) and Elder Dunn (56 to 38). Elder Kearon tells the most stories (8), then Sister Runia (7). Elder Gilbert's turning point is a failure of his own: 'I may have won the debate in the moment, but I lost the Spirit.'",
     "evidence": [
       {
         "talk": "59gilbert",
@@ -259,7 +469,7 @@
   },
   {
     "title": "Love and truth live in one talk",
-    "body": "Of 73 love words, 28 are Elder Gilbert's; of 29 truth words, 13 are his. His title says it: Teach Truth with Love. The runner-up on love is Elder Caussé (14), who pairs testimony and love as gifts that \"echo and strengthen one another\". Elder Schmeil and Elder Sikahema never say love at all.",
+    "body": "Of 36 truth words, 13 are Elder Gilbert's; his title says it: Teach Truth with Love. But love has spread: of 160 love words, Elder Fale has 34 and Elder Rasband 29, ahead of Elder Gilbert's 28. Elder Fale's is a love you cannot lose: \"You did not earn it; you cannot lose it.\" In the morning the runner-up was Elder Caussé (14), who pairs testimony and love as gifts that \"echo and strengthen one another\". Elder Schmeil, Elder Sikahema, Elder Renlund, Elder Dunn and President Oaks in his closing remarks never say love at all.",
     "evidence": [
       {
         "talk": "59gilbert",
@@ -272,6 +482,10 @@
       {
         "talk": "14causse",
         "finding": "c-14"
+      },
+      {
+        "talk": "26fale",
+        "finding": "c-11"
       }
     ]
   },
@@ -299,7 +513,7 @@
   },
   {
     "title": "Some talks ask, some promise",
-    "body": "Across the twelve talks there are 50 invitations and 48 promises. President Oaks's Sunday talk and Bishop Douglas's ask the most (8 each). Elder Soares promises the most (10, three of them answering his one invitation to live the fast in a higher and holier way), then Elder Hathaway (8). Bishop Douglas hangs all four of his promises on one invitation: serve a mission. Elder Sikahema makes no promise at all.",
+    "body": "Across the 22 talks there are 105 invitations and 118 promises. Elder Kearon asks the most (14), then Elder Rasband (10). Elder Soares and Elder Chigbundu promise the most (10 each); three of Elder Soares's answer his one invitation to live the fast in a higher and holier way. Bishop Douglas hangs all four of his promises on one invitation: serve a mission. Elder Sikahema makes no promise at all.",
     "evidence": [
       {
         "talk": "49oaks",
@@ -325,7 +539,7 @@
   },
   {
     "title": "The shared picture is a path, and now there is a boat",
-    "body": "Path pictures show up in 9 of the 12 talks (15 of them): a road, the covenant path, a detour, two paths (giving and taking), the trail to Zion. The closing hymn ends on one more: \"the lonely road that leads to thine eternity\". Water comes in 5 talks, and the first boat with it: Elder Sikahema's grandparents sail into a storm, bury their son, and get back on the boat.",
+    "body": "Path pictures show up in 14 of the 22 talks (25 of them): a road, the covenant path, a detour, two paths (giving and taking), the trail to Zion. The closing hymn ends on one more: \"the lonely road that leads to thine eternity\". Water comes in 7 talks, and the first boat with it: Elder Sikahema's grandparents sail into a storm, bury their son, and get back on the boat.",
     "evidence": [
       {
         "talk": "12gong",

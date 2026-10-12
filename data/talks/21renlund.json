@@ -1,0 +1,683 @@
+{
+  "id": "21renlund",
+  "kind": "talk",
+  "speaker": "Dale G. Renlund",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "“How Long Will It Be Ere They Believe Me?”",
+  "session": "Saturday Afternoon Session",
+  "order": 9,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/21renlund?lang=eng",
+  "pronouns": {
+    "i": 30,
+    "we": 41,
+    "you": 17
+  },
+  "summary": "Elder Renlund teaches that we can trust God and His promises, because our hope rests on Christ's faithfulness and not our own. He tells of a heart-transplant patient who survived against the odds and then complained that his oatmeal was cold, and of the children of Israel who kept doubting despite God's miracles. He asks us to remember what the Lord has done, erase any imagined asterisk that excludes us from His blessings, and rely on His promises.",
+  "audience": {
+    "who": "All members, especially those weighed down by daily trials or doubting that God's promises apply to them",
+    "quote": "Neither are you, brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "scripture",
+    "scripture",
+    "principle",
+    "scripture",
+    "promise",
+    "scripture",
+    "scripture",
+    "promise",
+    "story",
+    "invitation",
+    "promise",
+    "quote",
+    "principle",
+    "invitation",
+    "testimony",
+    "promise",
+    "quote",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.4,
+    "present": 0.45,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Exodus 14:11–12",
+      "basis": "exact",
+      "ref": "Exodus 14:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Exodus 16:2–4",
+      "basis": "exact",
+      "ref": "Exodus 16:2–4",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Exodus 17:3–6",
+      "basis": "exact",
+      "ref": "Exodus 17:3–6",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Numbers 11:4–6, 31–32",
+      "basis": "exact",
+      "ref": "Numbers 11:4–6, 31–32",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Numbers 14:2",
+      "basis": "exact",
+      "ref": "Numbers 14:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "verses 3–4",
+      "basis": "exact",
+      "ref": "Numbers 14:3–4",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Numbers 14:11",
+      "basis": "exact",
+      "ref": "Numbers 14:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Judges 2:1",
+      "basis": "exact",
+      "ref": "Judges 2:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "John 16:33",
+      "basis": "exact",
+      "ref": "John 16:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "2 Nephi 2:3",
+      "basis": "exact",
+      "ref": "2 Nephi 2:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Title page of the Book of Mormon",
+      "basis": "exact",
+      "ref": "Title page of the Book of Mormon",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Moroni 10:3",
+      "basis": "exact",
+      "ref": "Moroni 10:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Matthew 28:18",
+      "basis": "exact",
+      "ref": "Matthew 28:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Psalm 116:2",
+      "basis": "exact",
+      "ref": "Psalm 116:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Mormon 8:22",
+      "basis": "exact",
+      "ref": "Mormon 8:22",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "2 Peter 1:4",
+      "basis": "exact",
+      "ref": "2 Peter 1:4",
+      "spoken": false
+    },
+    {
+      "id": "x-n16",
+      "type": "source",
+      "quote": "Recording our own experiences is helpful. President Henry B. Eyring suggested that each day we should ask ourselves, “Have I seen the hand of God reaching out to touch us or our children or our family today?” He promised that as we did so, we would see evidence of what God had done. That will cause gratitude to grow in our hearts and testimonies will grow (“O Remember, Remember,” Liahona, Nov. 2007, 67).",
+      "basis": "exact",
+      "ref": "O Remember, Remember",
+      "note": "Footnote cites President Henry B. Eyring on recording daily experiences of the hand of God",
+      "detail": {
+        "who": "Henry B. Eyring"
+      }
+    },
+    {
+      "id": "x-n17",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Joseph Smith (2007), 407.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Joseph Smith",
+      "note": "Quotes the Prophet Joseph Smith on Christ's ample provision for the living and the dead",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Yet God invites us to trust Him and His promises.",
+      "basis": "exact",
+      "detail": {
+        "action": "trust God and His promises"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "If you think there is, take out a big eraser and obliterate that asterisk.",
+      "basis": "exact",
+      "detail": {
+        "action": "erase the belief that God's blessings exclude you"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Strive to remember all the times He has inclined His ear to you, especially when confronted with cold oatmeal.",
+      "basis": "exact",
+      "detail": {
+        "action": "remember the times the Lord has heard you"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Moroni exhorts us “that [we should] remember how merciful the Lord hath been unto the children of men [throughout the ages], and ponder it in [our] hearts.”",
+      "basis": "interpreted",
+      "note": "Moroni's exhortation, applied to the listener: remember and ponder the Lord's mercy",
+      "detail": {
+        "action": "remember and ponder the Lord's mercy"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "We can trust the Lord, especially His promises.",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: trust the Lord's promises",
+      "detail": {
+        "action": "trust the Lord's promises"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "When our faith is centered on Jesus Christ, He promises spiritual peace no matter our circumstances.",
+      "basis": "exact",
+      "paired_with": "c-1",
+      "detail": {
+        "blessing": "spiritual peace in any circumstance"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "promise",
+      "quote": "We can experience joy in our here and now because of Him and through our covenant relationship with Him.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "joy now through Christ and covenants"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "Faith in Jesus Christ frees us from uncertainty because our hope rests on His faithfulness and righteousness, not on our own.",
+      "basis": "interpreted",
+      "note": "Faith in Christ removes uncertainty because redemption rests on His righteousness",
+      "detail": {
+        "blessing": "freedom from uncertainty"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "As we reflect on the great things the Lord has already done and remember His goodness and mercy, we are better positioned to grasp the bigger picture and to rely on His promises to us.",
+      "basis": "exact",
+      "paired_with": "c-4",
+      "detail": {
+        "blessing": "seeing the bigger picture and relying on His promises"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "there is no asterisk excluding you from God’s richest blessings",
+      "basis": "exact",
+      "paired_with": "c-2",
+      "detail": {
+        "blessing": "God's richest blessings apply to you"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "there is more than enough to cover any breach, need, or deficit for all of us, for each of us",
+      "basis": "exact",
+      "detail": {
+        "blessing": "Christ's power covers every breach, need, or deficit"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "These promises apply to you.",
+      "basis": "exact",
+      "paired_with": "c-5",
+      "detail": {
+        "blessing": "the Lord's promises are yours"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "testimony",
+      "quote": "I know that God lives and that Jesus is the Christ. Not only that, but I also know that Their “exceeding great and precious promises” are sure",
+      "basis": "exact",
+      "detail": {
+        "of": "God lives, Jesus is the Christ, and Their promises are sure"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "testimony",
+      "quote": "With Moroni, I declare, “The eternal purposes of the Lord shall roll on, until all his promises shall be fulfilled.”",
+      "basis": "interpreted",
+      "note": "He makes Moroni's words his own declaration",
+      "detail": {
+        "of": "all the Lord's promises will be fulfilled"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "you have doubted God’s care for you, His willingness to succor you, or His capacity to keep His promises",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "God's care for you",
+          "His willingness to succor you",
+          "His capacity to keep His promises"
+        ],
+        "purpose": "the doubts that cold oatmeal can raise"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "list",
+      "quote": "God saved them when they were trapped at the Red Sea and provided for them when they lacked food and water. Even when they complained about a monotonous diet, the Lord miraculously helped them.",
+      "basis": "interpreted",
+      "note": "Three miracles for Israel, matching footnotes 5 to 8",
+      "detail": {
+        "count": "3",
+        "items": [
+          "saved at the Red Sea",
+          "given food and water",
+          "helped despite complaints about their diet"
+        ],
+        "purpose": "God's miracles Israel overlooked"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "list",
+      "quote": "lose sight of the bigger picture, both where we have been and God’s promises to us",
+      "basis": "interpreted",
+      "note": "Two parts of the bigger picture: past help and future promises",
+      "detail": {
+        "count": "2",
+        "items": [
+          "where we have been",
+          "God's promises to us"
+        ],
+        "purpose": "what the bigger picture holds"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "story",
+      "quote": "In the late 1980s, Mr. Martin developed severe heart failure.",
+      "basis": "interpreted",
+      "note": "A patient survives two heart transplants, then complains his oatmeal is not hot",
+      "detail": {
+        "story_type": "personal",
+        "about": "a heart-transplant patient who complains about cold oatmeal after a miracle"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "As recorded in the Old Testament, the Lord led the children of Israel out of slavery in Egypt.",
+      "basis": "interpreted",
+      "note": "Israel complains and doubts despite God's miracles in the wilderness",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the children of Israel doubting God at the edge of the promised land"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "story",
+      "quote": "I remember learning a lesson, one of many, from my younger sister, Linda.",
+      "basis": "interpreted",
+      "note": "His sister thought scripture blessings had an asterisk excluding her",
+      "detail": {
+        "story_type": "family",
+        "about": "his sister learns the scripture blessings are promised to her too"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "story",
+      "quote": "Jacob was a good and faithful person. Yet his righteousness would not be the source of his redemption.",
+      "basis": "interpreted",
+      "note": "Lehi tells Jacob he is redeemed by Christ's righteousness, not his own",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Lehi's witness to his son Jacob"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "relationship",
+      "quote": "He became my team’s patient",
+      "basis": "exact",
+      "detail": {
+        "who": "his heart patient, Mr. Martin",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "relationship",
+      "quote": "With Mrs. Martin’s consent",
+      "basis": "interpreted",
+      "note": "The patient's wife, who consented to the second transplant",
+      "detail": {
+        "who": "his patient's wife",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "relationship",
+      "quote": "my younger sister, Linda",
+      "basis": "exact",
+      "detail": {
+        "who": "younger sister",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "relationship",
+      "quote": "The prophet Lehi testified to his son Jacob",
+      "basis": "exact",
+      "detail": {
+        "who": "Lehi's son Jacob",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "We focus on the here and now—the “cold oatmeal”—and lose sight of the bigger picture",
+      "basis": "interpreted",
+      "note": "Cold oatmeal is the running image for small present troubles that hide God's blessings",
+      "detail": {
+        "image": "cold oatmeal",
+        "family": "other",
+        "carries": "small daily troubles can blind us to God's miracles and promises"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "you use up all your coping coupons",
+      "basis": "interpreted",
+      "note": "A light aside: hard trials spend our limited patience",
+      "detail": {
+        "image": "coupons",
+        "family": "other",
+        "carries": "trials use up our capacity to cope"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "she saw a big asterisk that seemed to say, “Those blessings apply to everyone—except Linda.”",
+      "basis": "interpreted",
+      "note": "The asterisk as an imagined exception clause on God's promises",
+      "detail": {
+        "image": "asterisk",
+        "family": "other",
+        "carries": "the false belief that God's promises exclude me"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "take out a big eraser and obliterate that asterisk",
+      "basis": "interpreted",
+      "note": "The eraser removes the imagined exception",
+      "detail": {
+        "image": "eraser",
+        "family": "other",
+        "carries": "deliberately rejecting the belief that we are excluded"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "This donor heart was considered marginal and would not be used for any other recipient in the country.",
+      "basis": "interpreted",
+      "note": "The marginal heart that worked beautifully shows rescue coming from unlikely means",
+      "detail": {
+        "image": "marginal donor heart",
+        "family": "body",
+        "carries": "deliverance can come through what seemed least likely"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "all human circumstances are within the Savior’s redemptive reach",
+      "basis": "interpreted",
+      "note": "Christ's redemption pictured as a reach that extends to every circumstance",
+      "detail": {
+        "image": "reach",
+        "family": "body",
+        "carries": "no circumstance is beyond Christ's power to redeem"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "image",
+      "quote": "all the times He has inclined His ear to you",
+      "basis": "interpreted",
+      "note": "God leaning in to listen, from Psalm 116:2",
+      "detail": {
+        "image": "inclined ear",
+        "family": "body",
+        "carries": "God has heard and answered us before"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "Standing on the promises, I cannot fall, …",
+      "basis": "interpreted",
+      "note": "Promises as solid footing, from the hymn",
+      "detail": {
+        "image": "standing on solid ground",
+        "family": "rock",
+        "carries": "God's promises are a footing that will not give way"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "place",
+      "quote": "the Lord led the children of Israel out of slavery in Egypt",
+      "basis": "exact",
+      "detail": {
+        "place": "Egypt",
+        "country": "Egypt"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "place",
+      "quote": "God saved them when they were trapped at the Red Sea",
+      "basis": "exact",
+      "detail": {
+        "place": "the Red Sea",
+        "country": "between Egypt and Arabia"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "place",
+      "quote": "When the children of Israel reached the promised land",
+      "basis": "exact",
+      "detail": {
+        "place": "the promised land (Canaan)",
+        "country": "ancient Canaan"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "name_of_christ",
+      "quote": "because of the righteousness of thy Redeemer",
+      "basis": "exact",
+      "detail": {
+        "name": "Redeemer"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "name_of_christ",
+      "quote": "The power of the Messiah to save and exalt is profoundly intimate and infinite beyond human comprehension",
+      "basis": "exact",
+      "detail": {
+        "name": "the Messiah"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "name_of_christ",
+      "quote": "Standing on the promises of Christ, my King, …",
+      "basis": "exact",
+      "detail": {
+        "name": "King"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "christ",
+      "quote": "“These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 16:33"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "christ",
+      "quote": "I do not think we want Him asking us, “How long will it be ere [you] believe me?”",
+      "basis": "interpreted",
+      "note": "He applies the Lord's words to Moses (Numbers 14:11) to Jesus Christ",
+      "detail": {
+        "where": "Numbers 14:11"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "source",
+      "quote": "“The oatmeal isn’t hot, and the milk isn’t cold!”",
+      "basis": "exact",
+      "detail": {
+        "who": "Mr. Martin, his heart patient"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "source",
+      "quote": "“I am not extraordinary enough to warrant an exception. The blessings are promised to me too.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Linda, his younger sister"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "source",
+      "quote": "Standing on the promises that cannot fail …",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn “Standing on the Promises”"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "revelation",
+      "quote": "“Ample provision” means that all human circumstances are within the Savior’s redemptive reach.",
+      "basis": "interpreted",
+      "note": "Reads as an apostolic doctrinal declaration that no circumstance is outside Christ's redemption",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "revelation",
+      "quote": "Jesus overcame the world; we do not have to do so ourselves.",
+      "basis": "interpreted",
+      "note": "Reads as a plain doctrinal clarification: Christ, not our own effort, overcomes the world",
+      "detail": {
+        "kind": "direction"
+      }
+    }
+  ]
+}

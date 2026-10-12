@@ -35,6 +35,10 @@ describe('parseRef', () => {
     expect(parseRef('Doctrine and Covenants 100:5‒8, 10').spans).toEqual([{ chapter: 100, verses: [5, 6, 7, 8, 10] }]);
   });
 
+  it('reads "Psalm" as the book of Psalms', () => {
+    expect(parseRef('Psalm 55:22')).toEqual({ book: 'Psalms', volume: 'Old Testament', spans: [{ chapter: 55, verses: [22] }] });
+  });
+
   it('reads a spoken "<book> chapter <n>" as the whole chapter', () => {
     expect(parseRef('Isaiah chapter 58')).toEqual({ book: 'Isaiah', volume: 'Old Testament', spans: [{ chapter: 58, verses: null }] });
   });

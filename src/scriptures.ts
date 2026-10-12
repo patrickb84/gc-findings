@@ -42,6 +42,9 @@ const SPOKEN_FORMS: Record<string, ParsedRef> = {
   'title page of the book of mormon': { book: 'Title Page', volume: 'Book of Mormon', spans: [] },
 };
 
+// A single psalm is cited as "Psalm 55:22".
+const BOOK_ALIASES: Record<string, string> = { Psalm: 'Psalms' };
+
 function volumeOf(book: string): Volume | null {
   return VOLUME_ORDER.find((v) => (VOLUMES[v] as readonly string[]).includes(book)) ?? null;
 }
@@ -69,7 +72,8 @@ export function parseRef(ref: string): ParsedRef {
   if (said) return { book: said[1], volume: volumeOf(said[1]), spans: [{ chapter: Number(said[2]), verses: null }] };
   const m = clean.match(new RegExp(`^(.+?) (\\d+)(?:${DASH}(\\d+))?(?::(.+))?$`));
   if (!m) return { book: clean, volume: volumeOf(clean), spans: [] };
-  const [, book, first, last, verses] = m;
+  const [, written, first, last, verses] = m;
+  const book = BOOK_ALIASES[written] ?? written;
   const spans = verses
     ? [{ chapter: Number(first), verses: numbers(verses) }]
     : range(Number(first), Number(last ?? first)).map((chapter) => ({ chapter, verses: null }));

@@ -3,6 +3,10 @@ import type { Citation, Note, ParsedTalk, RawContent } from './types.ts';
 
 const SCRIPTURE_PATH = /^\/study\/scriptures\/(ot|nt|bofm|dc-testament|pgp)\//;
 const CHAPTER_ONLY = /^\d+:\d/;
+// "see also verse 12" or "verses 7–9 and 24–32": no book, so the book comes from the previous
+// reference and the chapter from the link.
+const VERSES_ONLY = /^(?:verses?\s+)?(\d+(?:\s*[-‒–]\s*\d+)?(?:,\s*\d+(?:\s*[-‒–]\s*\d+)?)*)$/i;
+const LINK_CHAPTER = /\/(\d+)\?[^#]*\bid=p\d/;
 const TITLES =/^(President|Elder|Sister|Brother|Bishop)\s+/;
 
 const clean = (s: string) => s.replace(/\s+/g, ' ').trim();
@@ -25,8 +29,12 @@ export function parseTalk(raw: RawContent): ParsedTalk {
   const citations: Citation[] = [];
   const seen = new Set<string>();
   let lastRef = '';
-  const complete = (text: string) => {
-    const ref = CHAPTER_ONLY.test(text) && lastRef ? `${lastRef.replace(/\s+\d+:.*$/, '')} ${text}` : text;
+  const complete = (text: string, href: string) => {
+    const verses = text.match(VERSES_ONLY);
+    const chapter = href.match(LINK_CHAPTER);
+    const book = lastRef.replace(/\s+\d+(?:[-‒–]\d+)?(?::.*)?$/, '');
+    const ref = verses && chapter && lastRef ? `${book} ${chapter[1]}:${verses[1]}`
+      : CHAPTER_ONLY.test(text) && lastRef ? `${lastRef.replace(/\s+\d+:.*$/, '')} ${text}` : text;
     lastRef = ref;
     return ref;
   };
@@ -35,7 +43,7 @@ export function parseTalk(raw: RawContent): ParsedTalk {
     const href = $(a).attr('href') ?? '';
     if (!SCRIPTURE_PATH.test(href)) return;
     const text = clean($(a).text());
-    const ref = complete(text);
+    const ref = complete(text, href);
     citations.push({ ref, text, href, inText: true });
     seen.add(ref);
   });
@@ -49,7 +57,7 @@ export function parseTalk(raw: RawContent): ParsedTalk {
   for (const n of notes) {
     for (const r of n.refs) {
       if (r.type !== 'scripture-ref' || !SCRIPTURE_PATH.test(r.href)) continue;
-      const ref = complete(r.text);
+      const ref = complete(r.text, r.href);
       if (seen.has(ref)) continue;
       citations.push({ ref, text: r.text, href: r.href, inText: false });
       seen.add(ref);

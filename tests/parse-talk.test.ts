@@ -65,6 +65,38 @@ describe('parseTalk', () => {
     ]);
   });
 
+  it('completes "see also verse 12" from the previous book and chapter', () => {
+    const q = parseTalk({
+      content: {
+        body: '<div class="body-block"><p>x</p></div>',
+        footnotes: {
+          n1: { marker: '1.', text: '<p>Alma 7:11; see also verse 12.</p>', referenceUris: [
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/alma/7?id=p11', text: 'Alma 7:11' },
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/alma/7?id=p12', text: 'verse 12' },
+          ] },
+          n2: { marker: '2.', text: '<p>Mosiah 24:8; verses 13–15.</p>', referenceUris: [
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/mosiah/24?id=p8', text: 'Mosiah 24:8' },
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/mosiah/24?id=p13-p15', text: 'verses 13–15' },
+          ] },
+          n3: { marker: '3.', text: '<p>See 2 Nephi 28, especially verses 7–9 and 24–32.</p>', referenceUris: [
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/2-ne/28?lang=eng', text: '2 Nephi 28' },
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p7-p9#p7', text: '7–9' },
+            { type: 'scripture-ref', href: '/study/scriptures/bofm/2-ne/28?lang=eng&amp;id=p24-p32#p24', text: '24–32' },
+          ] },
+        },
+      },
+    });
+    expect(q.citations.map((c) => [c.ref, c.text])).toEqual([
+      ['Alma 7:11', 'Alma 7:11'],
+      ['Alma 7:12', 'verse 12'],
+      ['Mosiah 24:8', 'Mosiah 24:8'],
+      ['Mosiah 24:13–15', 'verses 13–15'],
+      ['2 Nephi 28', '2 Nephi 28'],
+      ['2 Nephi 28:7–9', '7–9'],
+      ['2 Nephi 28:24–32', '24–32'],
+    ]);
+  });
+
   it('keeps footnotes as plain text with their references', () => {
     expect(p.notes[0]).toEqual({
       marker: '1.',

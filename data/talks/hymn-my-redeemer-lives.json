@@ -12,10 +12,19 @@
     "we": 0,
     "you": 0
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "The closing hymn, words by President Gordon B. Hinckley. Verse one is a testimony of who Christ is: the living Redeemer, Savior, King and Lord. Verse two says what He is to us: a sure rock, a bright hope, a beacon, the light beyond the veil of death. Verse three turns to prayer, asking for His Spirit, His peace, and the faith to walk the lonely road to eternity.",
+  "audience": {
+    "who": "Sung by the congregation; verses one and two speak of Christ, verse three speaks to Him"
+  },
+  "arc": [
+    "testimony",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.1,
+    "present": 0.5,
+    "future": 0.4
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -23,7 +32,8 @@
       "quote": "Doctrine and Covenants 76:22–24, 41–42",
       "basis": "exact",
       "ref": "Doctrine and Covenants 76:22–24, 41–42",
-      "spoken": true
+      "spoken": true,
+      "note": "Listed under the hymn in the hymnbook, not sung"
     },
     {
       "id": "x-s2",
@@ -31,7 +41,93 @@
       "quote": "Job 19:25",
       "basis": "exact",
       "ref": "Job 19:25",
-      "spoken": true
+      "spoken": true,
+      "note": "Listed under the hymn in the hymnbook, not sung; its words are the hymn's first line"
+    },
+    {
+      "id": "c-1",
+      "type": "testimony",
+      "quote": "I know that my Redeemer lives,",
+      "basis": "exact",
+      "detail": {
+        "of": "the living Redeemer"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "past_prophet",
+      "quote": "Gordon B. Hinckley, 1910–2008",
+      "basis": "interpreted",
+      "note": "The hymn's words are by President Hinckley, the 15th President of the Church",
+      "detail": {
+        "who": "Gordon B. Hinckley"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "name_of_christ",
+      "quote": "Triumphant Savior, Son of God,",
+      "basis": "exact",
+      "detail": {
+        "name": "Triumphant Savior; Son of God"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "name_of_christ",
+      "quote": "My King, my Leader, and my Lord.",
+      "basis": "exact",
+      "detail": {
+        "name": "King; Leader; Lord"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "image",
+      "quote": "He lives, my one sure rock of faith,",
+      "basis": "interpreted",
+      "note": "Rock: the same footing as Elder Schmeil's 'firm foundation'",
+      "detail": {
+        "image": "rock",
+        "family": "rock",
+        "carries": "Christ as the one footing that holds"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "image",
+      "quote": "The beacon to a better way,",
+      "basis": "interpreted",
+      "note": "A beacon lights the way home",
+      "detail": {
+        "image": "beacon",
+        "family": "light",
+        "carries": "Christ shows the way"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "image",
+      "quote": "The light beyond the veil of death.",
+      "basis": "interpreted",
+      "note": "Veil: the image Elder Gong used in the first talk",
+      "detail": {
+        "image": "light beyond the veil",
+        "family": "light",
+        "carries": "Christ is waiting on the far side of death"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "image",
+      "quote": "The faith to walk the lonely road",
+      "basis": "interpreted",
+      "note": "Road: Elder Gong opened the conference with a road",
+      "detail": {
+        "image": "lonely road",
+        "family": "path",
+        "carries": "faith for a road walked alone, to eternity"
+      }
     }
   ]
 }

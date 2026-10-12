@@ -1,0 +1,204 @@
+{
+  "id": "49oaks",
+  "kind": "talk",
+  "speaker": "Dallin H. Oaks",
+  "role": "President of The Church of Jesus Christ of Latter-day Saints",
+  "title": "The Gospel of Jesus Christ Is for All",
+  "session": "Sunday Morning Session",
+  "order": 27,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/49oaks?lang=eng",
+  "pronouns": {
+    "i": 15,
+    "we": 43,
+    "you": 17
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "first article of faith",
+      "basis": "exact",
+      "ref": "first article of faith",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 20:17–21",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 20:17–21",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Moses 1:31–33",
+      "basis": "exact",
+      "ref": "Moses 1:31–33",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "2:1–2",
+      "basis": "exact",
+      "ref": "2:1–2",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "3 Nephi 11:14",
+      "basis": "exact",
+      "ref": "3 Nephi 11:14",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Mosiah 3:18",
+      "basis": "exact",
+      "ref": "Mosiah 3:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Moses 6:52, 59",
+      "basis": "exact",
+      "ref": "Moses 6:52, 59",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Omni 1:26",
+      "basis": "exact",
+      "ref": "Omni 1:26",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "2 Nephi 9:5",
+      "basis": "exact",
+      "ref": "2 Nephi 9:5",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "2 Nephi 9:21",
+      "basis": "exact",
+      "ref": "2 Nephi 9:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "3 Nephi 11–28",
+      "basis": "exact",
+      "ref": "3 Nephi 11–28",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "John 10:16",
+      "basis": "exact",
+      "ref": "John 10:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "3 Nephi 16:1",
+      "basis": "exact",
+      "ref": "3 Nephi 16:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "3 Nephi 16:2–3",
+      "basis": "exact",
+      "ref": "3 Nephi 16:2–3",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "3 Nephi 17:4",
+      "basis": "exact",
+      "ref": "3 Nephi 17:4",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "2 Nephi 29:7",
+      "basis": "exact",
+      "ref": "2 Nephi 29:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "2 Nephi 26:33",
+      "basis": "exact",
+      "ref": "2 Nephi 26:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Alma 5:49",
+      "basis": "exact",
+      "ref": "Alma 5:49",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "2 Nephi 26:13",
+      "basis": "exact",
+      "ref": "2 Nephi 26:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "2 Nephi 29:13",
+      "basis": "exact",
+      "ref": "2 Nephi 29:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "Moses 7:62",
+      "basis": "exact",
+      "ref": "Moses 7:62",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "Title page of the Book of Mormon",
+      "basis": "exact",
+      "ref": "Title page of the Book of Mormon",
+      "spoken": false
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "See Patrick Kearon, “God’s Intent Is to Bring You Home,” Liahona, May 2024, 87.",
+      "basis": "exact",
+      "ref": "God’s Intent Is to Bring You Home"
+    }
+  ]
+}

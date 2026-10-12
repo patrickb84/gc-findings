@@ -1,0 +1,4056 @@
+[
+  {
+    "term": "christ",
+    "kind": "keyword",
+    "variants": [
+      "christ"
+    ],
+    "mentions": 48,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "jesus",
+    "kind": "keyword",
+    "variants": [
+      "jesus"
+    ],
+    "mentions": 41,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "jesus christ",
+    "kind": "keyword",
+    "variants": [
+      "jesus christ"
+    ],
+    "mentions": 38,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lord",
+    "kind": "keyword",
+    "variants": [
+      "lord"
+    ],
+    "mentions": 34,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "come",
+    "kind": "keyword",
+    "variants": [
+      "come"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "faith",
+    "kind": "keyword",
+    "variants": [
+      "faith"
+    ],
+    "mentions": 17,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "first",
+    "kind": "keyword",
+    "variants": [
+      "first"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "father",
+    "kind": "keyword",
+    "variants": [
+      "father"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "church",
+    "kind": "keyword",
+    "variants": [
+      "church"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "day",
+    "kind": "keyword",
+    "variants": [
+      "day"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "name",
+    "kind": "keyword",
+    "variants": [
+      "name"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heavenly",
+    "kind": "keyword",
+    "variants": [
+      "heavenly"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "amen",
+    "kind": "keyword",
+    "variants": [
+      "amen"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "christ amen",
+    "kind": "keyword",
+    "variants": [
+      "christ amen"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "jesus christ amen",
+    "kind": "keyword",
+    "variants": [
+      "jesus christ amen"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "name of jesus",
+    "kind": "keyword",
+    "variants": [
+      "name of jesus"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "temple",
+    "kind": "keyword",
+    "variants": [
+      "temple"
+    ],
+    "mentions": 53,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "god",
+    "kind": "keyword",
+    "variants": [
+      "god"
+    ],
+    "mentions": 34,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "covenants",
+    "kind": "keyword",
+    "variants": [
+      "covenants"
+    ],
+    "mentions": 25,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "covenant",
+    "kind": "keyword",
+    "variants": [
+      "covenant"
+    ],
+    "mentions": 18,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president",
+    "kind": "keyword",
+    "variants": [
+      "president"
+    ],
+    "mentions": 18,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "make",
+    "kind": "keyword",
+    "variants": [
+      "make"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "spirit",
+    "kind": "keyword",
+    "variants": [
+      "spirit"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "children",
+    "kind": "keyword",
+    "variants": [
+      "children"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "see",
+    "kind": "keyword",
+    "variants": [
+      "see"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "know",
+    "kind": "keyword",
+    "variants": [
+      "know"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "eternal",
+    "kind": "keyword",
+    "variants": [
+      "eternal"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "plan",
+    "kind": "keyword",
+    "variants": [
+      "plan"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "means",
+    "kind": "keyword",
+    "variants": [
+      "means"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "strong",
+    "kind": "keyword",
+    "variants": [
+      "strong"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "great",
+    "kind": "keyword",
+    "variants": [
+      "great"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "learn",
+    "kind": "keyword",
+    "variants": [
+      "learn"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "never",
+    "kind": "keyword",
+    "variants": [
+      "never"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "time",
+    "kind": "keyword",
+    "variants": [
+      "time"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "feel",
+    "kind": "keyword",
+    "variants": [
+      "feel"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prophet",
+    "kind": "keyword",
+    "variants": [
+      "prophet"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heavenly father",
+    "kind": "keyword",
+    "variants": [
+      "heavenly father"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "love",
+    "kind": "keyword",
+    "variants": [
+      "love"
+    ],
+    "mentions": 30,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "truth",
+    "kind": "keyword",
+    "variants": [
+      "truth"
+    ],
+    "mentions": 19,
+    "talks": [
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "unto",
+    "kind": "keyword",
+    "variants": [
+      "unto"
+    ],
+    "mentions": 17,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior",
+    "kind": "keyword",
+    "variants": [
+      "savior"
+    ],
+    "mentions": 15,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "keep",
+    "kind": "keyword",
+    "variants": [
+      "keep"
+    ],
+    "mentions": 14,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "help",
+    "kind": "keyword",
+    "variants": [
+      "help"
+    ],
+    "mentions": 12,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "consider",
+    "kind": "keyword",
+    "variants": [
+      "consider"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "holy",
+    "kind": "keyword",
+    "variants": [
+      "holy"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "spiritual",
+    "kind": "keyword",
+    "variants": [
+      "spiritual"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "blessings",
+    "kind": "keyword",
+    "variants": [
+      "blessings"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "promise",
+    "kind": "keyword",
+    "variants": [
+      "promise"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "become",
+    "kind": "keyword",
+    "variants": [
+      "become"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bless",
+    "kind": "keyword",
+    "variants": [
+      "bless"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "covenant path",
+    "kind": "keyword",
+    "variants": [
+      "covenant path"
+    ],
+    "mentions": 7,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "god's",
+    "kind": "keyword",
+    "variants": [
+      "god's"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "oaks",
+    "kind": "keyword",
+    "variants": [
+      "oaks"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "path",
+    "kind": "keyword",
+    "variants": [
+      "path"
+    ],
+    "mentions": 7,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "remember",
+    "kind": "keyword",
+    "variants": [
+      "remember"
+    ],
+    "mentions": 7,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bring",
+    "kind": "keyword",
+    "variants": [
+      "bring"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "conference",
+    "kind": "keyword",
+    "variants": [
+      "conference"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lives",
+    "kind": "keyword",
+    "variants": [
+      "lives"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "personal",
+    "kind": "keyword",
+    "variants": [
+      "personal"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sacred",
+    "kind": "keyword",
+    "variants": [
+      "sacred"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sometimes",
+    "kind": "keyword",
+    "variants": [
+      "sometimes"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "always",
+    "kind": "keyword",
+    "variants": [
+      "always"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "commandments",
+    "kind": "keyword",
+    "variants": [
+      "commandments"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heart",
+    "kind": "keyword",
+    "variants": [
+      "heart"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heaven",
+    "kind": "keyword",
+    "variants": [
+      "heaven"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "loving",
+    "kind": "keyword",
+    "variants": [
+      "loving"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "peace",
+    "kind": "keyword",
+    "variants": [
+      "peace"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "taught",
+    "kind": "keyword",
+    "variants": [
+      "taught"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "world",
+    "kind": "keyword",
+    "variants": [
+      "world"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "atonement",
+    "kind": "keyword",
+    "variants": [
+      "atonement"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "find",
+    "kind": "keyword",
+    "variants": [
+      "find"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "forward",
+    "kind": "keyword",
+    "variants": [
+      "forward"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "go",
+    "kind": "keyword",
+    "variants": [
+      "go"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "gospel",
+    "kind": "keyword",
+    "variants": [
+      "gospel"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "happy",
+    "kind": "keyword",
+    "variants": [
+      "happy"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "leaders",
+    "kind": "keyword",
+    "variants": [
+      "leaders"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "years",
+    "kind": "keyword",
+    "variants": [
+      "years"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "best",
+    "kind": "keyword",
+    "variants": [
+      "best"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dallin",
+    "kind": "keyword",
+    "variants": [
+      "dallin"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dallin h",
+    "kind": "keyword",
+    "variants": [
+      "dallin h"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dallin h oaks",
+    "kind": "keyword",
+    "variants": [
+      "dallin h oaks"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "elder",
+    "kind": "keyword",
+    "variants": [
+      "elder"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "faithful",
+    "kind": "keyword",
+    "variants": [
+      "faithful"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "focus",
+    "kind": "keyword",
+    "variants": [
+      "focus"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "h",
+    "kind": "keyword",
+    "variants": [
+      "h"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "h oaks",
+    "kind": "keyword",
+    "variants": [
+      "h oaks"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "hold",
+    "kind": "keyword",
+    "variants": [
+      "hold"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "including",
+    "kind": "keyword",
+    "variants": [
+      "including"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "invitation",
+    "kind": "keyword",
+    "variants": [
+      "invitation"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "joy",
+    "kind": "keyword",
+    "variants": [
+      "joy"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "look",
+    "kind": "keyword",
+    "variants": [
+      "look"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "made",
+    "kind": "keyword",
+    "variants": [
+      "made"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "man",
+    "kind": "keyword",
+    "variants": [
+      "man"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "needed",
+    "kind": "keyword",
+    "variants": [
+      "needed"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "person",
+    "kind": "keyword",
+    "variants": [
+      "person"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prayer",
+    "kind": "keyword",
+    "variants": [
+      "prayer"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president dallin",
+    "kind": "keyword",
+    "variants": [
+      "president dallin"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president dallin h",
+    "kind": "keyword",
+    "variants": [
+      "president dallin h"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior's",
+    "kind": "keyword",
+    "variants": [
+      "savior's"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "two",
+    "kind": "keyword",
+    "variants": [
+      "two"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "worship",
+    "kind": "keyword",
+    "variants": [
+      "worship"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "family",
+    "kind": "keyword",
+    "variants": [
+      "family"
+    ],
+    "mentions": 16,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "book",
+    "kind": "keyword",
+    "variants": [
+      "book"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sacrament",
+    "kind": "keyword",
+    "variants": [
+      "sacrament"
+    ],
+    "mentions": 11,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "earth",
+    "kind": "keyword",
+    "variants": [
+      "earth"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "members",
+    "kind": "keyword",
+    "variants": [
+      "members"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "others",
+    "kind": "keyword",
+    "variants": [
+      "others"
+    ],
+    "mentions": 9,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "house",
+    "kind": "keyword",
+    "variants": [
+      "house"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "men",
+    "kind": "keyword",
+    "variants": [
+      "men"
+    ],
+    "mentions": 8,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior jesus",
+    "kind": "keyword",
+    "variants": [
+      "savior jesus"
+    ],
+    "mentions": 8,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "savior jesus christ",
+    "kind": "keyword",
+    "variants": [
+      "savior jesus christ"
+    ],
+    "mentions": 8,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "teachings",
+    "kind": "keyword",
+    "variants": [
+      "teachings"
+    ],
+    "mentions": 7,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ways",
+    "kind": "keyword",
+    "variants": [
+      "ways"
+    ],
+    "mentions": 7,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "believe",
+    "kind": "keyword",
+    "variants": [
+      "believe"
+    ],
+    "mentions": 6,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "come unto",
+    "kind": "keyword",
+    "variants": [
+      "come unto"
+    ],
+    "mentions": 6,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dear",
+    "kind": "keyword",
+    "variants": [
+      "dear"
+    ],
+    "mentions": 6,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "need",
+    "kind": "keyword",
+    "variants": [
+      "need"
+    ],
+    "mentions": 6,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "partake",
+    "kind": "keyword",
+    "variants": [
+      "partake"
+    ],
+    "mentions": 6,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "way",
+    "kind": "keyword",
+    "variants": [
+      "way"
+    ],
+    "mentions": 6,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "closer",
+    "kind": "keyword",
+    "variants": [
+      "closer"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "culture",
+    "kind": "keyword",
+    "variants": [
+      "culture"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doctrinal",
+    "kind": "keyword",
+    "variants": [
+      "doctrinal"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "foundation",
+    "kind": "keyword",
+    "variants": [
+      "foundation"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "humility",
+    "kind": "keyword",
+    "variants": [
+      "humility"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "include",
+    "kind": "keyword",
+    "variants": [
+      "include"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "live",
+    "kind": "keyword",
+    "variants": [
+      "live"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "nelson",
+    "kind": "keyword",
+    "variants": [
+      "nelson"
+    ],
+    "mentions": 5,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "new",
+    "kind": "keyword",
+    "variants": [
+      "new"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "promises",
+    "kind": "keyword",
+    "variants": [
+      "promises"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "second",
+    "kind": "keyword",
+    "variants": [
+      "second"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "service",
+    "kind": "keyword",
+    "variants": [
+      "service"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "today",
+    "kind": "keyword",
+    "variants": [
+      "today"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "work",
+    "kind": "keyword",
+    "variants": [
+      "work"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ye",
+    "kind": "keyword",
+    "variants": [
+      "ye"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "according",
+    "kind": "keyword",
+    "variants": [
+      "according"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "choose",
+    "kind": "keyword",
+    "variants": [
+      "choose"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "conditions",
+    "kind": "keyword",
+    "variants": [
+      "conditions"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "father's",
+    "kind": "keyword",
+    "variants": [
+      "father's"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "gave",
+    "kind": "keyword",
+    "variants": [
+      "gave"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "latter",
+    "kind": "keyword",
+    "variants": [
+      "latter"
+    ],
+    "mentions": 4,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "life",
+    "kind": "keyword",
+    "variants": [
+      "life"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "loved",
+    "kind": "keyword",
+    "variants": [
+      "loved"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "place",
+    "kind": "keyword",
+    "variants": [
+      "place"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president oaks",
+    "kind": "keyword",
+    "variants": [
+      "president oaks"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "principle",
+    "kind": "keyword",
+    "variants": [
+      "principle"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "salvation",
+    "kind": "keyword",
+    "variants": [
+      "salvation"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "son",
+    "kind": "keyword",
+    "variants": [
+      "son"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "speak",
+    "kind": "keyword",
+    "variants": [
+      "speak"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "takes",
+    "kind": "keyword",
+    "variants": [
+      "takes"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "temple covenants",
+    "kind": "keyword",
+    "variants": [
+      "temple covenants"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "things",
+    "kind": "keyword",
+    "variants": [
+      "things"
+    ],
+    "mentions": 4,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ability",
+    "kind": "keyword",
+    "variants": [
+      "ability"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "away",
+    "kind": "keyword",
+    "variants": [
+      "away"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "back",
+    "kind": "keyword",
+    "variants": [
+      "back"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brothers",
+    "kind": "keyword",
+    "variants": [
+      "brothers"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brothers and sisters",
+    "kind": "keyword",
+    "variants": [
+      "brothers and sisters"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "call",
+    "kind": "keyword",
+    "variants": [
+      "call"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "chose",
+    "kind": "keyword",
+    "variants": [
+      "chose"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "church of jesus",
+    "kind": "keyword",
+    "variants": [
+      "church of jesus"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "concern",
+    "kind": "keyword",
+    "variants": [
+      "concern"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "continue",
+    "kind": "keyword",
+    "variants": [
+      "continue"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "day saints",
+    "kind": "keyword",
+    "variants": [
+      "day saints"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dear brothers",
+    "kind": "keyword",
+    "variants": [
+      "dear brothers"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "dedicate",
+    "kind": "keyword",
+    "variants": [
+      "dedicate"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "desire",
+    "kind": "keyword",
+    "variants": [
+      "desire"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "different",
+    "kind": "keyword",
+    "variants": [
+      "different"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doctrine",
+    "kind": "keyword",
+    "variants": [
+      "doctrine"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "draw",
+    "kind": "keyword",
+    "variants": [
+      "draw"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "efforts",
+    "kind": "keyword",
+    "variants": [
+      "efforts"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "else",
+    "kind": "keyword",
+    "variants": [
+      "else"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "families",
+    "kind": "keyword",
+    "variants": [
+      "families"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "felt",
+    "kind": "keyword",
+    "variants": [
+      "felt"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "five",
+    "kind": "keyword",
+    "variants": [
+      "five"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "forgive",
+    "kind": "keyword",
+    "variants": [
+      "forgive"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "forgiveness",
+    "kind": "keyword",
+    "variants": [
+      "forgiveness"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ghost",
+    "kind": "keyword",
+    "variants": [
+      "ghost"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "grateful",
+    "kind": "keyword",
+    "variants": [
+      "grateful"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "greater",
+    "kind": "keyword",
+    "variants": [
+      "greater"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "happiness",
+    "kind": "keyword",
+    "variants": [
+      "happiness"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "hearts",
+    "kind": "keyword",
+    "variants": [
+      "hearts"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "holy ghost",
+    "kind": "keyword",
+    "variants": [
+      "holy ghost"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "home",
+    "kind": "keyword",
+    "variants": [
+      "home"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "inspired",
+    "kind": "keyword",
+    "variants": [
+      "inspired"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "invite",
+    "kind": "keyword",
+    "variants": [
+      "invite"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "knows",
+    "kind": "keyword",
+    "variants": [
+      "knows"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "last",
+    "kind": "keyword",
+    "variants": [
+      "last"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "latter day",
+    "kind": "keyword",
+    "variants": [
+      "latter day"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "latter day saints",
+    "kind": "keyword",
+    "variants": [
+      "latter day saints"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "learning",
+    "kind": "keyword",
+    "variants": [
+      "learning"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "light",
+    "kind": "keyword",
+    "variants": [
+      "light"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lord jesus",
+    "kind": "keyword",
+    "variants": [
+      "lord jesus"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lord jesus christ",
+    "kind": "keyword",
+    "variants": [
+      "lord jesus christ"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lost",
+    "kind": "keyword",
+    "variants": [
+      "lost"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "love the lord",
+    "kind": "keyword",
+    "variants": [
+      "love the lord"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "overcome",
+    "kind": "keyword",
+    "variants": [
+      "overcome"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "part",
+    "kind": "keyword",
+    "variants": [
+      "part"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "people",
+    "kind": "keyword",
+    "variants": [
+      "people"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "physically",
+    "kind": "keyword",
+    "variants": [
+      "physically"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "possible",
+    "kind": "keyword",
+    "variants": [
+      "possible"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "priority",
+    "kind": "keyword",
+    "variants": [
+      "priority"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "protect",
+    "kind": "keyword",
+    "variants": [
+      "protect"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "reminded",
+    "kind": "keyword",
+    "variants": [
+      "reminded"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "repentance",
+    "kind": "keyword",
+    "variants": [
+      "repentance"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "request",
+    "kind": "keyword",
+    "variants": [
+      "request"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "return",
+    "kind": "keyword",
+    "variants": [
+      "return"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "saints",
+    "kind": "keyword",
+    "variants": [
+      "saints"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "show",
+    "kind": "keyword",
+    "variants": [
+      "show"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sin",
+    "kind": "keyword",
+    "variants": [
+      "sin"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sister",
+    "kind": "keyword",
+    "variants": [
+      "sister"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sisters",
+    "kind": "keyword",
+    "variants": [
+      "sisters"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "son jesus",
+    "kind": "keyword",
+    "variants": [
+      "son jesus"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "son jesus christ",
+    "kind": "keyword",
+    "variants": [
+      "son jesus christ"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "state",
+    "kind": "keyword",
+    "variants": [
+      "state"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "take",
+    "kind": "keyword",
+    "variants": [
+      "take"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "teaches",
+    "kind": "keyword",
+    "variants": [
+      "teaches"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "third",
+    "kind": "keyword",
+    "variants": [
+      "third"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "times",
+    "kind": "keyword",
+    "variants": [
+      "times"
+    ],
+    "mentions": 3,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "wait",
+    "kind": "keyword",
+    "variants": [
+      "wait"
+    ],
+    "mentions": 3,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "act",
+    "kind": "keyword",
+    "variants": [
+      "act"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "actions",
+    "kind": "keyword",
+    "variants": [
+      "actions"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "ago",
+    "kind": "keyword",
+    "variants": [
+      "ago"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "alone",
+    "kind": "keyword",
+    "variants": [
+      "alone"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "april",
+    "kind": "keyword",
+    "variants": [
+      "april"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "attendance",
+    "kind": "keyword",
+    "variants": [
+      "attendance"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "authority",
+    "kind": "keyword",
+    "variants": [
+      "authority"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "baptism",
+    "kind": "keyword",
+    "variants": [
+      "baptism"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "beautiful",
+    "kind": "keyword",
+    "variants": [
+      "beautiful"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "bitterness",
+    "kind": "keyword",
+    "variants": [
+      "bitterness"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "brought",
+    "kind": "keyword",
+    "variants": [
+      "brought"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "care",
+    "kind": "keyword",
+    "variants": [
+      "care"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "challenging",
+    "kind": "keyword",
+    "variants": [
+      "challenging"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "christ of latter",
+    "kind": "keyword",
+    "variants": [
+      "christ of latter"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "christ's",
+    "kind": "keyword",
+    "variants": [
+      "christ's"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "commanded",
+    "kind": "keyword",
+    "variants": [
+      "commanded"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "consistent",
+    "kind": "keyword",
+    "variants": [
+      "consistent"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "contradict",
+    "kind": "keyword",
+    "variants": [
+      "contradict"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "days",
+    "kind": "keyword",
+    "variants": [
+      "days"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "difficult",
+    "kind": "keyword",
+    "variants": [
+      "difficult"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doors",
+    "kind": "keyword",
+    "variants": [
+      "doors"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doubts",
+    "kind": "keyword",
+    "variants": [
+      "doubts"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "earlier",
+    "kind": "keyword",
+    "variants": [
+      "earlier"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "end",
+    "kind": "keyword",
+    "variants": [
+      "end"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "explained",
+    "kind": "keyword",
+    "variants": [
+      "explained"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "extends",
+    "kind": "keyword",
+    "variants": [
+      "extends"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "fifth",
+    "kind": "keyword",
+    "variants": [
+      "fifth"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "follow",
+    "kind": "keyword",
+    "variants": [
+      "follow"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "fourth",
+    "kind": "keyword",
+    "variants": [
+      "fourth"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "general",
+    "kind": "keyword",
+    "variants": [
+      "general"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "general conference",
+    "kind": "keyword",
+    "variants": [
+      "general conference"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "give",
+    "kind": "keyword",
+    "variants": [
+      "give"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "given",
+    "kind": "keyword",
+    "variants": [
+      "given"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "glorious",
+    "kind": "keyword",
+    "variants": [
+      "glorious"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "guide",
+    "kind": "keyword",
+    "variants": [
+      "guide"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "heard",
+    "kind": "keyword",
+    "variants": [
+      "heard"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "holy house",
+    "kind": "keyword",
+    "variants": [
+      "holy house"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "honored",
+    "kind": "keyword",
+    "variants": [
+      "honored"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "hope",
+    "kind": "keyword",
+    "variants": [
+      "hope"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "increase",
+    "kind": "keyword",
+    "variants": [
+      "increase"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "keep the commandments",
+    "kind": "keyword",
+    "variants": [
+      "keep the commandments"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "keeping",
+    "kind": "keyword",
+    "variants": [
+      "keeping"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "kept",
+    "kind": "keyword",
+    "variants": [
+      "kept"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "kind",
+    "kind": "keyword",
+    "variants": [
+      "kind"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "led",
+    "kind": "keyword",
+    "variants": [
+      "led"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "limit",
+    "kind": "keyword",
+    "variants": [
+      "limit"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "loves",
+    "kind": "keyword",
+    "variants": [
+      "loves"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "m",
+    "kind": "keyword",
+    "variants": [
+      "m"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "m nelson",
+    "kind": "keyword",
+    "variants": [
+      "m nelson"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "mention",
+    "kind": "keyword",
+    "variants": [
+      "mention"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "messages",
+    "kind": "keyword",
+    "variants": [
+      "messages"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "next",
+    "kind": "keyword",
+    "variants": [
+      "next"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "old",
+    "kind": "keyword",
+    "variants": [
+      "old"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "perhaps",
+    "kind": "keyword",
+    "variants": [
+      "perhaps"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "physical",
+    "kind": "keyword",
+    "variants": [
+      "physical"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "places",
+    "kind": "keyword",
+    "variants": [
+      "places"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "plan of happiness",
+    "kind": "keyword",
+    "variants": [
+      "plan of happiness"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "pray",
+    "kind": "keyword",
+    "variants": [
+      "pray"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prepared",
+    "kind": "keyword",
+    "variants": [
+      "prepared"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "prepares",
+    "kind": "keyword",
+    "variants": [
+      "prepares"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president russell",
+    "kind": "keyword",
+    "variants": [
+      "president russell"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "president russell m",
+    "kind": "keyword",
+    "variants": [
+      "president russell m"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "principles",
+    "kind": "keyword",
+    "variants": [
+      "principles"
+    ],
+    "mentions": 2,
+    "talks": [
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "rather",
+    "kind": "keyword",
+    "variants": [
+      "rather"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "reached",
+    "kind": "keyword",
+    "variants": [
+      "reached"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "reasons",
+    "kind": "keyword",
+    "variants": [
+      "reasons"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "received",
+    "kind": "keyword",
+    "variants": [
+      "received"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "relationship",
+    "kind": "keyword",
+    "variants": [
+      "relationship"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "require",
+    "kind": "keyword",
+    "variants": [
+      "require"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "restored",
+    "kind": "keyword",
+    "variants": [
+      "restored"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "right",
+    "kind": "keyword",
+    "variants": [
+      "right"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "role",
+    "kind": "keyword",
+    "variants": [
+      "role"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "russell",
+    "kind": "keyword",
+    "variants": [
+      "russell"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "russell m",
+    "kind": "keyword",
+    "variants": [
+      "russell m"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "russell m nelson",
+    "kind": "keyword",
+    "variants": [
+      "russell m nelson"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "scripture",
+    "kind": "keyword",
+    "variants": [
+      "scripture"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "48schmeil"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "scriptures",
+    "kind": "keyword",
+    "variants": [
+      "scriptures"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "seek",
+    "kind": "keyword",
+    "variants": [
+      "seek"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "similarly",
+    "kind": "keyword",
+    "variants": [
+      "similarly"
+    ],
+    "mentions": 2,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "sins",
+    "kind": "keyword",
+    "variants": [
+      "sins"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "spiritually",
+    "kind": "keyword",
+    "variants": [
+      "spiritually"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "started",
+    "kind": "keyword",
+    "variants": [
+      "started"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "discovered"
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "id": "59gilbert",
+  "kind": "talk",
+  "speaker": "Clark G. Gilbert",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Teach Truth with Love",
+  "session": "Sunday Afternoon Session",
+  "order": 36,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/59gilbert?lang=eng",
+  "pronouns": {
+    "i": 46,
+    "we": 36,
+    "you": 17
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "1 John 4:19",
+      "basis": "exact",
+      "ref": "1 John 4:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "John 8:11",
+      "basis": "exact",
+      "ref": "John 8:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Moroni 7:45",
+      "basis": "exact",
+      "ref": "Moroni 7:45",
+      "spoken": false
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "See Dallin H. Oaks, “Going Forward with Religious Freedom and Nondiscrimination” (Joseph Smith Lecture at the University of Virginia, Nov. 12, 2021), mormonstudies.as.virginia.edu/event/dallin-h-oaks-going-forward-with-religious-freedom-nondiscrimination/; see also Dallin H. Oaks and Clark G. Gilbert, “Stand Fast with Love in Proclaiming Truth” (Ensign College devotional, May 17, 2022), speeches.ensign.edu; Dallin H. Oaks and Kristen M. Oaks, “Stand for Truth” (worldwide devotional for young adults, May 21, 2023), Gospel Library; Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 85–87.",
+      "basis": "exact",
+      "ref": "Stand for Truth"
+    },
+    {
+      "id": "x-n2",
+      "type": "source",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” 86.",
+      "basis": "exact",
+      "ref": "Alive in Christ"
+    },
+    {
+      "id": "x-n3",
+      "type": "source",
+      "quote": "Russell M. Nelson, “Peacemakers Needed,” Liahona, May 2023, 101.",
+      "basis": "exact",
+      "ref": "Peacemakers Needed"
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "Both President Nelson and President Oaks have specifically referred to tense interactions on social media. (See Russell M. Nelson, “Peacemakers Needed,” 100; Dallin H. Oaks and Clark G. Gilbert, “Stand Fast with Love in Proclaiming Truth.”)",
+      "basis": "exact",
+      "ref": "Peacemakers Needed"
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "Neil L. Andersen, “Following Jesus: Being a Peacemaker,” Liahona, May 2022, 19.",
+      "basis": "exact",
+      "ref": "Following Jesus: Being a Peacemaker"
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "Russell M. Nelson, “Choices for Eternity” (worldwide devotional for young adults, May 15, 2022), Gospel Library.",
+      "basis": "exact",
+      "ref": "Choices for Eternity"
+    },
+    {
+      "id": "x-n9",
+      "type": "source",
+      "quote": "See J. Anette Dennis, “His Yoke Is Easy and His Burden Is Light,” Liahona, Nov. 2022, 80.",
+      "basis": "exact",
+      "ref": "His Yoke Is Easy and His Burden Is Light"
+    },
+    {
+      "id": "x-n11",
+      "type": "source",
+      "quote": "Russell M. Nelson, “Choices for Eternity.”",
+      "basis": "exact",
+      "ref": "Choices for Eternity"
+    },
+    {
+      "id": "x-n12",
+      "type": "source",
+      "quote": "Vincent Alma Wood, quoted in Tamara W. Runia, “Seeing God’s Family Through the Overview Lens,” Liahona, Nov. 2023, 67.",
+      "basis": "exact",
+      "ref": "Seeing God’s Family Through the Overview Lens"
+    },
+    {
+      "id": "x-n14",
+      "type": "source",
+      "quote": "Dallin H. Oaks, “Alive in Christ,” 86.",
+      "basis": "exact",
+      "ref": "Alive in Christ"
+    },
+    {
+      "id": "x-n15",
+      "type": "source",
+      "quote": "Jeffrey R. Holland, “The Cost—and Blessings—of Discipleship,” Liahona, May 2014, 8.",
+      "basis": "exact",
+      "ref": "The Cost—and Blessings—of Discipleship"
+    },
+    {
+      "id": "x-n20",
+      "type": "source",
+      "quote": "Russell M. Nelson, “Hear Him,” Liahona, May 2020, 89.",
+      "basis": "exact",
+      "ref": "Hear Him"
+    }
+  ]
+}

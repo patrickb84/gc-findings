@@ -1,0 +1,116 @@
+{
+  "id": "12gong",
+  "kind": "talk",
+  "speaker": "Gerrit W. Gong",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "Come to the Lord in His Holy House",
+  "session": "Saturday Morning Session",
+  "order": 1,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng",
+  "pronouns": {
+    "i": 13,
+    "we": 59,
+    "you": 9
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Moses 1:39",
+      "basis": "exact",
+      "ref": "Moses 1:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Job 38:7",
+      "basis": "exact",
+      "ref": "Job 38:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 76:39–43",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 76:39–43",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Articles of Faith 1:10",
+      "basis": "exact",
+      "ref": "Articles of Faith 1:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Alma 34:33",
+      "basis": "exact",
+      "ref": "Alma 34:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Acts 2:33",
+      "basis": "exact",
+      "ref": "Acts 2:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 76:53",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 76:53",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "132:7, 18–19, 26",
+      "basis": "exact",
+      "ref": "132:7, 18–19, 26",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 132:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 132:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 132:19",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 132:19",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 128:9",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 128:9",
+      "spoken": false
+    },
+    {
+      "id": "x-n4",
+      "type": "source",
+      "quote": "See Dallin H. Oaks, “Kingdoms of Glory,” Liahona, Nov. 2023, 26.",
+      "basis": "exact",
+      "ref": "Kingdoms of Glory"
+    }
+  ]
+}

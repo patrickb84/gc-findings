@@ -5,7 +5,7 @@
   "scripts": {
     "test": "vitest run",
     "typecheck": "tsc",
-    "fetch": "node scripts/fetch.ts",
+    "fetch-talks": "node scripts/fetch.ts",
     "skeleton": "node scripts/skeleton.ts",
     "check": "node scripts/check-quotes.ts"
   },

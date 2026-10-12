@@ -1,0 +1,136 @@
+{
+  "id": "48schmeil",
+  "kind": "talk",
+  "speaker": "Ciro Schmeil",
+  "role": "Of the Seventy",
+  "title": "Consider Your Ways, and from This Day Will the Lord Bless You",
+  "session": "Sunday Morning Session",
+  "order": 26,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/48schmeil?lang=eng",
+  "pronouns": {
+    "i": 27,
+    "we": 65,
+    "you": 13
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Alma 42:8",
+      "basis": "exact",
+      "ref": "Alma 42:8",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Alma 34:32",
+      "basis": "exact",
+      "ref": "Alma 34:32",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Ether 12:27",
+      "basis": "exact",
+      "ref": "Ether 12:27",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Matthew 11:28–30",
+      "basis": "exact",
+      "ref": "Matthew 11:28–30",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Luke 22:19–20",
+      "basis": "exact",
+      "ref": "Luke 22:19–20",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "3 Nephi 18:11",
+      "basis": "exact",
+      "ref": "3 Nephi 18:11",
+      "spoken": true
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Haggai 1:5–7, 9",
+      "basis": "exact",
+      "ref": "Haggai 1:5–7, 9",
+      "spoken": true
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Haggai 2:19",
+      "basis": "exact",
+      "ref": "Haggai 2:19",
+      "spoken": true
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Haggai 2:19",
+      "basis": "exact",
+      "ref": "Haggai 2:19",
+      "spoken": true
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Mosiah 2:41",
+      "basis": "exact",
+      "ref": "Mosiah 2:41",
+      "spoken": true
+    },
+    {
+      "id": "x-n1",
+      "type": "source",
+      "quote": "See Dallin H. Oaks, “Divine Helps for Mortality,” Liahona, May 2025, 104–6.",
+      "basis": "exact",
+      "ref": "Divine Helps for Mortality"
+    },
+    {
+      "id": "x-n3",
+      "type": "source",
+      "quote": "Dallin H. Oaks, “Divine Helps for Mortality,” 104.",
+      "basis": "exact",
+      "ref": "Divine Helps for Mortality"
+    },
+    {
+      "id": "x-n4",
+      "type": "source",
+      "quote": "General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints, 3.5.2, Gospel Library.",
+      "basis": "exact",
+      "ref": "3.5.2"
+    },
+    {
+      "id": "x-n5",
+      "type": "source",
+      "quote": "See Dale G. Renlund, “Unwavering Commitment to Jesus Christ,” Liahona, Nov. 2019, 25, note 18.",
+      "basis": "exact",
+      "ref": "Unwavering Commitment to Jesus Christ"
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 88.",
+      "basis": "exact",
+      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ"
+    }
+  ]
+}

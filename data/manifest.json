@@ -1,0 +1,309 @@
+{
+  "conference": "/general-conference/2026/10",
+  "entries": [
+    {
+      "slug": "12gong",
+      "uri": "/general-conference/2026/10/12gong",
+      "speaker": "Gerrit W. Gong",
+      "title": "Come to the Lord in His Holy House",
+      "session": "Saturday Morning Session",
+      "order": 1
+    },
+    {
+      "slug": "13runia",
+      "uri": "/general-conference/2026/10/13runia",
+      "speaker": "Tamara W. Runia",
+      "title": "The Sculpting of Our Souls",
+      "session": "Saturday Morning Session",
+      "order": 2
+    },
+    {
+      "slug": "14causse",
+      "uri": "/general-conference/2026/10/14causse",
+      "speaker": "Gérald Caussé",
+      "title": "The Gift of Testimony",
+      "session": "Saturday Morning Session",
+      "order": 3
+    },
+    {
+      "slug": "15sikahema",
+      "uri": "/general-conference/2026/10/15sikahema",
+      "speaker": "Vaiangina Sikahema",
+      "title": "Prophets, Seers, and Revelators",
+      "session": "Saturday Morning Session",
+      "order": 4
+    },
+    {
+      "slug": "16hathaway",
+      "uri": "/general-conference/2026/10/16hathaway",
+      "speaker": "Kevin J. Hathaway",
+      "title": "Jesus Christ Is the Great Deliverer!",
+      "session": "Saturday Morning Session",
+      "order": 5
+    },
+    {
+      "slug": "17soares",
+      "uri": "/general-conference/2026/10/17soares",
+      "speaker": "Ulisses Soares",
+      "title": "A Higher and Holier Fast",
+      "session": "Saturday Morning Session",
+      "order": 6
+    },
+    {
+      "slug": "18douglas",
+      "uri": "/general-conference/2026/10/18douglas",
+      "speaker": "Sean Douglas",
+      "title": "The Hour of Your Mission Is Come",
+      "session": "Saturday Morning Session",
+      "order": 7
+    },
+    {
+      "slug": "19christofferson",
+      "uri": "/general-conference/2026/10/19christofferson",
+      "speaker": "D. Todd Christofferson",
+      "title": "O Be Wise",
+      "session": "Saturday Morning Session",
+      "order": 8
+    },
+    {
+      "slug": "21renlund",
+      "uri": "/general-conference/2026/10/21renlund",
+      "speaker": "Dale G. Renlund",
+      "title": "“How Long Will It Be Ere They Believe Me?”",
+      "session": "Saturday Afternoon Session",
+      "order": 9
+    },
+    {
+      "slug": "22farnes",
+      "uri": "/general-conference/2026/10/22farnes",
+      "speaker": "Timothy L. Farnes",
+      "title": "Divine Appointments",
+      "session": "Saturday Afternoon Session",
+      "order": 10
+    },
+    {
+      "slug": "23chigbundu",
+      "uri": "/general-conference/2026/10/23chigbundu",
+      "speaker": "Christian C. Chigbundu",
+      "title": "Spiritual Immunity",
+      "session": "Saturday Afternoon Session",
+      "order": 11
+    },
+    {
+      "slug": "24giuffra",
+      "uri": "/general-conference/2026/10/24giuffra",
+      "speaker": "Patricio M. Giuffra",
+      "title": "Trusting the Lord Through Tithes and Offerings",
+      "session": "Saturday Afternoon Session",
+      "order": 12
+    },
+    {
+      "slug": "25morgan",
+      "uri": "/general-conference/2026/10/25morgan",
+      "speaker": "Jeremiah J. Morgan",
+      "title": "The Infinite Power of God in Our Covenants",
+      "session": "Saturday Afternoon Session",
+      "order": 13
+    },
+    {
+      "slug": "26fale",
+      "uri": "/general-conference/2026/10/26fale",
+      "speaker": "Hutch U. Fale",
+      "title": "I Am a Child of God",
+      "session": "Saturday Afternoon Session",
+      "order": 14
+    },
+    {
+      "slug": "27kearon",
+      "uri": "/general-conference/2026/10/27kearon",
+      "speaker": "Patrick Kearon",
+      "title": "Jesus Lives to Lift",
+      "session": "Saturday Afternoon Session",
+      "order": 15
+    },
+    {
+      "slug": "28dunn",
+      "uri": "/general-conference/2026/10/28dunn",
+      "speaker": "Michael A. Dunn",
+      "title": "The Ninety and Ten",
+      "session": "Saturday Afternoon Session",
+      "order": 16
+    },
+    {
+      "slug": "29eyring",
+      "uri": "/general-conference/2026/10/29eyring",
+      "speaker": "Matthew J. Eyring",
+      "title": "Comfort from the Holy Ghost",
+      "session": "Saturday Afternoon Session",
+      "order": 17
+    },
+    {
+      "slug": "210rasband",
+      "uri": "/general-conference/2026/10/210rasband",
+      "speaker": "Ronald A. Rasband",
+      "title": "Love Like Jesus",
+      "session": "Saturday Afternoon Session",
+      "order": 18
+    },
+    {
+      "slug": "41eyring",
+      "uri": "/general-conference/2026/10/41eyring",
+      "speaker": "Henry B. Eyring",
+      "title": "“Fear Not, I Am with Thee”",
+      "session": "Sunday Morning Session",
+      "order": 19
+    },
+    {
+      "slug": "42chibota",
+      "uri": "/general-conference/2026/10/42chibota",
+      "speaker": "Rosemary K. Chibota",
+      "title": "A Child of God",
+      "session": "Sunday Morning Session",
+      "order": 20
+    },
+    {
+      "slug": "43andersen",
+      "uri": "/general-conference/2026/10/43andersen",
+      "speaker": "Neil L. Andersen",
+      "title": "Courage Born of Our Faith in Jesus Christ",
+      "session": "Sunday Morning Session",
+      "order": 21
+    },
+    {
+      "slug": "44fantone",
+      "uri": "/general-conference/2026/10/44fantone",
+      "speaker": "James G. O. Fantone",
+      "title": "Take Upon Us His Name",
+      "session": "Sunday Morning Session",
+      "order": 22
+    },
+    {
+      "slug": "45dube",
+      "uri": "/general-conference/2026/10/45dube",
+      "speaker": "Edward Dube",
+      "title": "Come unto Christ",
+      "session": "Sunday Morning Session",
+      "order": 23
+    },
+    {
+      "slug": "46cook",
+      "uri": "/general-conference/2026/10/46cook",
+      "speaker": "Quentin L. Cook",
+      "title": "Integrity and Virtue Lead to Happiness",
+      "session": "Sunday Morning Session",
+      "order": 24
+    },
+    {
+      "slug": "47kyungu",
+      "uri": "/general-conference/2026/10/47kyungu",
+      "speaker": "Alfred Kyungu",
+      "title": "Using the Language of Peacemakers",
+      "session": "Sunday Morning Session",
+      "order": 25
+    },
+    {
+      "slug": "48schmeil",
+      "uri": "/general-conference/2026/10/48schmeil",
+      "speaker": "Ciro Schmeil",
+      "title": "Consider Your Ways, and from This Day Will the Lord Bless You",
+      "session": "Sunday Morning Session",
+      "order": 26
+    },
+    {
+      "slug": "49oaks",
+      "uri": "/general-conference/2026/10/49oaks",
+      "speaker": "Dallin H. Oaks",
+      "title": "The Gospel of Jesus Christ Is for All",
+      "session": "Sunday Morning Session",
+      "order": 27
+    },
+    {
+      "slug": "51uchtdorf",
+      "uri": "/general-conference/2026/10/51uchtdorf",
+      "speaker": "Dieter F. Uchtdorf",
+      "title": "Christ-Centered Unity",
+      "session": "Sunday Afternoon Session",
+      "order": 28
+    },
+    {
+      "slug": "52munoz-spannaus",
+      "uri": "/general-conference/2026/10/52munoz-spannaus",
+      "speaker": "Andrea Muñoz Spannaus",
+      "title": "God Is at Your Side",
+      "session": "Sunday Afternoon Session",
+      "order": 29
+    },
+    {
+      "slug": "53villanueva",
+      "uri": "/general-conference/2026/10/53villanueva",
+      "speaker": "Moisés Villanueva",
+      "title": "“Prove Me Now Herewith”",
+      "session": "Sunday Afternoon Session",
+      "order": 30
+    },
+    {
+      "slug": "54bednar",
+      "uri": "/general-conference/2026/10/54bednar",
+      "speaker": "David A. Bednar",
+      "title": "Sealed by the Holy Spirit of Promise",
+      "session": "Sunday Afternoon Session",
+      "order": 31
+    },
+    {
+      "slug": "55lebethoa",
+      "uri": "/general-conference/2026/10/55lebethoa",
+      "speaker": "Thabo Lebethoa",
+      "title": "Jesus Christ Is the Light and Life of the World",
+      "session": "Sunday Afternoon Session",
+      "order": 32
+    },
+    {
+      "slug": "56sinclair",
+      "uri": "/general-conference/2026/10/56sinclair",
+      "speaker": "Paul H. Sinclair",
+      "title": "Quick to Help, Slow to Judge",
+      "session": "Sunday Afternoon Session",
+      "order": 33
+    },
+    {
+      "slug": "57stevenson",
+      "uri": "/general-conference/2026/10/57stevenson",
+      "speaker": "Gary E. Stevenson",
+      "title": "Fruit to Make One Happy",
+      "session": "Sunday Afternoon Session",
+      "order": 34
+    },
+    {
+      "slug": "58reid",
+      "uri": "/general-conference/2026/10/58reid",
+      "speaker": "Gabriel W. Reid",
+      "title": "You Are Good Enough to Teach",
+      "session": "Sunday Afternoon Session",
+      "order": 35
+    },
+    {
+      "slug": "59gilbert",
+      "uri": "/general-conference/2026/10/59gilbert",
+      "speaker": "Clark G. Gilbert",
+      "title": "Teach Truth with Love",
+      "session": "Sunday Afternoon Session",
+      "order": 36
+    },
+    {
+      "slug": "510oaks",
+      "uri": "/general-conference/2026/10/510oaks",
+      "speaker": "Dallin H. Oaks",
+      "title": "Closing Remarks",
+      "session": "Sunday Afternoon Session",
+      "order": 37
+    }
+  ],
+  "pilot": [
+    "12gong",
+    "48schmeil",
+    "49oaks",
+    "59gilbert",
+    "510oaks"
+  ],
+  "hymn": null
+}

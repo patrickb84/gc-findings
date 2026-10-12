@@ -1,0 +1,29 @@
+{
+  "id": "510oaks",
+  "kind": "talk",
+  "speaker": "Dallin H. Oaks",
+  "role": "President of The Church of Jesus Christ of Latter-day Saints",
+  "title": "Closing Remarks",
+  "session": "Sunday Afternoon Session",
+  "order": 37,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/510oaks?lang=eng",
+  "pronouns": {
+    "i": 5,
+    "we": 15,
+    "you": 4
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "2 Nephi 28:30",
+      "basis": "exact",
+      "ref": "2 Nephi 28:30",
+      "spoken": false
+    }
+  ]
+}

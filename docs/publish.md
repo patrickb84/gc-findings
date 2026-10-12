@@ -96,6 +96,8 @@ In Notion, findings are called **Highlights** (plainer for readers). The code an
 - The top 50 discovered terms.
 - Any term already in Notion that has fallen out of the top 50: its counts are refreshed, never left stale, and the row is not deleted.
 
+**Subjects are not recounted by code.** `kind: subject` families come from reading, so every time new talks are read, check each subject against them by hand, add the talks that fit, and propose new subjects that span 2+ talks.
+
 **Views:**
 - **Themes:** sorted by Talks touched desc, then Mentions desc.
 - **Families to approve:** Status = proposed_family, grouped by Kind.

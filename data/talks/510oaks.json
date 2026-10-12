@@ -12,10 +12,23 @@
     "we": 15,
     "you": 4
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "President Oaks closes the conference by inviting everyone to study the talks and act on them, with the Lord's promise that whoever receives will be given more. He announces that the Salt Lake Temple will open to the public on April 5, 2027, the first time since 1893, and that a video series, Dedicate, premieres right after the session. He blesses members and their families with peace and contentment, and testifies that truth and the covenant path are found in the restored Church.",
+  "audience": {
+    "who": "Members worldwide and the whole world, invited to the Salt Lake Temple Celebration"
+  },
+  "arc": [
+    "principle",
+    "invitation",
+    "promise",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.15,
+    "present": 0.35,
+    "future": 0.5
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -24,6 +37,115 @@
       "basis": "exact",
       "ref": "2 Nephi 28:30",
       "spoken": false
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "we invite all to study and ponder them prayerfully and to act in faith on the principles they explain",
+      "basis": "exact",
+      "detail": {
+        "action": "study the conference talks and act on them"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Join us at TempleSquare.org or through the Temple Square app to learn more.",
+      "basis": "exact",
+      "detail": {
+        "action": "join the Salt Lake Temple Celebration"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "The Lord has promised, “Unto him that receiveth I will give more.”",
+      "basis": "exact",
+      "detail": {
+        "blessing": "more light for those who receive"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "we invoke the blessings of the Lord on you and your families, blessings of peace and contentment",
+      "basis": "interpreted",
+      "note": "An apostolic blessing on all members",
+      "detail": {
+        "blessing": "peace and contentment for families"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "christ",
+      "quote": "“Unto him that receiveth I will give more.”",
+      "basis": "exact",
+      "detail": {
+        "where": "2 Nephi 28:30"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "revelation",
+      "quote": "On April 5, 2027, the temple doors will open to the public—the first such opening since 1893, 134 years ago.",
+      "basis": "interpreted",
+      "note": "Reads as an announcement: the Salt Lake Temple opens to the public",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "revelation",
+      "quote": "the first episode of a dynamic video series, Dedicate, will premiere worldwide in multiple languages",
+      "basis": "interpreted",
+      "note": "Reads as an announcement of the Dedicate series and a virtual temple tour",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "testimony",
+      "quote": "This is the restored gospel of Jesus Christ in His Church of Jesus Christ of Latter-day Saints. Truth is to be found here",
+      "basis": "exact",
+      "detail": {
+        "of": "the restored gospel and its truth"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "image",
+      "quote": "the temple doors will open to the public",
+      "basis": "interpreted",
+      "note": "Opening doors: welcome to the world",
+      "detail": {
+        "image": "temple doors",
+        "family": "building",
+        "carries": "the Church opening outward"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "image",
+      "quote": "truth about the covenant path that will lead us to our destiny",
+      "basis": "interpreted",
+      "note": "Path to destiny",
+      "detail": {
+        "image": "covenant path",
+        "family": "path",
+        "carries": "covenants lead home"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "place",
+      "quote": "the Salt Lake Temple Celebration",
+      "basis": "exact",
+      "detail": {
+        "place": "Salt Lake City",
+        "country": "United States"
+      }
     }
   ]
 }

@@ -12,10 +12,31 @@
     "we": 43,
     "you": 17
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "President Oaks teaches that this is Christ's Church and that His grace reaches everyone, everywhere, as the Book of Mormon shows. Speaking to members whose faith is fading, he says doubts, including clashes between science and religion, are overcome by drawing closer to Christ with humility, patience, the sacrament and the temple, because God knows all truth and expects us to learn by both scientific and spiritual methods. He urges members to keep their covenants, invites all to believe the Book of Mormon's promises, and calls on everyone to share these truths.",
+  "audience": {
+    "who": "Everyone, and especially members of diminishing faith",
+    "quote": "those members of diminishing faith in Jesus Christ. We love you, young and old, men and women."
+  },
+  "arc": [
+    "principle",
+    "scripture",
+    "principle",
+    "invitation",
+    "list",
+    "quote",
+    "invitation",
+    "promise",
+    "scripture",
+    "invitation",
+    "principle",
+    "invitation",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.25,
+    "present": 0.45,
+    "future": 0.3
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -198,7 +219,316 @@
       "type": "source",
       "quote": "See Patrick Kearon, “God’s Intent Is to Bring You Home,” Liahona, May 2024, 87.",
       "basis": "exact",
-      "ref": "God’s Intent Is to Bring You Home"
+      "ref": "God’s Intent Is to Bring You Home",
+      "note": "Echoes Elder Kearon's 'relentless' pursuit of God's children",
+      "detail": {
+        "who": "Patrick Kearon"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Focus on developing your faith in God and the mission of His Son, Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "action": "build faith daily"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "We need to be patient with one another and, occasionally, even with ourselves.",
+      "basis": "exact",
+      "detail": {
+        "action": "be patient with others and yourself"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "Hold on to the first article of faith even if something else is uncertain.",
+      "basis": "exact",
+      "detail": {
+        "action": "hold on to the first article of faith"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "I urge you to keep the commandments and be true to the covenants",
+      "basis": "exact",
+      "detail": {
+        "action": "keep commandments and covenants"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "Never let your secular learning limit your spiritual horizons.",
+      "basis": "exact",
+      "detail": {
+        "action": "keep secular learning from limiting faith"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Protect yourself with the weekly renewing of your covenants by partaking of the sacrament",
+      "basis": "exact",
+      "detail": {
+        "action": "take the sacrament weekly and attend the temple"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "I invite all to believe them.",
+      "basis": "exact",
+      "detail": {
+        "action": "believe the Book of Mormon's promises"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "invitation",
+      "quote": "I call upon all to act on these truths and to share them with others",
+      "basis": "exact",
+      "detail": {
+        "action": "act on and share these truths"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "These simple practices will protect and strengthen you.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "protection and strength"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "Whatever they are, the way to overcome them is to get closer to our Savior, Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Doubts are overcome by closeness to Christ",
+      "detail": {
+        "blessing": "overcoming doubts and struggles"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "there are two methods of gaining needed knowledge",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "the scientific method and digital information",
+          "the spiritual method: faith, scriptures, inspired teaching, personal revelation"
+        ],
+        "purpose": "how we come to know truth"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "revelation",
+      "quote": "We believe that the Lord will eventually cause the inspired teachings He has given to His children in various nations to be brought forth for the benefit of all people.",
+      "basis": "interpreted",
+      "note": "Reads as prophecy: other nations' scripture, including the lost tribes' records, will come forth",
+      "detail": {
+        "kind": "prophecy"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "revelation",
+      "quote": "We live in the day foretold when righteousness is sent forth out of heaven and truth out of the earth",
+      "basis": "interpreted",
+      "note": "Reads as prophecy fulfilled: the gathering is now",
+      "detail": {
+        "kind": "prophecy"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "revelation",
+      "quote": "There is no ultimate conflict between knowledge obtained by these different methods because God, our omnipotent Eternal Father, knows all truth and expects us to learn by both methods.",
+      "basis": "interpreted",
+      "note": "Reads as prophetic direction on science and faith",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "revelation",
+      "quote": "A major source of concern to your prophet leaders are those members of diminishing faith in Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Reads as a warning: the leaders' main worry is fading faith",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "testimony",
+      "quote": "I make this invitation and add my testimony of Him and His mission in the name of Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "Jesus Christ and His mission"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "testimony",
+      "quote": "These promises from the Book of Mormon are true.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Book of Mormon's promises"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "past_prophet",
+      "quote": "We are all at different places on what President Russell M. Nelson called “the covenant path.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "past_prophet",
+      "quote": "President Spencer W. Kimball defined humility as “teachableness.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Spencer W. Kimball"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "christ",
+      "quote": "“Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea",
+      "basis": "exact",
+      "detail": {
+        "where": "2 Nephi 29:7"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "christ",
+      "quote": "“who [had] not as yet heard [His] voice,”",
+      "basis": "interpreted",
+      "note": "The Savior's words to the Nephites, paraphrased with brackets",
+      "detail": {
+        "where": "3 Nephi 17:4"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is His Only Begotten Son, Jehovah, and the Messiah, “the God of the whole earth.”",
+      "basis": "exact",
+      "detail": {
+        "name": "Only Begotten Son; Jehovah; the Messiah; the God of the whole earth"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "name_of_christ",
+      "quote": "the atoning blood of Christ, the Lord Omnipotent",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord Omnipotent"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "name_of_christ",
+      "quote": "come unto Christ, who is the Holy One of Israel",
+      "basis": "exact",
+      "detail": {
+        "name": "the Holy One of Israel"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "name_of_christ",
+      "quote": "the great Creator died",
+      "basis": "exact",
+      "detail": {
+        "name": "the great Creator"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "He is relentless in His loving pursuit of each of you.",
+      "basis": "interpreted",
+      "note": "God as pursuer, not waiting",
+      "detail": {
+        "image": "pursuit",
+        "family": "path",
+        "carries": "God actively seeks those drifting away"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "to sweep the earth as with a flood",
+      "basis": "interpreted",
+      "note": "Truth as a flood",
+      "detail": {
+        "image": "flood",
+        "family": "water",
+        "carries": "the gospel spreading over the whole earth"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "to visit the other sheep which were not of the land of Jerusalem",
+      "basis": "interpreted",
+      "note": "Scattered flock; Christ as shepherd of all nations",
+      "detail": {
+        "image": "other sheep, scattered flock",
+        "family": "other",
+        "carries": "Christ reaches every people"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "Never let your secular learning limit your spiritual horizons.",
+      "basis": "interpreted",
+      "note": "Faith as a horizon that learning should widen, not close",
+      "detail": {
+        "image": "horizons",
+        "family": "light",
+        "carries": "spiritual vision beyond what study shows"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "place",
+      "quote": "It records His appearance and teachings to the Nephites on the American continent.",
+      "basis": "exact",
+      "detail": {
+        "place": "the American continent",
+        "country": "the Americas"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "relationship",
+      "quote": "As your President, I pray for what our Heavenly Father wants for each of us",
+      "basis": "interpreted",
+      "note": "The prophet speaks as one praying for members and asks for their prayers",
+      "detail": {
+        "who": "the prophet and the members",
+        "state": "living"
+      }
     }
   ]
 }

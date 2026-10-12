@@ -12,10 +12,26 @@
     "we": 59,
     "you": 9
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "Elder Gong lays three doctrinal foundations for the temple: families returning to God together, moral agency in our relationships, and the Holy Spirit of Promise sealing only the covenants we honor. He then names five elements of a personal temple culture, from gratitude instead of entitlement to owning your own temple clothes. He asks members to come more often, let temple service soften old family wounds, and be a strong link in their family chain.",
+  "audience": {
+    "who": "All members, with asides to new converts and to people with hard family relationships"
+  },
+  "arc": [
+    "principle",
+    "list",
+    "scripture",
+    "invitation",
+    "promise",
+    "list",
+    "story",
+    "invitation",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.2,
+    "present": 0.5,
+    "future": 0.3
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -107,10 +123,315 @@
     },
     {
       "id": "x-n4",
-      "type": "source",
+      "type": "prophet",
       "quote": "See Dallin H. Oaks, “Kingdoms of Glory,” Liahona, Nov. 2023, 26.",
       "basis": "exact",
-      "ref": "Kingdoms of Glory"
+      "ref": "Kingdoms of Glory",
+      "note": "Cites President Oaks on kingdoms of glory",
+      "detail": {
+        "source": "Kingdoms of Glory, Oct. 2023"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "Please “do not procrastinate the day of your repentance until the end.”",
+      "basis": "exact",
+      "detail": {
+        "action": "repent now, not later"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Please do not deliberately delay the spiritual peace and joyful freedom Jesus Christ wants you to have now.",
+      "basis": "exact",
+      "detail": {
+        "action": "take Christ's peace now"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "We can come to the temple more often.",
+      "basis": "interpreted",
+      "note": "Soft invitation, phrased as possibility: attend more often",
+      "detail": {
+        "action": "come to the temple more often"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "invitation",
+      "quote": "Whatever generation you are in the Church, in the chain of your eternal family, please be a strong link.",
+      "basis": "exact",
+      "detail": {
+        "action": "be a strong link in your family chain"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "invitation",
+      "quote": "please consider saving for and buying your own ceremonial temple clothes",
+      "basis": "exact",
+      "detail": {
+        "action": "own your temple clothes"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "invitation",
+      "quote": "Please let us never speak of a temple as big or small, elaborate or plain.",
+      "basis": "exact",
+      "detail": {
+        "action": "stop ranking temples by size"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "invitation",
+      "quote": "come worship and rejoice with the Lord in the house of the Lord",
+      "basis": "exact",
+      "detail": {
+        "action": "worship in the temple"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "promise",
+      "quote": "We find hope and healing when we perform temple ordinances for family members with whom we may earlier have had difficult relationships.",
+      "basis": "interpreted",
+      "note": "Temple work for hard family relationships brings healing",
+      "detail": {
+        "blessing": "hope and healing in broken family relationships"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "promise",
+      "quote": "As we honor our covenants, the Holy Spirit of Promise seals our relationships with “efficacy, virtue, [and] force.”",
+      "basis": "exact",
+      "detail": {
+        "blessing": "relationships sealed with power"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "promise",
+      "quote": "So God and temple ordinances can protect, bless, and inspire; bring forgiveness, healing, and peace; and unite loved ones here and away.",
+      "basis": "interpreted",
+      "note": "Closing promise, the punchline to the opening joke",
+      "detail": {
+        "blessing": "protection, forgiveness, healing, peace, united families"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "First doctrinal foundation: Heavenly Father’s work and glory is for us to return to Him, united as families, happy and forever.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "families returning to God together",
+          "moral agency",
+          "the Holy Spirit of Promise"
+        ],
+        "purpose": "doctrinal foundations of the temple"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "let us consider five elements of personal temple culture",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "a dedication is a beginning",
+          "temple sacrifice in new ways",
+          "everything testifies of Jesus Christ",
+          "gratitude, not entitlement",
+          "own your temple clothes"
+        ],
+        "purpose": "personal temple culture"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "revelation",
+      "quote": "God will not require a woman or man to be sealed or live in an eternal relationship he or she does not choose.",
+      "basis": "interpreted",
+      "note": "Reads as a plain doctrinal clarification: no one is sealed against their will",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "revelation",
+      "quote": "This year, across the world, we anticipate the First Presidency and Quorum of the Twelve Apostles will dedicate 21 temples and rededicate 1 temple.",
+      "basis": "interpreted",
+      "note": "Reads as an announcement of the year's temple dedications",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "prophet",
+      "quote": "President Dallin H. Oaks exercises all priesthood keys on earth, including keys pertaining to temples.",
+      "basis": "exact",
+      "detail": {
+        "source": "Gong on the President's keys"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "past_prophet",
+      "quote": "As the Prophet Joseph Smith saw in vision, every person, except a very few, is saved in a kingdom of glory.",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "story",
+      "quote": "I know a family of modest means. At their widowed mother’s request, the children saved and purchased their mother her own ceremonial temple clothes.",
+      "basis": "interpreted",
+      "note": "A widow buried in the temple clothes her children bought her",
+      "detail": {
+        "story_type": "other",
+        "about": "children buy their widowed mother her own temple clothes"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "When their mother passed away, the family honored their mother’s request by burying her in her temple clothes.",
+      "basis": "exact",
+      "detail": {
+        "who": "widowed mother",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "story",
+      "quote": "My father and mother joined our Church as the only members in either of their families.",
+      "basis": "interpreted",
+      "note": "His parents were the first converts in their families",
+      "detail": {
+        "story_type": "family",
+        "about": "Gong's parents as first-generation members"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "My father and mother joined our Church",
+      "basis": "exact",
+      "detail": {
+        "who": "father and mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "story",
+      "quote": "I once heard, “Elder Gong, we are happy to have a temple but sorry it is a small temple.”",
+      "basis": "interpreted",
+      "note": "A member apologizes for a small temple; he answers that ordinances are not big or small",
+      "detail": {
+        "story_type": "personal",
+        "about": "a 'small temple' apology"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "Why did the temple workers cross the road? To help the people on the other side.",
+      "basis": "interpreted",
+      "note": "Bookend: the joke opens the talk and its answer closes it",
+      "detail": {
+        "image": "road / the other side",
+        "family": "path",
+        "carries": "temple work serves people beyond the veil"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "in the chain of your eternal family, please be a strong link",
+      "basis": "interpreted",
+      "note": "Generations as links in one chain",
+      "detail": {
+        "image": "chain",
+        "family": "other",
+        "carries": "each generation holds the family together"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "It softens hearts on both sides of the veil.",
+      "basis": "interpreted",
+      "note": "The veil as a thin divide between living and dead",
+      "detail": {
+        "image": "veil",
+        "family": "other",
+        "carries": "the living and dead are close and both changed"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "The morning stars sang for joy.",
+      "basis": "interpreted",
+      "note": "Premortal joy at choosing the plan",
+      "detail": {
+        "image": "morning stars",
+        "family": "light",
+        "carries": "we chose the plan with joy"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "place",
+      "quote": "Next Sunday, I am assigned to dedicate the Miraflores Guatemala City Temple.",
+      "basis": "exact",
+      "detail": {
+        "place": "Guatemala City",
+        "country": "Guatemala"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "name_of_christ",
+      "quote": "the Lamb’s book of life",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lamb"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "source",
+      "quote": "“When I did the temple work for my family member, my heart softened.” “I could forgive.” “I was freed.”",
+      "basis": "exact",
+      "detail": {
+        "who": "members (composite voices)"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "source",
+      "quote": "‘Holiness to the Lord, the House of the Lord.’",
+      "basis": "exact",
+      "detail": {
+        "who": "the inscription on every temple"
+      }
     }
   ]
 }

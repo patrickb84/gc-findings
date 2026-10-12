@@ -12,10 +12,31 @@
     "we": 65,
     "you": 13
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "Elder Schmeil teaches that God gave two divine helps for the journey home: the Savior and our covenants, with the weekly sacrament keeping us on the path. His central story is the prophet Haggai: Israel worked hard but gained little, a 'bag with holes', until they made rebuilding the temple their priority, and God said 'from this day will I bless you'. He asks us to 'consider our ways', align our efforts with God, and make and keep covenants.",
+  "audience": {
+    "who": "All members, especially anyone tempted to skip church and the sacrament"
+  },
+  "arc": [
+    "principle",
+    "quote",
+    "scripture",
+    "principle",
+    "quote",
+    "scripture",
+    "principle",
+    "quote",
+    "story",
+    "scripture",
+    "invitation",
+    "promise",
+    "testimony",
+    "scripture"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.5,
+    "future": 0.2
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -99,38 +120,261 @@
     },
     {
       "id": "x-n1",
-      "type": "source",
+      "type": "prophet",
       "quote": "See Dallin H. Oaks, “Divine Helps for Mortality,” Liahona, May 2025, 104–6.",
       "basis": "exact",
-      "ref": "Divine Helps for Mortality"
+      "ref": "Divine Helps for Mortality",
+      "note": "Cites President Oaks's divine helps for mortality",
+      "detail": {
+        "source": "Divine Helps for Mortality, Apr. 2025"
+      }
     },
     {
       "id": "x-n3",
-      "type": "source",
+      "type": "prophet",
       "quote": "Dallin H. Oaks, “Divine Helps for Mortality,” 104.",
       "basis": "exact",
-      "ref": "Divine Helps for Mortality"
+      "ref": "Divine Helps for Mortality",
+      "note": "Quotes President Oaks on the Savior as God's strongest help",
+      "detail": {
+        "source": "Divine Helps for Mortality, Apr. 2025"
+      }
     },
     {
       "id": "x-n4",
       "type": "source",
       "quote": "General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints, 3.5.2, Gospel Library.",
       "basis": "exact",
-      "ref": "3.5.2"
+      "ref": "3.5.2",
+      "note": "Quotes the General Handbook definition of a covenant",
+      "detail": {
+        "who": "General Handbook"
+      }
     },
     {
       "id": "x-n5",
       "type": "source",
       "quote": "See Dale G. Renlund, “Unwavering Commitment to Jesus Christ,” Liahona, Nov. 2019, 25, note 18.",
       "basis": "exact",
-      "ref": "Unwavering Commitment to Jesus Christ"
+      "ref": "Unwavering Commitment to Jesus Christ",
+      "note": "Cites Elder Renlund on the sacrament",
+      "detail": {
+        "who": "Dale G. Renlund"
+      }
     },
     {
       "id": "x-n7",
       "type": "source",
       "quote": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 88.",
       "basis": "exact",
-      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ"
+      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ",
+      "note": "Quotes Preach My Gospel on the Sabbath",
+      "detail": {
+        "who": "Preach My Gospel"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "May we also consider our ways.",
+      "basis": "exact",
+      "detail": {
+        "action": "consider your ways"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "May we consider our ways and remember the words of King Benjamin",
+      "basis": "exact",
+      "detail": {
+        "action": "consider your ways and remember the blessed state of the obedient"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "promise",
+      "quote": "He will magnify our efforts as we consider our ways and make the proper adjustments to make and keep covenants with Him.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "God magnifies our efforts"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "Jesus Christ knows us individually, and He will help us if we seek Him",
+      "basis": "exact",
+      "detail": {
+        "blessing": "Christ's help"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "It is through covenants that we become yoked with the Savior Jesus Christ and our burdens become lighter.",
+      "basis": "interpreted",
+      "note": "Covenants as the yoke that lightens burdens",
+      "detail": {
+        "blessing": "lighter burdens"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "promise",
+      "quote": "in return we have the promise to always have His Spirit with us",
+      "basis": "exact",
+      "detail": {
+        "blessing": "His Spirit always with us"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "christ",
+      "quote": "“Come unto me, … and I will give you rest.",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 11:28"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "christ",
+      "quote": "“For my yoke is easy, and my burden is light”",
+      "basis": "exact",
+      "detail": {
+        "where": "Matthew 11:30"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "christ",
+      "quote": "then will I make weak things become strong unto them",
+      "basis": "interpreted",
+      "note": "The Lord speaking in Ether 12:27",
+      "detail": {
+        "where": "Ether 12:27"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "testimony",
+      "quote": "I know that God keeps His promises. I have seen it in my life. He gave me spiritual and physical strength when I needed it most.",
+      "basis": "exact",
+      "detail": {
+        "of": "God keeps His promises"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "I will mention two of these divine helps: the Savior Jesus Christ and our covenants.",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "the Savior Jesus Christ",
+          "our covenants"
+        ],
+        "purpose": "divine helps for mortality"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "story",
+      "quote": "The Lord had commanded the Israelites to rebuild the temple, but they did not make it a priority.",
+      "basis": "interpreted",
+      "note": "Haggai: Israel works hard, gains little, until the temple comes first",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Haggai and the unbuilt temple"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "he that earneth wages earneth wages to put it into a bag with holes",
+      "basis": "interpreted",
+      "note": "Effort that leaks away when God is not first",
+      "detail": {
+        "image": "bag with holes",
+        "family": "other",
+        "carries": "busy lives that accomplish little without God"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "image",
+      "quote": "Take my yoke upon you",
+      "basis": "interpreted",
+      "note": "Covenants yoke us to Christ",
+      "detail": {
+        "image": "yoke",
+        "family": "other",
+        "carries": "covenants bind us to Christ, who carries the weight"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "image",
+      "quote": "as I walk the covenant path back to His presence",
+      "basis": "interpreted",
+      "note": "Life as a path home",
+      "detail": {
+        "image": "covenant path",
+        "family": "path",
+        "carries": "covenants as the road back to God"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "image",
+      "quote": "that will keep you established on that firm foundation that is Jesus Christ",
+      "basis": "interpreted",
+      "note": "Quoted from Elder Renlund",
+      "detail": {
+        "image": "firm foundation",
+        "family": "rock",
+        "carries": "Christ as the footing that holds"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "source",
+      "quote": "Elder Dale G. Renlund has reminded and warned us that “the time will come, in each of your lives, when there will be a hesitation to go to church and partake of the sacrament.",
+      "basis": "exact",
+      "detail": {
+        "who": "Dale G. Renlund"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "source",
+      "quote": "May we consider our ways and remember the words of King Benjamin",
+      "basis": "interpreted",
+      "note": "Closes on King Benjamin, Mosiah 2:41",
+      "detail": {
+        "who": "King Benjamin"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "revelation",
+      "quote": "If it hasn’t happened yet, it will.",
+      "basis": "interpreted",
+      "note": "Reads as a warning, quoted from Elder Renlund: everyone will one day hesitate to go to church",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "name_of_christ",
+      "quote": "Thus saith the Lord of hosts",
+      "basis": "exact",
+      "detail": {
+        "name": "the Lord of hosts"
+      }
     }
   ]
 }

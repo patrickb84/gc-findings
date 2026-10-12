@@ -12,10 +12,31 @@
     "we": 36,
     "you": 17
   },
-  "summary": "",
-  "audience": null,
-  "arc": [],
-  "orientation": null,
+  "summary": "Elder Gilbert teaches that standing for truth takes courage, and standing for truth with love takes more; he amplifies five principles President Oaks taught: avoid contentious settings, find common ground first, be a light, hold to truth while reaching out, and stay anchored in Christ. His stories cut both ways: an angry retort that won a debate but lost a struggling friend, and two hours of listening in one home that brought five people to stake conference. He asks each of us to look at our own heart first, and says teaching truth with love will be the hallmark of Christ's disciples in the last days.",
+  "audience": {
+    "who": "All members, especially those defending the faith with friends and family who doubt or attack it"
+  },
+  "arc": [
+    "principle",
+    "quote",
+    "story",
+    "invitation",
+    "list",
+    "quote",
+    "story",
+    "story",
+    "story",
+    "quote",
+    "story",
+    "quote",
+    "principle",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.5,
+    "future": 0.2
+  },
   "findings": [
     {
       "id": "x-s1",
@@ -43,87 +64,402 @@
     },
     {
       "id": "x-n1",
-      "type": "source",
+      "type": "prophet",
       "quote": "See Dallin H. Oaks, “Going Forward with Religious Freedom and Nondiscrimination” (Joseph Smith Lecture at the University of Virginia, Nov. 12, 2021), mormonstudies.as.virginia.edu/event/dallin-h-oaks-going-forward-with-religious-freedom-nondiscrimination/; see also Dallin H. Oaks and Clark G. Gilbert, “Stand Fast with Love in Proclaiming Truth” (Ensign College devotional, May 17, 2022), speeches.ensign.edu; Dallin H. Oaks and Kristen M. Oaks, “Stand for Truth” (worldwide devotional for young adults, May 21, 2023), Gospel Library; Dallin H. Oaks, “Alive in Christ,” Liahona, May 2026, 85–87.",
       "basis": "exact",
-      "ref": "Stand for Truth"
+      "ref": "Stand for Truth",
+      "note": "Cites President Oaks's talks on standing for truth",
+      "detail": {
+        "source": "Going Forward with Religious Freedom; Stand Fast with Love; Stand for Truth; Alive in Christ"
+      }
     },
     {
       "id": "x-n2",
-      "type": "source",
+      "type": "prophet",
       "quote": "Dallin H. Oaks, “Alive in Christ,” 86.",
       "basis": "exact",
-      "ref": "Alive in Christ"
+      "ref": "Alive in Christ",
+      "note": "Quotes President Oaks, April 2026",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
     },
     {
       "id": "x-n3",
-      "type": "source",
+      "type": "past_prophet",
       "quote": "Russell M. Nelson, “Peacemakers Needed,” Liahona, May 2023, 101.",
       "basis": "exact",
-      "ref": "Peacemakers Needed"
+      "ref": "Peacemakers Needed",
+      "note": "Quotes President Nelson on peacemaking",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
     },
     {
       "id": "x-n5",
-      "type": "source",
+      "type": "past_prophet",
       "quote": "Both President Nelson and President Oaks have specifically referred to tense interactions on social media. (See Russell M. Nelson, “Peacemakers Needed,” 100; Dallin H. Oaks and Clark G. Gilbert, “Stand Fast with Love in Proclaiming Truth.”)",
       "basis": "exact",
-      "ref": "Peacemakers Needed"
+      "ref": "Peacemakers Needed",
+      "note": "Nelson and Oaks on social media tension",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
     },
     {
       "id": "x-n6",
       "type": "source",
       "quote": "Neil L. Andersen, “Following Jesus: Being a Peacemaker,” Liahona, May 2022, 19.",
       "basis": "exact",
-      "ref": "Following Jesus: Being a Peacemaker"
+      "ref": "Following Jesus: Being a Peacemaker",
+      "note": "Quotes Elder Andersen on staying quiet",
+      "detail": {
+        "who": "Neil L. Andersen"
+      }
     },
     {
       "id": "x-n8",
-      "type": "source",
+      "type": "past_prophet",
       "quote": "Russell M. Nelson, “Choices for Eternity” (worldwide devotional for young adults, May 15, 2022), Gospel Library.",
       "basis": "exact",
-      "ref": "Choices for Eternity"
+      "ref": "Choices for Eternity",
+      "note": "Quotes President Nelson on loving those who leave",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
     },
     {
       "id": "x-n9",
       "type": "source",
       "quote": "See J. Anette Dennis, “His Yoke Is Easy and His Burden Is Light,” Liahona, Nov. 2022, 80.",
       "basis": "exact",
-      "ref": "His Yoke Is Easy and His Burden Is Light"
+      "ref": "His Yoke Is Easy and His Burden Is Light",
+      "note": "Sister Dennis's wounded-dog story",
+      "detail": {
+        "who": "J. Anette Dennis"
+      }
     },
     {
       "id": "x-n11",
-      "type": "source",
+      "type": "past_prophet",
       "quote": "Russell M. Nelson, “Choices for Eternity.”",
       "basis": "exact",
-      "ref": "Choices for Eternity"
+      "ref": "Choices for Eternity",
+      "note": "Quotes President Nelson: surprise doubting hearts",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
     },
     {
       "id": "x-n12",
       "type": "source",
       "quote": "Vincent Alma Wood, quoted in Tamara W. Runia, “Seeing God’s Family Through the Overview Lens,” Liahona, Nov. 2023, 67.",
       "basis": "exact",
-      "ref": "Seeing God’s Family Through the Overview Lens"
+      "ref": "Seeing God’s Family Through the Overview Lens",
+      "note": "Quotes Sister Runia: stay at the tree",
+      "detail": {
+        "who": "Tamara W. Runia"
+      }
     },
     {
       "id": "x-n14",
-      "type": "source",
+      "type": "prophet",
       "quote": "Dallin H. Oaks, “Alive in Christ,” 86.",
       "basis": "exact",
-      "ref": "Alive in Christ"
+      "ref": "Alive in Christ",
+      "note": "Quotes President Oaks: love does not surrender values",
+      "detail": {
+        "source": "Alive in Christ, Apr. 2026"
+      }
     },
     {
       "id": "x-n15",
       "type": "source",
       "quote": "Jeffrey R. Holland, “The Cost—and Blessings—of Discipleship,” Liahona, May 2014, 8.",
       "basis": "exact",
-      "ref": "The Cost—and Blessings—of Discipleship"
+      "ref": "The Cost—and Blessings—of Discipleship",
+      "note": "Quotes President Holland on forgiving vs condoning",
+      "detail": {
+        "who": "Jeffrey R. Holland"
+      }
     },
     {
       "id": "x-n20",
-      "type": "source",
+      "type": "past_prophet",
       "quote": "Russell M. Nelson, “Hear Him,” Liahona, May 2020, 89.",
       "basis": "exact",
-      "ref": "Hear Him"
+      "ref": "Hear Him",
+      "note": "Quotes President Nelson on how God speaks",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "invitation",
+      "quote": "I extend that same invitation to all of us today.",
+      "basis": "interpreted",
+      "note": "Look into your own heart before thinking of who else needs the message",
+      "detail": {
+        "action": "look for pride in your own heart first"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "invitation",
+      "quote": "Ask yourself if you carry these Christlike attributes when you are striving to stand for truth with love",
+      "basis": "exact",
+      "detail": {
+        "action": "check yourself against charity"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "invitation",
+      "quote": "The best way to help someone else keep their covenants is to keep your covenants.",
+      "basis": "interpreted",
+      "note": "Teaching by example",
+      "detail": {
+        "action": "keep your own covenants"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "I know the Lord will help us as we strive to teach truth with love.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "the Lord's help"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "Being a light opens more doors than any pointed argument ever will.",
+      "basis": "interpreted",
+      "note": "Promise drawn from his academic-leaders story",
+      "detail": {
+        "blessing": "open doors"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "list",
+      "quote": "In the address, President Oaks shared five principles I have felt impressed to amplify today.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "avoid overly contentious settings",
+          "first find common ground",
+          "be a light",
+          "hold to truth even in outreach",
+          "stay anchored in Jesus Christ"
+        ],
+        "purpose": "standing for truth with love"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "revelation",
+      "quote": "I believe teaching truth with love will be the hallmark of Christ’s disciples in the last days.",
+      "basis": "interpreted",
+      "note": "Reads as prophecy about the last days",
+      "detail": {
+        "kind": "prophecy"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "testimony",
+      "quote": "For disciples of Jesus Christ, truth and love always walk together.",
+      "basis": "interpreted",
+      "note": "The closing witness",
+      "detail": {
+        "of": "truth and love together"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "story",
+      "quote": "I failed to see this with a friend who had at one time been spiritually faithful but was now attacking the Church.",
+      "basis": "interpreted",
+      "note": "He won the argument and lost the Spirit and his friend",
+      "detail": {
+        "story_type": "personal",
+        "about": "an angry retort to a struggling friend"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "story",
+      "quote": "But when we arrived at the home, there were five separate individuals waiting inside, each with a completely different concern.",
+      "basis": "interpreted",
+      "note": "Two hours of listening; all five came to stake conference",
+      "detail": {
+        "story_type": "personal",
+        "about": "a ministering visit that became two hours of listening"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "story",
+      "quote": "Several years ago I received an assignment to speak at Ensign College.",
+      "basis": "interpreted",
+      "note": "With humor: he asks the prophet to let him write his remarks",
+      "detail": {
+        "story_type": "personal",
+        "about": "speaking alongside President Oaks without a script"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "story",
+      "quote": "I recently felt this when a group of national academic leaders aggressively criticized the role of faith in higher education.",
+      "basis": "interpreted",
+      "note": "He stays quiet; later a chancellor asks his help with a character course",
+      "detail": {
+        "story_type": "personal",
+        "about": "restraint with academic critics"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "story",
+      "quote": "Consider Dostoevsky’s literary description of Christ and the Grand Inquisitor.",
+      "basis": "interpreted",
+      "note": "Christ answers His accuser with a kiss",
+      "detail": {
+        "story_type": "other",
+        "about": "The Brothers Karamazov"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "The Savior showed love for the woman taken in adultery.",
+      "basis": "interpreted",
+      "note": "Love and the charge to sin no more together",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the woman taken in adultery"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "relationship",
+      "quote": "a friend who had at one time been spiritually faithful but was now attacking the Church",
+      "basis": "exact",
+      "detail": {
+        "who": "a friend who left the faith",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "christ",
+      "quote": "But He also charged her to “go, and sin no more.”",
+      "basis": "exact",
+      "detail": {
+        "where": "John 8:11"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "source",
+      "quote": "Elder Neil L. Andersen stated, “There are times when being a peacemaker means that we resist the impulse to respond and instead, with dignity, remain quiet.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Neil L. Andersen"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "source",
+      "quote": "But President D. Todd Christofferson pointed out: “Putting the first commandment first does not diminish or limit our ability to keep the second commandment.",
+      "basis": "exact",
+      "detail": {
+        "who": "D. Todd Christofferson"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "source",
+      "quote": "“As near as I can tell, Christ never once withheld His love from anyone",
+      "basis": "exact",
+      "detail": {
+        "who": "Jeffrey R. Holland"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "image",
+      "quote": "As Sister Tamara Runia reminded us, “Stay at the tree, … continue to beckon to those you love … that eating the fruit is a happy thing!”",
+      "basis": "interpreted",
+      "note": "Lehi's tree of life: stay and beckon",
+      "detail": {
+        "image": "tree and fruit",
+        "family": "growth",
+        "carries": "keep your place at the tree and invite others"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "image",
+      "quote": "The third principle is to be a light.",
+      "basis": "interpreted",
+      "note": "Example as light",
+      "detail": {
+        "image": "light",
+        "family": "light",
+        "carries": "your faith seen, not argued"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "I think of Sister Anette Dennis’s story of the wounded dog who uncharacteristically wouldn’t respond to her owner.",
+      "basis": "interpreted",
+      "note": "Hostility can be hidden pain",
+      "detail": {
+        "image": "wounded dog",
+        "family": "body",
+        "carries": "what looks like hostility may be hurt"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "image",
+      "quote": "The fifth principle then is to stay anchored in Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Anchor: a boat-and-water image",
+      "detail": {
+        "image": "anchor",
+        "family": "water",
+        "carries": "Christ holds us steady in conflict"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "shards of pride or jealousy",
+      "basis": "interpreted",
+      "note": "From President Nelson: pride as broken glass in the heart",
+      "detail": {
+        "image": "shards",
+        "family": "body",
+        "carries": "small hidden pride that wounds"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "place",
+      "quote": "Several years ago I received an assignment to speak at Ensign College.",
+      "basis": "exact",
+      "detail": {
+        "place": "Ensign College, Salt Lake City",
+        "country": "United States"
+      }
     }
   ]
 }

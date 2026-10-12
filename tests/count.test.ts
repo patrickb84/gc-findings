@@ -56,6 +56,14 @@ describe('countFamily', () => {
     });
     expect(r).toEqual({ mentions: 1, talks: ['talk'] });
   });
+
+  it('skips the phrases a family excludes', () => {
+    const r = countFamily(['light'], {
+      schmeil: ['For my yoke is easy, and my burden is light.'],
+      hymn: ['The light beyond the veil of death.'],
+    }, ['burden is light']);
+    expect(r).toEqual({ mentions: 1, talks: ['hymn'] });
+  });
 });
 
 describe('countTerms and book names', () => {

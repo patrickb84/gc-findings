@@ -179,10 +179,12 @@
       "morning stars",
       "horizons"
     ],
-    "mentions": 6,
+    "exclude": [
+      "burden is light"
+    ],
+    "mentions": 5,
     "talks": [
       "12gong",
-      "48schmeil",
       "49oaks",
       "59gilbert",
       "hymn-my-redeemer-lives"

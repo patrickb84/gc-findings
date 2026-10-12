@@ -68,6 +68,7 @@ export interface IndexEntry {
   term: string;
   kind: 'keyword' | 'subject' | 'image';
   variants: string[];
+  exclude?: string[];
   mentions: number | null;
   talks: string[];
   status: 'discovered' | 'proposed_family' | 'approved' | 'rejected';

@@ -67,4 +67,13 @@ describe('mergeIndex', () => {
       ['temple', 2, ['a']],
     ]);
   });
+
+  it('recounts a family without its excluded phrases', () => {
+    const [light] = mergeIndex(
+      [{ term: 'Light', kind: 'image', variants: ['light'], exclude: ['burden is light'], mentions: 2, talks: ['a', 'b'], status: 'approved' }],
+      [],
+      { a: ['My burden is light.'], b: ['The light beyond the veil.'] },
+    );
+    expect(light).toMatchObject({ mentions: 1, talks: ['b'], exclude: ['burden is light'], status: 'approved' });
+  });
 });

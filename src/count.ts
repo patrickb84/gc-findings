@@ -62,13 +62,18 @@ export function rankTerms(countsByTalk: Record<string, TermCounts>, minMentions 
 
 const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
-export function countFamily(variants: string[], paragraphsByTalk: Record<string, string[]>): { mentions: number; talks: string[] } {
-  const pattern = [...variants].sort((a, b) => b.length - a.length).map(escape).join('|');
-  const re = new RegExp(`(?<![\\p{L}'])(?:${pattern})(?![\\p{L}'])`, 'giu');
+const wordsRegex = (phrases: string[]) =>
+  new RegExp(`(?<![\\p{L}'])(?:${[...phrases].sort((a, b) => b.length - a.length).map(escape).join('|')})(?![\\p{L}'])`, 'giu');
+
+// `exclude` lists phrases where a variant means something else ("my burden is light").
+export function countFamily(variants: string[], paragraphsByTalk: Record<string, string[]>, exclude: string[] = []): { mentions: number; talks: string[] } {
+  const re = wordsRegex(variants);
+  const excluded = exclude.length > 0 ? wordsRegex(exclude) : null;
   let mentions = 0;
   const talks: string[] = [];
   for (const [talk, paragraphs] of Object.entries(paragraphsByTalk)) {
-    const text = maskBookNames(paragraphs.join('\n')).toLowerCase().replace(/[‘’]/g, "'");
+    let text = maskBookNames(paragraphs.join('\n')).toLowerCase().replace(/[‘’]/g, "'");
+    if (excluded) text = text.replace(excluded, ' ');
     const n = text.match(re)?.length ?? 0;
     if (n > 0) {
       mentions += n;

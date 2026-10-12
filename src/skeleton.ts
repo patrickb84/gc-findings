@@ -39,7 +39,7 @@ export function mergeSkeleton(existing: TalkFile | null, base: SkeletonBase, exa
 export function mergeIndex(existing: IndexEntry[], discovered: IndexEntry[], paragraphsByTalk: Record<string, string[]>): IndexEntry[] {
   const curated = existing
     .filter((e) => e.status !== 'discovered')
-    .map((e) => (e.kind === 'subject' || e.variants.length === 0 ? e : { ...e, ...countFamily(e.variants, paragraphsByTalk) }));
+    .map((e) => (e.kind === 'subject' || e.variants.length === 0 ? e : { ...e, ...countFamily(e.variants, paragraphsByTalk, e.exclude) }));
   const absorbed = new Set(curated.flatMap((e) => e.variants.map((v) => v.toLowerCase())));
   return [...curated, ...discovered.filter((d) => !absorbed.has(d.term))];
 }

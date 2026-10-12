@@ -32,7 +32,7 @@ export interface ManifestEntry {
   order: number;
 }
 
-export interface Citation { ref: string; href: string; inText: boolean }
+export interface Citation { ref: string; text: string; href: string; inText: boolean }
 export interface NoteRef { type: string; text: string; href: string }
 export interface Note { marker: string; text: string; refs: NoteRef[] }
 

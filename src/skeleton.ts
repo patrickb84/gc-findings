@@ -5,7 +5,7 @@ export type SkeletonBase = Omit<TalkFile, 'findings' | 'summary' | 'audience' | 
 
 export function exactFindings(parsed: ParsedTalk): Finding[] {
   const out: Finding[] = parsed.citations.map((c, i): Finding => ({
-    id: `x-s${i + 1}`, type: 'scripture', quote: c.ref, basis: 'exact', ref: c.ref, spoken: c.inText,
+    id: `x-s${i + 1}`, type: 'scripture', quote: c.text, basis: 'exact', ref: c.ref, spoken: c.inText,
   }));
   for (const n of parsed.notes) {
     const cross = n.refs.find((r) => r.type === 'cross-ref');

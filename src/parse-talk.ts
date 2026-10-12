@@ -2,7 +2,8 @@ import * as cheerio from 'cheerio';
 import type { Citation, Note, ParsedTalk, RawContent } from './types.ts';
 
 const SCRIPTURE_PATH = /^\/study\/scriptures\/(ot|nt|bofm|dc-testament|pgp)\//;
-const TITLES = /^(President|Elder|Sister|Brother|Bishop)\s+/;
+const CHAPTER_ONLY = /^\d+:\d/;
+const TITLES =/^(President|Elder|Sister|Brother|Bishop)\s+/;
 
 const clean = (s: string) => s.replace(/\s+/g, ' ').trim();
 
@@ -23,11 +24,19 @@ export function parseTalk(raw: RawContent): ParsedTalk {
 
   const citations: Citation[] = [];
   const seen = new Set<string>();
+  let lastRef = '';
+  const complete = (text: string) => {
+    const ref = CHAPTER_ONLY.test(text) && lastRef ? `${lastRef.replace(/\s+\d+:.*$/, '')} ${text}` : text;
+    lastRef = ref;
+    return ref;
+  };
+
   $('div.body-block a.scripture-ref').each((_, a) => {
     const href = $(a).attr('href') ?? '';
     if (!SCRIPTURE_PATH.test(href)) return;
-    const ref = clean($(a).text());
-    citations.push({ ref, href, inText: true });
+    const text = clean($(a).text());
+    const ref = complete(text);
+    citations.push({ ref, text, href, inText: true });
     seen.add(ref);
   });
 
@@ -39,9 +48,11 @@ export function parseTalk(raw: RawContent): ParsedTalk {
 
   for (const n of notes) {
     for (const r of n.refs) {
-      if (r.type !== 'scripture-ref' || !SCRIPTURE_PATH.test(r.href) || seen.has(r.text)) continue;
-      citations.push({ ref: r.text, href: r.href, inText: false });
-      seen.add(r.text);
+      if (r.type !== 'scripture-ref' || !SCRIPTURE_PATH.test(r.href)) continue;
+      const ref = complete(r.text);
+      if (seen.has(ref)) continue;
+      citations.push({ ref, text: r.text, href: r.href, inText: false });
+      seen.add(ref);
     }
   }
 

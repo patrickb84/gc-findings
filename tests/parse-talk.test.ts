@@ -47,6 +47,24 @@ describe('parseTalk', () => {
     ]);
   });
 
+  it('completes a footnote reference that continues the previous book', () => {
+    const q = parseTalk({
+      content: {
+        body: '<div class="body-block"><p>x</p></div>',
+        footnotes: {
+          n1: { marker: '1.', text: '<p>See Doctrine and Covenants 76:53; 132:7, 18–19.</p>', referenceUris: [
+            { type: 'scripture-ref', href: '/study/scriptures/dc-testament/dc/76?id=p53', text: 'Doctrine and Covenants 76:53' },
+            { type: 'scripture-ref', href: '/study/scriptures/dc-testament/dc/132?id=p7', text: '132:7, 18–19' },
+          ] },
+        },
+      },
+    });
+    expect(q.citations.map((c) => [c.ref, c.text])).toEqual([
+      ['Doctrine and Covenants 76:53', 'Doctrine and Covenants 76:53'],
+      ['Doctrine and Covenants 132:7, 18–19', '132:7, 18–19'],
+    ]);
+  });
+
   it('keeps footnotes as plain text with their references', () => {
     expect(p.notes[0]).toEqual({
       marker: '1.',

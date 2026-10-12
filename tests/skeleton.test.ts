@@ -4,7 +4,7 @@ import type { ParsedTalk, TalkFile } from '../src/types.ts';
 
 const parsed: ParsedTalk = {
   speaker: 'S', role: 'R', title: 'T', paragraphs: [],
-  citations: [{ ref: 'Alma 42:8', href: 'h', inText: true }, { ref: 'Alma 34:32', href: 'h', inText: false }],
+  citations: [{ ref: 'Alma 42:8', text: 'Alma 42:8', href: 'h', inText: true }, { ref: 'Alma 34:32', text: 'Alma 34:32', href: 'h', inText: false }],
   notes: [
     { marker: '1.', text: 'See Dallin H. Oaks, “Divine Helps,” May 2025.', refs: [{ type: 'cross-ref', href: 'h', text: 'Divine Helps' }] },
     { marker: '2.', text: 'Alma 34:32.', refs: [{ type: 'scripture-ref', href: 'h', text: 'Alma 34:32' }] },

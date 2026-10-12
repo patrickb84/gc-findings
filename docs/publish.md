@@ -8,15 +8,15 @@ Follow this on every run after the first.
 
 1. **Look the row up before writing it.**
    - Talks: `data/notion-map.json` → `rows["talk:<slug>"]`.
-   - Findings: query the Findings data source for `"Finding ID" = '<slug>/<id>'`. It is unique.
+   - Highlights: query the Highlights data source for `"Highlight ID" = '<slug>/<id>'`. It is unique.
    - Index: query the Index data source for `"Term" = '<term>'`. It is unique.
 2. **Found it?** Update its properties in place. **Not found?** Create it, and add talk rows to `rows` in the map.
 3. **Never send My notes.** Leave it out of every create and every update, so Patrick's notes are never overwritten.
 4. **Never touch Status on an Index row that is `approved` or `rejected`.** Those are Patrick's calls. Only `discovered` and `proposed_family` are written by code.
-5. **A finding is gone from the JSON?** Don't delete its row. List it in the run report and let Patrick decide, because the row may carry his notes.
-6. **Re-run the "What I found" page** from `data/discoveries.json`: replace the page's content, with evidence as page mentions of the Findings rows.
+5. **A finding (highlight) is gone from the JSON?** Don't delete its row. List it in the run report and let Patrick decide, because the row may carry his notes.
+6. **Re-run the "What I found" page** from `data/discoveries.json`: replace the page's content, with evidence as page mentions of the Highlights rows.
 
-Finding and Index row ids are not stored in the map. Their `Finding ID` and `Term` properties are the keys, so the map stays small and can't drift from Notion.
+Highlight and Index row ids are not stored in the map. Their `Highlight ID` and `Term` properties are the keys, so the map stays small and can't drift from Notion.
 
 ## Where things live
 
@@ -41,19 +41,21 @@ Finding and Index row ids are not stored in the map. Their `Finding ID` and `Ter
 | Summary | text | |
 | I / We / You | text | pronoun counts, `i / we / you` |
 | Link | url | Gospel Library URL |
-| Findings | relation | back-relation of Findings → Talk |
+| Highlights | relation | back-relation of Highlights → Talk |
 | My notes | text | **Patrick only. Never written.** |
 
 **Page body:**
 1. Summary, Who it addresses, and Shape (the arc).
-2. An inline linked view of Findings, filtered to this talk and grouped by Type.
+2. An inline linked view of Highlights ("Highlights in this talk"), filtered to this talk and grouped by Type.
 
-## Findings
+## Highlights
+
+In Notion, findings are called **Highlights** (plainer for readers). The code and JSON keep the word `findings`.
 
 | Property | Type | From |
 |---|---|---|
 | Quote | title | `quote` |
-| Finding ID | text | `<talk>/<id>` (unique key) |
+| Highlight ID | text | `<talk>/<id>` (unique key) |
 | Type | select | the 15 finding types |
 | Basis | select: exact, interpreted | |
 | Note | text | `note` |

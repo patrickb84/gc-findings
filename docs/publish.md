@@ -86,7 +86,7 @@ Finding and Index row ids are not stored in the map. Their `Finding ID` and `Ter
 | Status | select: discovered, proposed_family, approved, rejected | |
 | Mentions | number | empty for subject families |
 | Talks touched | number | `talks.length` |
-| Variants | text | joined with `, ` |
+| Variants | text | joined with `, `; if `exclude` is set, add ` (not: <exclude joined with , >)` |
 | Talks | relation | → Talks |
 
 **What gets published:**

@@ -287,8 +287,43 @@
     "variants": [],
     "mentions": null,
     "talks": [
+      "19christofferson",
       "48schmeil",
       "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Grief and loss",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "13runia",
+      "15sikahema",
+      "16hathaway"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Liberty Jail",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "13runia",
+      "16hathaway"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Phones and technology",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "15sikahema",
+      "19christofferson"
     ],
     "status": "proposed_family"
   },

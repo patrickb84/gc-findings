@@ -7,10 +7,14 @@ export function tokenize(text: string): string[] {
     .filter(Boolean);
 }
 
+// Book names that contain a counted word (Covenants) are not mentions of it.
+const BOOK_NAMES = /doctrine\s+and\s+covenants/giu;
+const maskBookNames = (text: string) => text.replace(BOOK_NAMES, ' ');
+
 export function countTerms(paragraphs: string[], maxN = 3): TermCounts {
   const counts: TermCounts = {};
   for (const p of paragraphs) {
-    const toks = tokenize(p);
+    const toks = tokenize(maskBookNames(p));
     for (let n = 1; n <= maxN; n++) {
       for (let i = 0; i + n <= toks.length; i++) {
         const gram = toks.slice(i, i + n);
@@ -64,7 +68,7 @@ export function countFamily(variants: string[], paragraphsByTalk: Record<string,
   let mentions = 0;
   const talks: string[] = [];
   for (const [talk, paragraphs] of Object.entries(paragraphsByTalk)) {
-    const text = paragraphs.join('\n').toLowerCase().replace(/[‘’]/g, "'");
+    const text = maskBookNames(paragraphs.join('\n')).toLowerCase().replace(/[‘’]/g, "'");
     const n = text.match(re)?.length ?? 0;
     if (n > 0) {
       mentions += n;

@@ -28,14 +28,13 @@
       "covenants",
       "covenant path"
     ],
-    "mentions": 44,
+    "mentions": 43,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
       "510oaks",
-      "59gilbert",
-      "hymn-my-redeemer-lives"
+      "59gilbert"
     ],
     "status": "proposed_family"
   },
@@ -1183,20 +1182,6 @@
       "12gong",
       "48schmeil",
       "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "doctrine",
-    "kind": "keyword",
-    "variants": [
-      "doctrine"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "49oaks",
-      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -2479,6 +2464,19 @@
     "talks": [
       "49oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doctrine",
+    "kind": "keyword",
+    "variants": [
+      "doctrine"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "49oaks"
     ],
     "status": "discovered"
   },

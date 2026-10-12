@@ -48,4 +48,18 @@ describe('countFamily', () => {
     });
     expect(r).toEqual({ mentions: 3, talks: ['a', 'b'] });
   });
+
+  it('does not count the book name Doctrine and Covenants as covenants', () => {
+    const r = countFamily(['covenant', 'covenants'], {
+      hymn: ['Doctrine and Covenants 76:22–24, 41–42'],
+      talk: ['We keep our covenants, as Doctrine and Covenants 20 teaches.'],
+    });
+    expect(r).toEqual({ mentions: 1, talks: ['talk'] });
+  });
+});
+
+describe('countTerms and book names', () => {
+  it('does not count covenants inside Doctrine and Covenants', () => {
+    expect(countTerms(['Doctrine and Covenants 76:22'])['covenants']).toBeUndefined();
+  });
 });

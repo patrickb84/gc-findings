@@ -28,6 +28,10 @@ describe('parseRef', () => {
     expect(parseRef('2 Nephi 9:5')).toEqual({ book: '2 Nephi', volume: 'Book of Mormon', spans: [{ chapter: 9, verses: [5] }] });
   });
 
+  it('reads a spoken "<book> chapter <n>" as the whole chapter', () => {
+    expect(parseRef('Isaiah chapter 58')).toEqual({ book: 'Isaiah', volume: 'Old Testament', spans: [{ chapter: 58, verses: null }] });
+  });
+
   it('names the spoken forms', () => {
     expect(parseRef('first article of faith')).toEqual({ book: 'Articles of Faith', volume: 'Pearl of Great Price', spans: [{ chapter: 1, verses: [1] }] });
     expect(parseRef('Title page of the Book of Mormon')).toEqual({ book: 'Title Page', volume: 'Book of Mormon', spans: [] });

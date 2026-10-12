@@ -62,6 +62,8 @@ export function parseRef(ref: string): ParsedRef {
   const clean = ref.replace(/\s+/g, ' ').trim();
   const spoken = SPOKEN_FORMS[clean.toLowerCase()];
   if (spoken) return spoken;
+  const said = clean.match(/^(.+?) chapter (\d+)$/i);
+  if (said) return { book: said[1], volume: volumeOf(said[1]), spans: [{ chapter: Number(said[2]), verses: null }] };
   const m = clean.match(/^(.+?) (\d+)(?:[–-](\d+))?(?::(.+))?$/);
   if (!m) return { book: clean, volume: volumeOf(clean), spans: [] };
   const [, book, first, last, verses] = m;

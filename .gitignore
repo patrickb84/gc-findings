@@ -1,0 +1,3 @@
+node_modules/
+# Full talk text stays local; never commit it
+data/raw/

@@ -97,6 +97,21 @@ describe('parseTalk', () => {
     ]);
   });
 
+  it('decodes entities in footnote link text ("D&amp;C 1:35")', () => {
+    const q = parseTalk({
+      content: {
+        body: '<div class="body-block"><p>x</p></div>',
+        footnotes: {
+          n1: { marker: '1.', text: '<p>(D&amp;C 1:35)</p>', referenceUris: [
+            { type: 'scripture-ref', href: '/study/scriptures/dc-testament/dc/1?lang=eng&amp;id=p35#p35', text: 'D&amp;C 1:35' },
+          ] },
+        },
+      },
+    });
+    expect(q.notes[0].refs[0].text).toBe('D&C 1:35');
+    expect(q.citations.map((c) => [c.ref, c.text])).toEqual([['D&C 1:35', 'D&C 1:35']]);
+  });
+
   it('keeps footnotes as plain text with their references', () => {
     expect(p.notes[0]).toEqual({
       marker: '1.',

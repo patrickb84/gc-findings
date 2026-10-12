@@ -39,6 +39,18 @@ describe('parseRef', () => {
     expect(parseRef('Psalm 55:22')).toEqual({ book: 'Psalms', volume: 'Old Testament', spans: [{ chapter: 55, verses: [22] }] });
   });
 
+  it('reads a spoken "41st chapter of Isaiah," as the whole chapter, ignoring the trailing comma', () => {
+    expect(parseRef('41st chapter of Isaiah,')).toEqual({ book: 'Isaiah', volume: 'Old Testament', spans: [{ chapter: 41, verses: null }] });
+  });
+
+  it('reads any spoken article of faith by its ordinal', () => {
+    expect(parseRef('thirteenth article of faith')).toEqual({ book: 'Articles of Faith', volume: 'Pearl of Great Price', spans: [{ chapter: 1, verses: [13] }] });
+  });
+
+  it('reads "D&C" as the Doctrine and Covenants', () => {
+    expect(parseRef('D&C 88:91')).toEqual({ book: 'Doctrine and Covenants', volume: 'Doctrine and Covenants', spans: [{ chapter: 88, verses: [91] }] });
+  });
+
   it('reads a spoken "<book> chapter <n>" as the whole chapter', () => {
     expect(parseRef('Isaiah chapter 58')).toEqual({ book: 'Isaiah', volume: 'Old Testament', spans: [{ chapter: 58, verses: null }] });
   });

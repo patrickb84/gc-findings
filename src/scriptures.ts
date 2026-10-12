@@ -38,12 +38,13 @@ export interface ScriptureRow {
 
 // References spoken in the talk text rather than written as book chapter:verse.
 const SPOKEN_FORMS: Record<string, ParsedRef> = {
-  'first article of faith': { book: 'Articles of Faith', volume: 'Pearl of Great Price', spans: [{ chapter: 1, verses: [1] }] },
   'title page of the book of mormon': { book: 'Title Page', volume: 'Book of Mormon', spans: [] },
 };
 
-// A single psalm is cited as "Psalm 55:22".
-const BOOK_ALIASES: Record<string, string> = { Psalm: 'Psalms' };
+const ORDINALS = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth'];
+
+// A single psalm is cited as "Psalm 55:22"; quoted footnotes abbreviate "D&C".
+const BOOK_ALIASES: Record<string, string> = { Psalm: 'Psalms', 'D&C': 'Doctrine and Covenants' };
 
 function volumeOf(book: string): Volume | null {
   return VOLUME_ORDER.find((v) => (VOLUMES[v] as readonly string[]).includes(book)) ?? null;
@@ -64,12 +65,18 @@ function numbers(list: string): number[] {
 }
 
 export function parseRef(ref: string): ParsedRef {
-  // Church text writes "2 Nephi" with a non-breaking space; \s matches it.
-  const clean = ref.replace(/\s+/g, ' ').trim();
+  // Church text writes "2 Nephi" with a non-breaking space; \s matches it. A spoken link can
+  // carry the sentence's comma ("41st chapter of Isaiah,").
+  const clean = ref.replace(/\s+/g, ' ').trim().replace(/[,;.]+$/, '');
   const spoken = SPOKEN_FORMS[clean.toLowerCase()];
   if (spoken) return spoken;
+  const article = clean.match(/^(\w+) article of faith$/i);
+  const nth = article ? ORDINALS.indexOf(article[1].toLowerCase()) + 1 : 0;
+  if (nth) return { book: 'Articles of Faith', volume: 'Pearl of Great Price', spans: [{ chapter: 1, verses: [nth] }] };
   const said = clean.match(/^(.+?) chapter (\d+)$/i);
   if (said) return { book: said[1], volume: volumeOf(said[1]), spans: [{ chapter: Number(said[2]), verses: null }] };
+  const chapterOf = clean.match(/^(\d+)(?:st|nd|rd|th) chapter of (.+)$/i);
+  if (chapterOf) return { book: chapterOf[2], volume: volumeOf(chapterOf[2]), spans: [{ chapter: Number(chapterOf[1]), verses: null }] };
   const m = clean.match(new RegExp(`^(.+?) (\\d+)(?:${DASH}(\\d+))?(?::(.+))?$`));
   if (!m) return { book: clean, volume: volumeOf(clean), spans: [] };
   const [, written, first, last, verses] = m;

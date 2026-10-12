@@ -51,7 +51,7 @@ export function parseTalk(raw: RawContent): ParsedTalk {
   const notes: Note[] = Object.values(raw.content.footnotes ?? {}).map((f) => ({
     marker: f.marker,
     text: clean(cheerio.load(f.text).text()),
-    refs: (f.referenceUris ?? []).map((r) => ({ type: r.type, href: r.href.replace(/&amp;/g, '&'), text: r.text })),
+    refs: (f.referenceUris ?? []).map((r) => ({ type: r.type, href: r.href.replace(/&amp;/g, '&'), text: cheerio.load(r.text).text() })),
   }));
 
   for (const n of notes) {

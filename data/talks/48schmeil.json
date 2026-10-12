@@ -180,7 +180,8 @@
       "basis": "exact",
       "detail": {
         "action": "consider your ways"
-      }
+      },
+      "paired_with": "c-3"
     },
     {
       "id": "c-2",

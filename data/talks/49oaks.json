@@ -232,7 +232,8 @@
       "basis": "exact",
       "detail": {
         "action": "build faith daily"
-      }
+      },
+      "paired_with": "c-10"
     },
     {
       "id": "c-2",
@@ -277,7 +278,8 @@
       "basis": "exact",
       "detail": {
         "action": "take the sacrament weekly and attend the temple"
-      }
+      },
+      "paired_with": "c-9"
     },
     {
       "id": "c-7",

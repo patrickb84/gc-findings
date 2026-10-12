@@ -158,7 +158,8 @@
       "note": "Soft invitation, phrased as possibility: attend more often",
       "detail": {
         "action": "come to the temple more often"
-      }
+      },
+      "paired_with": "c-8"
     },
     {
       "id": "c-4",
@@ -194,7 +195,8 @@
       "basis": "exact",
       "detail": {
         "action": "worship in the temple"
-      }
+      },
+      "paired_with": "c-10"
     },
     {
       "id": "c-8",

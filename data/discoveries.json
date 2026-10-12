@@ -1,0 +1,57 @@
+[
+  {
+    "title": "The pilot opens and closes at a temple door",
+    "body": "The first talk (Elder Gong) says temple 54 times, more than the other four talks combined (12). The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
+    "evidence": [{ "talk": "12gong", "finding": "c-22" }, { "talk": "510oaks", "finding": "c-6" }, { "talk": "510oaks", "finding": "c-9" }]
+  },
+  {
+    "title": "47 scripture citations, not one shared",
+    "body": "Across five talks no two speakers cite the same verse. Each leans on a different book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Elder Gong's is 6 of 11 Doctrine and Covenants, Elder Schmeil builds on Haggai. The closest they come is next-door verses: Elder Gong uses Alma 34:33 and Elder Schmeil uses Alma 34:32.",
+    "evidence": [{ "talk": "12gong", "finding": "x-s5" }, { "talk": "48schmeil", "finding": "x-s2" }, { "talk": "48schmeil", "finding": "x-s7" }, { "talk": "49oaks", "finding": "x-s17" }]
+  },
+  {
+    "title": "Covenants are the only thread through all five",
+    "body": "Of the families proposed, only Covenants (43 mentions) and Faith (21) appear in every talk. Elder Schmeil alone accounts for 22 covenant mentions, and even the three-minute closing remarks end on 'the covenant path'.",
+    "evidence": [{ "talk": "48schmeil", "finding": "c-5" }, { "talk": "12gong", "finding": "c-9" }, { "talk": "510oaks", "finding": "c-10" }]
+  },
+  {
+    "title": "Two of the five talks are built on a President Oaks talk",
+    "body": "Elder Schmeil builds his talk on President Oaks's 'Divine Helps for Mortality'. Elder Gilbert says outright that he is amplifying five principles President Oaks taught at a devotional they gave together. The prophet's earlier words are the scaffolding of other speakers' talks, not just quotes in them.",
+    "evidence": [{ "talk": "48schmeil", "finding": "x-n1" }, { "talk": "48schmeil", "finding": "c-11" }, { "talk": "59gilbert", "finding": "c-6" }, { "talk": "59gilbert", "finding": "x-n1" }]
+  },
+  {
+    "title": "President Nelson is still one of the most-cited voices",
+    "body": "President Nelson is cited 6 times (5 by Elder Gilbert, 1 by President Oaks), close to President Oaks's own 7. President Oaks credits 'the covenant path' to him by name, and that phrase appears in 3 of the 5 talks.",
+    "evidence": [{ "talk": "49oaks", "finding": "c-18" }, { "talk": "59gilbert", "finding": "x-n3" }, { "talk": "59gilbert", "finding": "x-n11" }]
+  },
+  {
+    "title": "Elder Gilbert's is the confession talk",
+    "body": "His is the only talk where 'I' outnumbers 'we' (46 to 36; Elder Schmeil is 27 to 65). He tells 6 stories, more than the other four talks together (4), and the turning point is a failure of his own: 'I may have won the debate in the moment, but I lost the Spirit.'",
+    "evidence": [{ "talk": "59gilbert", "finding": "c-9" }, { "talk": "59gilbert", "finding": "c-10" }, { "talk": "59gilbert", "finding": "c-15" }]
+  },
+  {
+    "title": "Love and truth live in one talk",
+    "body": "Of 41 love words in the pilot, 28 are Elder Gilbert's; of 21 truth words, 13 are his. His title says it: Teach Truth with Love. Elder Schmeil never says love at all.",
+    "evidence": [{ "talk": "59gilbert", "finding": "c-6" }, { "talk": "59gilbert", "finding": "c-8" }]
+  },
+  {
+    "title": "Faith and secular learning, from two angles",
+    "body": "President Oaks names two ways of knowing, the scientific and the spiritual, and says there is no ultimate conflict between them. Elder Gilbert tells of staying quiet while academic leaders attacked faith, and a chancellor later asking his help. Doubt and fading faith is the unspoken subject both share.",
+    "evidence": [{ "talk": "49oaks", "finding": "c-11" }, { "talk": "49oaks", "finding": "c-14" }, { "talk": "49oaks", "finding": "c-15" }, { "talk": "59gilbert", "finding": "c-12" }]
+  },
+  {
+    "title": "The prophet's Sunday talk asks the most and promises the least",
+    "body": "President Oaks's Sunday talk has 8 invitations and 2 promises. Elder Schmeil's is the reverse: 2 invitations and 4 promises. Across the pilot there are 22 invitations and 13 promises, and 8 invitations are paired with the promise that answers them.",
+    "evidence": [{ "talk": "49oaks", "finding": "c-4" }, { "talk": "49oaks", "finding": "c-9" }, { "talk": "48schmeil", "finding": "c-3" }]
+  },
+  {
+    "title": "The shared picture is a path, not water",
+    "body": "Path pictures show up in 4 of 5 talks: a road, the covenant path twice, a God in relentless pursuit. Water appears only twice, as a flood of truth (President Oaks) and an anchor (Elder Gilbert). No boats yet.",
+    "evidence": [{ "talk": "12gong", "finding": "c-22" }, { "talk": "48schmeil", "finding": "c-15" }, { "talk": "49oaks", "finding": "c-26" }, { "talk": "49oaks", "finding": "c-27" }, { "talk": "59gilbert", "finding": "c-23" }]
+  },
+  {
+    "title": "Concrete announcements, with dates",
+    "body": "21 temples to be dedicated this year and 1 rededicated; the Salt Lake Temple open to the public April 5, 2027; a video series, Dedicate, starting right after the session. And one forward-looking statement that reads as prophecy: records of Christ's visits to other nations, including the lost tribes, will come forth.",
+    "evidence": [{ "talk": "12gong", "finding": "c-14" }, { "talk": "510oaks", "finding": "c-6" }, { "talk": "510oaks", "finding": "c-7" }, { "talk": "49oaks", "finding": "c-12" }]
+  }
+]

@@ -45,7 +45,8 @@
       "basis": "exact",
       "detail": {
         "action": "study the conference talks and act on them"
-      }
+      },
+      "paired_with": "c-3"
     },
     {
       "id": "c-2",

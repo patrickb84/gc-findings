@@ -211,7 +211,8 @@
       "basis": "exact",
       "detail": {
         "action": "check yourself against charity"
-      }
+      },
+      "paired_with": "c-4"
     },
     {
       "id": "c-3",
@@ -221,7 +222,8 @@
       "note": "Teaching by example",
       "detail": {
         "action": "keep your own covenants"
-      }
+      },
+      "paired_with": "c-5"
     },
     {
       "id": "c-4",

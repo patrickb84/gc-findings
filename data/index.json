@@ -1,5 +1,251 @@
 [
   {
+    "term": "Temple",
+    "kind": "keyword",
+    "variants": [
+      "temple",
+      "temples",
+      "house of the lord",
+      "holy house",
+      "lord’s house",
+      "lord's house",
+      "temple’s"
+    ],
+    "mentions": 66,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Covenants",
+    "kind": "keyword",
+    "variants": [
+      "covenant",
+      "covenants",
+      "covenant path"
+    ],
+    "mentions": 43,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Peace",
+    "kind": "keyword",
+    "variants": [
+      "peace",
+      "peaceful",
+      "peacemaker",
+      "peacemakers",
+      "peacemaking"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Truth",
+    "kind": "keyword",
+    "variants": [
+      "truth",
+      "truths"
+    ],
+    "mentions": 21,
+    "talks": [
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Love",
+    "kind": "keyword",
+    "variants": [
+      "love",
+      "loves",
+      "loved",
+      "loving"
+    ],
+    "mentions": 41,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Faith",
+    "kind": "keyword",
+    "variants": [
+      "faith",
+      "faithful",
+      "faithfully"
+    ],
+    "mentions": 21,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Sacrament",
+    "kind": "keyword",
+    "variants": [
+      "sacrament"
+    ],
+    "mentions": 11,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Consider your ways",
+    "kind": "keyword",
+    "variants": [
+      "consider our ways",
+      "consider your ways",
+      "consider"
+    ],
+    "mentions": 9,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Humility",
+    "kind": "keyword",
+    "variants": [
+      "humility",
+      "humble",
+      "humbly"
+    ],
+    "mentions": 7,
+    "talks": [
+      "48schmeil",
+      "49oaks"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Path",
+    "kind": "image",
+    "variants": [
+      "path",
+      "road",
+      "pursuit"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Light",
+    "kind": "image",
+    "variants": [
+      "light",
+      "morning stars",
+      "horizons"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Water",
+    "kind": "image",
+    "variants": [
+      "flood",
+      "anchor",
+      "anchored",
+      "water"
+    ],
+    "mentions": 4,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Faith and secular learning",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Doubt and fading faith",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "49oaks",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Healing family relationships",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "12gong",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
+    "term": "Built on a President Oaks talk",
+    "kind": "subject",
+    "variants": [],
+    "mentions": null,
+    "talks": [
+      "48schmeil",
+      "59gilbert"
+    ],
+    "status": "proposed_family"
+  },
+  {
     "term": "christ",
     "kind": "keyword",
     "variants": [
@@ -68,22 +314,6 @@
     "kind": "keyword",
     "variants": [
       "come"
-    ],
-    "mentions": 17,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "faith",
-    "kind": "keyword",
-    "variants": [
-      "faith"
     ],
     "mentions": 17,
     "talks": [
@@ -256,21 +486,6 @@
     "status": "discovered"
   },
   {
-    "term": "temple",
-    "kind": "keyword",
-    "variants": [
-      "temple"
-    ],
-    "mentions": 53,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "god",
     "kind": "keyword",
     "variants": [
@@ -282,36 +497,6 @@
       "48schmeil",
       "49oaks",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "covenants",
-    "kind": "keyword",
-    "variants": [
-      "covenants"
-    ],
-    "mentions": 25,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "covenant",
-    "kind": "keyword",
-    "variants": [
-      "covenant"
-    ],
-    "mentions": 18,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "510oaks"
     ],
     "status": "discovered"
   },
@@ -571,34 +756,6 @@
     "status": "discovered"
   },
   {
-    "term": "love",
-    "kind": "keyword",
-    "variants": [
-      "love"
-    ],
-    "mentions": 30,
-    "talks": [
-      "12gong",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "truth",
-    "kind": "keyword",
-    "variants": [
-      "truth"
-    ],
-    "mentions": 19,
-    "talks": [
-      "49oaks",
-      "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "unto",
     "kind": "keyword",
     "variants": [
@@ -647,20 +804,6 @@
       "help"
     ],
     "mentions": 12,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "consider",
-    "kind": "keyword",
-    "variants": [
-      "consider"
-    ],
-    "mentions": 9,
     "talks": [
       "12gong",
       "48schmeil",
@@ -753,20 +896,6 @@
     "status": "discovered"
   },
   {
-    "term": "covenant path",
-    "kind": "keyword",
-    "variants": [
-      "covenant path"
-    ],
-    "mentions": 7,
-    "talks": [
-      "48schmeil",
-      "49oaks",
-      "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "god's",
     "kind": "keyword",
     "variants": [
@@ -791,20 +920,6 @@
       "12gong",
       "48schmeil",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "path",
-    "kind": "keyword",
-    "variants": [
-      "path"
-    ],
-    "mentions": 7,
-    "talks": [
-      "48schmeil",
-      "49oaks",
-      "510oaks"
     ],
     "status": "discovered"
   },
@@ -959,34 +1074,6 @@
       "12gong",
       "48schmeil",
       "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "loving",
-    "kind": "keyword",
-    "variants": [
-      "loving"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "peace",
-    "kind": "keyword",
-    "variants": [
-      "peace"
-    ],
-    "mentions": 5,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "510oaks"
     ],
     "status": "discovered"
   },
@@ -1191,20 +1278,6 @@
     "kind": "keyword",
     "variants": [
       "elder"
-    ],
-    "mentions": 3,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "faithful",
-    "kind": "keyword",
-    "variants": [
-      "faithful"
     ],
     "mentions": 3,
     "talks": [
@@ -1493,19 +1566,6 @@
     "status": "discovered"
   },
   {
-    "term": "sacrament",
-    "kind": "keyword",
-    "variants": [
-      "sacrament"
-    ],
-    "mentions": 11,
-    "talks": [
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "earth",
     "kind": "keyword",
     "variants": [
@@ -1753,19 +1813,6 @@
     "status": "discovered"
   },
   {
-    "term": "humility",
-    "kind": "keyword",
-    "variants": [
-      "humility"
-    ],
-    "mentions": 5,
-    "talks": [
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "include",
     "kind": "keyword",
     "variants": [
@@ -1983,19 +2030,6 @@
     "talks": [
       "12gong",
       "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "loved",
-    "kind": "keyword",
-    "variants": [
-      "loved"
-    ],
-    "mentions": 4,
-    "talks": [
-      "12gong",
-      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -2607,19 +2641,6 @@
     "talks": [
       "49oaks",
       "510oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "light",
-    "kind": "keyword",
-    "variants": [
-      "light"
-    ],
-    "mentions": 3,
-    "talks": [
-      "48schmeil",
-      "59gilbert"
     ],
     "status": "discovered"
   },
@@ -3456,19 +3477,6 @@
     "status": "discovered"
   },
   {
-    "term": "holy house",
-    "kind": "keyword",
-    "variants": [
-      "holy house"
-    ],
-    "mentions": 2,
-    "talks": [
-      "12gong",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "honored",
     "kind": "keyword",
     "variants": [
@@ -3577,19 +3585,6 @@
     "kind": "keyword",
     "variants": [
       "limit"
-    ],
-    "mentions": 2,
-    "talks": [
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "loves",
-    "kind": "keyword",
-    "variants": [
-      "loves"
     ],
     "mentions": 2,
     "talks": [

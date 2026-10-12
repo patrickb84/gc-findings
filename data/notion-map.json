@@ -12,6 +12,10 @@
     "index": {
       "database": "b835c40b415f440ab8406b120da0381b",
       "dataSource": "8cf1beb7-71dc-4ee5-a7cd-adf806ccbec9"
+    },
+    "scriptures": {
+      "database": "5174b4d9742844d3aed0fbeac65bcfd2",
+      "dataSource": "9285e426-4db6-489a-b195-2d0896091f48"
     }
   },
   "rows": {
@@ -56,7 +60,11 @@
     "talk:16hathaway:Highlights in this talk": "3f77c703-5fd6-81ec-9d9c-000c70d61038",
     "talk:17soares:Highlights in this talk": "3f77c703-5fd6-814b-91cd-000c5ebeb0c3",
     "talk:18douglas:Highlights in this talk": "3f77c703-5fd6-8191-9467-000cf0c6e6b3",
-    "talk:19christofferson:Highlights in this talk": "3f77c703-5fd6-81c9-87c1-000c7788c061"
+    "talk:19christofferson:Highlights in this talk": "3f77c703-5fd6-81c9-87c1-000c7788c061",
+    "scriptures:Shared across talks": "3f77c703-5fd6-8136-a99f-000c8df75880",
+    "scriptures:In canon order": "3f77c703-5fd6-8192-b254-000cd4416006",
+    "scriptures:By chapter": "3f77c703-5fd6-8145-a9ee-000c9926a886",
+    "scriptures:Most cited": "3f77c703-5fd6-8198-84e0-000c22cad100"
   },
   "rowKeys": {
     "findings": "Finding ID property (<talk>/<id>), unique",

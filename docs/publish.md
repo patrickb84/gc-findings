@@ -21,7 +21,7 @@ Highlight and Index row ids are not stored in the map. Their `Highlight ID` and 
 ## Where things live
 
 - Root page: `GC October 2026` (private). Its id is in `notion-map.json` → `page`.
-- Databases and data sources: `notion-map.json` → `databases`.
+- Databases and data sources (Talks, Highlights, Index, Scriptures): `notion-map.json` → `databases`.
 - Views: `notion-map.json` → `views`.
 - The "What I found" page: `notion-map.json` → `pages.whatIFound`.
 
@@ -101,3 +101,38 @@ In Notion, findings are called **Highlights** (plainer for readers). The code an
 **Views:**
 - **Themes:** sorted by Talks touched desc, then Mentions desc.
 - **Families to approve:** Status = proposed_family, grouped by Kind.
+
+## Scriptures
+
+One row per passage from `data/passages.json` (`pnpm scriptures`).
+
+**How citations are grouped into a passage:**
+- Citations that share a verse, directly or through another citation, are one passage, across talks. For example, Alma 7:11 and Alma 7:11–12 are one passage.
+- A one-chapter citation (Isaiah chapter 58) pulls in the verses inside it.
+- A citation of several chapters (3 Nephi 11–28) points at a whole section, so it stays on its own.
+- Next-door verses (Alma 34:32 and 34:33) are separate passages. They share a Chapter.
+
+| Property | Type | From |
+|---|---|---|
+| Passage | title | `label`, unique key |
+| Volume | select | `volume`; `Unknown` when null |
+| Book | text | `book` (empty when the volume is unknown) |
+| Chapter | text | label up to the `:`, or the whole label for a chapter citation |
+| Citations | number | `citations.length` |
+| Talks touched | number | `talks.length` |
+| Talks | relation | → Talks |
+| Cited as | text | `refs` joined with `; ` |
+| Order | number | canon order, 1-based |
+
+**Re-publishing:**
+- Look a row up by `"Passage" = '<label>'` and update it in place.
+- A passage label can change when new talks merge two passages. When that happens, update the old row to the new label, and list labels with no row left in the run report. Don't delete rows.
+
+**Views:**
+
+| View | Filter | Sort or grouping |
+|---|---|---|
+| Shared across talks | Talks touched > 1 | sorted by Talks touched, then Citations (both desc) |
+| In canon order | | grouped by Volume, sorted by Order |
+| By chapter | | grouped by Chapter |
+| Most cited | | sorted by Citations desc |

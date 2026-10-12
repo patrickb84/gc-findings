@@ -26,7 +26,9 @@ Highlight and Index row ids are not stored in the map. Their `Highlight ID` and 
 - The "What I found" page: `notion-map.json` → `pages.whatIFound`.
 - The "To do" page: `notion-map.json` → `pages.todo`. Everything that needs Patrick (rows to delete, families to approve, decisions) goes here as a checkbox at the end of each run. Claude never ticks them.
 
-**When SQL queries are out of quota,** use `query_data_sources` in view mode on a saved view (it has no quota) and page through with `next_cursor`.
+**When SQL queries are out of quota,** use `query_data_sources` in view mode on a saved view (it has no quota) and page through with `next_cursor`. To look rows up by key, use rows mode with a filter, for example `"Highlight ID"` `string_is` `16hathaway/x-s29` (up to 100 rows per call).
+
+**Checking Highlights counts:** query the Talks "In order" view 12 rows at a time (more rows exceeds Notion's 1000-mention limit) and count each talk's Highlights relation against `findings.length` in its JSON.
 
 ## Talks
 

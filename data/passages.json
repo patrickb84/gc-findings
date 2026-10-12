@@ -1,0 +1,2511 @@
+[
+  {
+    "label": "Job 19:25",
+    "book": "Job",
+    "volume": "Old Testament",
+    "refs": [
+      "Job 19:25"
+    ],
+    "citations": [
+      {
+        "talk": "hymn-my-redeemer-lives",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "hymn-my-redeemer-lives"
+    ]
+  },
+  {
+    "label": "Job 38:7",
+    "book": "Job",
+    "volume": "Old Testament",
+    "refs": [
+      "Job 38:7"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Isaiah 58",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "refs": [
+      "Isaiah chapter 58",
+      "Isaiah 58:1–7",
+      "Isaiah 58:6",
+      "Isaiah 58:8–9"
+    ],
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s5",
+        "spoken": false
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ]
+  },
+  {
+    "label": "Ezekiel 34:16",
+    "book": "Ezekiel",
+    "volume": "Old Testament",
+    "refs": [
+      "Ezekiel 34:16"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s32",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Daniel 6:18",
+    "book": "Daniel",
+    "volume": "Old Testament",
+    "refs": [
+      "Daniel 6:18"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Amos 3:7",
+    "book": "Amos",
+    "volume": "Old Testament",
+    "refs": [
+      "Amos 3:7"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Amos 8:11–12",
+    "book": "Amos",
+    "volume": "Old Testament",
+    "refs": [
+      "Amos 8:11–12"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Haggai 1:5–7, 9",
+    "book": "Haggai",
+    "volume": "Old Testament",
+    "refs": [
+      "Haggai 1:5–7, 9"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Haggai 2:19",
+    "book": "Haggai",
+    "volume": "Old Testament",
+    "refs": [
+      "Haggai 2:19"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s8",
+        "spoken": true
+      },
+      {
+        "talk": "48schmeil",
+        "finding": "x-s9",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Matthew 5:6",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 5:6"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Matthew 5:48",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 5:48"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Matthew 7:15–23",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 7:15–23"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Matthew 11:28–30",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 11:28–30"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Matthew 18:16",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 18:16"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Matthew 22:39",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 22:39"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Matthew 25:NaN",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 25:14‒30"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Matthew 28:19–20",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "refs": [
+      "Matthew 28:19–20"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Mark 5:35–42",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 5:35–42",
+      "Mark 5:36"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s29",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Mark 10:21",
+    "book": "Mark",
+    "volume": "New Testament",
+    "refs": [
+      "Mark 10:21"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Luke 8:49–55",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 8:49–55",
+      "Luke 8:50"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s30",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Luke 22:19–20",
+    "book": "Luke",
+    "volume": "New Testament",
+    "refs": [
+      "Luke 22:19–20"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "John 8:11",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 8:11"
+    ],
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ]
+  },
+  {
+    "label": "John 10:16",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 10:16"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "John 11:1–44",
+    "book": "John",
+    "volume": "New Testament",
+    "refs": [
+      "John 11:1–44"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s31",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Acts 1:8",
+    "book": "Acts",
+    "volume": "New Testament",
+    "refs": [
+      "Acts 1:8"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Acts 2:33",
+    "book": "Acts",
+    "volume": "New Testament",
+    "refs": [
+      "Acts 2:33"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Acts 20:29",
+    "book": "Acts",
+    "volume": "New Testament",
+    "refs": [
+      "Acts 20:29"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "1 Corinthians 8:9–11",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "1 Corinthians 8:9–11"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "1 Corinthians 15:21–22",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "1 Corinthians 15:21–22"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "2 Corinthians 3:2–3",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "2 Corinthians 3:2–3"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "2 Corinthians 13:1",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "refs": [
+      "2 Corinthians 13:1"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Galatians 3:27",
+    "book": "Galatians",
+    "volume": "New Testament",
+    "refs": [
+      "Galatians 3:27"
+    ],
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ]
+  },
+  {
+    "label": "Ephesians 6:11, 14–17",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "refs": [
+      "Ephesians 6:11, 14–17"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "1 Timothy 1:11–12",
+    "book": "1 Timothy",
+    "volume": "New Testament",
+    "refs": [
+      "1 Timothy 1:11–12"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "James 1:17",
+    "book": "James",
+    "volume": "New Testament",
+    "refs": [
+      "James 1:17"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "1 John 3:2",
+    "book": "1 John",
+    "volume": "New Testament",
+    "refs": [
+      "1 John 3:2"
+    ],
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ]
+  },
+  {
+    "label": "1 John 4:19",
+    "book": "1 John",
+    "volume": "New Testament",
+    "refs": [
+      "1 John 4:19"
+    ],
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ]
+  },
+  {
+    "label": "Title page of the Book of Mormon",
+    "book": "Title Page",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Title page of the Book of Mormon"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "1 Nephi 11:16–17",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "1 Nephi 11:16, 17"
+    ],
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ]
+  },
+  {
+    "label": "2 Nephi 2:2",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 2:2"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s24",
+        "spoken": false
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s24",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway",
+      "18douglas"
+    ]
+  },
+  {
+    "label": "2 Nephi 2:8",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 2:8"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "2 Nephi 9:5",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 9:5"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 9:6, 11–12",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 9:6, 11–12"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "2 Nephi 9:21–23",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 9:21",
+      "2 Nephi 9:21–23"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s10",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway",
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 25:23",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 25:23"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "2 Nephi 26:13",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 26:13"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 26:33",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 26:33"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 28:30",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 28:30"
+    ],
+    "citations": [
+      {
+        "talk": "510oaks",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "510oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 29:7",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 29:7"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 29:13",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 29:13"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "2 Nephi 31:19–20",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "2 Nephi 31:19–20"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Jacob 2:7–9",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Jacob 2:7–9"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Jacob 6:12",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Jacob 6:12"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Omni 1:26",
+    "book": "Omni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Omni 1:26"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Mosiah 2:41",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 2:41"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s10",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Mosiah 3:18",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 3:18"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Mosiah 18:9",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 18:9"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Mosiah 24:8–16",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 24:8–16",
+      "Mosiah 24:10",
+      "Mosiah 24:13–16",
+      "Mosiah 24:14–16"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s12",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s17",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s19",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Mosiah 28:3",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Mosiah 28:3"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Alma 5:49",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 5:49"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Alma 7:11–12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 7:11",
+      "Alma 7:11–12",
+      "Alma 7:11, 12"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s10",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s2",
+        "spoken": false
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway",
+      "17soares"
+    ]
+  },
+  {
+    "label": "Alma 7:13–14",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 7:13–14"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Alma 10:6",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 10:6"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Alma 11:42–44",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 11:42–44"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Alma 34:32",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 34:32"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Alma 34:33",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 34:33"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Alma 36:3, 27",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 36:3, 27",
+      "Alma 36:27"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s3",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Alma 36:17",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 36:17"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Alma 42:8",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 42:8"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Alma 58:1–13",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Alma 58:1–13",
+      "Alma 58:9",
+      "Alma 58:11"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s13",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s16",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Helaman 3:35",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Helaman 3:35"
+    ],
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ]
+  },
+  {
+    "label": "Helaman 5:11",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Helaman 5:11"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Helaman 5:12",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Helaman 5:12"
+    ],
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ]
+  },
+  {
+    "label": "3 Nephi 5:13",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 5:13"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 11–28",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 11–28"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "3 Nephi 11:14",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 11:14"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "3 Nephi 12:6",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 12:6"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "3 Nephi 12:48",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 12:48"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 16:1",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 16:1"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "3 Nephi 16:2–3",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 16:2–3"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "3 Nephi 17:4",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 17:4"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "3 Nephi 18:11",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 18:11"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "3 Nephi 18:24",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 18:24"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 18:32",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 18:32"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "3 Nephi 27:27",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "refs": [
+      "3 Nephi 27:27"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Ether 12:27",
+    "book": "Ether",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Ether 12:27"
+    ],
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ]
+  },
+  {
+    "label": "Moroni 7:13, 24, 47",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 7:13, 24, 47"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Moroni 7:45",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 7:45"
+    ],
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ]
+  },
+  {
+    "label": "Moroni 10:18",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "refs": [
+      "Moroni 10:18"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 1:23",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 1:23"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 1:38",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 1:38"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s8",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 4:3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 4:3"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 6:28",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 6:28"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 10:33",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 10:33"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 11:17",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 11:17"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 11:21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 11:21"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 20:17–21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 20:17–21"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 31:1, 3, 5–7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 31:1, 3, 5–7",
+      "Doctrine and Covenants 31:5–6",
+      "Doctrine and Covenants 31:7"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s29",
+        "spoken": false
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s19",
+        "spoken": false
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 35:13–14",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 35:13–14"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 39:13",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 39:13"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 46:8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 46:8"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 46:13",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 46:13"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 58:14, 16",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 58:14, 16"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 58:27",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 58:27"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 62:3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 62:3"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 68:6",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 68:6"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 76:22–24, 39–43",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 76:22–24, 41–42",
+      "Doctrine and Covenants 76:39–43"
+    ],
+    "citations": [
+      {
+        "talk": "hymn-my-redeemer-lives",
+        "finding": "x-s1",
+        "spoken": true
+      },
+      {
+        "talk": "12gong",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong",
+      "hymn-my-redeemer-lives"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 76:53",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 76:53"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 84:61",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 84:61"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 88:72–73",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 88:72–73"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 90:5",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 90:5"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s5",
+        "spoken": true
+      },
+      {
+        "talk": "15sikahema",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 100:8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 100:8"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 100:NaN, 10",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 100:5‒8, 10"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 107:23",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 107:23"
+    ],
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 108:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 108:7"
+    ],
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 121:1–8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 121:1",
+      "Doctrine and Covenants 121:1–8",
+      "Doctrine and Covenants 121:7",
+      "Doctrine and Covenants 121:7–8"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s15",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s14",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s21",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 121:34–35",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 121:34–35"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 122:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 122:7"
+    ],
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 123:17",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 123:17"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 128:9",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 128:9"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 132:7, 18–19, 26",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 132:7",
+      "Doctrine and Covenants 132:7, 18–19, 26",
+      "Doctrine and Covenants 132:19"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s9",
+        "spoken": false
+      },
+      {
+        "talk": "12gong",
+        "finding": "x-s8",
+        "spoken": false
+      },
+      {
+        "talk": "12gong",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Doctrine and Covenants 138:55–56",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "refs": [
+      "Doctrine and Covenants 138:55–56"
+    ],
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ]
+  },
+  {
+    "label": "Moses 1:31–33",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 1:31–33"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Moses 1:39",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 1:39"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "Moses 2:1–2",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 2:1–2"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Moses 6:52, 59",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 6:52, 59"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Moses 7:62",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Moses 7:62"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Joseph Smith—History 1:17",
+    "book": "Joseph Smith—History",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Joseph Smith—History 1:17"
+    ],
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ]
+  },
+  {
+    "label": "Articles of Faith 1:1",
+    "book": "Articles of Faith",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "first article of faith"
+    ],
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ]
+  },
+  {
+    "label": "Articles of Faith 1:10",
+    "book": "Articles of Faith",
+    "volume": "Pearl of Great Price",
+    "refs": [
+      "Articles of Faith 1:10"
+    ],
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ]
+  },
+  {
+    "label": "verse 12",
+    "book": "verse",
+    "volume": null,
+    "refs": [
+      "verse 12"
+    ],
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ]
+  }
+]

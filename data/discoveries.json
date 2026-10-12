@@ -19,7 +19,7 @@
   },
   {
     "title": "156 scripture citations; Elder Hathaway's talk is the crossroads",
-    "body": "Each speaker leans on a home book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Bishop Douglas's 13 of 29 Doctrine and Covenants, Elder Soares lives in Isaiah 58. Only five passages cross talks, and Elder Hathaway sits in three of them: 2 Nephi 2:2 (also Bishop Douglas, same verse), 2 Nephi 9:21 (President Oaks) and Alma 7:11 (Elder Soares, the Savior's succor). The others: President Oaks's 3 Nephi 11–28, the Savior's visit to the Americas, holds verses cited by Elder Schmeil, Bishop Douglas and President Christofferson; and the closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk.",
+    "body": "Each speaker leans on a home book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Bishop Douglas's 13 of 29 Doctrine and Covenants, Elder Soares lives in Isaiah 58. Only four passages are shared by two talks, and Elder Hathaway sits in three of them: 2 Nephi 2:2 (also Bishop Douglas, same verse), 2 Nephi 9:21–23 (President Oaks) and Alma 7:11–12 (Elder Soares, the Savior's succor). The fourth: the closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk. Twice, two talks stop one verse apart: Helaman 5:11 (Elder Hathaway) and 5:12 (Elder Runia), Alma 34:32 (Elder Schmeil) and 34:33 (Elder Gong).",
     "evidence": [
       {
         "talk": "16hathaway",
@@ -46,28 +46,50 @@
         "finding": "x-s6"
       },
       {
-        "talk": "49oaks",
-        "finding": "x-s11"
-      },
-      {
-        "talk": "48schmeil",
-        "finding": "x-s6"
-      },
-      {
-        "talk": "18douglas",
-        "finding": "x-s17"
-      },
-      {
-        "talk": "19christofferson",
-        "finding": "x-s6"
-      },
-      {
         "talk": "12gong",
         "finding": "x-s3"
       },
       {
         "talk": "hymn-my-redeemer-lives",
         "finding": "x-s1"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s9"
+      },
+      {
+        "talk": "13runia",
+        "finding": "x-s3"
+      },
+      {
+        "talk": "48schmeil",
+        "finding": "x-s2"
+      },
+      {
+        "talk": "12gong",
+        "finding": "x-s5"
+      }
+    ]
+  },
+  {
+    "title": "The Sermon on the Mount, cited in both books",
+    "body": "Two speakers set the Bible's Sermon on the Mount beside the Savior's sermon at the temple in Bountiful. President Christofferson cites Matthew 5:6 and 3 Nephi 12:6, and quotes the Book of Mormon wording: those who hunger and thirst after righteousness \"shall be filled with the Holy Ghost.\" Bishop Douglas's footnote cites Matthew 5:48 and 3 Nephi 12:48 together, the call to be perfect: \"Note the high love of the Savior, along with the high expectations.\"",
+    "evidence": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s7"
+      },
+      {
+        "talk": "19christofferson",
+        "finding": "x-s6"
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s15"
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s17"
       }
     ]
   },

@@ -107,8 +107,80 @@ export function buildScriptureTable(talks: TalkFile[]): ScriptureRow[] {
   for (const row of rows) {
     row.overlaps = rows.filter((o) => o !== row && overlaps(row.parsed, o.parsed)).map((o) => o.ref);
   }
-  const compare = (a: number[], b: number[]) => a.reduce((acc, x, i) => acc || x - b[i], 0);
   return rows
-    .sort((a, b) => compare(sortKey(a.parsed), sortKey(b.parsed)) || a.ref.localeCompare(b.ref))
+    .sort((a, b) => compareKeys(sortKey(a.parsed), sortKey(b.parsed)) || a.ref.localeCompare(b.ref))
     .map(({ parsed: _parsed, ...row }) => row);
+}
+
+export interface Passage {
+  label: string;
+  book: string;
+  volume: Volume | null;
+  refs: string[];
+  citations: { talk: string; finding: string; spoken: boolean }[];
+  talks: string[];
+}
+
+function compact(verses: number[]): string {
+  const out: string[] = [];
+  for (let i = 0; i < verses.length; i++) {
+    let j = i;
+    while (j + 1 < verses.length && verses[j + 1] === verses[j] + 1) j++;
+    out.push(i === j ? `${verses[i]}` : `${verses[i]}–${verses[j]}`);
+    i = j;
+  }
+  return out.join(', ');
+}
+
+function labelOf(book: string, spans: Span[]): string {
+  const chapters = [...new Set(spans.map((s) => s.chapter))].sort((a, b) => a - b);
+  if (spans.some((s) => s.verses === null)) {
+    const [first, last] = [chapters[0], chapters.at(-1)];
+    return first === last ? `${book} ${first}` : `${book} ${first}–${last}`;
+  }
+  const byChapter = chapters.map((c) => {
+    const verses = [...new Set(spans.filter((s) => s.chapter === c).flatMap((s) => s.verses!))].sort((a, b) => a - b);
+    return `${c}:${compact(verses)}`;
+  });
+  return `${book} ${byChapter.join('; ')}`;
+}
+
+// One passage per group of references that share a verse (directly or through another reference).
+// A one-chapter citation pulls in every verse cited inside that chapter. A citation of several
+// chapters (3 Nephi 11–28) points at a whole section, so it stays apart from the verses inside it.
+export function groupPassages(rows: ScriptureRow[]): Passage[] {
+  const parent = new Map(rows.map((r) => [r.ref, r.ref]));
+  const root = (x: string): string => (parent.get(x) === x ? x : root(parent.get(x)!));
+  const section = (ref: string) => parseRef(ref).spans.length > 1 && parseRef(ref).spans.every((s) => s.verses === null);
+  for (const r of rows) {
+    if (section(r.ref)) continue;
+    for (const o of r.overlaps) if (!section(o)) parent.set(root(o), root(r.ref));
+  }
+
+  const groups = new Map<string, ScriptureRow[]>();
+  for (const r of rows) groups.set(root(r.ref), [...(groups.get(root(r.ref)) ?? []), r]);
+
+  const passages = [...groups.values()].map((members) => {
+    const parsed = members.map((m) => parseRef(m.ref));
+    const spans = parsed.flatMap((p) => p.spans);
+    const label = spans.length === 0 ? members[0].ref : labelOf(parsed[0].book, spans);
+    const citations = members.flatMap((m) => m.citations);
+    const keys = parsed.map(sortKey).sort(compareKeys);
+    return {
+      key: keys[0],
+      passage: {
+        label,
+        book: parsed[0].book,
+        volume: parsed[0].volume,
+        refs: members.map((m) => m.ref),
+        citations,
+        talks: [...new Set(citations.map((c) => c.talk))].sort(),
+      },
+    };
+  });
+  return passages.sort((a, b) => compareKeys(a.key, b.key) || a.passage.label.localeCompare(b.passage.label)).map((p) => p.passage);
+}
+
+function compareKeys(a: number[], b: number[]): number {
+  return a.reduce((acc, x, i) => acc || x - b[i], 0);
 }

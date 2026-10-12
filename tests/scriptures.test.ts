@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildScriptureTable, overlaps, parseRef } from '../src/scriptures.ts';
+import { buildScriptureTable, groupPassages, overlaps, parseRef } from '../src/scriptures.ts';
 import type { Finding, TalkFile } from '../src/types.ts';
 
 describe('parseRef', () => {
@@ -85,5 +85,49 @@ describe('buildScriptureTable', () => {
 
   it('orders rows by volume, then book, then chapter', () => {
     expect(rows.map((r) => r.ref)).toEqual(['Haggai 2:19', 'Alma 34:32', 'Doctrine and Covenants 76:22–24, 41–42', 'Doctrine and Covenants 76:39–43']);
+  });
+});
+
+describe('groupPassages', () => {
+  const talks = [
+    talk('a', [scripture('x-s1', 'Alma 7:11', false), scripture('x-s2', 'Alma 7:11–12', false), scripture('x-s3', 'Mosiah 24:8–16', false), scripture('x-s4', 'Mosiah 24:10', false)]),
+    talk('b', [scripture('x-s1', 'Alma 7:11, 12', false), scripture('x-s2', 'Alma 7:13', false)]),
+    talk('c', [scripture('x-s1', '3 Nephi 11–28', false), scripture('x-s2', 'verse 12', false)]),
+    talk('d', [scripture('x-s1', '3 Nephi 18:11', true)]),
+  ];
+  const passages = groupPassages(buildScriptureTable(talks));
+  const find = (label: string) => passages.find((p) => p.label === label);
+
+  it('merges references that share a verse, across and within talks', () => {
+    expect(find('Alma 7:11–12')).toMatchObject({ book: 'Alma', volume: 'Book of Mormon', talks: ['a', 'b'] });
+    expect([...find('Alma 7:11–12')!.refs].sort()).toEqual(['Alma 7:11', 'Alma 7:11, 12', 'Alma 7:11–12'].sort());
+    expect(find('Alma 7:11–12')?.citations).toHaveLength(3);
+    expect(find('Mosiah 24:8–16')?.refs).toEqual(['Mosiah 24:8–16', 'Mosiah 24:10']);
+  });
+
+  it('keeps next-door verses apart', () => {
+    expect(find('Alma 7:13')?.citations).toHaveLength(1);
+  });
+
+  it('keeps a citation of several chapters apart from the verses inside it', () => {
+    expect(find('3 Nephi 11–28')).toMatchObject({ refs: ['3 Nephi 11–28'], talks: ['c'] });
+    expect(find('3 Nephi 18:11')).toMatchObject({ refs: ['3 Nephi 18:11'], talks: ['d'] });
+  });
+
+  it('labels a one-chapter citation by its chapter and pulls in the verses inside it', () => {
+    const one = groupPassages(buildScriptureTable([
+      talk('e', [scripture('x-s1', 'Isaiah chapter 58', true)]),
+      talk('f', [scripture('x-s1', 'Isaiah 58:6', false)]),
+    ]));
+    expect(one).toHaveLength(1);
+    expect(one[0]).toMatchObject({ label: 'Isaiah 58', talks: ['e', 'f'] });
+  });
+
+  it('keeps a reference it cannot read as its own passage', () => {
+    expect(find('verse 12')).toMatchObject({ volume: null, talks: ['c'] });
+  });
+
+  it('puts passages in canon order', () => {
+    expect(passages.map((p) => p.label)).toEqual(['Mosiah 24:8–16', 'Alma 7:11–12', 'Alma 7:13', '3 Nephi 11–28', '3 Nephi 18:11', 'verse 12']);
   });
 });

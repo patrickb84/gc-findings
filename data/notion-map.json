@@ -19,7 +19,8 @@
     "talk:48schmeil": "3f77c7035fd681f7b2c0ee044c05eea8",
     "talk:49oaks": "3f77c7035fd6814caf5bec529a70fa5f",
     "talk:59gilbert": "3f77c7035fd6819aad48d6aba914204f",
-    "talk:510oaks": "3f77c7035fd68120a33bf6aa2dc82386"
+    "talk:510oaks": "3f77c7035fd68120a33bf6aa2dc82386",
+    "talk:hymn-my-redeemer-lives": "3f77c7035fd681f19465c8515b6a0380"
   },
   "pages": {
     "whatIFound": "3f77c7035fd68146832fdf0420c4154a"
@@ -40,7 +41,8 @@
     "talk:48schmeil:Findings in this talk": "3f77c703-5fd6-81c6-9417-000c26a8d4dd",
     "talk:49oaks:Findings in this talk": "3f77c703-5fd6-8117-9aca-000cca20e699",
     "talk:59gilbert:Findings in this talk": "3f77c703-5fd6-81c7-8f6d-000c57e8fbb0",
-    "talk:510oaks:Findings in this talk": "3f77c703-5fd6-81f0-8bff-000c53d2cef4"
+    "talk:510oaks:Findings in this talk": "3f77c703-5fd6-81f0-8bff-000c53d2cef4",
+    "talk:hymn-my-redeemer-lives:Findings in this hymn": "3f77c703-5fd6-8132-bf3c-000c35720043"
   },
   "rowKeys": {
     "findings": "Finding ID property (<talk>/<id>), unique",

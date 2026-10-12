@@ -1,288 +1,192 @@
 [
   {
-    "title": "The pilot opens and closes at a temple door",
-    "body": "The first talk (Elder Gong) says temple 54 times, more than the other four talks combined (12). The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
+    "title": "The conference opens and closes at a temple door",
+    "body": "The first talk (Elder Gong) says temple 54 times; the other eleven talks read so far say it 13 times combined. The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
     "evidence": [
-      {
-        "talk": "12gong",
-        "finding": "c-22"
-      },
-      {
-        "talk": "510oaks",
-        "finding": "c-6"
-      },
-      {
-        "talk": "510oaks",
-        "finding": "c-9"
-      }
+      { "talk": "12gong", "finding": "c-22" },
+      { "talk": "510oaks", "finding": "c-6" },
+      { "talk": "510oaks", "finding": "c-9" }
     ]
   },
   {
-    "title": "49 scripture citations, almost nothing shared",
-    "body": "Each speaker leans on a different book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Elder Gong's is 6 of 11 Doctrine and Covenants, Elder Schmeil builds on Haggai. Only two overlaps cross talks. Elder Schmeil's 3 Nephi 18:11 falls inside President Oaks's 3 Nephi 11–28, the Savior's visit to the Americas. And the closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk. The nearest miss is next-door verses: Alma 34:33 (Elder Gong) and Alma 34:32 (Elder Schmeil).",
+    "title": "156 scripture citations; Elder Hathaway's talk is the crossroads",
+    "body": "Each speaker leans on a home book: President Oaks's Sunday talk is 15 of 22 Book of Mormon, Elder Douglas's 13 of 29 Doctrine and Covenants, Elder Soares lives in Isaiah 58. Only six passages cross talks, and Elder Hathaway sits in three of them: 2 Nephi 2:2 (also Elder Douglas, same verse), 2 Nephi 9:21 (President Oaks) and Alma 7:11 (Elder Soares, the Savior's succor). The others: President Oaks's 3 Nephi 11–28, the Savior's visit to the Americas, holds verses cited by Elder Schmeil, Elder Douglas and President Christofferson; and the closing hymn lists Doctrine and Covenants 76:41–42, inside the 76:39–43 Elder Gong cited in the first talk.",
     "evidence": [
-      {
-        "talk": "48schmeil",
-        "finding": "x-s6"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "x-s11"
-      },
-      {
-        "talk": "12gong",
-        "finding": "x-s3"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "x-s1"
-      },
-      {
-        "talk": "12gong",
-        "finding": "x-s5"
-      },
-      {
-        "talk": "48schmeil",
-        "finding": "x-s2"
-      }
+      { "talk": "16hathaway", "finding": "x-s24" },
+      { "talk": "18douglas", "finding": "x-s24" },
+      { "talk": "16hathaway", "finding": "x-s7" },
+      { "talk": "49oaks", "finding": "x-s10" },
+      { "talk": "16hathaway", "finding": "x-s10" },
+      { "talk": "17soares", "finding": "x-s6" },
+      { "talk": "49oaks", "finding": "x-s11" },
+      { "talk": "48schmeil", "finding": "x-s6" },
+      { "talk": "18douglas", "finding": "x-s17" },
+      { "talk": "19christofferson", "finding": "x-s6" },
+      { "talk": "12gong", "finding": "x-s3" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "x-s1" }
     ]
   },
   {
-    "title": "Covenants are the only thread through all five",
-    "body": "Of the families proposed, only Covenants (43 mentions) and Faith (23) appear in every talk. Elder Schmeil alone accounts for 22 covenant mentions, and even the three-minute closing remarks end on \"the covenant path\". The closing hymn carries faith (\"my one sure rock of faith\") but never says covenant.",
+    "title": "Faith is the one word in everything",
+    "body": "Faith (45 mentions) is the only family in all twelve talks and the closing hymn. Covenants is louder (53) but narrower: 9 of 12 talks, with Elder Schmeil alone saying it 22 times, while Sister Runia, Elder Sikahema and Elder Douglas never use it. Elder Hathaway gives faith its shortest form, the Savior's words to Jairus, said twice: \"Be not afraid, only believe.\" The closing hymn carries faith (\"my one sure rock of faith\") but never says covenant.",
     "evidence": [
-      {
-        "talk": "48schmeil",
-        "finding": "c-5"
-      },
-      {
-        "talk": "12gong",
-        "finding": "c-9"
-      },
-      {
-        "talk": "510oaks",
-        "finding": "c-10"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-5"
-      }
+      { "talk": "16hathaway", "finding": "c-35" },
+      { "talk": "16hathaway", "finding": "c-37" },
+      { "talk": "48schmeil", "finding": "c-5" },
+      { "talk": "12gong", "finding": "c-9" },
+      { "talk": "510oaks", "finding": "c-10" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-5" }
     ]
   },
   {
-    "title": "Two of the five talks are built on a President Oaks talk",
-    "body": "Elder Schmeil builds his talk on President Oaks's 'Divine Helps for Mortality'. Elder Gilbert says outright that he is amplifying five principles President Oaks taught at a devotional they gave together. The prophet's earlier words are the scaffolding of other speakers' talks, not just quotes in them.",
+    "title": "President Oaks is the voice other speakers build on",
+    "body": "President Oaks is cited 12 times in 6 of the 10 talks he didn't give. Two talks are built on him: Elder Schmeil on 'Divine Helps for Mortality', Elder Gilbert on five principles from a devotional they gave together. President Christofferson's case against gambling rests on two Oaks sources, one from 1987. Elder Douglas opens with him. The prophet's earlier words are the scaffolding of other talks, not just quotes in them.",
     "evidence": [
-      {
-        "talk": "48schmeil",
-        "finding": "x-n1"
-      },
-      {
-        "talk": "48schmeil",
-        "finding": "c-11"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-6"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "x-n1"
-      }
+      { "talk": "48schmeil", "finding": "x-n1" },
+      { "talk": "48schmeil", "finding": "c-11" },
+      { "talk": "59gilbert", "finding": "c-6" },
+      { "talk": "59gilbert", "finding": "x-n1" },
+      { "talk": "19christofferson", "finding": "x-n15" },
+      { "talk": "19christofferson", "finding": "x-n19" },
+      { "talk": "18douglas", "finding": "x-n2" }
     ]
   },
   {
-    "title": "President Nelson is still one of the most-cited voices",
-    "body": "President Nelson is cited 6 times (5 by Elder Gilbert, 1 by President Oaks), close to President Oaks's own 7. President Oaks credits 'the covenant path' to him by name, and that phrase appears in 3 of the 5 talks.",
+    "title": "President Nelson is cited almost as often as the living prophet",
+    "body": "President Nelson is cited 11 times (5 by Elder Gilbert, 4 by Elder Douglas), one fewer than President Oaks's 12. Elder Douglas leans on President Nelson's youth devotional to make the missionary call, so the call runs from one prophet to the next. President Oaks credits 'the covenant path' to President Nelson by name.",
     "evidence": [
-      {
-        "talk": "49oaks",
-        "finding": "c-18"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "x-n3"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "x-n11"
-      }
+      { "talk": "49oaks", "finding": "c-18" },
+      { "talk": "59gilbert", "finding": "x-n3" },
+      { "talk": "59gilbert", "finding": "x-n11" },
+      { "talk": "18douglas", "finding": "x-n5" },
+      { "talk": "18douglas", "finding": "x-n20" }
+    ]
+  },
+  {
+    "title": "Saturday morning runs on Joseph Smith",
+    "body": "Each of the first six talks quotes or cites the Prophet Joseph Smith. In the other six he appears once, in passing: Elder Douglas's closing scripture came \"through Joseph Smith\" to Thomas B. Marsh. Two of them go to the same place, Liberty Jail: Sister Runia uses the Lord's answer to him there (\"all these things shall give thee experience\"), Elder Hathaway his cry (\"O God, where art thou?\"). Elder Sikahema quotes the First Vision, Elder Caussé and Elder Soares his teachings, Elder Gong his vision of the kingdoms of glory.",
+    "evidence": [
+      { "talk": "12gong", "finding": "c-16" },
+      { "talk": "13runia", "finding": "c-6" },
+      { "talk": "14causse", "finding": "x-n3" },
+      { "talk": "15sikahema", "finding": "c-28" },
+      { "talk": "16hathaway", "finding": "c-9" },
+      { "talk": "17soares", "finding": "c-21" }
+    ]
+  },
+  {
+    "title": "Saturday morning carries grief",
+    "body": "Three of the first five talks hold a death in the family. Sister Runia's oldest son, Ryan, died thirteen years ago; his seven-year-old son gave a Primary talk at the funeral about trusting the designer. Elder Sikahema's grandparents lost their infant son on an ocean voyage to hear an Apostle, then got back on the boat. Elder Hathaway tells of a missionary's father, Kelly, killed in an accident one week before she came home.",
+    "evidence": [
+      { "talk": "13runia", "finding": "c-2" },
+      { "talk": "13runia", "finding": "c-29" },
+      { "talk": "15sikahema", "finding": "c-13" },
+      { "talk": "15sikahema", "finding": "c-15" },
+      { "talk": "16hathaway", "finding": "c-18" }
     ]
   },
   {
     "title": "Elder Gilbert's is the confession talk",
-    "body": "His is the only talk where 'I' outnumbers 'we' (46 to 36; Elder Schmeil is 27 to 65). He tells 6 stories, more than the other four talks together (4), and the turning point is a failure of his own: 'I may have won the debate in the moment, but I lost the Spirit.'",
+    "body": "Four speakers say 'I' more than 'we': Sister Runia (61 to 56), Elder Caussé (58 to 24), Elder Sikahema (32 to 6) and Elder Gilbert (46 to 36). Sister Runia tells the most stories (7). But only Elder Gilbert's turning point is a failure of his own: 'I may have won the debate in the moment, but I lost the Spirit.'",
     "evidence": [
-      {
-        "talk": "59gilbert",
-        "finding": "c-9"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-10"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-15"
-      }
+      { "talk": "59gilbert", "finding": "c-9" },
+      { "talk": "59gilbert", "finding": "c-10" },
+      { "talk": "59gilbert", "finding": "c-15" }
     ]
   },
   {
     "title": "Love and truth live in one talk",
-    "body": "Of 41 love words in the pilot, 28 are Elder Gilbert's; of 21 truth words, 13 are his. His title says it: Teach Truth with Love. Elder Schmeil never says love at all.",
+    "body": "Of 73 love words, 28 are Elder Gilbert's; of 29 truth words, 13 are his. His title says it: Teach Truth with Love. The runner-up on love is Elder Caussé (14), who pairs testimony and love as gifts that \"echo and strengthen one another\". Elder Schmeil and Elder Sikahema never say love at all.",
     "evidence": [
-      {
-        "talk": "59gilbert",
-        "finding": "c-6"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-8"
-      }
+      { "talk": "59gilbert", "finding": "c-6" },
+      { "talk": "59gilbert", "finding": "c-8" },
+      { "talk": "14causse", "finding": "c-14" }
     ]
   },
   {
     "title": "Faith and secular learning, from two angles",
     "body": "President Oaks names two ways of knowing, the scientific and the spiritual, and says there is no ultimate conflict between them. Elder Gilbert tells of staying quiet while academic leaders attacked faith, and a chancellor later asking his help. Doubt and fading faith is the unspoken subject both share.",
     "evidence": [
-      {
-        "talk": "49oaks",
-        "finding": "c-11"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-14"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-15"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-12"
-      }
+      { "talk": "49oaks", "finding": "c-11" },
+      { "talk": "49oaks", "finding": "c-14" },
+      { "talk": "49oaks", "finding": "c-15" },
+      { "talk": "59gilbert", "finding": "c-12" }
     ]
   },
   {
-    "title": "The prophet's Sunday talk asks the most and promises the least",
-    "body": "President Oaks's Sunday talk has 8 invitations and 2 promises. Elder Schmeil's is the reverse: 2 invitations and 4 promises. Across the pilot there are 22 invitations and 13 promises, and 8 invitations are paired with the promise that answers them.",
+    "title": "Some talks ask, some promise",
+    "body": "Across the twelve talks there are 50 invitations and 48 promises. President Oaks's Sunday talk and Elder Douglas's ask the most (8 each). Elder Soares promises the most (10, three of them answering his one invitation to live the fast in a higher and holier way), then Elder Hathaway (8). Elder Douglas hangs all four of his promises on one invitation: serve a mission. Elder Sikahema makes no promise at all.",
     "evidence": [
-      {
-        "talk": "49oaks",
-        "finding": "c-4"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-9"
-      },
-      {
-        "talk": "48schmeil",
-        "finding": "c-3"
-      }
+      { "talk": "49oaks", "finding": "c-4" },
+      { "talk": "17soares", "finding": "c-32" },
+      { "talk": "17soares", "finding": "c-27" },
+      { "talk": "18douglas", "finding": "c-24" },
+      { "talk": "48schmeil", "finding": "c-3" }
     ]
   },
   {
-    "title": "The shared picture is a path, not water",
-    "body": "Path pictures show up in 4 of 5 talks: a road, the covenant path twice, a God in relentless pursuit. The closing hymn ends on one more: \"the lonely road that leads to thine eternity\". Water appears only twice, as a flood of truth (President Oaks) and an anchor (Elder Gilbert). No boats yet.",
+    "title": "The shared picture is a path, and now there is a boat",
+    "body": "Path pictures show up in 9 of the 12 talks (15 of them): a road, the covenant path, a detour, two paths (giving and taking), the trail to Zion. The closing hymn ends on one more: \"the lonely road that leads to thine eternity\". Water comes in 5 talks, and the first boat with it: Elder Sikahema's grandparents sail into a storm, bury their son, and get back on the boat.",
     "evidence": [
-      {
-        "talk": "12gong",
-        "finding": "c-22"
-      },
-      {
-        "talk": "48schmeil",
-        "finding": "c-15"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-26"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-27"
-      },
-      {
-        "talk": "59gilbert",
-        "finding": "c-23"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-8"
-      }
+      { "talk": "12gong", "finding": "c-22" },
+      { "talk": "48schmeil", "finding": "c-15" },
+      { "talk": "49oaks", "finding": "c-26" },
+      { "talk": "18douglas", "finding": "c-22" },
+      { "talk": "15sikahema", "finding": "c-11" },
+      { "talk": "15sikahema", "finding": "c-15" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-8" }
+    ]
+  },
+  {
+    "title": "Two phones in one session",
+    "body": "Elder Sikahema holds up the cell phone as a gift: we can \"easily see and hear His anointed servants\", and so may take them for granted. Four talks later, President Christofferson holds it up as a danger: \"tens of millions of [people] suddenly have casinos in their pockets.\" Same object, same morning, opposite warnings.",
+    "evidence": [
+      { "talk": "15sikahema", "finding": "c-24" },
+      { "talk": "19christofferson", "finding": "c-9" },
+      { "talk": "19christofferson", "finding": "c-22" }
+    ]
+  },
+  {
+    "title": "Instruments in His hands, echoes of His word",
+    "body": "Elder Caussé and Elder Soares, three talks apart, make the same promise in the same words: you will \"become instruments in His hands\". Both also reach for an echo: for Elder Caussé, testimony and love echo each other; for Elder Soares, the latter-day fast is an echo of Isaiah.",
+    "evidence": [
+      { "talk": "14causse", "finding": "c-29" },
+      { "talk": "17soares", "finding": "c-27" },
+      { "talk": "14causse", "finding": "c-14" },
+      { "talk": "17soares", "finding": "c-5" }
     ]
   },
   {
     "title": "Concrete announcements, with dates",
-    "body": "21 temples to be dedicated this year and 1 rededicated; the Salt Lake Temple open to the public April 5, 2027; a video series, Dedicate, starting right after the session. And one forward-looking statement that reads as prophecy: records of Christ's visits to other nations, including the lost tribes, will come forth.",
+    "body": "21 temples to be dedicated this year and 1 rededicated; the Salt Lake Temple open to the public April 5, 2027; a video series, Dedicate, starting right after the session. Elder Douglas restates that a mission is a duty for young men and \"a powerful, but optional, opportunity\" for young women. And one forward-looking statement that reads as prophecy: records of Christ's visits to other nations, including the lost tribes, will come forth.",
     "evidence": [
-      {
-        "talk": "12gong",
-        "finding": "c-14"
-      },
-      {
-        "talk": "510oaks",
-        "finding": "c-6"
-      },
-      {
-        "talk": "510oaks",
-        "finding": "c-7"
-      },
-      {
-        "talk": "49oaks",
-        "finding": "c-12"
-      }
+      { "talk": "12gong", "finding": "c-14" },
+      { "talk": "510oaks", "finding": "c-6" },
+      { "talk": "510oaks", "finding": "c-7" },
+      { "talk": "18douglas", "finding": "c-27" },
+      { "talk": "49oaks", "finding": "c-12" }
     ]
   },
   {
     "title": "The conference ends where it began: a road and a veil",
     "body": "Elder Gong opened the conference with temple workers crossing the road \"to help the people on the other side\", and spoke of hearts softened \"on both sides of the veil\". The closing hymn's last two verses sing \"the light beyond the veil of death\" and \"the lonely road that leads to thine eternity\". Even the scripture listed under the hymn, Doctrine and Covenants 76:41–42, sits inside the passage Elder Gong cited.",
     "evidence": [
-      {
-        "talk": "12gong",
-        "finding": "c-22"
-      },
-      {
-        "talk": "12gong",
-        "finding": "c-24"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-7"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-8"
-      },
-      {
-        "talk": "12gong",
-        "finding": "x-s3"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "x-s1"
-      }
+      { "talk": "12gong", "finding": "c-22" },
+      { "talk": "12gong", "finding": "c-24" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-7" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-8" },
+      { "talk": "12gong", "finding": "x-s3" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "x-s1" }
     ]
   },
   {
     "title": "The last word is a prophet's testimony",
     "body": "President Oaks closes his remarks with his witness that truth is found in the restored gospel. Then the congregation sings words written by an earlier prophet, President Gordon B. Hinckley: \"I know that my Redeemer lives\". The line is Job's (Job 19:25, listed under the hymn), so the conference closes on a testimony that runs from Job through a modern prophet to the people singing it.",
     "evidence": [
-      {
-        "talk": "510oaks",
-        "finding": "c-8"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-1"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "c-2"
-      },
-      {
-        "talk": "hymn-my-redeemer-lives",
-        "finding": "x-s2"
-      }
+      { "talk": "510oaks", "finding": "c-8" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-1" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "c-2" },
+      { "talk": "hymn-my-redeemer-lives", "finding": "x-s2" }
     ]
   }
 ]

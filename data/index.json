@@ -216,9 +216,10 @@
       "horizons"
     ],
     "exclude": [
-      "burden is light"
+      "burden is light",
+      "light thing"
     ],
-    "mentions": 12,
+    "mentions": 10,
     "talks": [
       "12gong",
       "15sikahema",

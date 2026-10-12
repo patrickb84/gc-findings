@@ -1152,7 +1152,8 @@
     "refs": [
       "Alma 7:11",
       "Alma 7:11–12",
-      "Alma 7:11, 12"
+      "Alma 7:11, 12",
+      "Alma 7:12"
     ],
     "citations": [
       {
@@ -1168,6 +1169,11 @@
       {
         "talk": "17soares",
         "finding": "x-s6",
+        "spoken": false
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s11",
         "spoken": false
       }
     ],
@@ -2476,24 +2482,6 @@
     ],
     "talks": [
       "12gong"
-    ]
-  },
-  {
-    "label": "verse 12",
-    "book": "verse",
-    "volume": null,
-    "refs": [
-      "verse 12"
-    ],
-    "citations": [
-      {
-        "talk": "16hathaway",
-        "finding": "x-s11",
-        "spoken": false
-      }
-    ],
-    "talks": [
-      "16hathaway"
     ]
   }
 ]

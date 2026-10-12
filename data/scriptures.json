@@ -1256,6 +1256,7 @@
     "spoken": false,
     "overlaps": [
       "Alma 7:11",
+      "Alma 7:12",
       "Alma 7:11, 12"
     ]
   },
@@ -1276,7 +1277,28 @@
     "spoken": false,
     "overlaps": [
       "Alma 7:11–12",
-      "Alma 7:11"
+      "Alma 7:11",
+      "Alma 7:12"
+    ]
+  },
+  {
+    "ref": "Alma 7:12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 7:11–12",
+      "Alma 7:11, 12"
     ]
   },
   {
@@ -2716,23 +2738,6 @@
     ],
     "talks": [
       "12gong"
-    ],
-    "spoken": false,
-    "overlaps": []
-  },
-  {
-    "ref": "verse 12",
-    "book": "verse",
-    "volume": null,
-    "citations": [
-      {
-        "talk": "16hathaway",
-        "finding": "x-s11",
-        "spoken": false
-      }
-    ],
-    "talks": [
-      "16hathaway"
     ],
     "spoken": false,
     "overlaps": []

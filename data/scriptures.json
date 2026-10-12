@@ -1,0 +1,850 @@
+[
+  {
+    "ref": "Job 19:25",
+    "book": "Job",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "hymn-my-redeemer-lives",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "hymn-my-redeemer-lives"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Job 38:7",
+    "book": "Job",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Haggai 1:5–7, 9",
+    "book": "Haggai",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Haggai 2:19",
+    "book": "Haggai",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s8",
+        "spoken": true
+      },
+      {
+        "talk": "48schmeil",
+        "finding": "x-s9",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 11:28–30",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 22:19–20",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s5",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "John 8:11",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "John 10:16",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Acts 2:33",
+    "book": "Acts",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 John 4:19",
+    "book": "1 John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Title page of the Book of Mormon",
+    "book": "Title Page",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 9:5",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 9:21",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 26:13",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 26:33",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 28:30",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "510oaks",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "510oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 29:7",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 29:13",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Omni 1:26",
+    "book": "Omni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 2:41",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s10",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 3:18",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 5:49",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 34:32",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 34:33",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 42:8",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "3 Nephi 11–28",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 18:11",
+      "3 Nephi 11:14",
+      "3 Nephi 16:1",
+      "3 Nephi 16:2–3",
+      "3 Nephi 17:4"
+    ]
+  },
+  {
+    "ref": "3 Nephi 11:14",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 16:1",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 16:2–3",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 17:4",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 18:11",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "Ether 12:27",
+    "book": "Ether",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "48schmeil",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "48schmeil"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Moroni 7:45",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "59gilbert",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "59gilbert"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 20:17–21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 76:22–24, 41–42",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "hymn-my-redeemer-lives",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "hymn-my-redeemer-lives"
+    ],
+    "spoken": true,
+    "overlaps": [
+      "Doctrine and Covenants 76:39–43"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 76:39–43",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 76:22–24, 41–42"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 76:53",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 128:9",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 132:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 132:7, 18–19, 26"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 132:7, 18–19, 26",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 132:7",
+      "Doctrine and Covenants 132:19"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 132:19",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 132:7, 18–19, 26"
+    ]
+  },
+  {
+    "ref": "Moses 1:31–33",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moses 1:39",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moses 2:1–2",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moses 6:52, 59",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Moses 7:62",
+    "book": "Moses",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "first article of faith",
+    "book": "Articles of Faith",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "49oaks",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "49oaks"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Articles of Faith 1:10",
+    "book": "Articles of Faith",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "12gong",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  }
+]

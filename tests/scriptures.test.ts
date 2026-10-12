@@ -1,0 +1,85 @@
+import { describe, expect, it } from 'vitest';
+import { buildScriptureTable, overlaps, parseRef } from '../src/scriptures.ts';
+import type { Finding, TalkFile } from '../src/types.ts';
+
+describe('parseRef', () => {
+  it('reads verse ranges and lists in one chapter', () => {
+    expect(parseRef('Doctrine and Covenants 76:22–24, 41–42')).toEqual({
+      book: 'Doctrine and Covenants', volume: 'Doctrine and Covenants',
+      spans: [{ chapter: 76, verses: [22, 23, 24, 41, 42] }],
+    });
+  });
+
+  it('reads a chapter range as whole chapters', () => {
+    const r = parseRef('3 Nephi 11–28');
+    expect(r.book).toBe('3 Nephi');
+    expect(r.volume).toBe('Book of Mormon');
+    expect(r.spans).toHaveLength(18);
+    expect(r.spans[0]).toEqual({ chapter: 11, verses: null });
+  });
+
+  it('knows the volume of numbered books and the Pearl of Great Price', () => {
+    expect(parseRef('1 John 4:19').volume).toBe('New Testament');
+    expect(parseRef('Moses 6:52, 59')).toEqual({ book: 'Moses', volume: 'Pearl of Great Price', spans: [{ chapter: 6, verses: [52, 59] }] });
+    expect(parseRef('Haggai 1:5–7, 9').spans).toEqual([{ chapter: 1, verses: [5, 6, 7, 9] }]);
+  });
+
+  it('reads a numbered book written with a non-breaking space', () => {
+    expect(parseRef('2 Nephi 9:5')).toEqual({ book: '2 Nephi', volume: 'Book of Mormon', spans: [{ chapter: 9, verses: [5] }] });
+  });
+
+  it('names the spoken forms', () => {
+    expect(parseRef('first article of faith')).toEqual({ book: 'Articles of Faith', volume: 'Pearl of Great Price', spans: [{ chapter: 1, verses: [1] }] });
+    expect(parseRef('Title page of the Book of Mormon')).toEqual({ book: 'Title Page', volume: 'Book of Mormon', spans: [] });
+  });
+});
+
+describe('overlaps', () => {
+  it('finds a shared verse inside two ranges', () => {
+    expect(overlaps(parseRef('Doctrine and Covenants 76:39–43'), parseRef('Doctrine and Covenants 76:22–24, 41–42'))).toBe(true);
+  });
+
+  it('does not count next-door verses', () => {
+    expect(overlaps(parseRef('Alma 34:32'), parseRef('Alma 34:33'))).toBe(false);
+  });
+
+  it('counts a verse inside a whole-chapter citation', () => {
+    expect(overlaps(parseRef('3 Nephi 11–28'), parseRef('3 Nephi 16:1'))).toBe(true);
+  });
+
+  it('never matches across books', () => {
+    expect(overlaps(parseRef('John 8:11'), parseRef('1 John 4:19'))).toBe(false);
+  });
+});
+
+const scripture = (id: string, ref: string, spoken: boolean): Finding => ({ id, type: 'scripture', quote: ref, basis: 'exact', ref, spoken });
+const talk = (id: string, findings: Finding[]): TalkFile => ({
+  id, kind: 'talk', speaker: '', role: '', title: id, session: '', order: 1, url: '',
+  summary: '', audience: null, arc: [], orientation: null, pronouns: { i: 0, we: 0, you: 0 }, findings,
+});
+
+describe('buildScriptureTable', () => {
+  const talks = [
+    talk('a', [scripture('x-s1', 'Haggai 2:19', true), scripture('x-s2', 'Haggai 2:19', true), scripture('x-s3', 'Doctrine and Covenants 76:39–43', false)]),
+    talk('b', [scripture('x-s1', 'Doctrine and Covenants 76:22–24, 41–42', true), scripture('x-s2', 'Alma 34:32', false)]),
+  ];
+  const rows = buildScriptureTable(talks);
+
+  it('has one row per reference, with every citation of it', () => {
+    expect(rows).toHaveLength(4);
+    const haggai = rows.find((r) => r.ref === 'Haggai 2:19');
+    expect(haggai?.citations).toEqual([{ talk: 'a', finding: 'x-s1', spoken: true }, { talk: 'a', finding: 'x-s2', spoken: true }]);
+    expect(haggai?.talks).toEqual(['a']);
+    expect(haggai?.spoken).toBe(true);
+  });
+
+  it('lists the references that share a verse with it, from other rows', () => {
+    const dc = rows.find((r) => r.ref === 'Doctrine and Covenants 76:39–43');
+    expect(dc?.overlaps).toEqual(['Doctrine and Covenants 76:22–24, 41–42']);
+    expect(rows.find((r) => r.ref === 'Alma 34:32')?.overlaps).toEqual([]);
+  });
+
+  it('orders rows by volume, then book, then chapter', () => {
+    expect(rows.map((r) => r.ref)).toEqual(['Haggai 2:19', 'Alma 34:32', 'Doctrine and Covenants 76:22–24, 41–42', 'Doctrine and Covenants 76:39–43']);
+  });
+});

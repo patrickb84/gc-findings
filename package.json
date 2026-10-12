@@ -7,7 +7,8 @@
     "typecheck": "tsc",
     "fetch-talks": "node scripts/fetch.ts",
     "skeleton": "node scripts/skeleton.ts",
-    "check": "node scripts/check-quotes.ts"
+    "check": "node scripts/check-quotes.ts",
+    "scriptures": "node scripts/scriptures.ts"
   },
   "dependencies": {
     "cheerio": "1.1.2"

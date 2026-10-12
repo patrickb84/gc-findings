@@ -1,0 +1,49 @@
+{
+  "page": "3f77c7035fd6810a9d0fd4bfd37a356c",
+  "databases": {
+    "talks": {
+      "database": "443d11985d4a4c3e86f5201972cd9985",
+      "dataSource": "ac62480c-4d77-4278-af05-180d15257ef8"
+    },
+    "findings": {
+      "database": "a1af8bee2b884694b37ef88126469bde",
+      "dataSource": "68e84811-9ed9-4149-870e-43b202c7771a"
+    },
+    "index": {
+      "database": "b835c40b415f440ab8406b120da0381b",
+      "dataSource": "8cf1beb7-71dc-4ee5-a7cd-adf806ccbec9"
+    }
+  },
+  "rows": {
+    "talk:12gong": "3f77c7035fd6818b8e6dd8ded28898bf",
+    "talk:48schmeil": "3f77c7035fd681f7b2c0ee044c05eea8",
+    "talk:49oaks": "3f77c7035fd6814caf5bec529a70fa5f",
+    "talk:59gilbert": "3f77c7035fd6819aad48d6aba914204f",
+    "talk:510oaks": "3f77c7035fd68120a33bf6aa2dc82386"
+  },
+  "pages": {
+    "whatIFound": "3f77c7035fd68146832fdf0420c4154a"
+  },
+  "views": {
+    "talks:In order": "3f77c703-5fd6-81a2-94c9-000c0811f919",
+    "findings:Testimonies": "3f77c703-5fd6-81ab-afb0-000c6e74d92c",
+    "findings:Invitations -> Promises": "3f77c703-5fd6-8143-bd34-000c320639ea",
+    "findings:Scriptures": "3f77c703-5fd6-81cd-a039-000cb1a030dd",
+    "findings:Prophets": "3f77c703-5fd6-81d5-9cfb-000cb5896765",
+    "findings:Stories": "3f77c703-5fd6-81b5-904d-000c1e7b2ed0",
+    "findings:Images": "3f77c703-5fd6-811f-9d0a-000c40ff2a09",
+    "findings:Lists": "3f77c703-5fd6-8155-9d8e-000c6c450546",
+    "findings:Interpreted only": "3f77c703-5fd6-8194-bf99-000cc973defa",
+    "index:Themes": "3f77c703-5fd6-818e-98de-000cfe79dc4e",
+    "index:Families to approve": "3f77c703-5fd6-81ac-b8c1-000cf7396fdc",
+    "talk:12gong:Findings in this talk": "3f77c703-5fd6-81f7-aa9f-000c0d33d7e6",
+    "talk:48schmeil:Findings in this talk": "3f77c703-5fd6-81c6-9417-000c26a8d4dd",
+    "talk:49oaks:Findings in this talk": "3f77c703-5fd6-8117-9aca-000cca20e699",
+    "talk:59gilbert:Findings in this talk": "3f77c703-5fd6-81c7-8f6d-000c57e8fbb0",
+    "talk:510oaks:Findings in this talk": "3f77c703-5fd6-81f0-8bff-000c53d2cef4"
+  },
+  "rowKeys": {
+    "findings": "Finding ID property (<talk>/<id>), unique",
+    "index": "Term property, unique"
+  }
+}

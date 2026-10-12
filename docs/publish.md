@@ -94,6 +94,7 @@ In Notion, findings are called **Highlights** (plainer for readers). The code an
 **What gets published:**
 - Every curated entry.
 - The top 50 discovered terms.
+- Any term already in Notion that has fallen out of the top 50: its counts are refreshed, never left stale, and the row is not deleted.
 
 **Views:**
 - **Themes:** sorted by Talks touched desc, then Mentions desc.

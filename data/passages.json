@@ -293,7 +293,7 @@
     ]
   },
   {
-    "label": "Matthew 25:NaN",
+    "label": "Matthew 25:14–30",
     "book": "Matthew",
     "volume": "New Testament",
     "refs": [
@@ -2119,34 +2119,22 @@
     ]
   },
   {
-    "label": "Doctrine and Covenants 100:8",
+    "label": "Doctrine and Covenants 100:5–8, 10",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
     "refs": [
+      "Doctrine and Covenants 100:5‒8, 10",
       "Doctrine and Covenants 100:8"
     ],
     "citations": [
       {
         "talk": "14causse",
-        "finding": "x-s13",
+        "finding": "x-s15",
         "spoken": false
-      }
-    ],
-    "talks": [
-      "14causse"
-    ]
-  },
-  {
-    "label": "Doctrine and Covenants 100:NaN, 10",
-    "book": "Doctrine and Covenants",
-    "volume": "Doctrine and Covenants",
-    "refs": [
-      "Doctrine and Covenants 100:5‒8, 10"
-    ],
-    "citations": [
+      },
       {
         "talk": "14causse",
-        "finding": "x-s15",
+        "finding": "x-s13",
         "spoken": false
       }
     ],

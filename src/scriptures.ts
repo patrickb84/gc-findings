@@ -46,13 +46,16 @@ function volumeOf(book: string): Volume | null {
   return VOLUME_ORDER.find((v) => (VOLUMES[v] as readonly string[]).includes(book)) ?? null;
 }
 
+// Hyphen, figure dash (U+2012) and en dash: Church text uses all three in ranges.
+const DASH = '[-‒–]';
+
 function range(from: number, to: number): number[] {
   return Array.from({ length: to - from + 1 }, (_, i) => from + i);
 }
 
 function numbers(list: string): number[] {
   return list.split(',').flatMap((part) => {
-    const [from, to] = part.trim().split(/[–-]/).map(Number);
+    const [from, to] = part.trim().split(new RegExp(DASH)).map(Number);
     return to === undefined ? [from] : range(from, to);
   });
 }
@@ -64,7 +67,7 @@ export function parseRef(ref: string): ParsedRef {
   if (spoken) return spoken;
   const said = clean.match(/^(.+?) chapter (\d+)$/i);
   if (said) return { book: said[1], volume: volumeOf(said[1]), spans: [{ chapter: Number(said[2]), verses: null }] };
-  const m = clean.match(/^(.+?) (\d+)(?:[–-](\d+))?(?::(.+))?$/);
+  const m = clean.match(new RegExp(`^(.+?) (\\d+)(?:${DASH}(\\d+))?(?::(.+))?$`));
   if (!m) return { book: clean, volume: volumeOf(clean), spans: [] };
   const [, book, first, last, verses] = m;
   const spans = verses

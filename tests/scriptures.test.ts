@@ -2,6 +2,8 @@ import { describe, expect, it } from 'vitest';
 import { buildScriptureTable, groupPassages, overlaps, parseRef } from '../src/scriptures.ts';
 import type { Finding, TalkFile } from '../src/types.ts';
 
+const range = (from: number, to: number) => Array.from({ length: to - from + 1 }, (_, i) => from + i);
+
 describe('parseRef', () => {
   it('reads verse ranges and lists in one chapter', () => {
     expect(parseRef('Doctrine and Covenants 76:22–24, 41–42')).toEqual({
@@ -26,6 +28,11 @@ describe('parseRef', () => {
 
   it('reads a numbered book written with a non-breaking space', () => {
     expect(parseRef('2 Nephi 9:5')).toEqual({ book: '2 Nephi', volume: 'Book of Mormon', spans: [{ chapter: 9, verses: [5] }] });
+  });
+
+  it('reads a range written with a figure dash', () => {
+    expect(parseRef('Matthew 25:14‒30').spans).toEqual([{ chapter: 25, verses: range(14, 30) }]);
+    expect(parseRef('Doctrine and Covenants 100:5‒8, 10').spans).toEqual([{ chapter: 100, verses: [5, 6, 7, 8, 10] }]);
   });
 
   it('reads a spoken "<book> chapter <n>" as the whole chapter', () => {

@@ -1,0 +1,37 @@
+{
+  "id": "hymn-my-redeemer-lives",
+  "kind": "hymn",
+  "speaker": "",
+  "role": "",
+  "title": "My Redeemer Lives",
+  "session": "Sunday Afternoon Session",
+  "order": 38,
+  "url": "https://www.churchofjesuschrist.org/study/manual/hymns/my-redeemer-lives?lang=eng",
+  "pronouns": {
+    "i": 7,
+    "we": 0,
+    "you": 0
+  },
+  "summary": "",
+  "audience": null,
+  "arc": [],
+  "orientation": null,
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 76:22–24, 41–42",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 76:22–24, 41–42",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Job 19:25",
+      "basis": "exact",
+      "ref": "Job 19:25",
+      "spoken": true
+    }
+  ]
+}

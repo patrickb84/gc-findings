@@ -305,5 +305,9 @@
     "59gilbert",
     "510oaks"
   ],
-  "hymn": null
+  "hymn": {
+    "slug": "hymn-my-redeemer-lives",
+    "uri": "/manual/hymns/my-redeemer-lives",
+    "title": "My Redeemer Lives"
+  }
 }

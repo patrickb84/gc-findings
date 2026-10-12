@@ -28,13 +28,14 @@
       "covenants",
       "covenant path"
     ],
-    "mentions": 43,
+    "mentions": 44,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
       "510oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "proposed_family"
   },
@@ -48,12 +49,13 @@
       "peacemakers",
       "peacemaking"
     ],
-    "mentions": 8,
+    "mentions": 9,
     "talks": [
       "12gong",
       "48schmeil",
       "510oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "proposed_family"
   },
@@ -97,13 +99,14 @@
       "faithful",
       "faithfully"
     ],
-    "mentions": 21,
+    "mentions": 23,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
       "510oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "proposed_family"
   },
@@ -159,12 +162,13 @@
       "road",
       "pursuit"
     ],
-    "mentions": 10,
+    "mentions": 11,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
-      "510oaks"
+      "510oaks",
+      "hymn-my-redeemer-lives"
     ],
     "status": "proposed_family"
   },
@@ -176,12 +180,13 @@
       "morning stars",
       "horizons"
     ],
-    "mentions": 5,
+    "mentions": 6,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "proposed_family"
   },
@@ -246,6 +251,23 @@
     "status": "proposed_family"
   },
   {
+    "term": "lord",
+    "kind": "keyword",
+    "variants": [
+      "lord"
+    ],
+    "mentions": 35,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "510oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "christ",
     "kind": "keyword",
     "variants": [
@@ -294,18 +316,18 @@
     "status": "discovered"
   },
   {
-    "term": "lord",
+    "term": "god",
     "kind": "keyword",
     "variants": [
-      "lord"
+      "god"
     ],
-    "mentions": 34,
+    "mentions": 35,
     "talks": [
       "12gong",
       "48schmeil",
       "49oaks",
-      "510oaks",
-      "59gilbert"
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -358,6 +380,22 @@
     "status": "discovered"
   },
   {
+    "term": "spirit",
+    "kind": "keyword",
+    "variants": [
+      "spirit"
+    ],
+    "mentions": 13,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "510oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "church",
     "kind": "keyword",
     "variants": [
@@ -386,6 +424,22 @@
       "49oaks",
       "510oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "know",
+    "kind": "keyword",
+    "variants": [
+      "know"
+    ],
+    "mentions": 10,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "49oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -486,21 +540,6 @@
     "status": "discovered"
   },
   {
-    "term": "god",
-    "kind": "keyword",
-    "variants": [
-      "god"
-    ],
-    "mentions": 34,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "president",
     "kind": "keyword",
     "variants": [
@@ -516,6 +555,21 @@
     "status": "discovered"
   },
   {
+    "term": "savior",
+    "kind": "keyword",
+    "variants": [
+      "savior"
+    ],
+    "mentions": 16,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "make",
     "kind": "keyword",
     "variants": [
@@ -526,21 +580,6 @@
       "12gong",
       "48schmeil",
       "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "spirit",
-    "kind": "keyword",
-    "variants": [
-      "spirit"
-    ],
-    "mentions": 12,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "510oaks",
       "59gilbert"
     ],
     "status": "discovered"
@@ -576,21 +615,6 @@
     "status": "discovered"
   },
   {
-    "term": "know",
-    "kind": "keyword",
-    "variants": [
-      "know"
-    ],
-    "mentions": 9,
-    "talks": [
-      "12gong",
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "eternal",
     "kind": "keyword",
     "variants": [
@@ -602,6 +626,21 @@
       "49oaks",
       "510oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "lives",
+    "kind": "keyword",
+    "variants": [
+      "lives"
+    ],
+    "mentions": 8,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -770,20 +809,6 @@
     "status": "discovered"
   },
   {
-    "term": "savior",
-    "kind": "keyword",
-    "variants": [
-      "savior"
-    ],
-    "mentions": 15,
-    "talks": [
-      "48schmeil",
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "keep",
     "kind": "keyword",
     "variants": [
@@ -812,6 +837,20 @@
     "status": "discovered"
   },
   {
+    "term": "earth",
+    "kind": "keyword",
+    "variants": [
+      "earth"
+    ],
+    "mentions": 11,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "holy",
     "kind": "keyword",
     "variants": [
@@ -822,6 +861,20 @@
       "12gong",
       "48schmeil",
       "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "men",
+    "kind": "keyword",
+    "variants": [
+      "men"
+    ],
+    "mentions": 9,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -938,6 +991,20 @@
     "status": "discovered"
   },
   {
+    "term": "way",
+    "kind": "keyword",
+    "variants": [
+      "way"
+    ],
+    "mentions": 7,
+    "talks": [
+      "49oaks",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "bring",
     "kind": "keyword",
     "variants": [
@@ -961,20 +1028,6 @@
     "talks": [
       "12gong",
       "510oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "lives",
-    "kind": "keyword",
-    "variants": [
-      "lives"
-    ],
-    "mentions": 6,
-    "talks": [
-      "12gong",
-      "48schmeil",
       "59gilbert"
     ],
     "status": "discovered"
@@ -1078,6 +1131,20 @@
     "status": "discovered"
   },
   {
+    "term": "son",
+    "kind": "keyword",
+    "variants": [
+      "son"
+    ],
+    "mentions": 5,
+    "talks": [
+      "48schmeil",
+      "49oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "taught",
     "kind": "keyword",
     "variants": [
@@ -1116,6 +1183,20 @@
       "12gong",
       "48schmeil",
       "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "doctrine",
+    "kind": "keyword",
+    "variants": [
+      "doctrine"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "49oaks",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -1218,6 +1299,20 @@
     "status": "discovered"
   },
   {
+    "term": "alone",
+    "kind": "keyword",
+    "variants": [
+      "alone"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "48schmeil",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "best",
     "kind": "keyword",
     "variants": [
@@ -1302,6 +1397,20 @@
     "status": "discovered"
   },
   {
+    "term": "give",
+    "kind": "keyword",
+    "variants": [
+      "give"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "510oaks",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "h",
     "kind": "keyword",
     "variants": [
@@ -1340,6 +1449,20 @@
       "48schmeil",
       "49oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "hope",
+    "kind": "keyword",
+    "variants": [
+      "hope"
+    ],
+    "mentions": 3,
+    "talks": [
+      "12gong",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -1526,6 +1649,20 @@
     "status": "discovered"
   },
   {
+    "term": "walk",
+    "kind": "keyword",
+    "variants": [
+      "walk"
+    ],
+    "mentions": 3,
+    "talks": [
+      "48schmeil",
+      "59gilbert",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "worship",
     "kind": "keyword",
     "variants": [
@@ -1559,19 +1696,6 @@
       "book"
     ],
     "mentions": 11,
-    "talks": [
-      "12gong",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "earth",
-    "kind": "keyword",
-    "variants": [
-      "earth"
-    ],
-    "mentions": 10,
     "talks": [
       "12gong",
       "49oaks"
@@ -1614,19 +1738,6 @@
     "talks": [
       "12gong",
       "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "men",
-    "kind": "keyword",
-    "variants": [
-      "men"
-    ],
-    "mentions": 8,
-    "talks": [
-      "48schmeil",
-      "49oaks"
     ],
     "status": "discovered"
   },
@@ -1748,15 +1859,15 @@
     "status": "discovered"
   },
   {
-    "term": "way",
+    "term": "veil",
     "kind": "keyword",
     "variants": [
-      "way"
+      "veil"
     ],
     "mentions": 6,
     "talks": [
-      "49oaks",
-      "59gilbert"
+      "12gong",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -1796,6 +1907,19 @@
     "talks": [
       "12gong",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "eternity",
+    "kind": "keyword",
+    "variants": [
+      "eternity"
+    ],
+    "mentions": 5,
+    "talks": [
+      "12gong",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -1982,6 +2106,19 @@
     "status": "discovered"
   },
   {
+    "term": "death",
+    "kind": "keyword",
+    "variants": [
+      "death"
+    ],
+    "mentions": 4,
+    "talks": [
+      "12gong",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "father's",
     "kind": "keyword",
     "variants": [
@@ -2086,19 +2223,6 @@
     "status": "discovered"
   },
   {
-    "term": "son",
-    "kind": "keyword",
-    "variants": [
-      "son"
-    ],
-    "mentions": 4,
-    "talks": [
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "speak",
     "kind": "keyword",
     "variants": [
@@ -2186,6 +2310,19 @@
     "talks": [
       "48schmeil",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "better",
+    "kind": "keyword",
+    "variants": [
+      "better"
+    ],
+    "mentions": 3,
+    "talks": [
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -2342,19 +2479,6 @@
     "talks": [
       "49oaks",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "doctrine",
-    "kind": "keyword",
-    "variants": [
-      "doctrine"
-    ],
-    "mentions": 3,
-    "talks": [
-      "12gong",
-      "49oaks"
     ],
     "status": "discovered"
   },
@@ -3048,19 +3172,6 @@
     "status": "discovered"
   },
   {
-    "term": "alone",
-    "kind": "keyword",
-    "variants": [
-      "alone"
-    ],
-    "mentions": 2,
-    "talks": [
-      "12gong",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
     "term": "april",
     "kind": "keyword",
     "variants": [
@@ -3200,6 +3311,19 @@
     "talks": [
       "12gong",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "comes",
+    "kind": "keyword",
+    "variants": [
+      "comes"
+    ],
+    "mentions": 2,
+    "talks": [
+      "12gong",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -3386,6 +3510,19 @@
     "status": "discovered"
   },
   {
+    "term": "g",
+    "kind": "keyword",
+    "variants": [
+      "g"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "hymn-my-redeemer-lives"
+    ],
+    "status": "discovered"
+  },
+  {
     "term": "general",
     "kind": "keyword",
     "variants": [
@@ -3408,19 +3545,6 @@
     "talks": [
       "510oaks",
       "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "give",
-    "kind": "keyword",
-    "variants": [
-      "give"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
-      "510oaks"
     ],
     "status": "discovered"
   },
@@ -3481,19 +3605,6 @@
     "kind": "keyword",
     "variants": [
       "honored"
-    ],
-    "mentions": 2,
-    "talks": [
-      "12gong",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "hope",
-    "kind": "keyword",
-    "variants": [
-      "hope"
     ],
     "mentions": 2,
     "talks": [
@@ -3564,6 +3675,19 @@
     "talks": [
       "49oaks",
       "59gilbert"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "king",
+    "kind": "keyword",
+    "variants": [
+      "king"
+    ],
+    "mentions": 2,
+    "talks": [
+      "48schmeil",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -3668,6 +3792,19 @@
     "talks": [
       "48schmeil",
       "49oaks"
+    ],
+    "status": "discovered"
+  },
+  {
+    "term": "pain",
+    "kind": "keyword",
+    "variants": [
+      "pain"
+    ],
+    "mentions": 2,
+    "talks": [
+      "59gilbert",
+      "hymn-my-redeemer-lives"
     ],
     "status": "discovered"
   },
@@ -3914,136 +4051,6 @@
     "mentions": 2,
     "talks": [
       "12gong",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "russell",
-    "kind": "keyword",
-    "variants": [
-      "russell"
-    ],
-    "mentions": 2,
-    "talks": [
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "russell m",
-    "kind": "keyword",
-    "variants": [
-      "russell m"
-    ],
-    "mentions": 2,
-    "talks": [
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "russell m nelson",
-    "kind": "keyword",
-    "variants": [
-      "russell m nelson"
-    ],
-    "mentions": 2,
-    "talks": [
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "scripture",
-    "kind": "keyword",
-    "variants": [
-      "scripture"
-    ],
-    "mentions": 2,
-    "talks": [
-      "12gong",
-      "48schmeil"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "scriptures",
-    "kind": "keyword",
-    "variants": [
-      "scriptures"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "seek",
-    "kind": "keyword",
-    "variants": [
-      "seek"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "similarly",
-    "kind": "keyword",
-    "variants": [
-      "similarly"
-    ],
-    "mentions": 2,
-    "talks": [
-      "49oaks",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "sins",
-    "kind": "keyword",
-    "variants": [
-      "sins"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
-      "49oaks"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "spiritually",
-    "kind": "keyword",
-    "variants": [
-      "spiritually"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
-      "59gilbert"
-    ],
-    "status": "discovered"
-  },
-  {
-    "term": "started",
-    "kind": "keyword",
-    "variants": [
-      "started"
-    ],
-    "mentions": 2,
-    "talks": [
-      "48schmeil",
       "59gilbert"
     ],
     "status": "discovered"

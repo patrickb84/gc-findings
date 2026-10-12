@@ -1,5 +1,186 @@
 [
   {
+    "kind": "reading",
+    "title": "Comfort is the centre of the conference",
+    "body": "My reading, built on the counts below. The passage cited most across the conference is Mosiah 18:8–11, the baptismal covenant to \"mourn with those that mourn\", in six talks; second is Alma 7:11–12, the Savior who knows how to succor His people, in five. No session was built around either. Beside them run the conference's grief stories: Sister Runia's son, Elder Sikahema's grandparents burying an infant on the voyage, a missionary's father killed a week before she came home, Elder Eyring's friend who could only say \"I can't fix this,\" President Eyring's widowed father thanking every nurse. Read together, the doctrine the conference came back to most is that the Savior carries grief with us, and asks us to carry it with each other.",
+    "evidence": [
+      {
+        "talk": "14causse",
+        "finding": "x-s7"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "x-s1"
+      },
+      {
+        "talk": "41eyring",
+        "finding": "x-s5"
+      },
+      {
+        "talk": "43andersen",
+        "finding": "x-s10"
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s4"
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s9"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "x-s2"
+      },
+      {
+        "talk": "17soares",
+        "finding": "x-s6"
+      },
+      {
+        "talk": "55lebethoa",
+        "finding": "x-s6"
+      },
+      {
+        "talk": "13runia",
+        "finding": "c-2"
+      },
+      {
+        "talk": "15sikahema",
+        "finding": "c-13"
+      },
+      {
+        "talk": "16hathaway",
+        "finding": "c-18"
+      },
+      {
+        "talk": "29eyring",
+        "finding": "c-23"
+      },
+      {
+        "talk": "41eyring",
+        "finding": "c-28"
+      }
+    ]
+  },
+  {
+    "kind": "reading",
+    "title": "Being seen",
+    "body": "My reading. Four talks cite the Good Samaritan and three the pool of Bethesda, both stories of someone others walked past. Sister Chibota builds her talk on sawubona, \"I see you\". Elder Sinclair's woman at the well \"walked to the well that day as a pariah\". Elder Fale, Sister Chibota and Elder Stevenson return to being a child of God. President Farnes's story is a leader stopping him to ask, \"Brother, tell me how you are really doing.\" And President Uchtdorf turns it round: the sacrament is \"the only ordinance we receive during which we are not addressed by name\". Under the announced themes, much of this conference is about noticing people.",
+    "evidence": [
+      {
+        "talk": "22farnes",
+        "finding": "x-s7"
+      },
+      {
+        "talk": "42chibota",
+        "finding": "x-s4"
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "x-s11"
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s8"
+      },
+      {
+        "talk": "22farnes",
+        "finding": "x-s11"
+      },
+      {
+        "talk": "42chibota",
+        "finding": "x-s3"
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "x-s19"
+      },
+      {
+        "talk": "42chibota",
+        "finding": "c-26"
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "c-17"
+      },
+      {
+        "talk": "26fale",
+        "finding": "c-46"
+      },
+      {
+        "talk": "57stevenson",
+        "finding": "c-17"
+      },
+      {
+        "talk": "22farnes",
+        "finding": "c-21"
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "c-49"
+      }
+    ]
+  },
+  {
+    "kind": "reading",
+    "title": "The advice: turn to Christ, then to the person in front of you",
+    "body": "My reading of the 184 invitations. About 63 of them, in 19 talks, ask for something done for another person, more than any other kind. Most are about how we see and treat the people near us: \"Learn the name of someone who may feel unseen\" (Sister Chibota); \"minister to the person in front of us\" (President Farnes); make sure \"no one is ever sitting, standing, or walking alone\" (Elder Fale); be \"quick to help and slow to judge\" (Elder Sinclair); be \"a little more patient, a little kinder, more forgiving, more helpful, more neighborly\" (President Uchtdorf); use the language of peacemakers (Elder Kyungu). President Eyring thanks those who pray \"to know who the Lord would have you help for Him\". The rest are about sharing and teaching the gospel, led by Bishop Douglas's seven invitations on missions and Brother Reid's on teaching. Around them sits the most widespread ask, to turn to Christ and trust Him (Elder Dube: \"please come unto Christ\"; Elder Kearon: \"keep turning toward the Saviour\"). And the means are small and daily: scriptures \"every day\" (Elder Cook); \"Protect your sleep; go to bed early\" (Sister Muñoz Spannaus). The counts come from tagging the invitation highlights by keyword and checking the tags by hand, so they are approximate.",
+    "evidence": [
+      {
+        "talk": "42chibota",
+        "finding": "c-5"
+      },
+      {
+        "talk": "22farnes",
+        "finding": "c-2"
+      },
+      {
+        "talk": "26fale",
+        "finding": "c-27"
+      },
+      {
+        "talk": "56sinclair",
+        "finding": "c-24"
+      },
+      {
+        "talk": "51uchtdorf",
+        "finding": "c-5"
+      },
+      {
+        "talk": "47kyungu",
+        "finding": "c-1"
+      },
+      {
+        "talk": "41eyring",
+        "finding": "c-3"
+      },
+      {
+        "talk": "18douglas",
+        "finding": "c-13"
+      },
+      {
+        "talk": "58reid",
+        "finding": "c-4"
+      },
+      {
+        "talk": "45dube",
+        "finding": "c-4"
+      },
+      {
+        "talk": "27kearon",
+        "finding": "c-56"
+      },
+      {
+        "talk": "46cook",
+        "finding": "c-3"
+      },
+      {
+        "talk": "52munoz-spannaus",
+        "finding": "c-10"
+      }
+    ]
+  },
+  {
     "title": "The conference opens and closes at a temple door",
     "body": "The first talk (Elder Gong) says temple 54 times; the other thirty-six talks say it 36 times combined, and twenty-three of them never say it. The last talk (President Oaks) announces that the Salt Lake Temple opens to the public on April 5, 2027, the first time since 1893. Elder Gong's own talk is a bookend too: it opens and closes on the same joke, 'Why did the temple workers cross the road?'",
     "evidence": [

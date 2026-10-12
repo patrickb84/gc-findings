@@ -75,6 +75,8 @@ export interface IndexEntry {
 }
 
 export interface Discovery {
+  // "reading" marks Claude's synthesis across discoveries, shown apart from the counted patterns.
+  kind?: 'reading';
   title: string;
   body: string;
   evidence: { talk: string; finding: string }[];

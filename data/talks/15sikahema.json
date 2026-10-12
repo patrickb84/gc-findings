@@ -1,0 +1,523 @@
+{
+  "id": "15sikahema",
+  "kind": "talk",
+  "speaker": "Vaiangina Sikahema",
+  "role": "Of the Seventy",
+  "title": "Prophets, Seers, and Revelators",
+  "session": "Saturday Morning Session",
+  "order": 4,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/15sikahema?lang=eng",
+  "pronouns": {
+    "i": 32,
+    "we": 6,
+    "you": 3
+  },
+  "summary": "Elder Sikahema teaches that God again speaks through living prophets, seers, and revelators, and that we must not treat their words as a light thing. His main story is his Tongan grandparents in 1947, who sailed through a storm, buried their baby son on the way, and kept sailing just to sit at the feet of Apostle Matthew Cowley. He asks listeners, at the opening of conference, not to take for granted the prophets we can now hear on our phones.",
+  "audience": {
+    "who": "All members and listeners at the opening session of general conference"
+  },
+  "arc": [
+    "story",
+    "principle",
+    "quote",
+    "scripture",
+    "scripture",
+    "principle",
+    "scripture",
+    "quote",
+    "story",
+    "list",
+    "story",
+    "invitation",
+    "story",
+    "scripture",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.7,
+    "present": 0.27,
+    "future": 0.03
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Amos 8:11–12",
+      "basis": "exact",
+      "ref": "Amos 8:11–12",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Amos 3:7",
+      "basis": "exact",
+      "ref": "Amos 3:7",
+      "spoken": true
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Matthew 7:15–23",
+      "basis": "exact",
+      "ref": "Matthew 7:15–23",
+      "spoken": true
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Acts 20:29",
+      "basis": "exact",
+      "ref": "Acts 20:29",
+      "spoken": true
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 90:5",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 90:5",
+      "spoken": true
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Joseph Smith—History 1:17",
+      "basis": "exact",
+      "ref": "Joseph Smith—History 1:17",
+      "spoken": true
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 90:5",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 90:5",
+      "spoken": true
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 1:38",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 1:38",
+      "spoken": true
+    },
+    {
+      "id": "c-1",
+      "type": "story",
+      "quote": "In 1947, my maternal grandparents, Sione Tufui and Salote Tongi Wolfgramm, were serving a full-time mission in Niuatoputapu, a small, isolated volcanic island in the Kingdom of Tonga in the South Pacific.",
+      "basis": "interpreted",
+      "note": "Grandparents sail through a storm, bury their baby, and keep going to hear an Apostle",
+      "detail": {
+        "story_type": "family",
+        "about": "Tongan grandparents' 1947 voyage to hear Apostle Matthew Cowley, losing their infant son on the way"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "relationship",
+      "quote": "my maternal grandparents, Sione Tufui and Salote Tongi Wolfgramm",
+      "basis": "interpreted",
+      "note": "Later called 'noble progenitors who left me ... a legacy', implying they have passed",
+      "detail": {
+        "who": "maternal grandparents",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "place",
+      "quote": "Niuatoputapu, a small, isolated volcanic island in the Kingdom of Tonga in the South Pacific",
+      "basis": "exact",
+      "detail": {
+        "place": "Niuatoputapu",
+        "country": "Tonga"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "relationship",
+      "quote": "my mother, Potenitila (Ruby), age 4",
+      "basis": "exact",
+      "detail": {
+        "who": "mother",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "relationship",
+      "quote": "Makeleta (Maggie), age 3",
+      "basis": "interpreted",
+      "note": "His mother's sister, so his aunt",
+      "detail": {
+        "who": "aunt",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "relationship",
+      "quote": "9-month-old Vilimanulea, at the time their only son",
+      "basis": "interpreted",
+      "note": "His mother's infant brother, who died on the voyage",
+      "detail": {
+        "who": "infant uncle",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "past_prophet",
+      "quote": "Only twice before had an Apostle visited our island kingdom: David O. McKay in 1921, followed by George Albert Smith in 1938.",
+      "basis": "interpreted",
+      "note": "Both later became Church Presidents; cited as visiting Apostles",
+      "detail": {
+        "who": "David O. McKay; George Albert Smith"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "image",
+      "quote": "Reaching the Apostle meant a long voyage for my grandparents across the largest body of water on the planet",
+      "basis": "interpreted",
+      "note": "The ocean voyage as the cost of reaching a prophet",
+      "detail": {
+        "image": "ocean voyage",
+        "family": "water",
+        "carries": "what faithful Saints will cross to hear an Apostle"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "place",
+      "quote": "the main island of Tongatapu",
+      "basis": "exact",
+      "detail": {
+        "place": "Tongatapu",
+        "country": "Tonga"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "place",
+      "quote": "their home island of Vava‘u",
+      "basis": "exact",
+      "detail": {
+        "place": "Vava‘u",
+        "country": "Tonga"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "image",
+      "quote": "The Wolfgramms sailed into a storm; a journey that should have taken 16 hours to Vava‘u stretched into two and a half brutal days at sea.",
+      "basis": "interpreted",
+      "note": "A literal storm standing for the trials on the way to the prophet",
+      "detail": {
+        "image": "storm at sea",
+        "family": "water",
+        "carries": "trial on the road to hearing the Lord's servants"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "source",
+      "quote": "“We were completely soaked, … battered, and sick, … too weak to eat. … I held Vilimanulea to my chest until finally arriving to Vava‘u.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Salote Tongi Wolfgramm (his grandmother's journal)"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "relationship",
+      "quote": "With no medicine, the Wolfgramms’ precious son died of exposure.",
+      "basis": "exact",
+      "detail": {
+        "who": "grandparents' infant son (his uncle)",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "image",
+      "quote": "burying their infant child was akin to the pioneers who buried their children on the trail to Zion",
+      "basis": "interpreted",
+      "note": "Tongan Saints likened to handcart pioneers",
+      "detail": {
+        "image": "trail to Zion",
+        "family": "path",
+        "carries": "pioneer-like sacrifice to be near the prophets"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "image",
+      "quote": "Grieving with empty arms, my grandparents got back on the boat, their mission not yet complete.",
+      "basis": "interpreted",
+      "note": "Empty arms as the picture of loss, the boat as pressing on",
+      "detail": {
+        "image": "empty arms",
+        "family": "body",
+        "carries": "grief that still keeps going"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "image",
+      "quote": "They sailed to sit at the feet of an Apostle, who would teach them their duty",
+      "basis": "interpreted",
+      "note": "Sitting at the feet as the posture of a learner",
+      "detail": {
+        "image": "at the feet",
+        "family": "body",
+        "carries": "humble learning from the Lord's servants"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "past_prophet",
+      "quote": "Joseph helped restore the Savior’s Church with prophets, seers, and revelators who held priesthood keys that would one day bind them together as a family forever.",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "source",
+      "quote": "My grandparents girded up their loins, fresh courage took",
+      "basis": "interpreted",
+      "note": "Borrows the line from the hymn “Come, Come, Ye Saints”",
+      "detail": {
+        "who": "“Come, Come, Ye Saints” (hymn, William Clayton)"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "place",
+      "quote": "the grove of trees near Palmyra, New York",
+      "basis": "exact",
+      "detail": {
+        "place": "Palmyra, New York (Sacred Grove)",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "image",
+      "quote": "An Old Testament prophet called it a famine:",
+      "basis": "interpreted",
+      "note": "The Apostasy as a famine of the word, paired with thirst",
+      "detail": {
+        "image": "famine",
+        "family": "other",
+        "carries": "the absence of revelation through prophets"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "image",
+      "quote": "after my departing shall grievous wolves enter in among you, not sparing the flock",
+      "basis": "interpreted",
+      "note": "False teachers as wolves scattering the ancient Church",
+      "detail": {
+        "image": "wolves and flock",
+        "family": "other",
+        "carries": "the loss of the ancient Church after the Apostles"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "Even in modern times, there are people who thirst to hear prophetic direction and guidance.",
+      "basis": "interpreted",
+      "note": "Thirst for revelation, echoing Amos's famine",
+      "detail": {
+        "image": "thirst",
+        "family": "water",
+        "carries": "the hunger for living prophetic voices"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "christ",
+      "quote": "“And all they who receive the oracles of God, let them beware how they hold them lest they are accounted as a light thing”",
+      "basis": "interpreted",
+      "note": "The Lord speaking to Joseph Smith in revelation, read as Christ",
+      "detail": {
+        "where": "Doctrine and Covenants 90:5"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "these devices (cell phones) to easily see and hear His anointed servants",
+      "basis": "interpreted",
+      "note": "The phone as easy access to prophets, set against the Wolfgramms' voyage",
+      "detail": {
+        "image": "cell phone",
+        "family": "other",
+        "carries": "how easily we now hear prophets, and so take them for granted"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "revelation",
+      "quote": "many of us would still take them for granted",
+      "basis": "interpreted",
+      "note": "Reads as a warning against treating living prophets lightly",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "source",
+      "quote": "“Are the heavens open? Does God reveal His will to prophets and apostles as in days of old?",
+      "basis": "exact",
+      "detail": {
+        "who": "President Jeffrey R. Holland"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "story",
+      "quote": "Joseph described the moment the heavens opened this way:",
+      "basis": "interpreted",
+      "note": "The First Vision told in Joseph's own words",
+      "detail": {
+        "story_type": "church history",
+        "about": "the First Vision"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "past_prophet",
+      "quote": "When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air.",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "whose brightness and glory defy all description",
+      "basis": "interpreted",
+      "note": "Light of the First Vision as the heavens opening again",
+      "detail": {
+        "image": "light",
+        "family": "light",
+        "carries": "revelation restored after darkness"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "source",
+      "quote": "This is My Beloved Son. Hear Him!",
+      "basis": "interpreted",
+      "note": "God the Father introducing the Son",
+      "detail": {
+        "who": "God the Father"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "name_of_christ",
+      "quote": "My Beloved Son",
+      "basis": "exact",
+      "detail": {
+        "name": "Beloved Son"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "list",
+      "quote": "greater truths, priesthood authority, sacred ordinances, additional scriptures, and knowledge of God’s plan of salvation would all be restored or rediscovered through the Prophet Joseph Smith",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "greater truths",
+          "priesthood authority",
+          "sacred ordinances",
+          "additional scriptures",
+          "knowledge of God's plan of salvation"
+        ],
+        "purpose": "what was restored through Joseph Smith"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "relationship",
+      "quote": "their handsome, cheerful little boy",
+      "basis": "exact",
+      "detail": {
+        "who": "grandparents' infant son (his uncle)",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "invitation",
+      "quote": "let us not be guilty of holding “the oracles of God … as a light thing”",
+      "basis": "exact",
+      "detail": {
+        "action": "take the words of living prophets seriously this conference"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "story",
+      "quote": "some early Church leaders opposed the idea of publishing the Lord’s revelations through the Prophet Joseph that would eventually become the Doctrine and Covenants.",
+      "basis": "interpreted",
+      "note": "Early leaders embarrassed by Joseph's writing; the Lord answers in D&C 1:38",
+      "detail": {
+        "story_type": "church history",
+        "about": "objections to publishing Joseph's revelations"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "christ",
+      "quote": "“What I the Lord have spoken, I have spoken, and I excuse not myself",
+      "basis": "interpreted",
+      "note": "Introduced as the Savior's own declaration",
+      "detail": {
+        "where": "Doctrine and Covenants 1:38"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "christ",
+      "quote": "whether by mine own voice or by the voice of my servants, it is the same",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 1:38"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "relationship",
+      "quote": "noble progenitors who left me and my posterity a legacy of faith and courage",
+      "basis": "interpreted",
+      "note": "Ancestors, chiefly the grandparents of the story",
+      "detail": {
+        "who": "progenitors (grandparents)",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "testimony",
+      "quote": "I witness of the truths of the restored gospel and of living prophets, seers, and revelators",
+      "basis": "exact",
+      "detail": {
+        "of": "the restored gospel and living prophets, seers, and revelators"
+      }
+    }
+  ]
+}

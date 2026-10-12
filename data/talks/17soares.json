@@ -1,0 +1,573 @@
+{
+  "id": "17soares",
+  "kind": "talk",
+  "speaker": "Ulisses Soares",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "A Higher and Holier Fast",
+  "session": "Saturday Morning Session",
+  "order": 6,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/17soares?lang=eng",
+  "pronouns": {
+    "i": 17,
+    "we": 65,
+    "you": 5
+  },
+  "summary": "Elder Soares teaches that the law of the fast, joined with earnest prayer and generous fast offerings, is an act of worship that draws us near to God and turns our hearts to His children. He builds the talk on Isaiah 58 and its promise that our light will break forth as the morning and the Lord will say \"Here I am,\" with the Savior's 40-day fast in the wilderness as the pattern. He invites members to ponder Isaiah and live the fast in a higher and holier way, promising miracles, strength over weakness and greater sensitivity to others.",
+  "audience": {
+    "who": "All members, addressed as beloved brothers and sisters and dear friends",
+    "quote": "My dear friends"
+  },
+  "arc": [
+    "testimony",
+    "scripture",
+    "promise",
+    "quote",
+    "principle",
+    "story",
+    "principle",
+    "scripture",
+    "quote",
+    "principle",
+    "scripture",
+    "promise",
+    "testimony",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.25,
+    "present": 0.6,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Isaiah chapter 58",
+      "basis": "exact",
+      "ref": "Isaiah chapter 58",
+      "spoken": true
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Isaiah 58:1–7",
+      "basis": "exact",
+      "ref": "Isaiah 58:1–7",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Isaiah 58:8–9",
+      "basis": "exact",
+      "ref": "Isaiah 58:8–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Helaman 3:35",
+      "basis": "exact",
+      "ref": "Helaman 3:35",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Isaiah 58:6",
+      "basis": "exact",
+      "ref": "Isaiah 58:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Alma 7:11, 12",
+      "basis": "exact",
+      "ref": "Alma 7:11, 12",
+      "spoken": false
+    },
+    {
+      "id": "x-n3",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Joseph F. Smith (1998), 198.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Joseph F. Smith",
+      "note": "Cites President Joseph F. Smith on fasting and communion with the Holy Ghost",
+      "detail": {
+        "who": "Joseph F. Smith"
+      }
+    },
+    {
+      "id": "x-n4",
+      "type": "source",
+      "quote": "See Helaman 3:35; see also Gospel Principles (2011), 147–48.",
+      "basis": "exact",
+      "ref": "Gospel Principles"
+    },
+    {
+      "id": "x-n5",
+      "type": "past_prophet",
+      "quote": "See counsel, including for those who are not able to fast, from President Russell M. Nelson: “For all whose health may permit, let us fast, pray, and unite our faith once again. … How do we fast? Two meals or a period of 24 hours is customary. But you decide what would constitute a sacrifice for you, as you remember the supreme sacrifice the Savior made for you” (“Opening the Heavens for Help,” Liahona, May 2020, 74). See also this counsel from President Joseph F. Smith: “Many are subject to weakness, others are delicate in health, and others have nursing babies; of such it should not be required to fast. Neither should parents compel their little children to fast” (Gospel Doctrine, 5th ed. [1939], 244). See also General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints, 38.8.17.",
+      "basis": "exact",
+      "ref": "Opening the Heavens for Help",
+      "note": "Cites President Russell M. Nelson's 2020 call to fast, plus Joseph F. Smith on who need not fast",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Joseph Smith (2007), 426.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Joseph Smith",
+      "note": "Cites the Prophet Joseph Smith on a man filled with the love of God",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "x-n9",
+      "type": "source",
+      "quote": "See Marion G. Romney, “The Blessings of the Fast,” Ensign, July 1982, 4.",
+      "basis": "exact",
+      "ref": "The Blessings of the Fast"
+    },
+    {
+      "id": "x-n10",
+      "type": "source",
+      "quote": "See Tonja-Maree Davis, “Freely Given, Gratefully Received,” Ensign, Oct. 2009, 67–68.",
+      "basis": "exact",
+      "ref": "Freely Given, Gratefully Received"
+    },
+    {
+      "id": "c-1",
+      "type": "name_of_christ",
+      "quote": "His Beloved Son, Jesus Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "Beloved Son"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "testimony",
+      "quote": "I testify of the sanctifying spiritual power that flows into our lives as we seek to live this law in a higher and holier way.",
+      "basis": "exact",
+      "detail": {
+        "of": "the sanctifying power of living the law of the fast"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "list",
+      "quote": "This divine pattern of devotion brings strength, guidance, peace, and divine help to sustain us throughout our mortal journey.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "strength",
+          "guidance",
+          "peace",
+          "divine help"
+        ],
+        "purpose": "what the pattern of fasting brings"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "image",
+      "quote": "to sustain us throughout our mortal journey",
+      "basis": "interpreted",
+      "note": "Mortality pictured as a journey sustained by fasting",
+      "detail": {
+        "image": "journey",
+        "family": "path",
+        "carries": "fasting sustains us along the way through mortality"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "image",
+      "quote": "The Lord’s call to fast in these latter days is an echo of the message He gave through the Old Testament prophet Isaiah",
+      "basis": "interpreted",
+      "note": "The modern call to fast as an echo of Isaiah",
+      "detail": {
+        "image": "echo",
+        "family": "other",
+        "carries": "the latter-day fast repeats an ancient message"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "source",
+      "quote": "the Old Testament prophet Isaiah",
+      "basis": "interpreted",
+      "note": "Isaiah is the governing voice of the talk, quoted at the start, middle and close",
+      "detail": {
+        "who": "Isaiah"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "image",
+      "quote": "Then shall thy light break forth as the morning, and thine health shall spring forth speedily.",
+      "basis": "interpreted",
+      "note": "Light breaking like dawn; returns in the closing testimony",
+      "detail": {
+        "image": "morning light",
+        "family": "light",
+        "carries": "fasting brings light after darkness and quick healing"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "christ",
+      "quote": "Then shalt thou call, and the Lord shall answer; thou shalt cry, and he shall say, Here I am.",
+      "basis": "interpreted",
+      "note": "The Lord (Jehovah) speaking through Isaiah; the talk frames these as the Lord's words",
+      "detail": {
+        "where": "Isaiah 58:9"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "list",
+      "quote": "What a tender promise: light after darkness, healing after weariness, and the comforting assurance that when we call upon the Lord, He is near.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "light after darkness",
+          "healing after weariness",
+          "the Lord is near when we call"
+        ],
+        "purpose": "the blessings in Isaiah's promise"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "past_prophet",
+      "quote": "President Joseph F. Smith taught that proper fasting “would … place the body in subjection to the spirit, and so promote communion with the Holy Ghost”",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph F. Smith"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "promise",
+      "quote": "Through the union of fasting and prayer, our faith, love, and devotion to Him deepen.",
+      "basis": "interpreted",
+      "note": "Stated outcome of fasting with prayer",
+      "detail": {
+        "blessing": "deeper faith, love and devotion"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "promise",
+      "quote": "Our hearts are softened, our souls become more receptive to the influence of the Holy Ghost, and we are better prepared to receive personal revelation and move forward along the covenant path.",
+      "basis": "interpreted",
+      "note": "Stated outcome of fasting with prayer",
+      "detail": {
+        "blessing": "softened hearts, receptivity to the Spirit, personal revelation"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "move forward along the covenant path",
+      "basis": "exact",
+      "detail": {
+        "image": "covenant path",
+        "family": "path",
+        "carries": "fasting helps us progress in our covenants"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "Before His earthly ministry began, He withdrew into the wilderness and spent 40 days communing with His Father.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the Savior's 40-day fast in the wilderness before His ministry"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "name_of_christ",
+      "quote": "He was the Only Begotten Son of God in the flesh",
+      "basis": "exact",
+      "detail": {
+        "name": "Only Begotten Son of God in the flesh"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "name_of_christ",
+      "quote": "fulfilled His divine destiny as Redeemer of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "Redeemer of the world"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "image",
+      "quote": "fasting and prayer may not remove every burden from our path, but they draw heaven near",
+      "basis": "interpreted",
+      "note": "Burdens on a path; heaven drawn close",
+      "detail": {
+        "image": "burden on the path",
+        "family": "path",
+        "carries": "fasting may not remove trials but brings heaven near"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "promise",
+      "quote": "they draw heaven near and endow us with divine power to overcome or endure whatever circumstances we may face",
+      "basis": "interpreted",
+      "note": "Promise drawn from Christ's example of fasting",
+      "detail": {
+        "blessing": "divine power to overcome or endure"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "promise",
+      "quote": "Even when answers do not come in the way we expect, fasting and prayer help us develop greater confidence in the Lord, in our covenants with Him, and in His plan for our lives",
+      "basis": "interpreted",
+      "note": "Stated outcome even when answers differ from expectation",
+      "detail": {
+        "blessing": "confidence in the Lord and willingness to accept His will"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "image",
+      "quote": "Isaiah taught that an acceptable fast helps us “to let the oppressed go free” and to “break every yoke.”",
+      "basis": "interpreted",
+      "note": "The yoke as the burden of others the fast helps lift",
+      "detail": {
+        "image": "yoke",
+        "family": "other",
+        "carries": "the fast frees others from their burdens"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "past_prophet",
+      "quote": "The Prophet Joseph Smith once taught, “A man filled with the love of God, is not content with blessing his family alone, but ranges through the whole world, anxious to bless the whole human race.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "list",
+      "quote": "Each contribution reflects a willing heart, faith in the Lord Jesus Christ, and a sincere desire to bless those in need.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "a willing heart",
+          "faith in the Lord Jesus Christ",
+          "a sincere desire to bless those in need"
+        ],
+        "purpose": "what each fast offering reflects"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "suffered “pains and afflictions and temptations of every kind … that he [might] know according to the flesh how to succor his people according to their infirmities.”",
+      "basis": "interpreted",
+      "note": "Alma's words about Christ, uncredited in the spoken text",
+      "detail": {
+        "who": "Alma"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "promise",
+      "quote": "As we follow His perfect example by seeking to succor God’s children, our hearts are opened to the needs of others, and we become better prepared to minister in a more Christlike way.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "hearts opened to others and readiness to minister"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "image",
+      "quote": "Though our fast offerings may seem small and simple",
+      "basis": "interpreted",
+      "note": "Echo of Alma 37:6, small and simple things",
+      "detail": {
+        "image": "small and simple things",
+        "family": "growth",
+        "carries": "modest offerings become great consecrated gifts"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "image",
+      "quote": "we give more fully of ourselves to the building of the kingdom of God",
+      "basis": "interpreted",
+      "note": "The kingdom as a building we help raise",
+      "detail": {
+        "image": "building the kingdom",
+        "family": "building",
+        "carries": "offerings build up God's kingdom"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "promise",
+      "quote": "As we embrace this spirit of consecration, the Lord guides and strengthens us to become instruments in His hands.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "guidance and strength to be instruments in His hands"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "image",
+      "quote": "become instruments in His hands",
+      "basis": "interpreted",
+      "note": "Disciples as tools held by the Lord",
+      "detail": {
+        "image": "instruments in His hands",
+        "family": "body",
+        "carries": "the consecrated become the Lord's tools to bless others"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "testimony",
+      "quote": "I have personally witnessed how the blessings of fasting often enter people’s lives quietly and tenderly—softening hearts, strengthening testimonies, sanctifying souls, and transforming lives.",
+      "basis": "interpreted",
+      "note": "Personal witness of what he has seen fasting do",
+      "detail": {
+        "of": "the quiet blessings of fasting in people's lives"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "list",
+      "quote": "softening hearts, strengthening testimonies, sanctifying souls, and transforming lives",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "softening hearts",
+          "strengthening testimonies",
+          "sanctifying souls",
+          "transforming lives"
+        ],
+        "purpose": "how fasting's blessings enter lives"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "testimony",
+      "quote": "Personally, I have felt an increase of inspiration and revelation as I have sought to live this law with greater sincerity.",
+      "basis": "interpreted",
+      "note": "Personal witness from his own fasting",
+      "detail": {
+        "of": "increased inspiration and revelation through his own fasting"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "invitation",
+      "quote": "I invite you to prayerfully ponder Isaiah’s teachings and more intentionally embrace the divine purpose of the law of the fast in a higher and holier way as part of our worship.",
+      "basis": "exact",
+      "detail": {
+        "action": "ponder Isaiah 58 and live the fast in a higher and holier way"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "promise",
+      "quote": "I promise, in the name of our Savior, Jesus Christ, that miracles will come into your life.",
+      "basis": "exact",
+      "paired_with": "c-32",
+      "detail": {
+        "blessing": "miracles"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "promise",
+      "quote": "You will draw nearer to the Savior, receive strength to overcome your weaknesses, and become more sensitive to the needs of others.",
+      "basis": "exact",
+      "paired_with": "c-32",
+      "detail": {
+        "blessing": "nearness to the Savior, strength over weakness, sensitivity to others"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "list",
+      "quote": "You will draw nearer to the Savior, receive strength to overcome your weaknesses, and become more sensitive to the needs of others.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "draw nearer to the Savior",
+          "strength to overcome weaknesses",
+          "more sensitive to others' needs"
+        ],
+        "purpose": "the promised blessings of a higher fast"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "promise",
+      "quote": "the Lord will sanctify us and pour His Spirit and blessings more abundantly into our lives",
+      "basis": "exact",
+      "paired_with": "c-32",
+      "detail": {
+        "blessing": "sanctification and abundant Spirit and blessings"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "image",
+      "quote": "pour His Spirit and blessings more abundantly into our lives",
+      "basis": "interpreted",
+      "note": "Blessings poured out like water",
+      "detail": {
+        "image": "pouring",
+        "family": "water",
+        "carries": "the Spirit given in abundance"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "testimony",
+      "quote": "I bear my solemn testimony that as we remember, restore, and more fully honor the sacred purpose of the law of the fast with sincere hearts, the Lord will fulfill the promises declared by Isaiah",
+      "basis": "exact",
+      "detail": {
+        "of": "the Lord fulfilling Isaiah's promises to those who keep the fast"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "promise",
+      "quote": "we shall cry, and He shall say, “Here I am.”",
+      "basis": "interpreted",
+      "note": "Closing bookend: Isaiah's promise returned as the talk's last promise",
+      "detail": {
+        "blessing": "the Lord answers and is near"
+      }
+    }
+  ]
+}

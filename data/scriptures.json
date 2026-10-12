@@ -34,6 +34,154 @@
     "overlaps": []
   },
   {
+    "ref": "Isaiah chapter 58",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": true,
+    "overlaps": [
+      "Isaiah 58:1–7",
+      "Isaiah 58:8–9",
+      "Isaiah 58:6"
+    ]
+  },
+  {
+    "ref": "Isaiah 58:1–7",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Isaiah chapter 58",
+      "Isaiah 58:6"
+    ]
+  },
+  {
+    "ref": "Isaiah 58:6",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Isaiah chapter 58",
+      "Isaiah 58:1–7"
+    ]
+  },
+  {
+    "ref": "Isaiah 58:8–9",
+    "book": "Isaiah",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Isaiah chapter 58"
+    ]
+  },
+  {
+    "ref": "Ezekiel 34:16",
+    "book": "Ezekiel",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s32",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Daniel 6:18",
+    "book": "Daniel",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Amos 3:7",
+    "book": "Amos",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s2",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Amos 8:11–12",
+    "book": "Amos",
+    "volume": "Old Testament",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s1",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
     "ref": "Haggai 1:5–7, 9",
     "book": "Haggai",
     "volume": "Old Testament",
@@ -73,6 +221,57 @@
     "overlaps": []
   },
   {
+    "ref": "Matthew 5:6",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 5:48",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 7:15–23",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s3",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
     "ref": "Matthew 11:28–30",
     "book": "Matthew",
     "volume": "New Testament",
@@ -88,6 +287,167 @@
     ],
     "spoken": true,
     "overlaps": []
+  },
+  {
+    "ref": "Matthew 18:16",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 22:39",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 25:14‒30",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Matthew 28:19–20",
+    "book": "Matthew",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mark 5:35–42",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s29",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mark 5:36"
+    ]
+  },
+  {
+    "ref": "Mark 5:36",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mark 5:35–42"
+    ]
+  },
+  {
+    "ref": "Mark 10:21",
+    "book": "Mark",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Luke 8:49–55",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s30",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Luke 8:50"
+    ]
+  },
+  {
+    "ref": "Luke 8:50",
+    "book": "Luke",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Luke 8:49–55"
+    ]
   },
   {
     "ref": "Luke 22:19–20",
@@ -141,6 +501,40 @@
     "overlaps": []
   },
   {
+    "ref": "John 11:1–44",
+    "book": "John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s31",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Acts 1:8",
+    "book": "Acts",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Acts 2:33",
     "book": "Acts",
     "volume": "New Testament",
@@ -153,6 +547,176 @@
     ],
     "talks": [
       "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Acts 20:29",
+    "book": "Acts",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s4",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Corinthians 8:9–11",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Corinthians 15:21–22",
+    "book": "1 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Corinthians 3:2–3",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Corinthians 13:1",
+    "book": "2 Corinthians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Galatians 3:27",
+    "book": "Galatians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Ephesians 6:11, 14–17",
+    "book": "Ephesians",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 Timothy 1:11–12",
+    "book": "1 Timothy",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "James 1:17",
+    "book": "James",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "1 John 3:2",
+    "book": "1 John",
+    "volume": "New Testament",
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
     ],
     "spoken": false,
     "overlaps": []
@@ -192,6 +756,63 @@
     "overlaps": []
   },
   {
+    "ref": "1 Nephi 11:16, 17",
+    "book": "1 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 2:2",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s24",
+        "spoken": false
+      },
+      {
+        "talk": "18douglas",
+        "finding": "x-s24",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway",
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "2 Nephi 2:8",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "2 Nephi 9:5",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -209,6 +830,23 @@
     "overlaps": []
   },
   {
+    "ref": "2 Nephi 9:6, 11–12",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "2 Nephi 9:21",
     "book": "2 Nephi",
     "volume": "Book of Mormon",
@@ -221,6 +859,44 @@
     ],
     "talks": [
       "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 9:21–23"
+    ]
+  },
+  {
+    "ref": "2 Nephi 9:21–23",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "2 Nephi 9:21"
+    ]
+  },
+  {
+    "ref": "2 Nephi 25:23",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
     ],
     "spoken": false,
     "overlaps": []
@@ -311,6 +987,57 @@
     "overlaps": []
   },
   {
+    "ref": "2 Nephi 31:19–20",
+    "book": "2 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Jacob 2:7–9",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Jacob 6:12",
+    "book": "Jacob",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Omni 1:26",
     "book": "Omni",
     "volume": "Book of Mormon",
@@ -362,6 +1089,120 @@
     "overlaps": []
   },
   {
+    "ref": "Mosiah 18:9",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Mosiah 24:8–16",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 24:14–16",
+      "Mosiah 24:10",
+      "Mosiah 24:13–16"
+    ]
+  },
+  {
+    "ref": "Mosiah 24:10",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 24:8–16"
+    ]
+  },
+  {
+    "ref": "Mosiah 24:13–16",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 24:14–16",
+      "Mosiah 24:8–16"
+    ]
+  },
+  {
+    "ref": "Mosiah 24:14–16",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Mosiah 24:8–16",
+      "Mosiah 24:13–16"
+    ]
+  },
+  {
+    "ref": "Mosiah 28:3",
+    "book": "Mosiah",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Alma 5:49",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -374,6 +1215,117 @@
     ],
     "talks": [
       "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 7:11",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s10",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 7:11–12",
+      "Alma 7:11, 12"
+    ]
+  },
+  {
+    "ref": "Alma 7:11–12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s2",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 7:11",
+      "Alma 7:11, 12"
+    ]
+  },
+  {
+    "ref": "Alma 7:11, 12",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 7:11–12",
+      "Alma 7:11"
+    ]
+  },
+  {
+    "ref": "Alma 7:13–14",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 10:6",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s27",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 11:42–44",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
     ],
     "spoken": false,
     "overlaps": []
@@ -413,6 +1365,61 @@
     "overlaps": []
   },
   {
+    "ref": "Alma 36:3, 27",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 36:27"
+    ]
+  },
+  {
+    "ref": "Alma 36:17",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 36:27",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s25",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 36:3, 27"
+    ]
+  },
+  {
     "ref": "Alma 42:8",
     "book": "Alma",
     "volume": "Book of Mormon",
@@ -427,6 +1434,132 @@
       "48schmeil"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Alma 58:1–13",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 58:9",
+      "Alma 58:11"
+    ]
+  },
+  {
+    "ref": "Alma 58:9",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 58:1–13"
+    ]
+  },
+  {
+    "ref": "Alma 58:11",
+    "book": "Alma",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Alma 58:1–13"
+    ]
+  },
+  {
+    "ref": "Helaman 3:35",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "17soares",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "17soares"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Helaman 5:11",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Helaman 5:12",
+    "book": "Helaman",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "3 Nephi 5:13",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s4",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -445,6 +1578,11 @@
     ],
     "spoken": false,
     "overlaps": [
+      "3 Nephi 18:24",
+      "3 Nephi 12:48",
+      "3 Nephi 27:27",
+      "3 Nephi 18:32",
+      "3 Nephi 12:6",
       "3 Nephi 18:11",
       "3 Nephi 11:14",
       "3 Nephi 16:1",
@@ -465,6 +1603,44 @@
     ],
     "talks": [
       "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 12:6",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 12:48",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
     ],
     "spoken": false,
     "overlaps": [
@@ -548,6 +1724,63 @@
     ]
   },
   {
+    "ref": "3 Nephi 18:24",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 18:32",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s23",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
+    "ref": "3 Nephi 27:27",
+    "book": "3 Nephi",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s18",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "3 Nephi 11–28"
+    ]
+  },
+  {
     "ref": "Ether 12:27",
     "book": "Ether",
     "volume": "Book of Mormon",
@@ -562,6 +1795,23 @@
       "48schmeil"
     ],
     "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Moroni 7:13, 24, 47",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
     "overlaps": []
   },
   {
@@ -582,6 +1832,142 @@
     "overlaps": []
   },
   {
+    "ref": "Moroni 10:18",
+    "book": "Moroni",
+    "volume": "Book of Mormon",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 1:23",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 1:38",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s8",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 4:3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 6:28",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s6",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 10:33",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 11:17",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s12",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 11:21",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
     "ref": "Doctrine and Covenants 20:17–21",
     "book": "Doctrine and Covenants",
     "volume": "Doctrine and Covenants",
@@ -594,6 +1980,200 @@
     ],
     "talks": [
       "49oaks"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 31:1, 3, 5–7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s29",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 31:7",
+      "Doctrine and Covenants 31:5–6"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 31:5–6",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s19",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 31:1, 3, 5–7"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 31:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s7",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 31:1, 3, 5–7"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 35:13–14",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 39:13",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 46:8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s8",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 46:13",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s9",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 58:14, 16",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 58:27",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s5",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 62:3",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s16",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 68:6",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
     ],
     "spoken": false,
     "overlaps": []
@@ -649,6 +2229,261 @@
     ],
     "talks": [
       "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 84:61",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s17",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 88:72–73",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s28",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 90:5",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s5",
+        "spoken": true
+      },
+      {
+        "talk": "15sikahema",
+        "finding": "x-s7",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 100:5‒8, 10",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 100:8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s13",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 107:23",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "14causse",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "14causse"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 108:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "19christofferson",
+        "finding": "x-s3",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "19christofferson"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 121:1",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s15",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 121:1–8"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 121:1–8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s14",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 121:1",
+      "Doctrine and Covenants 121:7",
+      "Doctrine and Covenants 121:7–8"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 121:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s21",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 121:1–8",
+      "Doctrine and Covenants 121:7–8"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 121:7–8",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s26",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
+    ],
+    "spoken": false,
+    "overlaps": [
+      "Doctrine and Covenants 121:1–8",
+      "Doctrine and Covenants 121:7"
+    ]
+  },
+  {
+    "ref": "Doctrine and Covenants 121:34–35",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 122:7",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "13runia",
+        "finding": "x-s1",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "13runia"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "Doctrine and Covenants 123:17",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s22",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
     ],
     "spoken": false,
     "overlaps": []
@@ -727,6 +2562,23 @@
     "overlaps": [
       "Doctrine and Covenants 132:7, 18–19, 26"
     ]
+  },
+  {
+    "ref": "Doctrine and Covenants 138:55–56",
+    "book": "Doctrine and Covenants",
+    "volume": "Doctrine and Covenants",
+    "citations": [
+      {
+        "talk": "18douglas",
+        "finding": "x-s20",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "18douglas"
+    ],
+    "spoken": false,
+    "overlaps": []
   },
   {
     "ref": "Moses 1:31–33",
@@ -814,6 +2666,23 @@
     "overlaps": []
   },
   {
+    "ref": "Joseph Smith—History 1:17",
+    "book": "Joseph Smith—History",
+    "volume": "Pearl of Great Price",
+    "citations": [
+      {
+        "talk": "15sikahema",
+        "finding": "x-s6",
+        "spoken": true
+      }
+    ],
+    "talks": [
+      "15sikahema"
+    ],
+    "spoken": true,
+    "overlaps": []
+  },
+  {
     "ref": "first article of faith",
     "book": "Articles of Faith",
     "volume": "Pearl of Great Price",
@@ -843,6 +2712,23 @@
     ],
     "talks": [
       "12gong"
+    ],
+    "spoken": false,
+    "overlaps": []
+  },
+  {
+    "ref": "verse 12",
+    "book": "verse",
+    "volume": null,
+    "citations": [
+      {
+        "talk": "16hathaway",
+        "finding": "x-s11",
+        "spoken": false
+      }
+    ],
+    "talks": [
+      "16hathaway"
     ],
     "spoken": false,
     "overlaps": []

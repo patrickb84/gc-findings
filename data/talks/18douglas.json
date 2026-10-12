@@ -1,0 +1,772 @@
+{
+  "id": "18douglas",
+  "kind": "talk",
+  "speaker": "Sean Douglas",
+  "role": "Second Counselor in the Presiding Bishopric",
+  "title": "The Hour of Your Mission Is Come",
+  "session": "Saturday Morning Session",
+  "order": 7,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/18douglas?lang=eng",
+  "pronouns": {
+    "i": 20,
+    "we": 8,
+    "you": 43
+  },
+  "summary": "Bishop Douglas teaches that missionaries are set apart and commissioned by the Savior, that the rising generation was held in reserve for this time, and that a mission is worth putting everything else in the back seat for a season. His main story is Elder Merlin Sanchez of the Lima Peru mission, baptized near 24, who came back to church, served, married, and became a bishop and then a stake president. He invites young men and women, especially young converts, to put a full-time mission high on their list and to read the Lord's call to Thomas B. Marsh with their own names in it.",
+  "audience": {
+    "who": "Missionaries of all ages, the rising generation, and young converts",
+    "quote": "To all the rising generation of the Church"
+  },
+  "arc": [
+    "principle",
+    "quote",
+    "story",
+    "scripture",
+    "principle",
+    "quote",
+    "principle",
+    "invitation",
+    "story",
+    "invitation",
+    "scripture",
+    "quote",
+    "invitation",
+    "promise",
+    "invitation",
+    "scripture",
+    "promise"
+  ],
+  "orientation": {
+    "past": 0.25,
+    "present": 0.55,
+    "future": 0.2
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Matthew 28:19–20",
+      "basis": "exact",
+      "ref": "Matthew 28:19–20",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Timothy 1:11–12",
+      "basis": "exact",
+      "ref": "1 Timothy 1:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Ephesians 6:11, 14–17",
+      "basis": "exact",
+      "ref": "Ephesians 6:11, 14–17",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "3 Nephi 5:13",
+      "basis": "exact",
+      "ref": "3 Nephi 5:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 35:13–14",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 35:13–14",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "2 Corinthians 3:2–3",
+      "basis": "exact",
+      "ref": "2 Corinthians 3:2–3",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 31:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 31:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "39:13",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 39:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Mosiah 28:3",
+      "basis": "exact",
+      "ref": "Mosiah 28:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "2 Nephi 2:8",
+      "basis": "exact",
+      "ref": "2 Nephi 2:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 4:3",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 4:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "11:17",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 11:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "3 Nephi 18:24",
+      "basis": "exact",
+      "ref": "3 Nephi 18:24",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 11:21",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 11:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Matthew 5:48",
+      "basis": "exact",
+      "ref": "Matthew 5:48",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Mark 10:21",
+      "basis": "exact",
+      "ref": "Mark 10:21",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "3 Nephi 12:48",
+      "basis": "exact",
+      "ref": "3 Nephi 12:48",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "27:27",
+      "basis": "exact",
+      "ref": "3 Nephi 27:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 31:5–6",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 31:5–6",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 138:55–56",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 138:55–56",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 58:14, 16",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 58:14, 16",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "121:34–35",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:34–35",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "3 Nephi 18:32",
+      "basis": "exact",
+      "ref": "3 Nephi 18:32",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "2 Nephi 2:2",
+      "basis": "exact",
+      "ref": "2 Nephi 2:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "2 Nephi 31:19–20",
+      "basis": "exact",
+      "ref": "2 Nephi 31:19–20",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 10:33",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 10:33",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "Alma 10:6",
+      "basis": "exact",
+      "ref": "Alma 10:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 88:72–73",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 88:72–73",
+      "spoken": false
+    },
+    {
+      "id": "x-s29",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 31:1, 3, 5–7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 31:1, 3, 5–7",
+      "spoken": false
+    },
+    {
+      "id": "x-n2",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “The Purpose of Missionary Work” (missionary satellite broadcast, Apr. 1995); see also Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ (2023), 148. President Russell M. Nelson also taught: “The Lord has commanded that we spread the gospel and share the covenant. That is why we have missionaries. He wishes for every one of His children to have the opportunity to choose the Savior’s gospel and embark upon the covenant path” (“The Everlasting Covenant,” Liahona, Oct. 2022, 9).",
+      "basis": "exact",
+      "ref": "Preach My Gospel: A Guide to Sharing the Gospel of Jesus Christ",
+      "note": "Cites President Oaks on the purpose of missionary work (also quotes President Nelson)",
+      "detail": {
+        "source": "The Purpose of Missionary Work, missionary satellite broadcast, Apr. 1995"
+      }
+    },
+    {
+      "id": "x-n3",
+      "type": "source",
+      "quote": "Preach My Gospel states, “The gospel of Jesus Christ defines both your message and your purpose” (page 6); see Ephesians 6:11, 14–17; 3 Nephi 5:13; Doctrine and Covenants 35:13–14.",
+      "basis": "exact",
+      "ref": "Preach My Gospel"
+    },
+    {
+      "id": "x-n5",
+      "type": "past_prophet",
+      "quote": "President Russell M. Nelson taught: “My dear extraordinary youth, you were sent to earth at this precise time, the most crucial time in the history of the world, to help gather Israel. There is nothing happening on this earth right now that is more important than that. There is nothing of greater consequence. Absolutely nothing” (“Hope of Israel” [worldwide youth devotional, June 3, 2018], Gospel Library).",
+      "basis": "exact",
+      "ref": "Hope of Israel",
+      "note": "Quotes President Nelson's youth devotional",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n8",
+      "type": "source",
+      "quote": "Preach My Gospel teaches: “As your understanding and testimony of the Savior and His Atonement grow, your desire to share the gospel will increase. You will feel, as Lehi did, the ‘great … importance to make these things known unto the inhabitants of the earth’ (2 Nephi 2:8)” (page 2); see Doctrine and Covenants 4:3; 11:17.",
+      "basis": "exact",
+      "ref": "Preach My Gospel"
+    },
+    {
+      "id": "x-n12",
+      "type": "past_prophet",
+      "quote": "Russell M. Nelson, “Hope of Israel.” President Nelson also explained, “Every one of our Heavenly Father’s children … deserves to hear the message of the restored gospel of Jesus Christ.”",
+      "basis": "exact",
+      "ref": "Hope of Israel",
+      "note": "Cites President Nelson's youth devotional",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n13",
+      "type": "past_prophet",
+      "quote": "See Russell M. Nelson, “Hope of Israel.”",
+      "basis": "exact",
+      "ref": "Hope of Israel",
+      "note": "Cites President Nelson's youth devotional",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "x-n20",
+      "type": "past_prophet",
+      "quote": "Russell M. Nelson, “Preaching the Gospel of Peace,” Liahona, May 2022, 6.",
+      "basis": "exact",
+      "ref": "Preaching the Gospel of Peace",
+      "note": "Source of the in-text Nelson quote 'Nothing else compares in magnitude'",
+      "detail": {
+        "who": "Russell M. Nelson"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "image",
+      "quote": "You are an army of righteousness with the doctrine of Christ as your purpose.",
+      "basis": "interpreted",
+      "note": "Missionaries pictured as an army",
+      "detail": {
+        "image": "army",
+        "family": "other",
+        "carries": "missionaries as a united, purposeful force"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "list",
+      "quote": "You are a force of faith, power, love, and joy.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "faith",
+          "power",
+          "love",
+          "joy"
+        ],
+        "purpose": "what missionaries are a force of"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "image",
+      "quote": "You are not only the messengers but also living examples of the message.",
+      "basis": "interpreted",
+      "note": "The missionary as the message itself (footnote points to 2 Corinthians 3, living epistles)",
+      "detail": {
+        "image": "messenger / living letter",
+        "family": "body",
+        "carries": "missionaries embody what they preach"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "image",
+      "quote": "We thank you for building up the kingdom of God on earth.",
+      "basis": "interpreted",
+      "note": "Missionary work as construction of the kingdom",
+      "detail": {
+        "image": "building the kingdom",
+        "family": "building",
+        "carries": "missionary work builds God's kingdom"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "story",
+      "quote": "A few months ago, I attended a sacrament meeting where my two great-nephews, who are brothers, spoke before departing for their missions.",
+      "basis": "interpreted",
+      "note": "Two brothers leave for missions at opposite ends of the earth",
+      "detail": {
+        "story_type": "family",
+        "about": "his two great-nephews' farewell talks before their missions"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "relationship",
+      "quote": "my two great-nephews, who are brothers",
+      "basis": "exact",
+      "detail": {
+        "who": "great-nephews",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "story",
+      "quote": "They reminded me of the sons of Mosiah in the Book of Mormon",
+      "basis": "interpreted",
+      "note": "Brief allusion to the sons of Mosiah's desire to preach",
+      "detail": {
+        "story_type": "scripture",
+        "about": "the sons of Mosiah could not bear that any soul should perish"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "image",
+      "quote": "it’s why they radiate the Light of Christ and teach with convincing power",
+      "basis": "interpreted",
+      "note": "Missionaries shine with Christ's light",
+      "detail": {
+        "image": "light",
+        "family": "light",
+        "carries": "consecrated desire shows outwardly"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "list",
+      "quote": "For a season, all else takes a back seat—education, dating, careers, family time, and even sleeping in on Saturday mornings.",
+      "basis": "exact",
+      "detail": {
+        "count": "5",
+        "items": [
+          "education",
+          "dating",
+          "careers",
+          "family time",
+          "sleeping in on Saturday mornings"
+        ],
+        "purpose": "what a missionary sets aside for a season"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "revelation",
+      "quote": "God held you in reserve for this time.",
+      "basis": "interpreted",
+      "note": "Reads as a declaration of the rising generation's foreordination to gather Israel",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "image",
+      "quote": "We could say this is in your spiritual DNA.",
+      "basis": "interpreted",
+      "note": "Premortal preparation pictured as genetic inheritance",
+      "detail": {
+        "image": "DNA",
+        "family": "body",
+        "carries": "inviting others to Christ is part of who you are"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "invitation",
+      "quote": "Take care not to become distracted.",
+      "basis": "exact",
+      "detail": {
+        "action": "stay undistracted from missionary service"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "invitation",
+      "quote": "Prioritize it; don’t let anything get in the way.",
+      "basis": "exact",
+      "detail": {
+        "action": "prioritize a mission"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "relationship",
+      "quote": "Sister Douglas and I served as mission leaders in Lima, Peru.",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "place",
+      "quote": "served as mission leaders in Lima, Peru",
+      "basis": "exact",
+      "detail": {
+        "place": "Lima",
+        "country": "Peru"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "One of our amazing missionaries was Elder Merlin Sanchez.",
+      "basis": "interpreted",
+      "note": "Convert baptized near 24 returns to church, serves, marries, becomes bishop then stake president",
+      "detail": {
+        "story_type": "missionary",
+        "about": "Elder Merlin Sanchez's path from less-active convert to missionary and stake president"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "relationship",
+      "quote": "A faithful friend helped him begin to fill out his mission papers and schedule a physical exam",
+      "basis": "exact",
+      "detail": {
+        "who": "faithful friend",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "image",
+      "quote": "it was miraculous to see how the Lord removed seemingly insurmountable obstacles one by one",
+      "basis": "interpreted",
+      "note": "The Lord clearing the way once the decision is made",
+      "detail": {
+        "image": "obstacles removed",
+        "family": "path",
+        "carries": "the Lord opens the way for those who choose to serve"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "source",
+      "quote": "“I only want to be close to Jesus Christ and to follow Him.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Elder Merlin Sanchez"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "relationship",
+      "quote": "Elder Sanchez served with the same companion twice, for a total of eight months.",
+      "basis": "interpreted",
+      "note": "Opposite personalities, united in purpose by divine design",
+      "detail": {
+        "who": "missionary companion",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "Merlin met his eternal sweetheart, Gali, just a few months following his mission.",
+      "basis": "exact",
+      "detail": {
+        "who": "wife (Gali)",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "serving a mission is just one of many significant steps on the path of lifelong discipleship",
+      "basis": "interpreted",
+      "note": "A mission as one step on a longer path",
+      "detail": {
+        "image": "path",
+        "family": "path",
+        "carries": "discipleship continues after the mission"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "invitation",
+      "quote": "To you wonderful young converts of the Church, a mission may not have been on your radar, but it ought to be now.",
+      "basis": "interpreted",
+      "note": "Direct appeal to young converts to consider a mission",
+      "detail": {
+        "action": "young converts: consider a mission"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "invitation",
+      "quote": "To all the rising generation of the Church, I invite you to place serving a full-time mission high on your list.",
+      "basis": "exact",
+      "detail": {
+        "action": "place a full-time mission high on your list"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "invitation",
+      "quote": "Don’t be distracted by alternatives of far less worth.",
+      "basis": "exact",
+      "detail": {
+        "action": "reject lesser alternatives to a mission"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "prophet",
+      "quote": "Prophets of God today strongly reaffirm “that the Lord has asked every worthy, able young man to prepare for and serve a mission.",
+      "basis": "interpreted",
+      "note": "Footnote 23 cites President Oaks to new mission leaders, June 2026",
+      "detail": {
+        "source": "The Only True and Living Church, seminar for new mission leaders, June 20, 2026"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "revelation",
+      "quote": "For you young and able sisters, a mission is also a powerful, but optional, opportunity.",
+      "basis": "interpreted",
+      "note": "Reads as a restatement of current prophetic direction on sisters serving",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "invitation",
+      "quote": "Pray to know if the Lord would have you serve a mission.",
+      "basis": "exact",
+      "detail": {
+        "action": "pray about serving a mission"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "promise",
+      "quote": "There is still plenty of room and a special place reserved for each one of you!",
+      "basis": "interpreted",
+      "note": "Assurance that each willing person has a place in the work",
+      "detail": {
+        "blessing": "a place reserved for each one in the missionary force"
+      },
+      "paired_with": "c-24"
+    },
+    {
+      "id": "c-30",
+      "type": "source",
+      "quote": "“Come join the ranks!”",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn \"We Are All Enlisted\""
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "invitation",
+      "quote": "I pray that you will make the Savior’s grand commission your very own.",
+      "basis": "interpreted",
+      "note": "Invitation phrased as a prayer",
+      "detail": {
+        "action": "take the Savior's great commission as your own"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "invitation",
+      "quote": "I invite each of you to substitute your name for Thomas’s:",
+      "basis": "exact",
+      "detail": {
+        "action": "read the Lord's call to Thomas B. Marsh with your own name"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "christ",
+      "quote": "“Lift up your heart and rejoice, for the hour of your mission is come; and your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation.",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 31:3"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "promise",
+      "quote": "your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation",
+      "basis": "interpreted",
+      "note": "The Lord's promise to Thomas B. Marsh, applied to each listener",
+      "detail": {
+        "blessing": "power to speak and declare the gospel"
+      },
+      "paired_with": "c-24"
+    },
+    {
+      "id": "c-35",
+      "type": "christ",
+      "quote": "“Therefore, thrust in your sickle with all your soul, and your sins are forgiven you, and you shall be laden with sheaves upon your back.",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 31:5"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "you shall be laden with sheaves upon your back",
+      "basis": "interpreted",
+      "note": "Harvest imagery: sickle and sheaves",
+      "detail": {
+        "image": "sickle and sheaves",
+        "family": "growth",
+        "carries": "missionary work as harvest with a rich yield"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "promise",
+      "quote": "Wherefore, your family shall live.",
+      "basis": "interpreted",
+      "note": "The Lord's promise to Thomas B. Marsh about his family, applied to each listener",
+      "detail": {
+        "blessing": "your family will be preserved while you serve"
+      },
+      "paired_with": "c-24"
+    },
+    {
+      "id": "c-38",
+      "type": "christ",
+      "quote": "“Behold, … go from them only for a little time, and declare my word, and I will prepare a place for them.",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 31:6"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "promise",
+      "quote": "I will open the hearts of the people, and they will receive you.",
+      "basis": "interpreted",
+      "note": "The Lord's closing promise to a missionary, applied to each listener",
+      "detail": {
+        "blessing": "hearts opened to receive you"
+      },
+      "paired_with": "c-24"
+    },
+    {
+      "id": "c-40",
+      "type": "christ",
+      "quote": "And I will establish a church by your hand.",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 31:7"
+      }
+    }
+  ]
+}

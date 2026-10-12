@@ -1,0 +1,665 @@
+{
+  "id": "19christofferson",
+  "kind": "talk",
+  "speaker": "D. Todd Christofferson",
+  "role": "Second Counselor in the First Presidency",
+  "title": "O Be Wise",
+  "session": "Saturday Morning Session",
+  "order": 8,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/19christofferson?lang=eng",
+  "pronouns": {
+    "i": 12,
+    "we": 32,
+    "you": 21
+  },
+  "summary": "President Christofferson speaks plainly against gambling, which the smartphone has made constant, private and everywhere, especially through online sports betting, casino games and prediction markets that hit youth hardest. He uses President Hinckley's retelling of Calvin Coolidge (\"He was against it\"), Paul's warning about eating meat offered to idols, and President Oaks's \"opportunity cost\" to show that gambling harms others, takes something for nothing and leads away from Christ's giving path. He pleads with members to refrain from gambling even for fun, to use the time and money saved to do good, and, with Jacob, to \"be wise.\"",
+  "audience": {
+    "who": "All members, with particular concern for youth and young adults and for parents whose example others watch"
+  },
+  "arc": [
+    "scripture",
+    "story",
+    "quote",
+    "principle",
+    "list",
+    "principle",
+    "quote",
+    "quote",
+    "quote",
+    "invitation",
+    "scripture",
+    "principle",
+    "quote",
+    "invitation",
+    "scripture",
+    "promise",
+    "invitation"
+  ],
+  "orientation": {
+    "past": 0.2,
+    "present": 0.7,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Jacob 2:7–9",
+      "basis": "exact",
+      "ref": "Jacob 2:7–9",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "1 Corinthians 8:9–11",
+      "basis": "exact",
+      "ref": "1 Corinthians 8:9–11",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 108:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 108:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Matthew 22:39",
+      "basis": "exact",
+      "ref": "Matthew 22:39",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 58:27",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 58:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "3 Nephi 12:6",
+      "basis": "exact",
+      "ref": "3 Nephi 12:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Matthew 5:6",
+      "basis": "exact",
+      "ref": "Matthew 5:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Jacob 6:12",
+      "basis": "exact",
+      "ref": "Jacob 6:12",
+      "spoken": false
+    },
+    {
+      "id": "x-n2",
+      "type": "past_prophet",
+      "quote": "Gordon B. Hinckley, “Gambling,” Liahona, May 2005, 58.",
+      "basis": "exact",
+      "ref": "Gambling",
+      "note": "Cites President Gordon B. Hinckley on gambling (\"We are against it\")",
+      "detail": {
+        "who": "Gordon B. Hinckley"
+      }
+    },
+    {
+      "id": "x-n15",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Where Will This Lead?,” Liahona, May 2019, 60–61; see also Dallin H. Oaks, “Where Will It Lead?” (Brigham Young University devotional, Nov. 9, 2004), speeches.byu.edu.",
+      "basis": "exact",
+      "ref": "Where Will This Lead?",
+      "note": "Cites President Oaks on \"Where will this lead?\" and opportunity cost",
+      "detail": {
+        "source": "Where Will This Lead?, Apr. 2019"
+      }
+    },
+    {
+      "id": "x-n19",
+      "type": "prophet",
+      "quote": "Dallin H. Oaks, “Gambling—Morally Wrong and Politically Unwise,” Ensign, June 1987, 70; from an address given at a Ricks College devotional, Jan. 6, 1987, byui.edu/speeches; emphasis in original and added.",
+      "basis": "exact",
+      "ref": "Gambling—Morally Wrong and Politically Unwise",
+      "note": "Cites President Oaks's moral case against gambling",
+      "detail": {
+        "source": "Gambling—Morally Wrong and Politically Unwise, Ensign, June 1987"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "story",
+      "quote": "Today I feel a bit like the Book of Mormon prophet Jacob, when he felt compelled by the Spirit to address subjects that were not particularly edifying",
+      "basis": "interpreted",
+      "note": "Opens by likening himself to Jacob, compelled to speak boldly on an unpleasant subject",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jacob compelled to use boldness of speech"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "source",
+      "quote": "having to use “boldness of speech,” as he put it, instead of feasting on “the pleasing word of God.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Jacob (Book of Mormon prophet)"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "image",
+      "quote": "instead of feasting on “the pleasing word of God.”",
+      "basis": "interpreted",
+      "note": "The word of God as a feast, set against the hard word he must give",
+      "detail": {
+        "image": "feast",
+        "family": "body",
+        "carries": "some messages nourish; this one must warn"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "story",
+      "quote": "As Coolidge returned home from church one Sunday, his wife asked him what the preacher spoke about. He replied, “Sin.”",
+      "basis": "exact",
+      "detail": {
+        "story_type": "other",
+        "about": "Calvin Coolidge sums up a sermon on sin: \"He was against it\""
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "relationship",
+      "quote": "his wife asked him what the preacher spoke about",
+      "basis": "exact",
+      "detail": {
+        "who": "Calvin Coolidge's wife",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "source",
+      "quote": "“He was against it,” replied Coolidge.",
+      "basis": "exact",
+      "detail": {
+        "who": "Calvin Coolidge"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "source",
+      "quote": "“Well, what did he say?” she asked.",
+      "basis": "exact",
+      "detail": {
+        "who": "Grace Coolidge (Calvin Coolidge's wife)"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "revelation",
+      "quote": "I think I could answer the question concerning gambling just that briefly. We are against it.",
+      "basis": "interpreted",
+      "note": "Reads as the Church's settled position on gambling, restated by the First Presidency",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "image",
+      "quote": "The smartphone has transformed gambling from an occasional activity requiring a trip to a casino, racetrack, or lottery kiosk into an activity available continuously, privately, and almost anywhere.",
+      "basis": "interpreted",
+      "note": "The smartphone as the device that brings the casino everywhere",
+      "detail": {
+        "image": "smartphone",
+        "family": "other",
+        "carries": "gambling is now constant and private"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "The growth in worldwide gambling is primarily driven by three new online markets.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "online sports betting",
+          "online casino-type games (iGaming)",
+          "prediction markets"
+        ],
+        "purpose": "what is driving the growth in gambling"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "list",
+      "quote": "slot games, roulette, blackjack, poker, and so on",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "slot games",
+          "roulette",
+          "blackjack",
+          "poker"
+        ],
+        "purpose": "examples of online casino-type games"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "revelation",
+      "quote": "It could be tied to anything: interest rates, elections, sports, wildfires, or even, if you can imagine, the timing of the Second Coming. (Where would you go to collect on that bet?)",
+      "basis": "interpreted",
+      "note": "Reads as a wry warning that even the Second Coming is being wagered on",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "revelation",
+      "quote": "Youth and young adults are disproportionately affected.",
+      "basis": "interpreted",
+      "note": "Reads as a warning aimed at the rising generation",
+      "detail": {
+        "kind": "warning"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "list",
+      "quote": "impulsivity and peer influence are compounded by early exposure, easy online access, and intense marketing",
+      "basis": "interpreted",
+      "note": "Factors that make youth vulnerable",
+      "detail": {
+        "count": "5",
+        "items": [
+          "impulsivity",
+          "peer influence",
+          "early exposure",
+          "easy online access",
+          "intense marketing"
+        ],
+        "purpose": "why youth are especially exposed"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "list",
+      "quote": "It robs time from studies, relationships, and career development.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "studies",
+          "relationships",
+          "career development"
+        ],
+        "purpose": "what sports betting robs from young people"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "place",
+      "quote": "In the United States, 36 percent of boys age 11 to 17 reported gambling last year",
+      "basis": "exact",
+      "detail": {
+        "place": "United States",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "image",
+      "quote": "people know that in gambling the odds are stacked against them, and the house always wins",
+      "basis": "interpreted",
+      "note": "\"The house\" as the unbeatable opponent; returns in Coppins's \"beat the house\"",
+      "detail": {
+        "image": "the house (casino)",
+        "family": "building",
+        "carries": "the gambler always loses in the end"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "source",
+      "quote": "“It is the child of avarice—the brother of inequity—and father of mischief”",
+      "basis": "exact",
+      "detail": {
+        "who": "George Washington"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "image",
+      "quote": "“It is the child of avarice—the brother of inequity—and father of mischief”",
+      "basis": "interpreted",
+      "note": "Gambling pictured as a member of a family of vices",
+      "detail": {
+        "image": "family of vices (child, brother, father)",
+        "family": "other",
+        "carries": "gambling is born of greed and breeds more wrong"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "story",
+      "quote": "Earlier this year a prominent journalist wrote in The Atlantic magazine about his preplanned, monthslong experience with sports gambling.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "other",
+        "about": "a journalist's year of deliberate sports gambling"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "source",
+      "quote": "that small percentage becomes a very large number when tens of millions of [people] suddenly have casinos in their pockets.”",
+      "basis": "exact",
+      "detail": {
+        "who": "McKay Coppins, The Atlantic"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "tens of millions of [people] suddenly have casinos in their pockets",
+      "basis": "interpreted",
+      "note": "The phone as a pocket casino",
+      "detail": {
+        "image": "casino in the pocket",
+        "family": "building",
+        "carries": "gambling is now always within reach"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "source",
+      "quote": "“As a society, we are making an enormously risky bet: that we can reap the rewards of a runaway gambling industry without paying any price",
+      "basis": "exact",
+      "detail": {
+        "who": "McKay Coppins, The Atlantic"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "list",
+      "quote": "addiction and impoverishment, isolation and abuse, cheating and … corrosive idleness",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "addiction",
+          "impoverishment",
+          "isolation",
+          "abuse",
+          "cheating",
+          "corrosive idleness"
+        ],
+        "purpose": "the litany of social ills tied to gambling"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "invitation",
+      "quote": "What is the opportunity cost of gambling? What do you forgo in terms of money, time, relationships, and worthwhile pursuits? Where does it lead?",
+      "basis": "interpreted",
+      "note": "Questions asking listeners to weigh what gambling costs them",
+      "detail": {
+        "action": "weigh the opportunity cost of gambling"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "list",
+      "quote": "What do you forgo in terms of money, time, relationships, and worthwhile pursuits?",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "money",
+          "time",
+          "relationships",
+          "worthwhile pursuits"
+        ],
+        "purpose": "what gambling costs"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "invitation",
+      "quote": "But whether you are right about that or not, have you considered how your example might affect others?",
+      "basis": "interpreted",
+      "note": "A question inviting even the strong to consider their example",
+      "detail": {
+        "action": "consider how your example affects others"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "relationship",
+      "quote": "That would certainly be true for your children but also others that you may or may not know who are watching and learning from what they see in you.",
+      "basis": "interpreted",
+      "note": "Children named as those who learn from a parent's example",
+      "detail": {
+        "who": "the listener's children",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "The Apostle Paul noted in his day that someone with a firm belief in Christ could eat food sacrificed to idols without intending it as a sign of idol worship; it would just be a meal.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Paul on eating meat offered to idols and the weak brother"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "source",
+      "quote": "“Take heed,” he said, “lest by any means this liberty of yours become a stumblingblock to them that are weak.",
+      "basis": "exact",
+      "detail": {
+        "who": "the Apostle Paul"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "lest by any means this liberty of yours become a stumblingblock to them that are weak",
+      "basis": "interpreted",
+      "note": "One person's liberty as the block another trips over",
+      "detail": {
+        "image": "stumbling block",
+        "family": "path",
+        "carries": "your small freedom can make a weaker person fall"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "invitation",
+      "quote": "Since your recreational gambling may lead a weaker brother or sister into temptation, just don’t do it.",
+      "basis": "exact",
+      "detail": {
+        "action": "do not gamble, even recreationally"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "revelation",
+      "quote": "For us as Latter-day Saints, overarching all other concerns is the fact that gambling is morally wrong.",
+      "basis": "interpreted",
+      "note": "Reads as a plain First Presidency statement of moral position",
+      "detail": {
+        "kind": "direction"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "leads us away from the giving path of Christ and toward the taking path of the adversary",
+      "basis": "interpreted",
+      "note": "Two paths: giving (Christ) and taking (adversary)",
+      "detail": {
+        "image": "two paths",
+        "family": "path",
+        "carries": "gambling's taking spirit leads away from Christ"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "invitation",
+      "quote": "Today, I am pleading with all of us to live life on a higher plane.",
+      "basis": "exact",
+      "detail": {
+        "action": "live life on a higher plane"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "image",
+      "quote": "live life on a higher plane",
+      "basis": "interpreted",
+      "note": "A higher level of living, above taking at others' expense",
+      "detail": {
+        "image": "higher plane",
+        "family": "other",
+        "carries": "rise above something-for-nothing living"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "list",
+      "quote": "A key part of a life well-lived is contributing to the well-being of others. It is being productive in worthy endeavors. It is being and doing better without others doing worse.",
+      "basis": "interpreted",
+      "note": "Successive \"It is\" sentences describe a life well-lived",
+      "detail": {
+        "count": "4",
+        "items": [
+          "contributing to others' well-being",
+          "being productive in worthy endeavors",
+          "doing better without others doing worse",
+          "supporting and rewarding work over idle pursuits"
+        ],
+        "purpose": "what a life well-lived looks like"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "promise",
+      "quote": "Work leads to prosperous, just, and equitable societies.",
+      "basis": "interpreted",
+      "note": "Assures the outcome of work, set against gambling",
+      "detail": {
+        "blessing": "prosperous, just, equitable societies"
+      },
+      "paired_with": "c-35"
+    },
+    {
+      "id": "c-39",
+      "type": "invitation",
+      "quote": "my plea again is not only to refrain from gambling but to use the time and resources saved thereby for doing good",
+      "basis": "exact",
+      "detail": {
+        "action": "refrain from gambling and use the time and money saved to do good"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "christ",
+      "quote": "The Lord counsels us to “be anxiously engaged in a good cause, … and bring to pass much righteousness.”",
+      "basis": "interpreted",
+      "note": "The Lord speaking in D&C 58:27",
+      "detail": {
+        "where": "Doctrine and Covenants 58:27"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "name_of_christ",
+      "quote": "The Lord counsels us",
+      "basis": "interpreted",
+      "note": "\"The Lord\" as the speaker of D&C 58",
+      "detail": {
+        "name": "the Lord"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "christ",
+      "quote": "“blessed are all they who do hunger and thirst after righteousness, for they shall be filled with the Holy Ghost.”",
+      "basis": "exact",
+      "detail": {
+        "where": "3 Nephi 12:6"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "If we hunger and thirst after righteousness, there are many good things we will pursue",
+      "basis": "interpreted",
+      "note": "Spiritual appetite as hunger and thirst",
+      "detail": {
+        "image": "hunger and thirst",
+        "family": "body",
+        "carries": "desire for righteousness crowds out wrong pursuits"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "promise",
+      "quote": "If we hunger and thirst after righteousness, there are many good things we will pursue and other things that, because they are incompatible with righteousness, we will put out of our lives entirely.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "desire for good things and strength to put incompatible things out of our lives"
+      },
+      "paired_with": "c-39"
+    },
+    {
+      "id": "c-45",
+      "type": "invitation",
+      "quote": "I pray that you will not treat gambling lightly.",
+      "basis": "exact",
+      "detail": {
+        "action": "do not treat gambling lightly"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "source",
+      "quote": "“O be wise; what can I say more?”",
+      "basis": "exact",
+      "detail": {
+        "who": "Jacob (Book of Mormon prophet)"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "invitation",
+      "quote": "“O be wise; what can I say more?”",
+      "basis": "interpreted",
+      "note": "Closing plea in Jacob's words; also the talk's title",
+      "detail": {
+        "action": "be wise"
+      }
+    }
+  ]
+}

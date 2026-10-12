@@ -1,0 +1,796 @@
+{
+  "id": "16hathaway",
+  "kind": "talk",
+  "speaker": "Kevin J. Hathaway",
+  "role": "Of the Seventy",
+  "title": "Jesus Christ Is the Great Deliverer!",
+  "session": "Saturday Morning Session",
+  "order": 5,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/16hathaway?lang=eng",
+  "pronouns": {
+    "i": 15,
+    "we": 33,
+    "you": 6
+  },
+  "summary": "Elder Hathaway teaches that Jesus Christ, who suffered every kind of affliction, will surely deliver the righteous; the real question is how and when, not if. He gives a four-part pattern of deliverance (opposition, sincere seeking, enabling grace, deliverance in the Savior's time) and illustrates it with a freeway accident at the start of his mission and a missionary, Sister Kenzie Brinkerhoff, whose father died a week before she came home. He asks listeners to hold on through waiting, heed Christ's \"Be not afraid, only believe,\" and trust that deliverance will come, some of it now, some after long waiting, and some in the Resurrection.",
+  "audience": {
+    "who": "Anyone carrying an affliction and waiting for relief, especially grieving people",
+    "quote": "To Kenzie and all who wait for divine deliverance"
+  },
+  "arc": [
+    "principle",
+    "promise",
+    "story",
+    "list",
+    "scripture",
+    "principle",
+    "promise",
+    "story",
+    "principle",
+    "promise",
+    "testimony",
+    "scripture",
+    "quote",
+    "invitation",
+    "promise",
+    "list",
+    "invitation",
+    "scripture",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.35,
+    "present": 0.5,
+    "future": 0.15
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Mosiah 24:14–16",
+      "basis": "exact",
+      "ref": "Mosiah 24:14–16",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Alma 7:11–12",
+      "basis": "exact",
+      "ref": "Alma 7:11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "36:3, 27",
+      "basis": "exact",
+      "ref": "Alma 36:3, 27",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "1 Corinthians 15:21–22",
+      "basis": "exact",
+      "ref": "1 Corinthians 15:21–22",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "2 Nephi 9:6, 11–12",
+      "basis": "exact",
+      "ref": "2 Nephi 9:6, 11–12",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Alma 11:42–44",
+      "basis": "exact",
+      "ref": "Alma 11:42–44",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "2 Nephi 9:21–23",
+      "basis": "exact",
+      "ref": "2 Nephi 9:21–23",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Alma 7:13–14",
+      "basis": "exact",
+      "ref": "Alma 7:13–14",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Helaman 5:11",
+      "basis": "exact",
+      "ref": "Helaman 5:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Alma 7:11",
+      "basis": "exact",
+      "ref": "Alma 7:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "verse 12",
+      "basis": "exact",
+      "ref": "verse 12",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Mosiah 24:8–16",
+      "basis": "exact",
+      "ref": "Mosiah 24:8–16",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Alma 58:1–13",
+      "basis": "exact",
+      "ref": "Alma 58:1–13",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:1–8",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:1–8",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:1",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Alma 58:9",
+      "basis": "exact",
+      "ref": "Alma 58:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "Mosiah 24:10",
+      "basis": "exact",
+      "ref": "Mosiah 24:10",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Daniel 6:18",
+      "basis": "exact",
+      "ref": "Daniel 6:18",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Mosiah 24:13–16",
+      "basis": "exact",
+      "ref": "Mosiah 24:13–16",
+      "spoken": false
+    },
+    {
+      "id": "x-s20",
+      "type": "scripture",
+      "quote": "Alma 58:11",
+      "basis": "exact",
+      "ref": "Alma 58:11",
+      "spoken": false
+    },
+    {
+      "id": "x-s21",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s22",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 123:17",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 123:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s23",
+      "type": "scripture",
+      "quote": "2 Nephi 25:23",
+      "basis": "exact",
+      "ref": "2 Nephi 25:23",
+      "spoken": false
+    },
+    {
+      "id": "x-s24",
+      "type": "scripture",
+      "quote": "2 Nephi 2:2",
+      "basis": "exact",
+      "ref": "2 Nephi 2:2",
+      "spoken": false
+    },
+    {
+      "id": "x-s25",
+      "type": "scripture",
+      "quote": "Alma 36:27",
+      "basis": "exact",
+      "ref": "Alma 36:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s26",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 121:7–8",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 121:7–8",
+      "spoken": false
+    },
+    {
+      "id": "x-s27",
+      "type": "scripture",
+      "quote": "Mark 5:36",
+      "basis": "exact",
+      "ref": "Mark 5:36",
+      "spoken": false
+    },
+    {
+      "id": "x-s28",
+      "type": "scripture",
+      "quote": "Luke 8:50",
+      "basis": "exact",
+      "ref": "Luke 8:50",
+      "spoken": false
+    },
+    {
+      "id": "x-s29",
+      "type": "scripture",
+      "quote": "Mark 5:35–42",
+      "basis": "exact",
+      "ref": "Mark 5:35–42",
+      "spoken": false
+    },
+    {
+      "id": "x-s30",
+      "type": "scripture",
+      "quote": "Luke 8:49–55",
+      "basis": "exact",
+      "ref": "Luke 8:49–55",
+      "spoken": false
+    },
+    {
+      "id": "x-s31",
+      "type": "scripture",
+      "quote": "John 11:1–44",
+      "basis": "exact",
+      "ref": "John 11:1–44",
+      "spoken": false
+    },
+    {
+      "id": "x-s32",
+      "type": "scripture",
+      "quote": "Ezekiel 34:16",
+      "basis": "exact",
+      "ref": "Ezekiel 34:16",
+      "spoken": false
+    },
+    {
+      "id": "x-n17",
+      "type": "source",
+      "quote": "Patrick Kearon, “He Is Risen with Healing in His Wings: We Can Be More Than Conquerors,” Liahona, May 2022, 39.",
+      "basis": "exact",
+      "ref": "He Is Risen with Healing in His Wings: We Can Be More Than Conquerors",
+      "note": "Elder Patrick Kearon's witness that Jesus specializes in the seemingly impossible",
+      "detail": {
+        "who": "Patrick Kearon"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ is the Great Deliverer!",
+      "basis": "exact",
+      "detail": {
+        "name": "the Great Deliverer"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "list",
+      "quote": "Have you ever felt left out, wondered if you were enough, lost someone you loved, faced illness, experienced family difficulties, or carried a burden no one else could see?",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "feeling left out",
+          "wondering if you are enough",
+          "losing someone you love",
+          "illness",
+          "family difficulties",
+          "a burden no one else can see"
+        ],
+        "purpose": "afflictions of mortality Christ delivers from"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "image",
+      "quote": "carried a burden no one else could see",
+      "basis": "interpreted",
+      "note": "Hidden affliction pictured as an unseen burden",
+      "detail": {
+        "image": "burden",
+        "family": "body",
+        "carries": "private suffering others cannot see"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "promise",
+      "quote": "My message today is that Jesus Christ delivers the righteous from these and every other affliction of mortality.",
+      "basis": "interpreted",
+      "note": "Thesis stated as an assurance of deliverance",
+      "detail": {
+        "blessing": "deliverance from every affliction of mortality"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "promise",
+      "quote": "His deliverance is certain; the question for most righteous followers is not if He will deliver but how and when He will do so.",
+      "basis": "interpreted",
+      "note": "Assurance that deliverance is certain, only its timing varies",
+      "detail": {
+        "blessing": "certain deliverance"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "story",
+      "quote": "Our family experienced a sudden trial and the Lord’s deliverance as we drove in two cars to begin our service as mission leaders.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "semitruck tires strike the family's cars on the way to the mission field"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "image",
+      "quote": "we were left stranded on the roadside wondering why this had happened when we had left everything to serve the Lord",
+      "basis": "interpreted",
+      "note": "Stranded on the roadside as the picture of a trial mid-journey",
+      "detail": {
+        "image": "roadside",
+        "family": "path",
+        "carries": "trials can halt us even while serving"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "list",
+      "quote": "Opposition brings heartrending questions and emotions, sincere seeking invites assurances, Christ’s grace enables us to endure and grow, and deliverance comes in the Savior’s time and way.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "opposition brings questions and emotions",
+          "sincere seeking invites assurances",
+          "Christ's grace enables enduring and growth",
+          "deliverance in the Savior's time and way"
+        ],
+        "purpose": "scriptural pattern of divine deliverance"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "past_prophet",
+      "quote": "like Joseph Smith’s cry from Liberty Jail, “O God, where art thou?”",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "place",
+      "quote": "Joseph Smith’s cry from Liberty Jail",
+      "basis": "exact",
+      "detail": {
+        "place": "Liberty Jail, Missouri",
+        "country": "United States"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "story",
+      "quote": "the grief and fear felt by Helaman’s stripling warriors",
+      "basis": "interpreted",
+      "note": "Brief scripture reference used as an example of opposition",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Helaman's stripling warriors in grief and fear"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "image",
+      "quote": "they can create a sacred space where agency is activated and we choose whether to turn toward Jesus Christ",
+      "basis": "interpreted",
+      "note": "Hard questions as a sacred space for choosing Christ",
+      "detail": {
+        "image": "sacred space",
+        "family": "building",
+        "carries": "anguish can become a place of choosing Christ"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "list",
+      "quote": "Sincere seeking means turning toward Heavenly Father and Jesus Christ through heartfelt prayer, purposeful fasting, and scripture study.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "heartfelt prayer",
+          "purposeful fasting",
+          "scripture study"
+        ],
+        "purpose": "ways of sincere seeking"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "story",
+      "quote": "Alma’s people in bondage “began to cry mightily to God.”",
+      "basis": "interpreted",
+      "note": "Brief scripture example of sincere seeking",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Alma's people cry to God in bondage"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "story",
+      "quote": "King Darius fasted through the night as he waited for Daniel’s deliverance from the lions’ den.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Darius fasts while Daniel is in the lions' den"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "promise",
+      "quote": "As we humbly and patiently keep our covenants, the Savior will visit us in our afflictions and bring assurances of deliverance.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "the Savior visits us in affliction with assurances"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "story",
+      "quote": "Sister Kenzie Brinkerhoff was visited in her afflictions and given sacred assurances as well.",
+      "basis": "interpreted",
+      "note": "Mission president's account of a missionary whose father died a week before she came home",
+      "detail": {
+        "story_type": "missionary",
+        "about": "Sister Brinkerhoff's father dies in an accident just before her return"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "relationship",
+      "quote": "Heartbreakingly, while driving home from work that night, Kelly was in a vehicle accident and passed away.",
+      "basis": "exact",
+      "detail": {
+        "who": "Sister Brinkerhoff's father, Kelly",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "When my wife and I arrived soon after Kenzie received the news",
+      "basis": "exact",
+      "detail": {
+        "who": "wife",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "source",
+      "quote": "“President, how could this happen when I was one week away from hugging my dad?”",
+      "basis": "exact",
+      "detail": {
+        "who": "Sister Kenzie Brinkerhoff"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "source",
+      "quote": "“The past few weeks have been the most awful and the most sacred time in my life. I have never clung so tightly to my covenants. I know that Jesus knows what this feels like, and He will heal me.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Sister Kenzie Brinkerhoff"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "image",
+      "quote": "I have never clung so tightly to my covenants.",
+      "basis": "interpreted",
+      "note": "Covenants as something to grip in grief",
+      "detail": {
+        "image": "clinging",
+        "family": "body",
+        "carries": "covenants are a handhold in sorrow"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "past_prophet",
+      "quote": "“cheerfully do all things that lie in our power” and then “stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.”",
+      "basis": "interpreted",
+      "note": "Joseph Smith's words from Liberty Jail (D&C 123:17), not named in the text",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "image",
+      "quote": "for his arm to be revealed",
+      "basis": "interpreted",
+      "note": "God's arm as His saving power",
+      "detail": {
+        "image": "arm",
+        "family": "body",
+        "carries": "God's power to save, revealed in time"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "promise",
+      "quote": "it is an enabling power that allows us, after all we can do, to receive divine strength beyond our own and lay hold on eternal promises through Jesus Christ",
+      "basis": "interpreted",
+      "note": "Grace described as giving strength beyond our own",
+      "detail": {
+        "blessing": "divine strength beyond our own through grace"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "list",
+      "quote": "As Kenzie binds herself to Heavenly Father and Jesus Christ in prayer, obedience, and covenant keeping, They help her endure what she cannot bear alone.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "prayer",
+          "obedience",
+          "covenant keeping"
+        ],
+        "purpose": "how Kenzie binds herself to God"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "promise",
+      "quote": "That same enabling grace is available to all who turn to Jesus Christ.",
+      "basis": "interpreted",
+      "note": "Extends Kenzie's experience to everyone",
+      "detail": {
+        "blessing": "enabling grace for all who turn to Christ"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "promise",
+      "quote": "As we wait upon the Lord and exercise faith in Him, needed growth and spiritual stretching come, and the Savior delivers us from our afflictions and consecrates them for our gain.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "growth, deliverance, and afflictions consecrated for our gain"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "image",
+      "quote": "needed growth and spiritual stretching come",
+      "basis": "interpreted",
+      "note": "Waiting as stretching that produces growth",
+      "detail": {
+        "image": "stretching",
+        "family": "growth",
+        "carries": "waiting enlarges the soul"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "testimony",
+      "quote": "To Kenzie and all who wait for divine deliverance, I testify that the Lord is not delayed, distracted, or derelict in His deliverance.",
+      "basis": "exact",
+      "detail": {
+        "of": "the Lord is never late or inattentive in delivering"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "list",
+      "quote": "the Lord is not delayed, distracted, or derelict in His deliverance",
+      "basis": "interpreted",
+      "note": "Alliterative three-part list of what the Lord is not",
+      "detail": {
+        "count": "3",
+        "items": [
+          "delayed",
+          "distracted",
+          "derelict"
+        ],
+        "purpose": "what the Lord is not in delivering us"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "promise",
+      "quote": "He has not forgotten you. He does not take joy in your suffering.",
+      "basis": "interpreted",
+      "note": "Direct reassurance to those waiting",
+      "detail": {
+        "blessing": "God has not forgotten you"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "story",
+      "quote": "Surely, Jairus must have felt the time had passed and deliverance was impossible when he received news that his daughter had died.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Jesus raises Jairus's daughter"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "relationship",
+      "quote": "Jairus watched the Savior deliver his daughter from death",
+      "basis": "exact",
+      "detail": {
+        "who": "Jairus's daughter",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "christ",
+      "quote": "But Jesus said, “Be not afraid, only believe.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Mark 5:36"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "invitation",
+      "quote": "When deliverance feels impossible, remember Elder Patrick Kearon’s witness",
+      "basis": "exact",
+      "detail": {
+        "action": "remember that Jesus makes the impossible possible"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "invitation",
+      "quote": "To all who continue to face the pain, fear, and loneliness of life, I echo the Savior’s words: “Be not afraid, only believe.”",
+      "basis": "interpreted",
+      "note": "Christ's words to Jairus repeated as the speaker's invitation to sufferers",
+      "detail": {
+        "action": "do not fear; only believe"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "promise",
+      "quote": "In His time and way, Jesus Christ will deliver you.",
+      "basis": "exact",
+      "paired_with": "c-37",
+      "detail": {
+        "blessing": "deliverance in Christ's time and way"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "list",
+      "quote": "Some miracles are immediate, some come after long waiting, and some await the Resurrection.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "immediate",
+          "after long waiting",
+          "in the Resurrection"
+        ],
+        "purpose": "timings of deliverance"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "invitation",
+      "quote": "May we hear, believe, and act on our “great Deliv’rer’s” reassuring voice",
+      "basis": "exact",
+      "detail": {
+        "action": "hear, believe, and act on Christ's voice"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "source",
+      "quote": "our “great Deliv’rer’s” reassuring voice",
+      "basis": "interpreted",
+      "note": "Phrase from the hymn \"Israel, Israel, God Is Calling\" (note 19)",
+      "detail": {
+        "who": "hymn \"Israel, Israel, God Is Calling\""
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "christ",
+      "quote": "“I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick.”",
+      "basis": "interpreted",
+      "note": "The Lord's words in Ezekiel, presented as the Deliverer's voice",
+      "detail": {
+        "where": "Ezekiel 34:16"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "image",
+      "quote": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken",
+      "basis": "interpreted",
+      "note": "Shepherd gathering and binding up the flock",
+      "detail": {
+        "image": "shepherd and lost sheep",
+        "family": "other",
+        "carries": "Christ seeks, gathers, and heals the lost and broken"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "testimony",
+      "quote": "I testify that Jesus Christ is the Great Deliverer, now and forever, in the name of Jesus Christ, amen.",
+      "basis": "exact",
+      "detail": {
+        "of": "Jesus Christ as the Great Deliverer"
+      }
+    }
+  ]
+}

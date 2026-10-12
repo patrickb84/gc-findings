@@ -1,0 +1,673 @@
+{
+  "id": "14causse",
+  "kind": "talk",
+  "speaker": "Gérald Caussé",
+  "role": "Of the Quorum of the Twelve Apostles",
+  "title": "The Gift of Testimony",
+  "session": "Saturday Morning Session",
+  "order": 3,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/14causse?lang=eng",
+  "pronouns": {
+    "i": 58,
+    "we": 24,
+    "you": 31
+  },
+  "summary": "Elder Caussé teaches that bearing witness of Jesus Christ is not only the work of Apostles but a duty and privilege of every covenant disciple, and that testimony and love are twin gifts that strengthen each other. He frames it with D&C 68:6 coming to him when called as a Seventy and again at his first testimony as an Apostle, and with a niece whose two-sentence testimony at Young Women camp was enough. He invites everyone to look each day for chances, even a minute or two, to say \"I know\" as freely as \"I love you.\"",
+  "audience": {
+    "who": "All members, including those whose testimony is only beginning",
+    "quote": "Brothers and sisters"
+  },
+  "arc": [
+    "story",
+    "scripture",
+    "story",
+    "scripture",
+    "quote",
+    "principle",
+    "invitation",
+    "principle",
+    "invitation",
+    "promise",
+    "story",
+    "principle",
+    "scripture",
+    "promise",
+    "story",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.3,
+    "present": 0.6,
+    "future": 0.1
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 68:6",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 68:6",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Acts 1:8",
+      "basis": "exact",
+      "ref": "Acts 1:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 107:23",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 107:23",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "Matthew 18:16",
+      "basis": "exact",
+      "ref": "Matthew 18:16",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "2 Corinthians 13:1",
+      "basis": "exact",
+      "ref": "2 Corinthians 13:1",
+      "spoken": false
+    },
+    {
+      "id": "x-s6",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 6:28",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 6:28",
+      "spoken": false
+    },
+    {
+      "id": "x-s7",
+      "type": "scripture",
+      "quote": "Mosiah 18:9",
+      "basis": "exact",
+      "ref": "Mosiah 18:9",
+      "spoken": false
+    },
+    {
+      "id": "x-s8",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 46:8",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 46:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s9",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 46:13",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 46:13",
+      "spoken": false
+    },
+    {
+      "id": "x-s10",
+      "type": "scripture",
+      "quote": "Matthew 25:14‒30",
+      "basis": "exact",
+      "ref": "Matthew 25:14‒30",
+      "spoken": false
+    },
+    {
+      "id": "x-s11",
+      "type": "scripture",
+      "quote": "James 1:17",
+      "basis": "exact",
+      "ref": "James 1:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s12",
+      "type": "scripture",
+      "quote": "Moroni 7:13, 24, 47",
+      "basis": "exact",
+      "ref": "Moroni 7:13, 24, 47",
+      "spoken": false
+    },
+    {
+      "id": "x-s13",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 100:8",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 100:8",
+      "spoken": false
+    },
+    {
+      "id": "x-s14",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 1:23",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 1:23",
+      "spoken": false
+    },
+    {
+      "id": "x-s15",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 100:5‒8, 10",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 100:5‒8, 10",
+      "spoken": false
+    },
+    {
+      "id": "x-s16",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 62:3",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 62:3",
+      "spoken": false
+    },
+    {
+      "id": "x-s17",
+      "type": "scripture",
+      "quote": "84:61",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 84:61",
+      "spoken": false
+    },
+    {
+      "id": "x-s18",
+      "type": "scripture",
+      "quote": "Alma 36:17",
+      "basis": "exact",
+      "ref": "Alma 36:17",
+      "spoken": false
+    },
+    {
+      "id": "x-s19",
+      "type": "scripture",
+      "quote": "Moroni 10:18",
+      "basis": "exact",
+      "ref": "Moroni 10:18",
+      "spoken": false
+    },
+    {
+      "id": "x-n3",
+      "type": "past_prophet",
+      "quote": "Teachings of Presidents of the Church: Joseph Smith (2007), 49.",
+      "basis": "exact",
+      "ref": "Teachings of Presidents of the Church: Joseph Smith",
+      "note": "Cites the Prophet Joseph Smith on the testimony of the Apostles and Prophets",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "x-n14",
+      "type": "past_prophet",
+      "quote": "See Doctrine and Covenants 62:3; 84:61; Spencer W. Kimball, “It Becometh Every Man,” Ensign, Oct. 1977, 5.",
+      "basis": "exact",
+      "ref": "It Becometh Every Man",
+      "note": "Footnote cites President Spencer W. Kimball, \"It Becometh Every Man\"",
+      "detail": {
+        "who": "Spencer W. Kimball"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "story",
+      "quote": "Eighteen years ago, Valérie and I received a telephone call from President Thomas S. Monson, during which he called me to serve as a General Authority Seventy.",
+      "basis": "interpreted",
+      "note": "His call as a Seventy, then a prompted scripture in the Liahona the next morning",
+      "detail": {
+        "story_type": "personal",
+        "about": "called as a Seventy, he opens the Liahona and finds D&C 68:6"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "relationship",
+      "quote": "Valérie and I received a telephone call",
+      "basis": "interpreted",
+      "note": "Valérie is his wife",
+      "detail": {
+        "who": "wife, Valérie",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "past_prophet",
+      "quote": "a telephone call from President Thomas S. Monson",
+      "basis": "exact",
+      "detail": {
+        "who": "Thomas S. Monson"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "christ",
+      "quote": "“Be of good cheer, and do not fear, for I the Lord am with you, and will stand by you; and ye shall bear record of me, even Jesus Christ.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 68:6"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "story",
+      "quote": "I had just been called to serve as one of the Lord’s Apostles and was invited to join the First Presidency and the Twelve in their sacred meeting room.",
+      "basis": "interpreted",
+      "note": "His first testimony as a new Apostle, with D&C 68:6 returning",
+      "detail": {
+        "story_type": "personal",
+        "about": "bearing his first apostolic testimony before the First Presidency and the Twelve"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "prophet",
+      "quote": "President Dallin H. Oaks invited me to bear my testimony of Jesus Christ.",
+      "basis": "exact",
+      "detail": {
+        "source": "Caussé's first meeting with the First Presidency and the Twelve as an Apostle"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "name_of_christ",
+      "quote": "to bear witness of the Redeemer of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "the Redeemer of the world"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "christ",
+      "quote": "“Ye shall be witnesses unto me.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Acts 1:8"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "name_of_christ",
+      "quote": "divinely empowered witness of the living Christ",
+      "basis": "exact",
+      "detail": {
+        "name": "the living Christ"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "list",
+      "quote": "It grows through faith, earnest seeking, gospel living, and the quiet influence of the Holy Ghost.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "faith",
+          "earnest seeking",
+          "gospel living",
+          "the quiet influence of the Holy Ghost"
+        ],
+        "purpose": "how a testimony grows"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "invitation",
+      "quote": "Please trust it, nurture it, and bear it, because it is uniquely yours.",
+      "basis": "exact",
+      "detail": {
+        "action": "trust, nurture and bear your own testimony"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "image",
+      "quote": "Our testimony is not a talent to be hidden.",
+      "basis": "interpreted",
+      "note": "Parable of the talents (Matthew 25): testimony is not to be buried",
+      "detail": {
+        "image": "talent",
+        "family": "other",
+        "carries": "testimony is meant to be used and shared, not hidden"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "It is a gift to be shared—with grateful hearts and in a spirit of humility and love.",
+      "basis": "interpreted",
+      "note": "Testimony as a gift, the title image of the talk",
+      "detail": {
+        "image": "gift",
+        "family": "other",
+        "carries": "testimony is received from God and passed on to others"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "image",
+      "quote": "Testimony and love are deeply connected gifts that echo and strengthen one another.",
+      "basis": "interpreted",
+      "note": "Echo: saying \"I know\" and \"I love you\" answer each other",
+      "detail": {
+        "image": "echo",
+        "family": "other",
+        "carries": "testimony and love reinforce each other"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "name_of_christ",
+      "quote": "we bear witness of Him, the source of all perfect love",
+      "basis": "exact",
+      "detail": {
+        "name": "the source of all perfect love"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "invitation",
+      "quote": "I hope you will fill your lives, and the lives of others, with many heartfelt I knows—as I hope you already do with many I love yous.",
+      "basis": "interpreted",
+      "note": "Phrased as a hope: say \"I know\" as often as \"I love you\"",
+      "detail": {
+        "action": "say \"I know\" as often as \"I love you\""
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "promise",
+      "quote": "they will help create an environment where the Spirit of the Lord can dwell and bring joy to your hearts",
+      "basis": "exact",
+      "paired_with": "c-16",
+      "detail": {
+        "blessing": "a home and life where the Spirit dwells and brings joy"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "story",
+      "quote": "One of our nieces recently shared an experience from her youth.",
+      "basis": "interpreted",
+      "note": "A niece's two-sentence testimony at Young Women camp, and her mother's reassurance",
+      "detail": {
+        "story_type": "family",
+        "about": "a nervous niece bears a two-sentence testimony and her mother says that is all that matters"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "relationship",
+      "quote": "One of our nieces",
+      "basis": "exact",
+      "detail": {
+        "who": "niece",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "source",
+      "quote": "I was so nervous that I only managed to say two simple sentences: ‘I know that God loves me’ and ‘I know that God has a plan for me.’",
+      "basis": "exact",
+      "detail": {
+        "who": "his niece"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "relationship",
+      "quote": "I talked with my mom, and she asked, ‘Do you believe what you said?’",
+      "basis": "interpreted",
+      "note": "The niece's mother, his sister or sister-in-law",
+      "detail": {
+        "who": "niece's mother",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "source",
+      "quote": "‘Then that’s all that matters,’ she said.",
+      "basis": "exact",
+      "detail": {
+        "who": "the niece's mother"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "list",
+      "quote": "It need not be long, eloquent, or dramatic—it only needs to be true.",
+      "basis": "exact",
+      "detail": {
+        "count": "3",
+        "items": [
+          "long",
+          "eloquent",
+          "dramatic"
+        ],
+        "purpose": "what a testimony does not need to be"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "christ",
+      "quote": "“the Holy Ghost shall be shed forth in bearing record unto all things whatsoever ye shall say.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 100:8"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "christ",
+      "quote": "those whom He calls “the weak and the simple.”",
+      "basis": "exact",
+      "detail": {
+        "where": "Doctrine and Covenants 1:23"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "list",
+      "quote": "From Enoch and Moses to Joseph Smith, and to the more than 90,000 missionaries serving throughout the world today, the pattern is the same.",
+      "basis": "interpreted",
+      "note": "A chain of simple witnesses across history",
+      "detail": {
+        "count": "4",
+        "items": [
+          "Enoch",
+          "Moses",
+          "Joseph Smith",
+          "more than 90,000 missionaries today"
+        ],
+        "purpose": "humble witnesses whose testimony carried divine power"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "promise",
+      "quote": "As you share it freely, your own testimony will grow stronger.",
+      "basis": "exact",
+      "paired_with": "c-11",
+      "detail": {
+        "blessing": "a stronger testimony"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "promise",
+      "quote": "You will draw closer to the Lord and feel more deeply the power of His redemption.",
+      "basis": "exact",
+      "paired_with": "c-11",
+      "detail": {
+        "blessing": "nearness to the Lord and deeper feeling of His redemption"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "promise",
+      "quote": "In turn, you will become instruments in His hands to bless and minister to those around you.",
+      "basis": "exact",
+      "paired_with": "c-11",
+      "detail": {
+        "blessing": "becoming instruments in His hands to bless others"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "image",
+      "quote": "you will become instruments in His hands",
+      "basis": "interpreted",
+      "note": "The witness as a tool held by the Lord",
+      "detail": {
+        "image": "instrument in His hands",
+        "family": "body",
+        "carries": "the sharer is used by the Lord to bless others"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "story",
+      "quote": "At a moment of deep anguish, the young Alma remembered having “heard [his] father prophesy … concerning the coming of one Jesus Christ … to atone for the sins of the world.”",
+      "basis": "interpreted",
+      "note": "Alma the Younger remembers his father's testimony and repents",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Alma the Younger remembers his father's witness of Christ in his anguish"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "relationship",
+      "quote": "That remembered witness from his father became the spark of hope",
+      "basis": "interpreted",
+      "note": "Alma the Elder, as father whose witness is remembered",
+      "detail": {
+        "who": "Alma's father (Alma the Elder)",
+        "state": "unknown"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "image",
+      "quote": "became the spark of hope that led him to repent and completely change his life",
+      "basis": "interpreted",
+      "note": "A remembered testimony as a spark",
+      "detail": {
+        "image": "spark",
+        "family": "light",
+        "carries": "a witness once heard can later ignite hope and repentance"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "How many “Almas” are there around you waiting to hear your witness",
+      "basis": "interpreted",
+      "note": "Alma becomes a type for anyone who needs to hear a testimony",
+      "detail": {
+        "image": "Almas",
+        "family": "other",
+        "carries": "people near us may be waiting for our witness"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "invitation",
+      "quote": "If you have received the gift of a testimony—even if it is only the beginning of one—it is your duty and privilege to share it.",
+      "basis": "interpreted",
+      "note": "Phrased as duty: share your testimony, however new",
+      "detail": {
+        "action": "share your testimony, even a beginning one"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "invitation",
+      "quote": "I invite you to look each day for opportunities, as prompted by the Holy Ghost, to bear witness of Jesus Christ and His restored gospel—even if only for a minute or two.",
+      "basis": "exact",
+      "detail": {
+        "action": "look daily for chances to bear witness of Christ"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "promise",
+      "quote": "A brief and sincere expression of faith can make a profound difference",
+      "basis": "interpreted",
+      "note": "Assurance that even a short witness matters",
+      "paired_with": "c-36",
+      "detail": {
+        "blessing": "a profound difference from a brief witness"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "list",
+      "quote": "whether at home with your family, in testimony meetings, in ministering visits and missionary lessons, on social media, or in simple, everyday interactions with others",
+      "basis": "exact",
+      "detail": {
+        "count": "6",
+        "items": [
+          "at home with family",
+          "testimony meetings",
+          "ministering visits",
+          "missionary lessons",
+          "social media",
+          "everyday interactions"
+        ],
+        "purpose": "settings for bearing witness"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "source",
+      "quote": "“I love our Savior, Jesus Christ” or “The gospel brings joy to my heart.”",
+      "basis": "interpreted",
+      "note": "Sample phrases he offers as simple ways to testify",
+      "detail": {
+        "who": "model testimony phrases"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "promise",
+      "quote": "Countless lives would be blessed, faith would grow, and the love of Christ would spread more abundantly throughout the world.",
+      "basis": "interpreted",
+      "note": "Conditional on all disciples consistently sharing testimony",
+      "paired_with": "c-36",
+      "detail": {
+        "blessing": "lives blessed, faith growing, Christ's love spreading worldwide"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "testimony",
+      "quote": "I solemnly declare that we have a loving Heavenly Father and that His Son, Jesus Christ, is the Savior of the world and the source of “every good gift.”",
+      "basis": "exact",
+      "detail": {
+        "of": "a loving Heavenly Father and Jesus Christ as Savior of the world and source of every good gift"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "name_of_christ",
+      "quote": "Jesus Christ, is the Savior of the world",
+      "basis": "exact",
+      "detail": {
+        "name": "the Savior of the world"
+      }
+    }
+  ]
+}

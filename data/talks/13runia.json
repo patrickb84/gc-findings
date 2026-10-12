@@ -1,0 +1,714 @@
+{
+  "id": "13runia",
+  "kind": "talk",
+  "speaker": "Tamara W. Runia",
+  "role": "First Counselor in the Young Women General Presidency",
+  "title": "The Sculpting of Our Souls",
+  "session": "Saturday Morning Session",
+  "order": 2,
+  "url": "https://www.churchofjesuschrist.org/study/general-conference/2026/10/13runia?lang=eng",
+  "pronouns": {
+    "i": 61,
+    "we": 56,
+    "you": 26
+  },
+  "summary": "Sister Runia teaches that hard experience is how God shapes us to become like Him, so trials are not a detour from the path but give it purpose. She tells of her son Ryan's sudden death, her grandson Jaac's Lego talk about trusting the designer, and her brother's sculpting class where a master's hand carved what his could not. She asks listeners to choose Christ, trust Him without understanding everything, and invite Him to do the carving.",
+  "audience": {
+    "who": "Anyone in grief or hardship they cannot fix; all members",
+    "quote": "My friends"
+  },
+  "arc": [
+    "story",
+    "scripture",
+    "principle",
+    "quote",
+    "list",
+    "principle",
+    "scripture",
+    "testimony",
+    "story",
+    "principle",
+    "invitation",
+    "story",
+    "invitation",
+    "promise",
+    "testimony",
+    "story",
+    "invitation",
+    "promise",
+    "testimony"
+  ],
+  "orientation": {
+    "past": 0.25,
+    "present": 0.5,
+    "future": 0.25
+  },
+  "findings": [
+    {
+      "id": "x-s1",
+      "type": "scripture",
+      "quote": "Doctrine and Covenants 122:7",
+      "basis": "exact",
+      "ref": "Doctrine and Covenants 122:7",
+      "spoken": false
+    },
+    {
+      "id": "x-s2",
+      "type": "scripture",
+      "quote": "Galatians 3:27",
+      "basis": "exact",
+      "ref": "Galatians 3:27",
+      "spoken": false
+    },
+    {
+      "id": "x-s3",
+      "type": "scripture",
+      "quote": "Helaman 5:12",
+      "basis": "exact",
+      "ref": "Helaman 5:12",
+      "spoken": false
+    },
+    {
+      "id": "x-s4",
+      "type": "scripture",
+      "quote": "1 Nephi 11:16, 17",
+      "basis": "exact",
+      "ref": "1 Nephi 11:16, 17",
+      "spoken": false
+    },
+    {
+      "id": "x-s5",
+      "type": "scripture",
+      "quote": "1 John 3:2",
+      "basis": "exact",
+      "ref": "1 John 3:2",
+      "spoken": false
+    },
+    {
+      "id": "x-n6",
+      "type": "source",
+      "quote": "“Truly [God] loves us, and because He loves us, He neither compels nor abandons us. Rather He helps and guides us” (D. Todd Christofferson, “Free Forever, to Act for Themselves,” Liahona, Nov. 2014, 17). “In mortality, we can ‘come boldly’ to the Savior and receive compassion, healing, and help. Even while we suffer inexplicably, God can bless us in simple, ordinary, and significant ways. As we learn to recognize these blessings, our trust in God will increase” (Dale G. Renlund, “Infuriating Unfairness,” Liahona, May 2021, 43). See also Adam S. Miller, Letters to a Young Mormon (2014), 17–23.",
+      "basis": "exact",
+      "ref": "Free Forever, to Act for Themselves",
+      "note": "Cites Elders Christofferson and Renlund on God's love and help in suffering, plus Adam S. Miller",
+      "detail": {
+        "who": "D. Todd Christofferson; Dale G. Renlund; Adam S. Miller"
+      }
+    },
+    {
+      "id": "x-n7",
+      "type": "source",
+      "quote": "See Neal A. Maxwell, “Plow in Hope,” Liahona, July 2001, 72–74.",
+      "basis": "exact",
+      "ref": "Plow in Hope",
+      "note": "Cites Elder Neal A. Maxwell",
+      "detail": {
+        "who": "Neal A. Maxwell"
+      }
+    },
+    {
+      "id": "c-1",
+      "type": "image",
+      "quote": "If there’s a knot in a shoelace or a necklace, it’s my job to untangle it.",
+      "basis": "interpreted",
+      "note": "Opening self-portrait as a fixer; sets up what she cannot fix",
+      "detail": {
+        "image": "knot",
+        "family": "other",
+        "carries": "our urge to fix things, and the limits of it"
+      }
+    },
+    {
+      "id": "c-2",
+      "type": "story",
+      "quote": "Thirteen years ago our oldest son, Ryan, woke up on a Monday morning, kissed his wife and four young children goodbye, and left for work.",
+      "basis": "interpreted",
+      "note": "Her son's sudden death from an undetected heart condition",
+      "detail": {
+        "story_type": "family",
+        "about": "son Ryan dies suddenly, the day before his daughter's birthday"
+      }
+    },
+    {
+      "id": "c-3",
+      "type": "relationship",
+      "quote": "our oldest son, Ryan",
+      "basis": "exact",
+      "detail": {
+        "who": "oldest son",
+        "state": "deceased"
+      }
+    },
+    {
+      "id": "c-4",
+      "type": "relationship",
+      "quote": "his two-year-old daughter Piper’s birthday",
+      "basis": "exact",
+      "detail": {
+        "who": "granddaughter",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-5",
+      "type": "image",
+      "quote": "Let’s focus on a scripture that has changed the lens through which I view my life.",
+      "basis": "interpreted",
+      "note": "A scripture as a new lens for seeing life",
+      "detail": {
+        "image": "lens",
+        "family": "light",
+        "carries": "scripture changes how we see our trials"
+      }
+    },
+    {
+      "id": "c-6",
+      "type": "story",
+      "quote": "The setting is a jail cell, where Joseph Smith is pleading with God for a reprieve—for a break from his circumstance.",
+      "basis": "interpreted",
+      "note": "Joseph Smith in Liberty Jail",
+      "detail": {
+        "story_type": "church history",
+        "about": "Joseph Smith pleads for relief in jail and is told experience is for his good"
+      }
+    },
+    {
+      "id": "c-7",
+      "type": "christ",
+      "quote": "Instead, he was told, “All these things shall give thee experience, and shall be for thy good.”",
+      "basis": "interpreted",
+      "note": "The Lord's voice to Joseph Smith in D&C 122",
+      "detail": {
+        "where": "Doctrine and Covenants 122:7"
+      }
+    },
+    {
+      "id": "c-8",
+      "type": "past_prophet",
+      "quote": "I’ve often wondered if the Prophet had any idea when he received this revelation what these words would mean to so many of us now",
+      "basis": "exact",
+      "detail": {
+        "who": "Joseph Smith"
+      }
+    },
+    {
+      "id": "c-9",
+      "type": "image",
+      "quote": "We studied it there, and we’re living it here, in this laboratory of life.",
+      "basis": "interpreted",
+      "note": "Premortal classroom versus mortal laboratory",
+      "detail": {
+        "image": "classroom and laboratory",
+        "family": "other",
+        "carries": "lessons learned in theory before birth are learned by experience here"
+      }
+    },
+    {
+      "id": "c-10",
+      "type": "source",
+      "quote": "C. S. Lewis explained, “God intends to give us what we need, not what we now think we want.”",
+      "basis": "exact",
+      "detail": {
+        "who": "C. S. Lewis"
+      }
+    },
+    {
+      "id": "c-11",
+      "type": "source",
+      "quote": "I grew up hearing things like “If you keep the commandments, you’ll be blessed.",
+      "basis": "interpreted",
+      "note": "Familiar gospel sayings from her upbringing",
+      "detail": {
+        "who": "common sayings she grew up hearing"
+      }
+    },
+    {
+      "id": "c-12",
+      "type": "list",
+      "quote": "Follow the Word of Wisdom, and you’ll have health and protection.” True promises, right?",
+      "basis": "interpreted",
+      "note": "Three if-then promises she took as a shield from trials",
+      "detail": {
+        "count": "3",
+        "items": [
+          "keep the commandments, be blessed",
+          "pay tithing, windows of heaven open",
+          "keep the Word of Wisdom, health and protection"
+        ],
+        "purpose": "promises she grew up expecting would keep hardship away"
+      }
+    },
+    {
+      "id": "c-13",
+      "type": "image",
+      "quote": "So the gospel felt like a big umbrella I could hold over my head to keep the rain from falling on me.",
+      "basis": "interpreted",
+      "note": "The umbrella is the mistaken view she corrects",
+      "detail": {
+        "image": "umbrella",
+        "family": "other",
+        "carries": "the false idea that the gospel keeps trials away"
+      }
+    },
+    {
+      "id": "c-14",
+      "type": "image",
+      "quote": "But I’ve learned from experience that we’re all going to get rained on. And sometimes we’re going to get pelted!",
+      "basis": "interpreted",
+      "note": "Rain as trials that come to everyone",
+      "detail": {
+        "image": "rain",
+        "family": "water",
+        "carries": "everyone meets trials"
+      }
+    },
+    {
+      "id": "c-15",
+      "type": "image",
+      "quote": "The gospel isn’t the umbrella; it’s the solid rock we’re standing on during the storm",
+      "basis": "exact",
+      "detail": {
+        "image": "rock in a storm",
+        "family": "rock",
+        "carries": "the gospel holds us steady through trials, not out of them"
+      }
+    },
+    {
+      "id": "c-16",
+      "type": "story",
+      "quote": "When an angel asked Nephi, “Knowest thou the condescension of God?” he humbly answered,",
+      "basis": "interpreted",
+      "note": "Nephi knows God loves him without knowing all things",
+      "detail": {
+        "story_type": "scripture",
+        "about": "Nephi answers the angel: God loves His children, though Nephi does not know all things"
+      }
+    },
+    {
+      "id": "c-17",
+      "type": "image",
+      "quote": "It is precisely because He loves us that we’re having these tempering, refining experiences.",
+      "basis": "interpreted",
+      "note": "Metal tempered and refined by heat",
+      "detail": {
+        "image": "tempering and refining",
+        "family": "other",
+        "carries": "hard experience purifies and strengthens us"
+      }
+    },
+    {
+      "id": "c-18",
+      "type": "image",
+      "quote": "And a godlike life is carved from the very things that make it hard",
+      "basis": "interpreted",
+      "note": "First of the carving images that close the talk",
+      "detail": {
+        "image": "carving",
+        "family": "other",
+        "carries": "hardship is the material God shapes us from"
+      }
+    },
+    {
+      "id": "c-19",
+      "type": "testimony",
+      "quote": "I testify that during those sanctifying experiences, when growth is taking place and God is at work, our stories may not look like success to others.",
+      "basis": "exact",
+      "detail": {
+        "of": "God is at work in hard times even when it does not look like success"
+      }
+    },
+    {
+      "id": "c-20",
+      "type": "image",
+      "quote": "on the outside it may look like things are sort of unraveling or falling apart",
+      "basis": "interpreted",
+      "note": "Echoes the opening knot: what looks like unraveling is growth",
+      "detail": {
+        "image": "unraveling",
+        "family": "other",
+        "carries": "growth can look like coming apart"
+      }
+    },
+    {
+      "id": "c-21",
+      "type": "image",
+      "quote": "God is shaping us into something only He knows we can become.",
+      "basis": "interpreted",
+      "note": "A refrain, said twice in the talk",
+      "detail": {
+        "image": "shaping",
+        "family": "other",
+        "carries": "God forms us toward a self only He can see"
+      }
+    },
+    {
+      "id": "c-22",
+      "type": "story",
+      "quote": "When I spoke at Ryan’s funeral, I looked at his wife, Cari, and their four children with such a heavy heart",
+      "basis": "interpreted",
+      "note": "Her words at her son's funeral",
+      "detail": {
+        "story_type": "family",
+        "about": "at Ryan's funeral she says not understanding is not the same as not believing"
+      }
+    },
+    {
+      "id": "c-23",
+      "type": "relationship",
+      "quote": "his wife, Cari",
+      "basis": "exact",
+      "detail": {
+        "who": "daughter-in-law (widow of her son)",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-24",
+      "type": "testimony",
+      "quote": "I may not understand everything, but I absolutely believe God sees you, loves you, and knows your story",
+      "basis": "interpreted",
+      "note": "A witness phrased as belief",
+      "detail": {
+        "of": "God sees, loves and knows each person's story"
+      }
+    },
+    {
+      "id": "c-25",
+      "type": "list",
+      "quote": "a story that is both personal and purposeful!",
+      "basis": "exact",
+      "detail": {
+        "count": "2",
+        "items": [
+          "personal",
+          "purposeful"
+        ],
+        "purpose": "what each life story is"
+      }
+    },
+    {
+      "id": "c-26",
+      "type": "invitation",
+      "quote": "So you don’t need to look sideways and ask, “How come my life doesn’t look like theirs?”",
+      "basis": "interpreted",
+      "note": "Gentle invitation not to compare lives",
+      "detail": {
+        "action": "stop comparing your life to others"
+      }
+    },
+    {
+      "id": "c-27",
+      "type": "image",
+      "quote": "It’s not a detour from the path; it gives purpose to our path.",
+      "basis": "exact",
+      "detail": {
+        "image": "path and detour",
+        "family": "path",
+        "carries": "suffering is part of the way, not off it"
+      }
+    },
+    {
+      "id": "c-28",
+      "type": "promise",
+      "quote": "God is intimately aware of your experience and has a plan for all of it",
+      "basis": "interpreted",
+      "note": "Assurance rather than conditional promise",
+      "detail": {
+        "blessing": "God knows your experience and has a plan for it"
+      }
+    },
+    {
+      "id": "c-29",
+      "type": "story",
+      "quote": "At Ryan’s funeral, his oldest son, seven-year-old Jaac, shared a Primary talk he and his dad had worked on just two weeks earlier.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "grandson Jaac's Lego talk about following God's plan and trusting the designer"
+      }
+    },
+    {
+      "id": "c-30",
+      "type": "relationship",
+      "quote": "his oldest son, seven-year-old Jaac",
+      "basis": "exact",
+      "detail": {
+        "who": "grandson",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-31",
+      "type": "image",
+      "quote": "I love Lego bricks, and when I get a new box, I open it up and lay out all the pieces and follow the instructions.",
+      "basis": "interpreted",
+      "note": "Lego instructions as God's plan; building without the box picture",
+      "detail": {
+        "image": "Lego bricks and instructions",
+        "family": "building",
+        "carries": "follow God's plan even without seeing the finished picture"
+      }
+    },
+    {
+      "id": "c-32",
+      "type": "source",
+      "quote": "What would you do if you didn’t have the picture on the box, only the instructions? Would you still stick to the plan?",
+      "basis": "exact",
+      "detail": {
+        "who": "Cari (daughter-in-law)"
+      }
+    },
+    {
+      "id": "c-33",
+      "type": "source",
+      "quote": "He answered, “Yes, because you can trust the one who designed it, and it always turns out.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Jaac (grandson, age 7)"
+      }
+    },
+    {
+      "id": "c-34",
+      "type": "image",
+      "quote": "That sting is real, and that wound is wide.",
+      "basis": "interpreted",
+      "note": "Grief for a surrendered life story",
+      "detail": {
+        "image": "wound",
+        "family": "body",
+        "carries": "the real pain of losing the life you expected"
+      }
+    },
+    {
+      "id": "c-35",
+      "type": "image",
+      "quote": "It will take your finest faith in Christ to keep putting together the pieces—the ones that make sense but also the ones that don’t.",
+      "basis": "interpreted",
+      "note": "Extends the Lego image to life's broken pieces",
+      "detail": {
+        "image": "pieces",
+        "family": "building",
+        "carries": "faith keeps building with pieces we do not understand"
+      }
+    },
+    {
+      "id": "c-36",
+      "type": "invitation",
+      "quote": "Consider this: Christ’s work in your life and His love for you are bigger than your present story.",
+      "basis": "exact",
+      "detail": {
+        "action": "see Christ's work as bigger than your present story"
+      }
+    },
+    {
+      "id": "c-37",
+      "type": "promise",
+      "quote": "And He can fix what feels badly broken.",
+      "basis": "exact",
+      "paired_with": "c-36",
+      "detail": {
+        "blessing": "Christ can fix what feels broken"
+      }
+    },
+    {
+      "id": "c-38",
+      "type": "story",
+      "quote": "The day before Ryan died, he was set apart as the elders quorum president.",
+      "basis": "interpreted",
+      "note": "Ryan's counsel to an abandoned neighbor the day before he died",
+      "detail": {
+        "story_type": "family",
+        "about": "Ryan tells a deserted neighbor to turn to God and be healed"
+      }
+    },
+    {
+      "id": "c-39",
+      "type": "source",
+      "quote": "“Brother, you have a choice right now, and it’s a big one. You can curse God and blame Him, or you can turn to Him and let Him heal you.”",
+      "basis": "exact",
+      "detail": {
+        "who": "Ryan (her son)"
+      }
+    },
+    {
+      "id": "c-40",
+      "type": "invitation",
+      "quote": "We all have a choice right now. Let’s choose Christ,",
+      "basis": "exact",
+      "detail": {
+        "action": "choose Christ"
+      }
+    },
+    {
+      "id": "c-41",
+      "type": "promise",
+      "quote": "who can heal the wounds of this world while carving out room for joy!",
+      "basis": "interpreted",
+      "note": "The blessing attached to choosing Christ",
+      "paired_with": "c-40",
+      "detail": {
+        "blessing": "healing of wounds and room for joy"
+      }
+    },
+    {
+      "id": "c-42",
+      "type": "source",
+      "quote": "God is saying, “Trust me,” and we are learning how to say yes.",
+      "basis": "interpreted",
+      "note": "God's voice as she hears it, not a scripture quote",
+      "detail": {
+        "who": "God (as she hears Him)"
+      }
+    },
+    {
+      "id": "c-43",
+      "type": "testimony",
+      "quote": "With an earned conviction, I witness that this—all of this—is the true and only way we can grow and progress and become like our heavenly parents and Savior.",
+      "basis": "exact",
+      "detail": {
+        "of": "experience is the only way to become like heavenly parents and the Savior"
+      }
+    },
+    {
+      "id": "c-44",
+      "type": "image",
+      "quote": "it feels like a sort of divine mending that changes what’s happening to you into something happening for you!",
+      "basis": "interpreted",
+      "note": "Mending answers the opening fixer image",
+      "detail": {
+        "image": "mending",
+        "family": "other",
+        "carries": "God turns what happens to us into what happens for us"
+      }
+    },
+    {
+      "id": "c-45",
+      "type": "story",
+      "quote": "Let me leave this last visual image from a sculpting class my brother Kent took in college.",
+      "basis": "exact",
+      "detail": {
+        "story_type": "family",
+        "about": "her brother's clay self-bust comes to life only when the instructor carves it"
+      }
+    },
+    {
+      "id": "c-46",
+      "type": "relationship",
+      "quote": "my brother Kent",
+      "basis": "exact",
+      "detail": {
+        "who": "brother",
+        "state": "living"
+      }
+    },
+    {
+      "id": "c-47",
+      "type": "image",
+      "quote": "Our final assignment was to sculpt a bust of ourselves out of clay.",
+      "basis": "interpreted",
+      "note": "The clay self-portrait as the soul",
+      "detail": {
+        "image": "clay bust",
+        "family": "other",
+        "carries": "we cannot shape ourselves alone"
+      }
+    },
+    {
+      "id": "c-48",
+      "type": "source",
+      "quote": "As I stepped back and looked at the piece, I could see that it was uniquely me. And yet, without a doubt, a master’s hand had shaped what mine could not.",
+      "basis": "exact",
+      "detail": {
+        "who": "Kent Vincent Wood (her brother)"
+      }
+    },
+    {
+      "id": "c-49",
+      "type": "image",
+      "quote": "My friends, there is sculpting taking place within each of our souls.",
+      "basis": "interpreted",
+      "note": "The title image: Christ as sculptor of the soul",
+      "detail": {
+        "image": "sculpting",
+        "family": "other",
+        "carries": "the Savior shapes our souls through hard experience"
+      }
+    },
+    {
+      "id": "c-50",
+      "type": "invitation",
+      "quote": "To invite the Savior to become involved is hard. Our pride gets in the way.",
+      "basis": "interpreted",
+      "note": "Implied invitation: humble yourself and ask the Savior in",
+      "detail": {
+        "action": "invite the Savior to work in you"
+      }
+    },
+    {
+      "id": "c-51",
+      "type": "promise",
+      "quote": "But as time goes on, we will begin to see the work of His hand.",
+      "basis": "exact",
+      "paired_with": "c-50",
+      "detail": {
+        "blessing": "we will see His hand in what He carved"
+      }
+    },
+    {
+      "id": "c-52",
+      "type": "promise",
+      "quote": "And one day, when all the suffering and loneliness have ended and our pain is gone, we will be able to step back and look into the mirror of our own soul.",
+      "basis": "exact",
+      "detail": {
+        "blessing": "an end to suffering and a view of who we became"
+      }
+    },
+    {
+      "id": "c-53",
+      "type": "image",
+      "quote": "look into the mirror of our own soul",
+      "basis": "interpreted",
+      "note": "Echoes Kent stepping back to see his finished bust",
+      "detail": {
+        "image": "mirror",
+        "family": "other",
+        "carries": "one day we will see what God made of us"
+      }
+    },
+    {
+      "id": "c-54",
+      "type": "source",
+      "quote": "Then we will “stand all amazed” and feel to fall at the Savior’s feet and thank Him.",
+      "basis": "exact",
+      "detail": {
+        "who": "hymn \"I Stand All Amazed\""
+      }
+    },
+    {
+      "id": "c-55",
+      "type": "list",
+      "quote": "We will thank Him for all of it—the molding, the shaping, the pain, and the adversity that have helped us become more like Him.",
+      "basis": "exact",
+      "detail": {
+        "count": "4",
+        "items": [
+          "the molding",
+          "the shaping",
+          "the pain",
+          "the adversity"
+        ],
+        "purpose": "what we will thank Him for"
+      }
+    },
+    {
+      "id": "c-56",
+      "type": "testimony",
+      "quote": "I joyfully testify in the name of Jesus Christ, amen.",
+      "basis": "interpreted",
+      "note": "Closing witness through 1 John 3:2: we shall see Him and be like Him",
+      "detail": {
+        "of": "we shall see Christ as He is and be like Him"
+      }
+    }
+  ]
+}

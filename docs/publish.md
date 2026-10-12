@@ -24,6 +24,9 @@ Highlight and Index row ids are not stored in the map. Their `Highlight ID` and 
 - Databases and data sources (Talks, Highlights, Index, Scriptures): `notion-map.json` → `databases`.
 - Views: `notion-map.json` → `views`.
 - The "What I found" page: `notion-map.json` → `pages.whatIFound`.
+- The "To do" page: `notion-map.json` → `pages.todo`. Everything that needs Patrick (rows to delete, families to approve, decisions) goes here as a checkbox at the end of each run. Claude never ticks them.
+
+**When SQL queries are out of quota,** use `query_data_sources` in view mode on a saved view (it has no quota) and page through with `next_cursor`.
 
 ## Talks
 
@@ -127,6 +130,8 @@ One row per passage from `data/passages.json` (`pnpm scriptures`).
 **Re-publishing:**
 - Look a row up by `"Passage" = '<label>'` and update it in place.
 - A passage label can change when new talks merge two passages. When that happens, update the old row to the new label, and list labels with no row left in the run report. Don't delete rows.
+- Existing rows keep their Order. New rows get a fractional Order between their canon neighbours, so the table stays in canon order without renumbering every row.
+- Only rows whose properties changed since the last publish are updated, so compare against the commit that was last published.
 
 **Views:**
 

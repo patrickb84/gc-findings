@@ -31,7 +31,17 @@
     "talk:16hathaway": "3f77c7035fd6816eb88ae4f32586b9d8",
     "talk:17soares": "3f77c7035fd681a69d88ce71d48a036a",
     "talk:18douglas": "3f77c7035fd68122a1c1edf0cf7dd310",
-    "talk:19christofferson": "3f77c7035fd68155a494ca3c0aee196b"
+    "talk:19christofferson": "3f77c7035fd68155a494ca3c0aee196b",
+    "talk:21renlund": "3f77c7035fd681f0843cefa34d213477",
+    "talk:22farnes": "3f77c7035fd681f09153da81fc729886",
+    "talk:23chigbundu": "3f77c7035fd68114999ad476dc612530",
+    "talk:24giuffra": "3f77c7035fd681d2afacf2ed3a86f166",
+    "talk:25morgan": "3f77c7035fd681469498d8cf5e7bfbee",
+    "talk:26fale": "3f77c7035fd681f0a42fd86fffb7822e",
+    "talk:27kearon": "3f77c7035fd681788affc973e4d5bddd",
+    "talk:28dunn": "3f77c7035fd681b28d63fa5ddfafce8d",
+    "talk:29eyring": "3f77c7035fd681e0b8b1c2d4469c3ad0",
+    "talk:210rasband": "3f77c7035fd6810ab9e4d60454dbd50a"
   },
   "pages": {
     "whatIFound": "3f77c7035fd68146832fdf0420c4154a",
@@ -65,7 +75,17 @@
     "scriptures:Shared across talks": "3f77c703-5fd6-8136-a99f-000c8df75880",
     "scriptures:In canon order": "3f77c703-5fd6-8192-b254-000cd4416006",
     "scriptures:By chapter": "3f77c703-5fd6-8145-a9ee-000c9926a886",
-    "scriptures:Most cited": "3f77c703-5fd6-8198-84e0-000c22cad100"
+    "scriptures:Most cited": "3f77c703-5fd6-8198-84e0-000c22cad100",
+    "talk:21renlund:Highlights in this talk": "3f77c703-5fd6-810d-ac7b-000ced7f3bd0",
+    "talk:22farnes:Highlights in this talk": "3f77c703-5fd6-818a-be49-000c61cefaf7",
+    "talk:23chigbundu:Highlights in this talk": "3f77c703-5fd6-81fa-b130-000c4c841f8d",
+    "talk:24giuffra:Highlights in this talk": "3f77c703-5fd6-8186-8cdd-000c6da00920",
+    "talk:25morgan:Highlights in this talk": "3f77c703-5fd6-81ec-85ef-000c838ac95b",
+    "talk:26fale:Highlights in this talk": "3f77c703-5fd6-81f2-9a3d-000c7f793c8b",
+    "talk:27kearon:Highlights in this talk": "3f77c703-5fd6-81b7-b940-000c426ca93f",
+    "talk:28dunn:Highlights in this talk": "3f77c703-5fd6-81a4-a106-000c1422dc65",
+    "talk:29eyring:Highlights in this talk": "3f77c703-5fd6-813e-9998-000c14c2c1fd",
+    "talk:210rasband:Highlights in this talk": "3f77c703-5fd6-813e-a6f7-000ca403852f"
   },
   "rowKeys": {
     "findings": "Finding ID property (<talk>/<id>), unique",

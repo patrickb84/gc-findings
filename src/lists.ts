@@ -50,14 +50,18 @@ function repeatsTitle(it: ListItem): boolean {
   return bare(it.quote) === bare(it.thing);
 }
 
+// Each talk's lists get their own page under Lists, named title first, then speaker.
+export function listPageTitle(talk: TalkFile): string {
+  return `${talk.title} — ${[honorific(talk.role), talk.speaker].filter(Boolean).join(' ')}`;
+}
+
 export function renderTalkLists(talk: TalkFile, entry: TalkLists, talkPage: string): string {
   const lines = [
-    `### ${[honorific(talk.role), talk.speaker].filter(Boolean).join(' ')}: ${talk.title}`,
     `<mention-page url="${talkPage}"/> · [Read the talk](${talk.url})`,
     entry.brief,
   ];
   for (const l of entry.lists.filter((x) => !x.skip)) {
-    lines.push('**Principle**', l.principle);
+    lines.push(`**Principle:** ${l.principle}`);
     l.items.forEach((it, i) => {
       lines.push(`${i + 1}. **${it.thing}**`, `\t${it.description}`);
       if (!repeatsTitle(it)) lines.push(`\t> “${it.quote}”`);

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { checkLists, honorific, renderTalkLists, type ListsFile } from '../src/lists.ts';
+import { checkLists, honorific, listPageTitle, renderTalkLists, type ListsFile } from '../src/lists.ts';
 import type { Finding, TalkFile } from '../src/types.ts';
 
 const list = (id: string, items: string[]): Finding => ({
@@ -68,15 +68,19 @@ describe('honorific', () => {
   });
 });
 
+describe('listPageTitle', () => {
+  it('puts the talk title first, then the speaker', () => {
+    expect(listPageTitle(talk([]))).toBe('Covenant Belonging — Elder Gerrit W. Gong');
+  });
+});
+
 describe('renderTalkLists', () => {
-  it('writes the talk heading, links, brief, principle and numbered items with their quotes', () => {
+  it('writes the links, brief, inline principle and numbered items with their quotes', () => {
     const md = renderTalkLists(talk([]), good.a, 'https://app.notion.com/p/abc');
     expect(md).toBe([
-      '### Elder Gerrit W. Gong: Covenant Belonging',
       '<mention-page url="https://app.notion.com/p/abc"/> · [Read the talk](https://example.org/a)',
       'Elder Gong teaches about temples.',
-      '**Principle**',
-      'Bring a temple culture of your own.',
+      '**Principle:** Bring a temple culture of your own.',
       '1. **A dedication is a beginning**',
       '\tThe blessings start when we come.',
       '\t> “a temple dedication is a beginning”',
@@ -100,6 +104,6 @@ describe('renderTalkLists', () => {
 
   it('leaves skipped lists out', () => {
     const md = renderTalkLists(talk([]), { brief: 'b', lists: [{ finding: 'c-1', principle: '', items: [], skip: 'pair' }] }, 'u');
-    expect(md).not.toContain('**Principle**');
+    expect(md).not.toContain('**Principle:**');
   });
 });

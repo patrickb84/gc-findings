@@ -1,4 +1,4 @@
-import { quoteInText } from './quotes.ts';
+import { normalize, quoteInText } from './quotes.ts';
 import type { TalkFile } from './types.ts';
 
 // The Lists page: every list highlight, with the principle it serves and each item explained and quoted.
@@ -44,6 +44,12 @@ export function honorific(role: string): string {
   return '';
 }
 
+// "You are useless." under the title **You are useless** adds nothing, so the quote line is dropped.
+function repeatsTitle(it: ListItem): boolean {
+  const bare = (s: string) => normalize(s).replace(/[.,;:!?"']/g, '').replace(/^and /, '').trim();
+  return bare(it.quote) === bare(it.thing);
+}
+
 export function renderTalkLists(talk: TalkFile, entry: TalkLists, talkPage: string): string {
   const lines = [
     `### ${[honorific(talk.role), talk.speaker].filter(Boolean).join(' ')}: ${talk.title}`,
@@ -52,7 +58,10 @@ export function renderTalkLists(talk: TalkFile, entry: TalkLists, talkPage: stri
   ];
   for (const l of entry.lists.filter((x) => !x.skip)) {
     lines.push('**Principle**', l.principle);
-    l.items.forEach((it, i) => lines.push(`${i + 1}. **${it.thing}**`, `\t${it.description}`, `\t> “${it.quote}”`));
+    l.items.forEach((it, i) => {
+      lines.push(`${i + 1}. **${it.thing}**`, `\t${it.description}`);
+      if (!repeatsTitle(it)) lines.push(`\t> “${it.quote}”`);
+    });
   }
   return lines.join('\n');
 }

@@ -86,6 +86,18 @@ describe('renderTalkLists', () => {
     ].join('\n'));
   });
 
+  it('leaves out a quote that only repeats the item title', () => {
+    const echo = { brief: 'b', lists: [{ finding: 'c-1', principle: 'p', items: [
+      { thing: 'You are useless', description: 'Words that wound.', quote: 'You are useless.' },
+      { thing: 'Simon Peter', description: 'A fisherman.', quote: 'and Simon Peter' },
+      { thing: 'Seeing', description: 'Noticing someone.', quote: 'Seeing awakened compassion.' },
+    ] }] };
+    const md = renderTalkLists(talk([]), echo, 'u');
+    expect(md).not.toContain('“You are useless.”');
+    expect(md).not.toContain('“and Simon Peter”');
+    expect(md).toContain('\t> “Seeing awakened compassion.”');
+  });
+
   it('leaves skipped lists out', () => {
     const md = renderTalkLists(talk([]), { brief: 'b', lists: [{ finding: 'c-1', principle: '', items: [], skip: 'pair' }] }, 'u');
     expect(md).not.toContain('**Principle**');

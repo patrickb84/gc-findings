@@ -56,7 +56,13 @@ describe('checkTalk', () => {
 describe('checkDiscoveries', () => {
   it('flags evidence that points at a missing talk or finding', () => {
     const t = talk([{ id: 'c-1', type: 'promise', quote: 'it never fails', basis: 'interpreted', note: 'x' }]);
-    expect(checkDiscoveries([{ title: 'D', body: 'b', evidence: [{ talk: 't1', finding: 'c-1' }, { talk: 't1', finding: 'c-7' }, { talk: 't9', finding: 'c-1' }] }], { t1: t }))
+    expect(checkDiscoveries([{ section: 'Scripture', title: 'D', body: 'b', evidence: [{ talk: 't1', finding: 'c-1' }, { talk: 't1', finding: 'c-7' }, { talk: 't9', finding: 'c-1' }] }], { t1: t }))
       .toEqual(['"D": no finding t1/c-7', '"D": no finding t9/c-1']);
+  });
+
+  it('flags a discovery that names no section', () => {
+    const t = talk([{ id: 'c-1', type: 'promise', quote: 'it never fails', basis: 'interpreted', note: 'x' }]);
+    expect(checkDiscoveries([{ section: ' ', title: 'D', body: 'b', evidence: [{ talk: 't1', finding: 'c-1' }] }], { t1: t }))
+      .toEqual(['"D": no section']);
   });
 });

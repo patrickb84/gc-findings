@@ -72,6 +72,7 @@ export function checkTalk(talk: TalkFile, corpus: string): { kept: Finding[]; re
 export function checkDiscoveries(discoveries: Discovery[], talks: Record<string, TalkFile>): string[] {
   const errors: string[] = [];
   for (const d of discoveries) {
+    if (!d.section?.trim()) errors.push(`"${d.title}": no section`);
     for (const e of d.evidence) {
       if (!talks[e.talk]?.findings.some((f) => f.id === e.finding)) errors.push(`"${d.title}": no finding ${e.talk}/${e.finding}`);
     }
